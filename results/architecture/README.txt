@@ -8,7 +8,7 @@ The file contains each NLR gene of each of the 68 accessions/species (column 1).
 
 arc_freq_total.tsv
 
-The file contains each architecture that is found in one of the 68 accessions/species. For each architecture it reports the class, subclass, the number of accessions that have this architecture (eco_count), and the mean occurrence (mean_occ). 
+The file contains each architecture (collapsed and unsorted) that is found in one of the 68 accessions/species. For each architecture it reports the class, subclass, the number of accessions that have this architecture (eco_count), the mean occurrence (mean_occ), and the total occurrence summed up for all accessions (total_count). 
 
 arc_freq_per_accession.tsv
 
