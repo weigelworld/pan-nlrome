@@ -4,7 +4,7 @@ The File contains each domain in each NLR of each of the 68 accessions/species (
 
 NLRs.architectures.tsv
 
-The file contains each NLR gene of each of the 68 accessions/species (column 1). It reports the sorted domain list (column 2), the collapsed and unsorted domain list (column 3), and the class the NLR belongs to (column 4). 
+The file contains each NLR gene of each of the 68 accessions/species (column 1). It reports the sorted domain list (column 2), the collapsed and unsorted domain list (column 3), and the subclass the NLR belongs to (column 4). Column 5 is a summarized version of column4 (e.g. for T(N,L)X in col5, col4 contains TLX, TNLX, TNX, and TX). 
 
 arc_freq_total.tsv
 
