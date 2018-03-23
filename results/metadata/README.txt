@@ -1,4 +1,6 @@
-File transcript_based_metadata.tsv contains the following columns:
+# Explanation of metadata columns
+
+## File 'transcript_based_metadata.tsv':
 Transcript_ID
 Gene_ID
 Architecture: sorted domain list
@@ -37,3 +39,14 @@ TE_In_Introns: one or more TE(s) predicted in intron(s)
 TEs_2kb_Downstream: one or more TE(s) predicted in 2kb region downstream of gene
 TEs_2kb_Upstream: one or more TE(s) predicted in 2kb region upstream of gene
 
+## File 'orthogroup_based_metadata.tsv':
+idnew: Reinspected orthogroup ID
+idold: Original orthogroup ID
+status: orthogroup or singleton
+use: binary
+NLRs: number of NLRs contained
+majorclass: major NLR class
+majorsubclass: major NLR subclass
+pairs: number of genes that are in pairs
+putpairs: number of genes that are in putative pairs
+IDs: number of genes with integrated domains
