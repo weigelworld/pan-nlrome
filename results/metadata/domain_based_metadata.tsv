@@ -1,42 +1,42 @@
-Domain_ID	size	pair_putpair_size	pair_putpair_ratio	Araport11	Genus	Tribe	Brassicaceae	Order
-NB	10551	1640	.155435	1	1	1	1	1
-TIR	8215	1204	.146561	1	1	1	1	1
-LRR	6795	1202	.176894	1	1	1	1	1
-Coil	2032	122	.060039	1	1	1	1	1
-RPW8	842	0	-	1	1	1	1	1
-PF03106	172	156	.906976	1	1	1	1	1
-PF14299	105	0	-	1	1	1	1	1
-PF12315	87	24	.275862	1	1	1	1	1
-PF00412	86	24	.279069	1	1	1	1	1
-PF00069	76	65	.855263	1	1	1	1	1
-PF04548	45	44	.977777	1	1	1	1	1
-PF04859	45	0	-	1	1	1	1	1
-PF08381	45	0	-	1	1	1	1	1
-PF02671	43	36	.837209	1	1	1	1	1
-PF00635	38	0	-	1	1	1	1	1
-PF00642	19	18	.947368	0	0	0	1	1
-PF03634	16	15	.937500	0	0	0	1	1
-PF04852	16	0	-	0	0	1	1	1
-PF02362	15	14	.933333	0	0	1	1	1
-PF05553	15	14	.933333	0	1	1	1	1
-PF06552	10	0	-	0	0	0	0	0
-PF07887	10	8	.800000	0	1	1	1	1
-PF06984	9	0	-	0	0	0	0	0
-PF14223	8	0	-	0	1	1	1	1
-PF07714	7	6	.857142	0	0	0	1	1
-PF13442	7	7	1.000000	0	1	1	1	1
-PF01451	6	0	-	0	0	0	0	0
-PF13041	3	0	-	0	1	1	1	1
-PF00004	2	0	-	0	1	1	1	1
-PF01535	2	0	-	0	1	1	1	1
-PF03501	2	0	-	0	0	0	1	1
-PF06026	2	0	-	0	1	1	1	1
-PF00170	1	0	-	0	0	0	0	0
-PF00380	1	0	-	0	0	0	1	1
-PF00743	1	0	-	0	1	1	1	1
-PF01434	1	0	-	0	0	0	0	0
-PF01485	1	0	-	0	0	0	0	0
-PF03637	1	0	-	0	1	1	1	1
-PF04864	1	0	-	0	0	0	0	0
-PF08268	1	0	-	0	0	0	1	1
-PF14363	1	0	-	0	1	1	1	1
+Domain_ID	Pfam_identifier	Pfam_description	Interpro_entry	ID	Size	Pair/Putpair_Size	Pair/Putpair_Ratio	Araport11_NLRs	Araport11_Architectures	Araport11	Brassicaceae_NLRs	Brassicaceae_Architectures	Brassicaceae	At-panNLRome_NLRs	At-panNLRome_Architectures	At-panNLRome	Kroj_et_al._Table_S3	Sarris_et_al._TableS14_RightP_lt_0.01
+PF00931	NB-ARC	NB-ARC domain	IPR002182	0	10551	1640	0.155435	167	16	1	4504	270	1	10551	80	1	0	0
+PF01582	TIR	TIR domain	IPR000157	0	8215	1204	0.146561	134	10	1	3492	199	1	8215	53	1	0	0
+PF00560|PF07725|PF13306|PF13855	LRR	Leucine Rich Repeats	IPR001611|IPR011713|IPR026906	0	6795	1202	0.176894	106	9	1	2233	155	1	6795	52	1	0	0
+Coil			NA	0	2032	122	0.060039	36	7	1	825	70	1	2032	28	1	0	0
+PF05659	RPW8	Arabidopsis broad-spectrum mildew resistance protein RPW8	IPR008808	0	842	0	0	11	4	1	284	19	1	842	11	1	1	0
+PF03106	WRKY	WRKY DNA -binding domain	IPR003657	1	172	156	0.906976	3	2	1	15	8	1	172	14	1	1	1
+PF14299	PP2	Phloem protein 2	IPR025886	1	105	0	0	4	1	1	77	4	1	105	1	1	1	1
+PF12315	DA1-like	Protein DA1	IPR022087	1	87	24	0.275862	2	2	1	12	6	1	87	9	1	0	0
+PF00412	LIM	LIM domain	IPR001781	1	86	24	0.279069	2	2	1	11	5	1	86	8	1	0	1
+PF00069	Pkinase	Protein kinase domain	IPR000719	1	76	65	0.855263	1	1	1	13	9	1	76	8	1	1	1
+PF04548	AIG1	AIG1 family	IPR006703	1	45	44	0.977777	1	1	1	4	3	1	45	5	1	0	0
+PF04859	DUF641	Plant protein of unknown function (DUF641)	IPR006943	1	45	0	0	1	1	1	0	0	0	45	2	1	0	0
+PF08381	BRX	Transcription factor regulating root and shoot growth via Pin3	IPR013591	1	45	0	0	1	1	1	7	3	1	45	2	1	0	1
+PF02671	PAH	Paired amphipathic helix repeat	IPR003822	1	43	36	0.837209	1	1	1	2	2	1	43	4	1	1	1
+PF00635	Motile_Sperm	MSP (Major sperm protein) domain	IPR000535	1	38	0	0	1	1	1	0	0	0	38	1	1	0	0
+PF00642	zf-CCCH	Zinc finger C-x8-C-x5-C-x3-H type (and similar)	IPR000571	1	19	18	0.947368	0	0	0	19	4	1	19	4	1	0	1
+PF03634	TCP	TCP family transcription factor	IPR005333	1	16	15	0.9375	0	0	0	4	3	1	16	3	1	0	0
+PF04852	DUF640	Protein of unknown function (DUF640)	IPR006936	1	16	0	0	0	0	0	3	3	1	16	1	1	1	1
+PF02362	B3	B3 DNA binding domain	IPR003340	1	15	14	0.933333	0	0	0	28	11	1	15	3	1	1	1
+PF05553	DUF761	Cotton fibre expressed protein	IPR008480	1	15	14	0.933333	0	0	0	3	2	1	15	3	1	0	1
+PF06552	TOM20_plant	Plant specific mitochondrial import receptor subunit TOM20	IPR010547	1	10	0	0	0	0	0	0	0	0	10	5	1	0	0
+PF07887	Calmodulin_bind	Calmodulin binding protein-like	IPR012416	1	10	8	0.8	0	0	0	16	8	1	10	1	1	0	1
+PF06984	MRP-L47	Mitochondrial 39-S ribosomal protein L47 (MRP-L47)	IPR010729	1	9	0	0	0	0	0	0	0	0	9	1	1	0	0
+PF14223	Retrotran_gag_2	gag-polypeptide of LTR copia-type	NA	1	8	0	0	0	0	0	9	9	1	8	1	1	0	0
+PF07714	Pkinase_Tyr	Protein tyrosine kinase	IPR001245	1	7	6	0.857142	0	0	0	3	3	1	7	4	1	1	1
+PF13442	Cytochrome_CBB3	Cytochrome C oxidase, cbb3-type, subunit III 	IPR009056	1	7	7	1	0	0	0	2	2	1	7	1	1	0	0
+PF01451	LMWPc	Low molecular weight phosphotyrosine protein phosphatase	IPR023485	1	6	0	0	0	0	0	0	0	0	6	3	1	0	0
+PF13041	PPR_2	PPR repeat family 	IPR002885	1	3	0	0	0	0	0	11	9	1	3	2	1	1	1
+PF00004	AAA	ATPase family associated with various cellular activities (AAA)	IPR003959	1	2	0	0	0	0	0	13	5	1	2	2	1	0	0
+PF01535	PPR	PPR repeat	IPR002885	1	2	0	0	0	0	0	12	10	1	2	1	1	1	0
+PF03501	S10_plectin	Plectin/S10 domain	IPR005326	1	2	0	0	0	0	0	2	2	1	2	1	1	0	0
+PF06026	Rib_5-P_isom_A	Ribose 5-phosphate isomerase A (phosphoriboisomerase A)	IPR004788	1	2	0	0	0	0	0	4	3	1	2	1	1	0	0
+PF00170	bZIP_1	bZIP transcription factor	IPR004827	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0
+PF00380	Ribosomal_S9	Ribosomal protein S9/S16	IPR000754	1	1	0	0	0	0	0	2	2	1	1	1	1	0	0
+PF00743	FMO-like	Flavin-binding monooxygenase-like	IPR020946	1	1	0	0	0	0	0	4	2	1	1	1	1	0	0
+PF01434	Peptidase_M41	Peptidase family M41	IPR000642	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0
+PF01485	IBR	IBR domain, a half RING-finger domain	IPR002867	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0
+PF03637	Mob1_phocein	Mob1/phocein family	IPR005301	1	1	0	0	0	0	0	1	1	1	1	1	1	0	1
+PF04864	Alliinase_C	Allinase	IPR006948	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1
+PF08268	FBA_3	F-box associated domain	IPR013187	1	1	0	0	0	0	0	2	2	1	1	1	1	0	0
+PF14363	AAA_assoc	Domain associated at C-terminal with AAA	IPR025753	1	1	0	0	0	0	0	7	1	1	1	1	1	0	0

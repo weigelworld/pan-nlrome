@@ -54,11 +54,10 @@
 ## File 'architecture_based_metadata.tsv'
 summarizes domain-architecture based stats and dataset analysis intersections. Below is a brief description of each column content
 
-
-- Collapsed_Arch: 97 collapsed architectures sorted by reverse size
+- Collapsed_Arch: 97 collapsed architectures reverse sorted by the number of NLRs
 - Size: Number of transcripts in each collapsed architecture
-- Size_ratio: Relative size compared to the total number of NLRs (13,160; excl\. renseq-6909, ALYR and CRUB)
-- Arch_Type: Architectures containing any combination of Coil/TIR/RPW8/NB/LRR are canonical\. Architectures containing any other domain are noncanonical
+- Size_ratio: Relative size compared to the total number of NLRs (total: 13160; excludes: renseq-6909, ALYR and CRUB)
+- Arch_Type: Architectures containing any combination of Coil/TIR/RPW8/NB/LRR are canonical. Architectures containing any other domain are noncanonical
 - ArchType_ratio: Relative size compared to the number of transcript in the correspondent Arch_Type (canonical: 12,496; noncanonical: 664; excl. renseq-6909, ALYR and CRUB)
 - Transcript: List of transcript identifiers
 - Subclass: Higher-order domain categories in which each domain architecture is included
@@ -70,21 +69,30 @@ summarizes domain-architecture based stats and dataset analysis intersections. B
 - Number_different_OGs: Number of different orthogroups to which trnscripts with the same collapsed architecture were assigned to
 - transcripts_assigned_to_refinedOGs: Number of transcripts assigned to Refined Orthogroups
 - Number_different_refinedOGs: Number of different refined orthogroups to which trnscripts with the same collapsed architecture were assigned to
-- Collapsed_Arch_in_Col-0: Architectures detected in Araport11 NLRs (1), not detected (0)
-- Collapsed_Arch_in_Genus: Architectures detected in Arabidopsis halleri and Arabidopsis lyrata (1); not detected (0)
-- Collapsed_Arch_in_Tribe: Architectures detected in Arabidopsis halleri, Arabidopsis lyrata, Camelina sativa, Capsella grandiflora and Capsella rubella (1), not detected (0)
-- Collapsed_Arch_in_Family: Architectures detected in Arabidopsis halleri, Arabidopsis lyrata, Camelina sativa, Capsella grandiflora, Capsella rubella, Leavenworthia alabamica, Aethionema arabicum, Thellungiella parvula, Arabis alpina, Sisymbrium irio, Thellungiella halophila, Thellungiella salsuginea, Raphanus sativus, Brassica rapa, Brassica nigra, Brassica napus, Brassica juncea and Brassica oleracea (1), not detected (0)
-- Collapsed_Arch_in_Order: Architectures detected in Arabidopsis halleri, Arabidopsis lyrata, Camelina sativa, Capsella grandiflora, Capsella rubella, Leavenworthia alabamica, Aethionema arabicum, Thellungiella parvula, Arabis alpina, Sisymbrium irio, Thellungiella halophila, Thellungiella salsuginea, Raphanus sativus, Brassica rapa, Brassica nigra, Brassica napus, Brassica juncea, Brassica oleracea, Tarenaya hassleriana and Carica papaya (1), not detected (0)
+- Collapsed_Arch_in_Family: (1) Collapsed Architectures detected in Arabidopsis halleri, Arabidopsis lyrata, Camelina sativa, Capsella grandiflora, Capsella rubella, Leavenworthia alabamica, Aethionema arabicum, Thellungiella parvula, Arabis alpina, Sisymbrium irio, Thellungiella halophila, Thellungiella salsuginea, Raphanus sativus, Brassica rapa, Brassica nigra, Brassica napus, Brassica juncea and Brassica oleracea. (0) not detected
+
 
 ## File 'domain_based_metadata.tsv'
 summarizes domain-based stats and dataset analysis intersections\. Below is a brief description of each column content\.
 
-- Domain_ID: 41 domains sorted by revserse size (excl. renseq-6909, ALYR and CRUB)
-- size: Number of transcripts featuring the domain
-- pair_putpair_size: Number of transcripts flagged as pair or putpair
-- pair_putpair_ratio: Relative size of paired/putpaired genes compared to the total number of genes (13,160; excl. renseq-6909, ALYR and CRUB)
-- Col-0: Domain detected in Araport11 NLRs (1), not detected (0)
-- Genus: Domain detected in Arabidopsis halleri and Arabidopsis lyrata (1); not detected (0)
-- Tribe: Domain detected in Arabidopsis halleri, Arabidopsis lyrata, Camelina sativa, Capsella grandiflora and Capsella rubella (1), not detected (0)
-- Family: Domain detected in Arabidopsis halleri, Arabidopsis lyrata, Camelina sativa, Capsella grandiflora, Capsella rubella, Leavenworthia alabamica, Aethionema arabicum, Thellungiella parvula, Arabis alpina, Sisymbrium irio, Thellungiella halophila, Thellungiella salsuginea, Raphanus sativus, Brassica rapa, Brassica nigra, Brassica napus, Brassica juncea and Brassica oleracea (1), not detected (0)
-- Order: Domain detected in Arabidopsis halleri, Arabidopsis lyrata, Camelina sativa, Capsella grandiflora, Capsella rubella, Leavenworthia alabamica, Aethionema arabicum, Thellungiella parvula, Arabis alpina, Sisymbrium irio, Thellungiella halophila, Thellungiella salsuginea, Raphanus sativus, Brassica rapa, Brassica nigra, Brassica napus, Brassica juncea, Brassica oleracea, Tarenaya hassleriana and Carica papaya (1), not detected (0)
+- Domain_ID: Pfam-A domain accessions reverse sorted by the number of NLRs. NB=PF00931, TIR=PF01582, LRR=(PF00560|PF07725|PF13306|PF13855) and RPW8=PF05659. Coil is not a Pfam 
+domain and was obtained from majority vote of three Coiled-coils predictors
+- Pfam_identifier: Pfam-A domain identifiers mapped from Pfam-A.clans.tsv (ftp://ftp.ebi.ac.uk/pub/databases/Pfam/current_release)
+- Pfam_description: Pfam-A domain descriptions mapped from Pfam-A.clans.tsv (ftp://ftp.ebi.ac.uk/pub/databases/Pfam/current_release)
+- Interpro_entry: InterPro accession.
+- ID: Presence/absence of Integrated domains. (1) Present; (0) Absent.
+- Size: Number of transcripts
+- Pair/Putpair_Size: Number of transcript flagged as pair or putpair.
+- Pair/Putpair_Ratio: Relative size of paired/putpaired genes compared to the total number of genes (13160; excl. renseq-6909, ALYR and CRUB).
+- Araport11_NLRs: Number of NLR-coding genes with the corresponding domain in the reference TAIR10/Araport11 Col-0 annotation
+- Araport11_Architectures: Number of Collapsed architectures with the corresponding domain in the reference TAIR10/Araport11 Col-0 annotation
+- Araport11: Presence/absence in the reference TAIR10/Araport11 Col-0 annotation. (1) Present; (0) Absent.
+- Brassicaceae_NLRs: Number of NLR-coding genes with the corresponding domain in Arabidopsis halleri, Arabidopsis lyrata, Camelina sativa, Capsella grandiflora, Capsella 
+rubella, Leavenworthia alabamica, Aethionema arabicum, Thellungiella parvula, Arabis alpina, Sisymbrium irio, Thellungiella halophila, Thellungiella salsuginea, Raphanus sativus, Brassica rapa, Brassica nigra, Brassica napus, Brassica juncea and Brassica oleracea.
+- Brassicaceae_Architectures: Number of Collapsed architectures with the corresponding domain in Arabidopsis halleri, Arabidopsis lyrata, Camelina sativa, Capsella grandiflora, Capsella rubella, Leavenworthia alabamica, Aethionema arabicum, Thellungiella parvula, Arabis alpina, Sisymbrium irio, Thellungiella halophila, Thellungiella salsuginea, Raphanus sativus, Brassica rapa, Brassica nigra, Brassica napus, Brassica juncea and Brassica oleracea.
+- Brassicaceae: Presence/absence in Arabidopsis halleri, Arabidopsis lyrata, Camelina sativa, Capsella grandiflora, Capsella rubella, Leavenworthia alabamica, Aethionema arabicum, Thellungiella parvula, Arabis alpina, Sisymbrium irio, Thellungiella halophila, Thellungiella salsuginea, Raphanus sativus, Brassica rapa, Brassica nigra, Brassica napus, Brassica juncea and Brassica oleracea. (1) Present; (0) Absent.
+- At-panNLRome_NLRs: Number of NLR-coding genes with the corresponding domain in the 65 Arabidopsis thaliana-panNLR'ome accessions
+- At-panNLRome_Architectures: Number of collapsed architectures with the corresponding domain in the 65 Arabidopsis thaliana-panNLR'ome accessions
+- At-panNLRome: Presence/absence in the 65 Arabidopsis thaliana-panNLR'ome accessions. (1) Present; (0) Absent.
+- Kroj_et_al._Table_S3: Putative integrated decoy in at least one genome from Kroj et al. New Phytologist 2016. (1) Significant enrichment in NLRs; (0) Not significant
+Sarris_et_al._TableS14_RightP_lt_0.01: Putative integrated decoys in at least one genome from Sarris et al. BMC Biology 2016. (1) Significant enrichment in NLRs; (0) Not significant
