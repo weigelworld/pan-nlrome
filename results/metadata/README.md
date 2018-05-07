@@ -96,3 +96,12 @@ rubella, Leavenworthia alabamica, Aethionema arabicum, Thellungiella parvula, Ar
 - At-panNLRome: Presence/absence in the 65 Arabidopsis thaliana-panNLR'ome accessions. (1) Present; (0) Absent.
 - Kroj_et_al._Table_S3: Putative integrated decoy in at least one genome from Kroj et al. New Phytologist 2016. (1) Significant enrichment in NLRs; (0) Not significant
 Sarris_et_al._TableS14_RightP_lt_0.01: Putative integrated decoys in at least one genome from Sarris et al. BMC Biology 2016. (1) Significant enrichment in NLRs; (0) Not significant
+
+## File 'OG_metadata.tsv'
+contains several statistics for the original unrefined orthogroups\.
+
+- OG: original unrefined orthogroup id
+- size: orthogroup size
+- majorclass: The major NLR class of the orthogroup (TNL, RNL, CNL, or NL)
+- paralogs: Describes paralogy in the orthogroup phylogeny. Can be 'none', 'simple' (duplications in terminal branches), 'complex' (duplications spread across the whole phylogeny), and 'both' (simple and complex paralogs both occur)
+
