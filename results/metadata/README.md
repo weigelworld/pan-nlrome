@@ -1,16 +1,16 @@
 # Explanation of metadata columns
 
 ## File 'transcript_based_metadata.tsv':
-- Transcript_ID
-- Gene_ID
+- Transcript_ID: transcript identifier
+- Gene_ID: gene identifier
 - Architecture: sorted domain list
 - Collapsed_Arch: collapsed and unsorted domain list
 - Subclass: subclass an NLR belongs to
 - Combined_Subclasses: summarized version of column4 (e.g. for T(N,L)X in col5, col4 contains TLX, TNLX, TNX, and TX)
 - Arch_Type: canonical or with integrated domains (noncanonical)
-- OG_ID: from initial orthogroup calculations
+- OG_ID: identifier from initial orthogroup calculations
 - OG_Size: from initial orthogroup calculations
-- OG_Refined: ID from orthogroup refinement
+- OG_Refined: identifier from orthogroup refinement
 - OG_Refined_Size: from orthogroup refinement
 - Fusion_Flag: from webapollo, points to gene fusion correction
 - Merged_Flag: from webapollo, points to gene splitting
@@ -40,8 +40,8 @@
 - TEs_2kb_Upstream: one or more TE(s) predicted in 2kb region upstream of gene
 
 ## File 'orthogroup_based_metadata.tsv':
-- idnew: Reinspected orthogroup ID
-- idold: Original orthogroup ID
+- idnew: Reinspected orthogroup identifier
+- idold: Original orthogroup identifier
 - status: orthogroup or singleton
 - use: binary
 - NLRs: number of NLRs contained

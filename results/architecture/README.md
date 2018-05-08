@@ -12,7 +12,7 @@ The architectures for each transcript can be found in the file transcript_based_
 ## arc_freq_per_accession.tsv
 
 - counts: counts for each collapsed_arch
-- ID: accession or species
+- ID: accession or species identifier
 - collapsed_arch: collapsed and unsorted domain list
 
 ## OG_architecture_freqs.tsv
