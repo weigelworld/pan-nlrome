@@ -1,4 +1,4 @@
-## File 'transcript_based_metadata.tsv':
+## File 'nlrome.refined.groups':
 - id.new: Refined orthogroup identifier
 - id.old: Original unrefined orthogroup identifier
 - status: orthogroup/singleton
