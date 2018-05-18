@@ -1,1985 +1,1985 @@
-idnew	idold	status	use	NLRs	majorclass	majorsubclass	pairs	putpairs	IDs
-4.14	4	orthogroup	1	10	TNL	TNL	0	0	0
-6.18	6	orthogroup	1	17	CNL	CN	0	0	0
-7.17	7	orthogroup	1	9	CNL	CNL	0	0	0
-24.1	24	orthogroup	1	63	TNL	TN	0	0	0
-102.6	102	orthogroup	1	21	TNL	TNL	0	0	0
-16.5	16	orthogroup	1	7	TNL	TNL	0	0	0
-10.5	10	orthogroup	1	24	TNL	TNL	0	0	1
-318.1	318	orthogroup	1	4	NL	N	0	0	0
-373	373	orthogroup	0	2	TNL	TN	0	0	0
-102.10	102	orthogroup	1	6	TNL	TN	0	0	0
-188.3	188	orthogroup	1	5	CNL	CN	0	0	0
-141.1	141	orthogroup	1	48	TNL	TL	0	0	0
-14.1	14	orthogroup	1	38	CNL	CN	0	0	0
-43.3	43	orthogroup	1	12	NL	NLX	9	0	12
-230.1	230	orthogroup	1	16	TNL	TNL	0	0	0
-66.1	66	orthogroup	1	58	CNL	CNL	0	0	0
-170.1	170	orthogroup	1	27	TNL	TNL	0	0	0
-223.1	223	orthogroup	1	18	TNL	TN	0	0	0
-61.1	61	orthogroup	1	56	CNL	CN	0	0	0
-122.1	122	orthogroup	1	7	TNL	TN	0	0	0
-283.1	283	orthogroup	1	7	TNL	T	0	0	0
-38.1	38	orthogroup	1	57	TNL	TN	0	0	0
-340	340	orthogroup	0	3	TNL	T	0	0	0
-163.7	163	orthogroup	1	7	TNL	TNL	0	0	0
-415	415	orthogroup	0	2	NL	N	0	0	0
-265.1	265	orthogroup	1	8	RNL	R	0	0	0
-2.45	2	orthogroup	1	5	RNL	R	0	0	0
-21.3	21	orthogroup	1	5	TNL	TNL	4	0	0
-13.3	13	orthogroup	1	4	TNL	TN	0	3	0
-96.1	96	orthogroup	1	54	TNL	TNL	43	5	0
-303.1	303	orthogroup	1	4	CNL	CNL	0	0	0
-269.1	269	orthogroup	1	7	CNL	CNL	0	0	0
-226.1	226	orthogroup	1	14	NL	N	0	0	0
-275.1	275	orthogroup	1	8	TNL	T	0	0	1
-76.1	76	orthogroup	1	52	NL	N	0	0	0
-123.1	123	orthogroup	1	52	TNL	T	0	0	0
-135.6	135	orthogroup	1	3	NL	N	0	0	0
-1.3	1	orthogroup	1	19	TNL	TNL	0	0	0
-412	412	orthogroup	0	2	CNL	CN	0	0	0
-289.1	289	orthogroup	1	5	CNL	CN	0	0	0
-398	398	orthogroup	0	2	RNL	R	0	0	0
-23.1	23	orthogroup	1	6	TNL	TNL	0	0	0
-334	334	orthogroup	0	3	TNL	TNL	0	0	0
-23.5	23	orthogroup	1	11	TNL	TNL	0	0	0
-108.1	108	orthogroup	1	6	RNL	R	0	0	0
-15.1	15	orthogroup	1	10	NL	N	0	0	0
-99.2	99	orthogroup	1	34	TNL	TNL	0	0	0
-174.1	174	orthogroup	1	35	NL	NL	0	0	0
-78.1	78	orthogroup	1	57	TNL	TNL	56	0	0
-126.1	126	orthogroup	1	53	NL	N	0	0	0
-114	114	orthogroup	0	58	NL	N	0	0	0
-138.1	138	orthogroup	1	47	TNL	TNL	0	0	0
-188.2	188	orthogroup	1	24	NL	N	0	0	0
-124.1	124	orthogroup	1	48	TNL	TX	0	0	43
-281.1	281	orthogroup	1	7	TNL	TNL	0	0	0
-2.30	2	orthogroup	1	4	RNL	R	0	0	0
-64.1	64	orthogroup	1	57	TNL	TNL	0	0	0
-139.1	139	orthogroup	1	50	NL	N	0	0	0
-11.18	11	orthogroup	1	24	TNL	T	0	0	0
-233.1	233	orthogroup	1	16	TNL	TL	0	0	0
-190.1	190	orthogroup	1	29	TNL	TNL	0	0	0
-151.1	151	orthogroup	1	12	RNL	R	0	0	0
-55.1	55	orthogroup	1	53	RNL	RN	0	0	0
-2.19	2	orthogroup	1	8	RNL	R	0	0	0
-13.2	13	orthogroup	1	46	TNL	TN	0	42	0
-30.1	30	orthogroup	1	56	TNL	TNL	0	0	0
-102.1	102	orthogroup	1	4	TNL	TN	0	0	0
-311	311	orthogroup	0	3	TNL	T	0	0	1
-263.1	263	orthogroup	1	8	CNL	CN	0	0	0
-6.1	6	orthogroup	1	5	CNL	CN	0	0	0
-21.1	21	orthogroup	1	5	TNL	TNL	5	0	0
-216.3	216	orthogroup	1	9	TNL	TNL	0	0	0
-228.1	228	orthogroup	1	10	CNL	CN	0	0	0
-93.1	93	orthogroup	1	24	NL	N	0	0	0
-152.2	152	orthogroup	1	7	CNL	CNL	0	0	0
-16.10	16	orthogroup	1	4	NL	NL	0	0	0
-6.4	6	orthogroup	1	4	CNL	CN	0	0	0
-54.1	54	orthogroup	1	60	NL	N	0	0	1
-119.2	119	orthogroup	1	3	TNL	T	0	0	0
-12.3	12	orthogroup	1	4	CNL	CN	0	0	0
-58.1	58	orthogroup	1	61	RNL	R	0	0	0
-10.9	10	orthogroup	1	9	TNL	TNL	0	0	0
-248.1	248	orthogroup	1	11	TNL	T	0	0	0
-148.1	148	orthogroup	1	44	TNL	TNL	0	33	0
-3.8	3	orthogroup	1	4	CNL	CNL	0	0	0
-108.2	108	orthogroup	1	20	RNL	R	0	0	0
-144.1	144	orthogroup	1	48	TNL	T	2	0	0
-3.19	3	orthogroup	1	8	CNL	CNL	0	0	0
-335	335	orthogroup	0	3	CNL	CN	0	0	1
-1.14	1	orthogroup	1	7	TNL	TNL	0	0	0
-134.6	134	orthogroup	1	9	NL	NL	0	0	0
-301.1	301	orthogroup	1	4	CNL	CNL	0	0	0
-153.1	153	orthogroup	1	45	TNL	TNL	0	40	0
-97.1	97	orthogroup	1	56	CNL	CNL	0	0	0
-257.1	257	orthogroup	1	9	TNL	TNL	0	0	0
-177.1	177	orthogroup	1	34	TNL	T	0	0	0
-122.5	122	orthogroup	1	5	TNL	TN	0	0	0
-321.1	321	orthogroup	1	4	NL	NL	0	0	0
-320.1	320	orthogroup	1	3	TNL	TL	0	0	0
-106	106	orthogroup	0	60	TNL	TNL	23	1	0
-326.1	326	orthogroup	1	4	NL	N	0	0	0
-48.1	48	orthogroup	1	59	TNL	TNL	21	1	0
-271.1	271	orthogroup	1	7	CNL	CNL	0	0	0
-37.1	37	orthogroup	1	63	TNL	TNL	0	0	0
-109.1	109	orthogroup	1	54	CNL	CNL	0	1	0
-71.1	71	orthogroup	1	57	TNL	TNL	0	0	0
-104.1	104	orthogroup	1	8	NL	N	0	0	0
-21.4	21	orthogroup	1	6	TNL	TNL	6	0	0
-234.1	234	orthogroup	1	9	TNL	TN	0	0	0
-246.1	246	orthogroup	1	13	TNL	TN	0	0	0
-180.1	180	orthogroup	1	22	TNL	TNL	0	0	2
-202.1	202	orthogroup	1	23	TNL	T	0	0	0
-210.1	210	orthogroup	1	22	CNL	CNL	0	0	0
-2.22	2	orthogroup	1	12	RNL	R	0	0	0
-372	372	orthogroup	0	2	TNL	NL	0	0	0
-146.1	146	orthogroup	1	46	TNL	TN	0	0	0
-28.1	28	orthogroup	1	59	TNL	TNL	0	0	0
-259.1	259	orthogroup	1	9	TNL	T	0	0	0
-135.1	135	orthogroup	1	9	NL	N	0	0	0
-86.1	86	orthogroup	1	60	TNL	TN	0	0	0
-337	337	orthogroup	0	3	TNL	TNL	0	0	0
-3.10	3	orthogroup	1	9	CNL	CNL	0	0	0
-117.3	117	orthogroup	1	4	RNL	RNX	0	0	4
-277.1	277	orthogroup	1	7	TNL	TNL	0	0	0
-130.1	130	orthogroup	1	54	CNL	CNLX	23	17	33
-183.1	183	orthogroup	1	31	TNL	TNL	0	0	0
-7.2	7	orthogroup	1	6	CNL	CNL	0	0	0
-9.3	9	orthogroup	1	4	NL	N	0	0	0
-9.5	9	orthogroup	1	29	NL	N	0	0	0
-12.1	12	orthogroup	1	14	CNL	CN	0	0	0
-225.1	225	orthogroup	1	16	TNL	TNL	0	0	0
-313.1	313	orthogroup	1	5	CNL	CN	0	0	0
-2.52	2	orthogroup	1	10	RNL	R	0	0	0
-128.1	128	orthogroup	1	51	TNL	TNL	0	0	2
-231.1	231	orthogroup	1	15	TNL	T	0	0	0
-227.1	227	orthogroup	1	18	TNL	T	0	0	0
-10.2	10	orthogroup	1	23	TNL	TNL	0	0	0
-1.1	1	orthogroup	1	3	TNL	TNL	0	0	0
-135.12	135	orthogroup	1	7	NL	TNL	0	1	0
-6.7	6	orthogroup	1	6	CNL	CN	0	0	0
-238.1	238	orthogroup	1	6	NL	NL	0	0	0
-181.2	181	orthogroup	1	5	TNL	TNL	0	0	0
-4.7	4	orthogroup	1	10	TNL	TNL	0	0	0
-252.1	252	orthogroup	1	10	CNL	CN	0	0	0
-6.6	6	orthogroup	1	21	CNL	CN	0	0	0
-120.7	120	orthogroup	1	22	TNL	TNL	0	3	0
-46.1	46	orthogroup	1	58	TNL	TNL	0	0	0
-343	343	orthogroup	0	3	TNL	T	0	2	0
-242.1	242	orthogroup	1	14	TNL	TN	0	0	0
-397	397	orthogroup	0	2	TNL	T	1	0	0
-176.8	176	orthogroup	1	4	TNL	TNL	0	0	0
-1.27	1	orthogroup	1	4	TNL	TNL	0	0	0
-212.9	212	orthogroup	1	5	TNL	TNL	0	0	0
-17.5	17	orthogroup	1	11	NL	N	0	0	0
-108.9	108	orthogroup	1	6	RNL	R	0	0	0
-21.2	21	orthogroup	1	38	TNL	TNL	38	0	14
-7.22	7	orthogroup	1	5	CNL	CNL	0	0	0
-336	336	orthogroup	0	3	TNL	T	0	0	0
-1.11	1	orthogroup	1	8	TNL	TNL	0	0	0
-406	406	orthogroup	0	2	TNL	T	0	0	0
-236.1	236	orthogroup	1	12	TNL	TNL	0	0	0
-280.1	280	orthogroup	1	7	CNL	CN	0	0	0
-224.1	224	orthogroup	1	16	TNL	TN	0	0	0
-17.6	17	orthogroup	1	8	CNL	CN	0	0	0
-13.9	13	orthogroup	1	7	TNL	TN	0	6	0
-338	338	orthogroup	0	3	CNL	CNL	0	0	0
-1.34	1	orthogroup	1	6	TNL	TNL	0	0	0
-279.1	279	orthogroup	1	6	CNL	CNL	0	0	0
-17.3	17	orthogroup	1	6	CNL	CN	0	0	0
-11.5	11	orthogroup	1	3	TNL	T	0	0	0
-136	136	orthogroup	0	50	TNL	T	0	3	0
-369	369	orthogroup	0	2	TNL	T	0	0	0
-290.1	290	orthogroup	1	6	NL	NL	0	0	0
-34.1	34	orthogroup	1	55	TNL	TN	0	0	0
-12.4	12	orthogroup	1	9	CNL	CN	0	0	0
-18.4	18	orthogroup	1	12	TNL	TNL	10	0	0
-151.11	151	orthogroup	1	4	RNL	R	0	0	0
-7.4	7	orthogroup	1	7	CNL	CNL	0	0	0
-407	407	orthogroup	0	2	TNL	T	0	1	0
-31.1	31	orthogroup	1	56	RNL	RCNL	0	0	0
-4.11	4	orthogroup	1	4	TNL	TNL	0	0	0
-185.1	185	orthogroup	1	30	TNL	T	0	0	0
-43.1	43	orthogroup	1	9	NL	NLX	9	0	9
-344	344	orthogroup	0	2	CNL	CN	0	0	0
-222.1	222	orthogroup	1	19	TNL	T	0	0	0
-6.3	6	orthogroup	1	8	CNL	CN	0	0	0
-273.1	273	orthogroup	1	8	CNL	CNL	0	0	0
-184.6	184	orthogroup	1	9	TNL	TNL	0	0	0
-1.28	1	orthogroup	1	8	TNL	TNL	0	0	0
-52.1	52	orthogroup	1	58	TNL	T	0	0	0
-307.1	307	orthogroup	1	4	TNL	T	0	0	0
-395	395	orthogroup	0	2	TNL	T	0	0	0
-12.2	12	orthogroup	1	12	CNL	CN	0	0	0
-3.2	3	orthogroup	1	12	CNL	CNL	0	0	0
-42.3	42	orthogroup	1	6	TNL	TNL	0	0	0
-25.1	25	orthogroup	1	12	NL	NL	0	12	0
-261.1	261	orthogroup	1	10	NL	N	0	0	0
-270.1	270	orthogroup	1	6	CNL	CN	0	0	0
-36.1	36	orthogroup	1	59	TNL	TNL	0	0	0
-346	346	orthogroup	0	3	CNL	CN	0	0	0
-17.2	17	orthogroup	1	7	CNL	CN	0	0	0
-21.5	21	orthogroup	1	7	TNL	TNL	7	0	0
-249.1	249	orthogroup	1	11	CNL	CNL	0	0	0
-39.1	39	orthogroup	1	60	TNL	TNL	0	0	0
-347	347	orthogroup	0	3	NL	NL	0	0	0
-355	355	orthogroup	0	3	TNL	T	0	0	0
-217.1	217	orthogroup	1	17	NL	N	0	0	0
-41.3	41	orthogroup	1	5	NL	NLX	0	0	5
-312.1	312	orthogroup	1	5	NL	N	0	0	0
-3.4	3	orthogroup	1	26	CNL	CNL	0	1	0
-35.1	35	orthogroup	1	61	RNL	RN	0	0	0
-181.3	181	orthogroup	1	13	TNL	TNL	0	0	0
-267.1	267	orthogroup	1	8	TNL	T	0	0	0
-81.1	81	orthogroup	1	56	TNL	TNL	0	53	0
-199.1	199	orthogroup	1	20	TNL	TX	0	0	20
-2.8	2	orthogroup	1	10	RNL	R	0	0	0
-262.1	262	orthogroup	1	5	TNL	T	0	0	0
-45.3	45	orthogroup	1	28	TNL	T	0	0	0
-212.1	212	orthogroup	1	5	TNL	TN	0	0	0
-65.1	65	orthogroup	1	58	CNL	CNL	0	0	0
-214.1	214	orthogroup	1	10	TNL	TNL	0	0	0
-327.1	327	orthogroup	1	3	TNL	T	0	0	0
-181.4	181	orthogroup	1	7	TNL	TNL	0	0	0
-77.2	77	orthogroup	1	22	TNL	TNL	0	0	0
-165.8	165	orthogroup	1	6	TNL	TNL	0	0	0
-72.1	72	orthogroup	1	57	NL	N	0	0	0
-13.5	13	orthogroup	1	5	TNL	TN	0	4	0
-165.6	165	orthogroup	1	4	TNL	TNL	0	0	0
-147.1	147	orthogroup	1	42	TNL	TN	0	33	0
-7.9	7	orthogroup	1	5	CNL	CNL	0	0	0
-43.2	43	orthogroup	1	36	NL	NLX	34	0	35
-91.1	91	orthogroup	1	58	TNL	TNL	23	16	0
-173.1	173	orthogroup	1	36	TNL	T	0	0	0
-6.13	6	orthogroup	1	12	CNL	CN	0	0	0
-63.1	63	orthogroup	1	57	TNL	TNL	0	0	0
-15.2	15	orthogroup	1	4	NL	CN	0	0	0
-100.1	100	orthogroup	1	56	TNL	TNL	0	0	0
-292.1	292	orthogroup	1	5	CNL	CNL	0	0	0
-235.1	235	orthogroup	1	15	TNL	T	0	0	0
-4.37	4	orthogroup	1	5	TNL	TNL	0	0	0
-77.3	77	orthogroup	1	29	TNL	TNL	0	0	0
-25.3	25	orthogroup	1	3	NL	NL	0	3	0
-176.9	176	orthogroup	1	4	TNL	TNL	0	0	0
-348	348	orthogroup	0	3	TNL	TNL	0	0	0
-255.1	255	orthogroup	1	11	NL	NL	0	0	0
-135.9	135	orthogroup	1	10	NL	N	0	0	0
-103.1	103	orthogroup	1	56	NL	N	0	0	0
-392	392	orthogroup	0	2	RNL	R	0	0	0
-134.3	134	orthogroup	1	5	NL	CNL	0	0	0
-293.1	293	orthogroup	1	6	TNL	TNL	0	0	0
-381	381	orthogroup	0	2	NL	NL	0	0	0
-154.1	154	orthogroup	1	42	TNL	TNX	0	0	42
-16.12	16	orthogroup	1	5	TNL	TNL	0	0	0
-4.13	4	orthogroup	1	6	TNL	TNL	0	0	0
-3.11	3	orthogroup	1	4	CNL	CNL	0	0	0
-2.11	2	orthogroup	1	6	RNL	R	0	0	0
-11.29	11	orthogroup	1	5	TNL	T	0	0	0
-380	380	orthogroup	0	2	TNL	T	0	0	0
-300.1	300	orthogroup	1	4	CNL	CN	0	0	0
-375	375	orthogroup	0	2	TNL	T	0	0	0
-165.10	165	orthogroup	1	7	TNL	TNL	0	0	0
-211.1	211	orthogroup	1	20	TNL	TNL	0	0	0
-212.4	212	orthogroup	1	4	TNL	TN	0	0	0
-256.1	256	orthogroup	1	11	TNL	T	0	2	0
-302.1	302	orthogroup	1	5	TNL	TNL	0	0	0
-122.3	122	orthogroup	1	21	TNL	T	0	0	0
-169.1	169	orthogroup	1	36	TNL	TX	0	0	36
-59.1	59	orthogroup	1	61	RNL	RN	0	0	0
-382	382	orthogroup	0	2	NL	NL	0	0	0
-345	345	orthogroup	0	3	TNL	T	0	0	0
-157.1	157	orthogroup	1	40	TNL	TN	0	0	0
-15.7	15	orthogroup	1	8	CNL	CN	0	0	0
-284.1	284	orthogroup	1	6	TNL	TN	0	0	0
-215.1	215	orthogroup	1	21	TNL	TN	0	0	0
-171.1	171	orthogroup	1	36	TNL	TNL	0	19	0
-243.1	243	orthogroup	1	14	TNL	TN	0	13	0
-1.22	1	orthogroup	1	5	TNL	TNL	0	0	0
-7.3	7	orthogroup	1	6	CNL	CNL	0	0	0
-10.6	10	orthogroup	1	15	TNL	TNL	0	0	0
-172.1	172	orthogroup	1	34	TNL	TN	0	0	0
-118.1	118	orthogroup	1	50	TNL	T	0	0	0
-120.5	120	orthogroup	1	4	TNL	TN	0	0	0
-11.14	11	orthogroup	1	4	TNL	T	0	0	0
-143.1	143	orthogroup	1	45	TNL	TNL	0	0	7
-122.2	122	orthogroup	1	20	TNL	TN	0	0	0
-115.1	115	orthogroup	1	54	CNL	CN	0	1	0
-353	353	orthogroup	0	3	NL	N	0	0	0
-8.6	8	orthogroup	1	16	CNL	CNL	0	0	0
-120.4	120	orthogroup	1	12	TNL	TNL	0	0	0
-111.1	111	orthogroup	1	53	TNL	TN	0	0	0
-179.1	179	orthogroup	1	4	TNL	TNL	0	0	0
-160.1	160	orthogroup	1	39	TNL	TNL	0	0	0
-161.1	161	orthogroup	1	38	TNL	TNL	0	0	0
-8.4	8	orthogroup	1	41	CNL	CNL	0	1	0
-162	162	orthogroup	0	40	TNL	TNL	15	4	0
-134.13	134	orthogroup	1	5	CNL	CNL	0	0	0
-245.1	245	orthogroup	1	13	TNL	TN	0	1	1
-129.1	129	orthogroup	1	52	RNL	R	0	0	0
-119.1	119	orthogroup	1	50	TNL	T	0	0	0
-180.5	180	orthogroup	1	4	TNL	TNLX	0	0	2
-10.3	10	orthogroup	1	6	TNL	TNL	0	0	0
-4.19	4	orthogroup	1	7	TNL	TNL	0	0	0
-158.1	158	orthogroup	1	42	TNL	T	0	0	0
-62.1	62	orthogroup	1	59	TNL	T	0	0	0
-104.2	104	orthogroup	1	33	NL	N	0	0	0
-7.8	7	orthogroup	1	13	CNL	CNL	0	0	0
-47.1	47	orthogroup	1	61	TNL	TN	0	51	0
-133.3	133	orthogroup	1	4	TNL	TNL	0	0	1
-159.1	159	orthogroup	1	40	TNL	TNL	0	0	0
-266.1	266	orthogroup	1	9	TNL	T	0	0	0
-23.3	23	orthogroup	1	11	TNL	TNL	0	0	0
-87.1	87	orthogroup	1	58	TNL	T	0	0	0
-165.3	165	orthogroup	1	11	TNL	TNL	0	0	0
-4.29	4	orthogroup	1	12	TNL	TNL	0	0	0
-45.1	45	orthogroup	1	17	TNL	T	0	0	0
-57.1	57	orthogroup	1	60	TNL	TNL	1	1	16
-102.3	102	orthogroup	1	5	TNL	TN	0	0	0
-221.2	221	orthogroup	1	15	TNL	TNL	0	0	0
-1.5	1	orthogroup	1	11	TNL	TNL	0	0	0
-94.1	94	orthogroup	1	55	NL	NLX	54	0	55
-88.1	88	orthogroup	1	54	TNL	TNL	22	1	0
-7.13	7	orthogroup	1	4	CNL	CNL	0	0	0
-176.5	176	orthogroup	1	5	TNL	TNL	0	0	0
-155.1	155	orthogroup	1	42	TNL	TNL	0	0	0
-14.7	14	orthogroup	1	4	CNL	CN	0	0	0
-310.1	310	orthogroup	1	5	TNL	T	2	1	0
-309.1	309	orthogroup	1	5	CNL	CN	0	0	0
-151.4	151	orthogroup	1	10	RNL	R	0	0	0
-137.1	137	orthogroup	1	50	TNL	TNL	0	0	0
-101.1	101	orthogroup	1	56	CNL	CN	0	0	0
-184.2	184	orthogroup	1	6	TNL	TNL	0	0	0
-5.1	5	orthogroup	1	24	TNL	TNL	0	1	0
-205.1	205	orthogroup	1	23	TNL	TNLX	0	22	19
-164.1	164	orthogroup	1	37	TNL	TN	0	0	0
-276.1	276	orthogroup	1	7	TNL	TNL	0	0	0
-135.5	135	orthogroup	1	6	NL	N	0	0	0
-186.1	186	orthogroup	1	31	CNL	CN	0	1	0
-131.1	131	orthogroup	1	47	TNL	T	0	0	0
-27.1	27	orthogroup	1	62	NL	NL	0	0	0
-194.1	194	orthogroup	1	27	TNL	T	0	0	0
-1.7	1	orthogroup	1	4	TNL	TNL	0	0	0
-83.1	83	orthogroup	1	60	CNL	CNL	0	0	0
-216.1	216	orthogroup	1	4	TNL	TNL	0	0	0
-285.1	285	orthogroup	1	4	TNL	T	0	0	0
-304.1	304	orthogroup	1	5	CNL	CN	0	0	1
-9.1	9	orthogroup	1	27	NL	N	0	0	0
-182.1	182	orthogroup	1	34	NL	N	0	0	0
-117.2	117	orthogroup	1	46	RNL	RNX	0	0	44
-168.1	168	orthogroup	1	34	CNL	CNL	0	1	0
-40.1	40	orthogroup	1	62	TNL	TN	0	0	0
-175.1	175	orthogroup	1	34	TNL	TNL	0	0	0
-90.1	90	orthogroup	1	55	TNL	TNL	0	0	0
-193.1	193	orthogroup	1	29	NL	NL	0	0	0
-7.5	7	orthogroup	1	8	CNL	CNL	0	0	0
-339	339	orthogroup	0	3	TNL	TN	0	0	0
-371	371	orthogroup	0	2	TNL	TL	0	0	0
-306.1	306	orthogroup	1	5	TNL	TNL	0	0	0
-127.1	127	orthogroup	1	55	CNL	CNL	0	0	0
-297.1	297	orthogroup	1	4	TNL	TNL	0	0	0
-370	370	orthogroup	0	2	TNL	TNL	0	0	0
-405	405	orthogroup	0	2	NL	NL	0	0	0
-204.1	204	orthogroup	1	21	TNL	TNL	0	20	0
-82.1	82	orthogroup	1	55	TNL	TNL	23	0	0
-80.1	80	orthogroup	1	56	TNL	TNL	54	0	0
-349	349	orthogroup	0	3	NL	NL	0	0	0
-296.1	296	orthogroup	1	4	NL	N	0	0	0
-288.1	288	orthogroup	1	6	TNL	TN	0	0	0
-322.1	322	orthogroup	1	3	TNL	T	0	0	0
-240.1	240	orthogroup	1	14	TNL	TNL	0	0	0
-49.2	49	orthogroup	1	38	CNL	CNLX	0	36	37
-20.1	20	orthogroup	1	54	TNL	TNL	0	0	10
-410	410	orthogroup	0	2	TNL	T	0	0	0
-170.2	170	orthogroup	1	5	TNL	TNL	0	0	0
-402	402	orthogroup	0	2	CNL	CN	0	0	0
-333	333	orthogroup	0	3	TNL	TNL	0	0	0
-112.1	112	orthogroup	1	56	TNL	TNL	15	3	0
-107.1	107	orthogroup	1	56	TNL	TNL	0	0	0
-247.4	247	orthogroup	1	7	RNL	R	0	0	0
-4.10	4	orthogroup	1	5	TNL	TNL	0	0	0
-104.3	104	orthogroup	1	16	NL	N	0	0	0
-282.1	282	orthogroup	1	6	CNL	CNL	0	0	0
-1.17	1	orthogroup	1	4	TNL	TNL	0	0	0
-3.18	3	orthogroup	1	10	CNL	CNL	0	0	0
-14.5	14	orthogroup	1	3	CNL	CN	0	0	0
-2.44	2	orthogroup	1	10	RNL	R	0	0	0
-108.10	108	orthogroup	1	4	RNL	R	0	0	0
-232.1	232	orthogroup	1	16	TNL	T	0	0	0
-15.5	15	orthogroup	1	6	CNL	CN	0	0	0
-272.1	272	orthogroup	1	8	NL	N	0	0	0
-315.1	315	orthogroup	1	3	TNL	TNL	0	0	0
-216.5	216	orthogroup	1	5	TNL	TNL	0	0	0
-7.6	7	orthogroup	1	8	CNL	CNL	0	0	0
-208.1	208	orthogroup	1	23	NL	N	0	14	0
-53.1	53	orthogroup	1	58	NL	NL	0	0	0
-92.1	92	orthogroup	1	56	TNL	TNL	0	0	0
-3.9	3	orthogroup	1	5	CNL	CNL	0	0	0
-286.1	286	orthogroup	1	6	TNL	T	0	4	0
-184.1	184	orthogroup	1	9	TNL	TNL	0	0	0
-22.1	22	orthogroup	1	59	NL	N	0	54	0
-151.12	151	orthogroup	1	9	RNL	R	0	0	0
-314.1	314	orthogroup	1	5	TNL	T	0	5	0
-93.2	93	orthogroup	1	33	NL	N	0	1	0
-149.1	149	orthogroup	1	48	TNL	TNL	0	0	0
-350	350	orthogroup	0	3	NL	NL	3	0	0
-67.1	67	orthogroup	1	60	TNL	TN	0	58	0
-42.1	42	orthogroup	1	13	TNL	TNL	1	1	0
-319.1	319	orthogroup	1	4	NL	NL	0	0	0
-5.2	5	orthogroup	1	37	TNL	TNL	0	0	0
-237.1	237	orthogroup	1	12	NL	N	0	0	0
-198.1	198	orthogroup	1	25	CNL	CNL	0	0	0
-41.1	41	orthogroup	1	55	TNL	TNLX	44	6	55
-189.1	189	orthogroup	1	26	TNL	TNL	0	0	0
-84.1	84	orthogroup	1	58	TNL	TNL	54	2	0
-74.1	74	orthogroup	1	56	TNL	TNL	0	0	0
-113	113	orthogroup	0	58	TNL	TNL	0	0	0
-325.1	325	orthogroup	1	4	NL	NL	0	0	0
-99.1	99	orthogroup	1	21	TNL	TNL	0	0	0
-254.1	254	orthogroup	1	8	TNL	TN	0	4	0
-167.1	167	orthogroup	1	37	TNL	T	0	0	0
-3.13	3	orthogroup	1	7	CNL	CNL	0	0	0
-6.16	6	orthogroup	1	14	CNL	CN	0	0	0
-278.1	278	orthogroup	1	3	TNL	TNL	0	0	0
-400	400	orthogroup	0	2	TNL	TN	0	0	0
-125.1	125	orthogroup	1	53	TNL	TNL	0	0	0
-219.1	219	orthogroup	1	19	NL	N	0	0	0
-239.1	239	orthogroup	1	14	TNL	TN	0	0	0
-26.1	26	orthogroup	1	63	TNL	TNL	62	0	0
-299.1	299	orthogroup	1	5	TNL	T	0	0	2
-31.2	31	orthogroup	1	5	RNL	RCNL	0	0	0
-5.4	5	orthogroup	1	14	TNL	TNL	0	0	0
-77.1	77	orthogroup	1	7	TNL	TNL	0	0	0
-5.8	5	orthogroup	1	5	TNL	TNL	0	0	0
-12.9	12	orthogroup	1	9	NL	N	0	0	0
-16.8	16	orthogroup	1	4	TNL	TNL	0	0	0
-206.1	206	orthogroup	1	20	TNL	TNL	0	0	0
-25.2	25	orthogroup	1	46	NL	NL	0	43	0
-1.4	1	orthogroup	1	15	TNL	TNL	0	0	1
-89.1	89	orthogroup	1	57	TNL	TNL	0	0	0
-23.2	23	orthogroup	1	33	TNL	TNL	0	0	0
-251.1	251	orthogroup	1	8	TNL	TNL	0	2	0
-354	354	orthogroup	0	3	NL	NL	0	0	0
-150.1	150	orthogroup	1	47	TNL	T	0	0	0
-368	368	orthogroup	0	2	CNL	CN	0	0	0
-133.1	133	orthogroup	1	4	TNL	TNL	0	0	0
-29.2	29	orthogroup	1	17	TNL	T	0	0	0
-16.6	16	orthogroup	1	6	TNL	TNL	0	0	0
-44.1	44	orthogroup	1	59	TNL	TNL	0	0	0
-4.39	4	orthogroup	1	6	TNL	TNL	0	0	0
-12.6	12	orthogroup	1	6	NL	N	0	0	0
-132.1	132	orthogroup	1	49	TNL	T	0	0	0
-16.7	16	orthogroup	1	17	TNL	TNL	0	0	0
-408	408	orthogroup	0	2	NL	N	0	0	0
-351	351	orthogroup	0	3	RNL	R	0	0	0
-379	379	orthogroup	0	2	CNL	CNL	0	0	0
-287.1	287	orthogroup	1	5	TNL	T	0	0	0
-116.1	116	orthogroup	1	55	RNL	R	0	0	0
-258.1	258	orthogroup	1	9	TNL	TNL	0	0	0
-298.1	298	orthogroup	1	4	CNL	CNL	0	0	0
-73.1	73	orthogroup	1	59	TNL	TNL	0	0	0
-294.1	294	orthogroup	1	6	CNL	CN	0	0	0
-404	404	orthogroup	0	2	TNL	T	0	0	0
-264.1	264	orthogroup	1	8	TNL	T	0	0	0
-200.1	200	orthogroup	1	24	TNL	T	0	0	0
-323	323	orthogroup	0	3	RNL	R	0	0	0
-414	414	orthogroup	0	2	NL	N	0	0	0
-203.1	203	orthogroup	1	20	TNL	TX	0	0	20
-1.26	1	orthogroup	1	11	TNL	TNL	0	0	0
-201.1	201	orthogroup	1	22	TNL	TN	0	21	0
-196.1	196	orthogroup	1	27	TNL	T	0	0	0
-8.3	8	orthogroup	1	13	CNL	CNL	0	0	0
-12.8	12	orthogroup	1	6	CNL	CN	0	0	0
-4.6	4	orthogroup	1	7	TNL	TNL	0	0	0
-317	317	orthogroup	0	2	TNL	T	0	0	0
-411	411	orthogroup	0	2	TNL	T	0	0	0
-374	374	orthogroup	0	2	TNL	TNL	0	0	0
-70.1	70	orthogroup	1	58	TNL	TNL	0	0	0
-180.3	180	orthogroup	1	4	TNL	TNL	0	0	0
-305.1	305	orthogroup	1	5	TNL	T	0	0	0
-145.1	145	orthogroup	1	46	TNL	TN	0	0	0
-45.4	45	orthogroup	1	12	TNL	T	0	0	0
-5.7	5	orthogroup	1	22	TNL	TNL	0	0	0
-79.1	79	orthogroup	1	57	TNL	TNL	0	0	0
-18.3	18	orthogroup	1	40	TNL	TNL	38	0	0
-11.25	11	orthogroup	1	8	TNL	T	0	0	0
-291.1	291	orthogroup	1	6	CNL	CN	0	0	0
-413	413	orthogroup	0	2	TNL	TN	0	0	0
-105.1	105	orthogroup	1	55	TNL	TNL	0	0	0
-102.2	102	orthogroup	1	4	TNL	TN	0	0	0
-56.1	56	orthogroup	1	58	CNL	CN	0	0	0
-4.20	4	orthogroup	1	8	TNL	TNL	0	0	0
-15.6	15	orthogroup	1	17	NL	N	0	0	0
-152.1	152	orthogroup	1	35	CNL	CNL	0	0	0
-218.1	218	orthogroup	1	18	TNL	TX	0	0	18
-32.2	32	orthogroup	1	14	RNL	RN	0	0	0
-17.4	17	orthogroup	1	31	NL	NL	0	0	0
-85.1	85	orthogroup	1	56	TNL	TNL	0	47	0
-213.1	213	orthogroup	1	20	TNL	TN	0	19	0
-152.3	152	orthogroup	1	4	CNL	CNL	0	0	0
-7.18	7	orthogroup	1	11	CNL	CNL	0	0	0
-166.1	166	orthogroup	1	34	TNL	TNL	0	0	0
-95.1	95	orthogroup	1	58	TNL	TX	0	0	43
-244.1	244	orthogroup	1	12	CNL	CN	0	0	0
-4.24	4	orthogroup	1	7	TNL	TNL	0	0	0
-30.2	30	orthogroup	1	4	TNL	TNL	0	0	0
-15.3	15	orthogroup	1	24	CNL	CN	0	0	0
-179.2	179	orthogroup	1	26	TNL	TNL	0	0	0
-29.1	29	orthogroup	1	41	TNL	T	0	0	0
-399	399	orthogroup	0	2	CNL	CN	0	0	0
-16.14	16	orthogroup	1	9	TNL	TNL	0	0	0
-68.1	68	orthogroup	1	58	CNL	CNL	0	0	0
-191.1	191	orthogroup	1	26	CNL	CN	0	1	0
-134.11	134	orthogroup	1	4	NL	N	0	0	0
-14.6	14	orthogroup	1	3	CNL	CN	0	0	0
-32.1	32	orthogroup	1	47	RNL	RN	0	0	0
-3.7	3	orthogroup	1	5	CNL	CNL	0	0	0
-9.4	9	orthogroup	1	29	CNL	CN	0	0	0
-134.15	134	orthogroup	1	8	CNL	CNL	0	0	0
-50.1	50	orthogroup	1	60	TNL	TNL	0	0	0
-207.1	207	orthogroup	1	24	NL	N	0	0	0
-250.1	250	orthogroup	1	11	NL	N	0	0	0
-2.14	2	orthogroup	1	11	RNL	R	0	0	0
-121.1	121	orthogroup	1	54	TNL	T	0	0	0
-42.2	42	orthogroup	1	43	TNL	TNL	0	0	0
-49.3	49	orthogroup	1	19	CNL	CNX	0	18	19
-14.3	14	orthogroup	1	19	NL	N	0	0	0
-195.1	195	orthogroup	1	28	NL	NL	0	0	0
-69.1	69	orthogroup	1	58	TNL	TNL	0	0	0
-110.1	110	orthogroup	1	54	TNL	TNL	0	17	0
-401	401	orthogroup	0	2	TNL	T	0	0	0
-316	316	orthogroup	0	3	NL	NL	0	0	0
-16.4	16	orthogroup	1	7	TNL	TNL	0	0	0
-396	396	orthogroup	0	2	TNL	T	0	0	0
-140.1	140	orthogroup	1	46	TNL	TNL	0	11	0
-135.10	135	orthogroup	1	3	NL	N	0	0	0
-33.1	33	orthogroup	1	59	NL	N	0	0	0
-197.1	197	orthogroup	1	23	CNL	CN	0	12	0
-133.2	133	orthogroup	1	43	TNL	TNL	0	0	0
-268.1	268	orthogroup	1	5	CNL	CNL	0	0	0
-409	409	orthogroup	0	2	TNL	TN	0	0	0
-102.9	102	orthogroup	1	5	TNL	TN	0	0	0
-156.1	156	orthogroup	1	43	CNL	CN	0	0	0
-308.1	308	orthogroup	1	4	TNL	TNL	0	0	0
-3.3	3	orthogroup	1	22	CNL	CNL	0	0	0
-117.1	117	orthogroup	1	5	RNL	RNX	0	0	5
-403	403	orthogroup	0	2	TNL	T	0	0	0
-238.2	238	orthogroup	1	6	NL	NL	0	0	0
-260.1	260	orthogroup	1	10	NL	N	0	0	0
-51.1	51	orthogroup	1	62	TNL	T	0	0	0
-209.1	209	orthogroup	1	19	CNL	CN	0	0	0
-19	19	orthogroup	0	68	TNL	T	0	1	0
-75.1	75	orthogroup	1	59	NL	NL	0	55	0
-163.3	163	orthogroup	1	17	TNL	TNL	0	0	0
-12.5	12	orthogroup	1	10	NL	N	0	0	0
-120.3	120	orthogroup	1	11	TNL	TNL	0	0	0
-1.33	1	orthogroup	1	14	TNL	TNL	0	0	0
-377	377	orthogroup	0	2	TNL	TNL	0	0	0
-187.1	187	orthogroup	1	24	CNL	CNL	0	0	0
-5.3	5	orthogroup	1	5	TNL	TNL	0	0	0
-18.5	18	orthogroup	1	8	TNL	TNL	8	0	0
-229.1	229	orthogroup	1	16	TNL	TNL	0	14	0
-176.6	176	orthogroup	1	12	TNL	TNL	0	0	0
-378	378	orthogroup	0	2	NL	N	0	0	0
-241.1	241	orthogroup	1	14	TNL	TNL	0	0	0
-220.1	220	orthogroup	1	19	TNL	T	0	0	0
-2.29	2	orthogroup	1	14	RNL	R	0	0	0
-376	376	orthogroup	0	2	TNL	TNL	0	0	0
-341	341	orthogroup	0	3	TNL	T	0	0	0
-192.1	192	orthogroup	1	27	TNL	T	0	0	5
-13.1	13	orthogroup	1	9	TNL	TN	0	5	0
-274.1	274	orthogroup	1	7	NL	N	0	0	0
-356	356	orthogroup	0	3	TNL	T	0	0	0
-142.1	142	orthogroup	1	45	TNL	TNL	0	0	0
-7.7	7	orthogroup	1	6	CNL	CNL	0	0	0
-178	178	orthogroup	0	33	TNL	TNL	0	0	0
-8.2	8	orthogroup	1	14	CNL	CNL	0	0	0
-60.1	60	orthogroup	1	58	TNL	TNL	0	0	0
-98.1	98	orthogroup	1	58	TNL	T	0	0	0
-108.6	108	orthogroup	1	15	RNL	R	0	0	0
-416	195	singleton	0	1	NL	NL	0	0	0
-417	70	singleton	0	1	NL	NL	0	0	0
-418	6	singleton	0	1	CNL	CN	0	0	0
-419	3	singleton	0	1	CNL	CNL	0	0	0
-420	8	singleton	0	1	CNL	CN	0	0	0
-421	N/A	singleton	0	1	CNL	CN	0	0	0
-422	2	singleton	0	1	RNL	R	0	0	0
-423	231	singleton	0	1	TNL	T	0	0	0
-424	N/A	singleton	0	1	RNL	R	0	0	0
-425	22	singleton	0	1	NL	N	0	0	0
-426	49	singleton	0	1	CNL	CNL	0	1	0
-427	N/A	singleton	0	1	TNL	T	0	0	0
-428	N/A	singleton	0	1	TNL	T	0	0	0
-429	N/A	singleton	0	1	NL	N	0	0	0
-430	181	singleton	0	1	TNL	TNL	0	0	0
-431	6	singleton	0	1	CNL	CN	0	0	0
-432	N/A	singleton	0	1	TNL	T	0	1	0
-433	115	singleton	0	1	NL	N	0	0	0
-434	N/A	singleton	0	1	RNL	R	0	0	0
-435	16	singleton	0	1	TNL	TNL	0	0	0
-436	7	singleton	0	1	CNL	CNL	0	0	0
-437	N/A	singleton	0	1	TNL	T	0	0	0
-438	197	singleton	0	1	NL	N	0	1	0
-439	18	singleton	0	1	TNL	TNL	1	0	0
-440	N/A	singleton	0	1	TNL	T	0	0	0
-441	3	singleton	0	1	CNL	CN	0	0	0
-442	25	singleton	0	1	NL	NL	0	1	0
-443	33	singleton	0	1	NL	N	0	0	0
-444	296	singleton	0	1	NL	N	0	0	0
-445	N/A	singleton	0	1	TNL	TN	0	0	0
-446	1	singleton	0	1	TNL	TNL	0	0	0
-447	129	singleton	0	1	RNL	R	0	0	0
-448	60	singleton	0	1	TNL	TNL	0	0	0
-449	1	singleton	0	1	TNL	TNL	0	0	0
-450	7	singleton	0	1	CNL	CNL	0	0	0
-451	16	singleton	0	1	TNL	TNL	0	0	0
-452	151	singleton	0	1	RNL	R	0	0	0
-453	1	singleton	0	1	TNL	TNL	0	0	0
-454	73	singleton	0	1	TNL	TNL	0	0	0
-455	N/A	singleton	0	1	TNL	TNL	0	0	0
-456	172	singleton	0	1	TNL	TN	0	0	0
-457	11	singleton	0	1	TNL	T	0	0	0
-458	1	singleton	0	1	TNL	TNL	0	0	0
-459	N/A	singleton	0	1	NL	N	0	0	0
-460	5	singleton	0	1	TNL	TNL	0	0	0
-461	3	singleton	0	1	CNL	CNL	0	0	0
-462	215	singleton	0	1	TNL	TN	0	0	0
-463	67	singleton	0	1	NL	N	0	0	0
-464	135	singleton	0	1	NL	N	0	0	0
-465	165	singleton	0	1	TNL	TNL	0	0	0
-466	192	singleton	0	1	TNL	TX	0	0	1
-467	125	singleton	0	1	TNL	TN	0	0	0
-468	49	singleton	0	1	CNL	CNX	0	1	1
-469	324	singleton	0	1	NL	N	0	0	0
-470	212	singleton	0	1	TNL	TN	0	0	0
-471	110	singleton	0	1	TNL	TN	0	1	0
-472	91	singleton	0	1	TNL	T	0	1	0
-473	N/A	singleton	0	1	NL	NL	0	0	0
-474	10	singleton	0	1	TNL	TNL	0	0	0
-475	4	singleton	0	1	TNL	TNL	0	0	0
-476	93	singleton	0	1	NL	N	0	0	0
-477	2	singleton	0	1	RNL	R	0	0	0
-478	80	singleton	0	1	TNL	TNL	1	0	0
-479	134	singleton	0	1	CNL	CN	0	0	0
-480	2	singleton	0	1	RNL	R	0	0	0
-481	142	singleton	0	1	TNL	TN	0	0	0
-482	152	singleton	0	1	CNL	CNL	0	0	0
-483	170	singleton	0	1	TNL	TNL	0	0	0
-484	15	singleton	0	1	NL	N	0	0	0
-485	11	singleton	0	1	TNL	T	0	0	0
-486	4	singleton	0	1	TNL	TNL	0	0	0
-487	3	singleton	0	1	NL	NL	0	0	0
-488	169	singleton	0	1	TNL	T	0	0	0
-489	84	singleton	0	1	NL	NL	1	0	0
-490	N/A	singleton	0	1	TNL	TNL	0	0	0
-491	63	singleton	0	1	TNL	TNL	0	0	0
-492	N/A	singleton	0	1	CNL	CNL	0	0	0
-493	226	singleton	0	1	NL	N	0	0	0
-494	140	singleton	0	1	TNL	TN	0	1	0
-495	38	singleton	0	1	TNL	TN	0	0	0
-496	97	singleton	0	1	NL	NL	0	0	0
-497	N/A	singleton	0	1	TNL	T	0	0	0
-498	270	singleton	0	1	CNL	CN	0	0	0
-499	N/A	singleton	0	1	CNL	CN	0	0	0
-500	14	singleton	0	1	CNL	CN	0	0	0
-501	221	singleton	0	1	TNL	TNL	0	0	0
-502	1	singleton	0	1	TNL	TNL	0	0	0
-503	212	singleton	0	1	TNL	TNL	0	0	0
-504	172	singleton	0	1	NL	N	0	0	0
-505	2	singleton	0	1	RNL	R	0	0	0
-506	135	singleton	0	1	NL	N	0	0	0
-507	204	singleton	0	1	TNL	TNL	0	1	0
-508	181	singleton	0	1	TNL	TN	0	0	0
-509	11	singleton	0	1	TNL	T	0	0	0
-510	108	singleton	0	1	RNL	R	0	0	0
-511	171	singleton	0	1	TNL	TN	0	1	0
-512	172	singleton	0	1	NL	N	0	0	0
-513	1	singleton	0	1	TNL	TNL	0	0	0
-514	13	singleton	0	1	TNL	TN	0	0	0
-515	16	singleton	0	1	TNL	TNL	0	0	0
-516	300	singleton	0	1	CNL	CN	0	0	0
-517	107	singleton	0	1	TNL	TNL	0	0	0
-518	10	singleton	0	1	TNL	TNL	0	0	0
-519	N/A	singleton	0	1	TNL	T	0	0	0
-520	N/A	singleton	0	1	TNL	T	0	0	0
-521	N/A	singleton	0	1	NL	N	0	0	0
-522	212	singleton	0	1	TNL	TN	0	0	0
-523	189	singleton	0	1	NL	NL	0	0	0
-524	42	singleton	0	1	TNL	TNL	0	0	0
-525	99	singleton	0	1	NL	NL	0	0	0
-526	97	singleton	0	1	CNL	CNL	0	0	0
-527	N/A	singleton	0	1	NL	N	0	0	0
-528	2	singleton	0	1	RNL	R	0	0	0
-529	88	singleton	0	1	NL	NL	0	0	0
-530	64	singleton	0	1	TNL	TNL	0	0	0
-531	253	singleton	0	1	TNL	TN	0	0	0
-532	N/A	singleton	0	1	RNL	R	0	0	0
-533	11	singleton	0	1	TNL	T	0	0	0
-534	30	singleton	0	1	NL	NL	0	0	0
-535	134	singleton	0	1	CNL	CNL	0	0	0
-536	2	singleton	0	1	RNL	R	0	0	0
-537	9	singleton	0	1	NL	N	0	0	0
-538	247	singleton	0	1	RNL	R	0	0	0
-539	N/A	singleton	0	1	NL	N	0	0	0
-540	61	singleton	0	1	NL	N	0	0	0
-541	134	singleton	0	1	CNL	CNL	0	0	0
-542	234	singleton	0	1	TNL	TN	0	0	0
-543	160	singleton	0	1	TNL	TNL	0	0	0
-544	69	singleton	0	1	TNL	TNL	0	0	0
-545	118	singleton	0	1	TNL	T	0	0	0
-546	12	singleton	0	1	NL	N	0	0	0
-547	110	singleton	0	1	TNL	TNL	0	0	0
-548	60	singleton	0	1	NL	NL	0	0	0
-549	N/A	singleton	0	1	CNL	CN	0	0	0
-550	141	singleton	0	1	TNL	TL	0	0	0
-551	239	singleton	0	1	TNL	TN	0	0	0
-552	134	singleton	0	1	CNL	CNL	0	0	0
-553	163	singleton	0	1	TNL	TNL	0	0	0
-554	92	singleton	0	1	TNL	TNL	0	0	0
-555	3	singleton	0	1	CNL	CNL	0	0	0
-556	234	singleton	0	1	NL	N	0	0	0
-557	59	singleton	0	1	RNL	RN	0	0	0
-558	7	singleton	0	1	CNL	CNL	0	0	0
-559	53	singleton	0	1	TNL	TNL	0	0	0
-560	2	singleton	0	1	RNL	R	0	0	0
-561	6	singleton	0	1	CNL	CN	0	0	0
-562	180	singleton	0	1	TNL	TNL	0	0	0
-563	122	singleton	0	1	TNL	T	0	0	0
-564	37	singleton	0	1	TNL	TN	0	0	0
-565	14	singleton	0	1	CNL	CN	0	0	0
-566	175	singleton	0	1	TNL	TNL	0	0	0
-567	N/A	singleton	0	1	TNL	T	0	0	0
-568	N/A	singleton	0	1	TNL	TN	0	0	0
-569	181	singleton	0	1	TNL	TNL	0	0	0
-570	209	singleton	0	1	CNL	CN	0	0	0
-571	11	singleton	0	1	TNL	T	0	0	0
-572	1	singleton	0	1	TNL	TNL	0	0	0
-573	216	singleton	0	1	TNL	TNL	0	0	0
-574	122	singleton	0	1	TNL	T	0	0	0
-575	1	singleton	0	1	TNL	TNL	0	0	0
-576	6	singleton	0	1	CNL	CN	0	0	0
-577	242	singleton	0	1	TNL	TN	0	0	0
-578	7	singleton	0	1	CNL	CNL	0	0	0
-579	N/A	singleton	0	1	CNL	CN	0	0	0
-580	N/A	singleton	0	1	TNL	T	1	0	0
-581	286	singleton	0	1	TNL	T	0	0	0
-582	10	singleton	0	1	TNL	TNL	0	0	0
-583	N/A	singleton	0	1	NL	NL	0	0	0
-584	N/A	singleton	0	1	TNL	T	0	0	0
-585	4	singleton	0	1	TNL	TNL	0	0	0
-586	N/A	singleton	0	1	CNL	CNL	0	0	0
-587	134	singleton	0	1	CNL	CN	0	0	0
-588	2	singleton	0	1	RNL	R	0	0	0
-589	53	singleton	0	1	NL	NL	0	0	0
-590	88	singleton	0	1	NL	NL	0	0	0
-591	4	singleton	0	1	TNL	TNL	0	0	0
-592	12	singleton	0	1	NL	N	0	0	0
-593	N/A	singleton	0	1	NL	N	0	0	0
-594	4	singleton	0	1	TNL	TNL	0	0	0
-595	8	singleton	0	1	CNL	CN	0	0	0
-596	251	singleton	0	1	TNL	TNL	0	1	0
-597	12	singleton	0	1	NL	N	0	0	0
-598	N/A	singleton	0	1	TNL	TL	0	0	0
-599	21	singleton	0	1	NL	NX	0	0	1
-600	4	singleton	0	1	TNL	TNL	0	0	0
-601	N/A	singleton	0	1	RNL	R	0	0	0
-603	118	singleton	0	1	TNL	T	0	0	0
-604	20	singleton	0	1	TNL	TNL	0	0	0
-605	10	singleton	0	1	TNL	TNL	0	0	0
-606	N/A	singleton	0	1	NL	N	0	0	0
-607	68	singleton	0	1	NL	NL	0	0	0
-608	8	singleton	0	1	CNL	CNL	0	0	0
-609	7	singleton	0	1	CNL	CNL	0	0	0
-610	88	singleton	0	1	NL	N	0	0	0
-611	81	singleton	0	1	TNL	TNL	0	1	0
-612	31	singleton	0	1	RNL	RCNL	0	0	0
-613	N/A	singleton	0	1	CNL	CNL	0	0	0
-614	78	singleton	0	1	TNL	TNL	1	0	0
-615	23	singleton	0	1	TNL	TN	0	0	0
-616	183	singleton	0	1	TNL	TNL	0	0	0
-617	N/A	singleton	0	1	NL	N	0	0	0
-618	3	singleton	0	1	NL	N	0	0	0
-619	10	singleton	0	1	TNL	TNL	0	0	0
-620	5	singleton	0	1	TNL	TNL	0	0	0
-621	N/A	singleton	0	1	TNL	TNL	0	0	0
-622	124	singleton	0	1	TNL	T	0	0	0
-623	183	singleton	0	1	NL	NL	0	0	0
-624	247	singleton	0	1	RNL	R	0	0	0
-625	120	singleton	0	1	TNL	TNL	0	0	0
-626	53	singleton	0	1	TNL	TNL	0	0	0
-627	N/A	singleton	0	1	NL	N	0	0	0
-628	2	singleton	0	1	RNL	R	0	0	0
-629	N/A	singleton	0	1	CNL	CN	0	0	0
-630	51	singleton	0	1	TNL	T	0	0	0
-631	151	singleton	0	1	RNL	R	0	0	0
-632	48	singleton	0	1	TNL	TN	1	0	0
-633	N/A	singleton	0	1	NL	N	0	0	0
-634	54	singleton	0	1	NL	N	0	0	0
-635	61	singleton	0	1	NL	N	0	0	0
-636	1	singleton	0	1	TNL	TNL	0	0	0
-637	141	singleton	0	1	TNL	TL	0	0	0
-638	16	singleton	0	1	TNL	TNL	0	0	0
-639	135	singleton	0	1	NL	N	0	0	0
-640	N/A	singleton	0	1	TNL	T	0	0	0
-641	2	singleton	0	1	RNL	R	0	0	0
-642	1	singleton	0	1	TNL	TNL	0	0	0
-643	265	singleton	0	1	RNL	RC	0	0	0
-644	184	singleton	0	1	TNL	TNL	0	0	0
-645	N/A	singleton	0	1	TNL	TN	0	0	0
-646	N/A	singleton	0	1	NL	NL	0	0	0
-647	62	singleton	0	1	TNL	T	0	0	0
-648	15	singleton	0	1	NL	N	0	0	0
-649	49	singleton	0	1	CNL	CNX	0	1	1
-650	104	singleton	0	1	NL	N	0	0	0
-651	45	singleton	0	1	TNL	T	0	0	0
-652	21	singleton	0	1	TNL	TN	1	0	0
-653	6	singleton	0	1	CNL	CN	0	0	0
-654	N/A	singleton	0	1	TNL	TNL	0	0	0
-655	N/A	singleton	0	1	NL	NL	0	0	0
-656	20	singleton	0	1	TNL	TNL	0	0	0
-657	68	singleton	0	1	CNL	CNL	0	0	0
-658	N/A	singleton	0	1	RNL	R	0	0	0
-659	66	singleton	0	1	NL	NL	0	0	0
-660	75	singleton	0	1	NL	N	0	0	0
-661	154	singleton	0	1	TNL	TNX	0	0	1
-662	22	singleton	0	1	NL	N	0	0	0
-663	41	singleton	0	1	NL	NLX	0	0	1
-664	N/A	singleton	0	1	TNL	TN	0	0	0
-665	189	singleton	0	1	NL	NL	0	0	0
-666	7	singleton	0	1	CNL	CNL	0	0	0
-667	24	singleton	0	1	TNL	TN	0	0	0
-668	278	singleton	0	1	TNL	TNL	0	0	0
-669	13	singleton	0	1	TNL	TN	0	0	0
-670	1	singleton	0	1	TNL	TNL	0	0	0
-671	55	singleton	0	1	NL	N	0	0	0
-672	14	singleton	0	1	NL	N	0	0	0
-673	N/A	singleton	0	1	CNL	CN	0	0	0
-674	1	singleton	0	1	TNL	TNL	0	0	0
-675	232	singleton	0	1	TNL	T	0	0	0
-676	100	singleton	0	1	TNL	TNL	0	0	0
-677	164	singleton	0	1	TNL	TN	0	0	0
-678	151	singleton	0	1	RNL	R	0	0	0
-679	94	singleton	0	1	NL	NL	0	0	0
-680	159	singleton	0	1	TNL	TNL	0	0	0
-681	2	singleton	0	1	RNL	R	0	0	0
-682	32	singleton	0	1	NL	N	0	0	0
-683	21	singleton	0	1	TNL	TN	1	0	0
-684	165	singleton	0	1	TNL	TNLX	0	0	1
-685	145	singleton	0	1	NL	N	0	0	0
-686	6	singleton	0	1	NL	N	0	0	0
-687	191	singleton	0	1	CNL	CN	0	0	0
-688	4	singleton	0	1	TNL	TNL	0	0	0
-689	10	singleton	0	1	TNL	TNL	0	0	0
-690	N/A	singleton	0	1	NL	N	0	0	0
-691	11	singleton	0	1	TNL	T	0	0	0
-692	55	singleton	0	1	RNL	RN	0	0	0
-693	N/A	singleton	0	1	NL	N	0	0	0
-694	202	singleton	0	1	TNL	T	0	0	0
-695	N/A	singleton	0	1	TNL	T	0	0	0
-696	16	singleton	0	1	TNL	TNLX	0	0	1
-697	229	singleton	0	1	TNL	TN	0	0	0
-698	N/A	singleton	0	1	NL	N	0	0	0
-699	278	singleton	0	1	TNL	TNL	0	0	0
-700	4	singleton	0	1	TNL	TNL	0	0	0
-701	107	singleton	0	1	TNL	TN	0	0	0
-702	105	singleton	0	1	TNL	TNL	0	0	0
-703	125	singleton	0	1	TNL	TN	0	0	0
-704	1	singleton	0	1	TNL	TNL	0	0	0
-705	82	singleton	0	1	NL	NL	0	0	0
-706	65	singleton	0	1	NL	N	0	0	0
-707	32	singleton	0	1	RNL	RN	0	0	0
-708	4	singleton	0	1	TNL	TNL	0	0	0
-709	3	singleton	0	1	CNL	CNL	0	0	0
-710	253	singleton	0	1	TNL	TNL	0	0	0
-711	4	singleton	0	1	NL	NL	0	0	0
-712	N/A	singleton	0	1	NL	NL	0	0	0
-713	262	singleton	0	1	TNL	T	0	0	0
-714	84	singleton	0	1	TNL	TNL	1	0	0
-715	165	singleton	0	1	TNL	TN	0	0	0
-716	4	singleton	0	1	NL	NL	0	0	0
-717	120	singleton	0	1	TNL	TNL	0	0	0
-718	14	singleton	0	1	NL	N	0	0	0
-719	71	singleton	0	1	TNL	TNL	0	0	0
-720	4	singleton	0	1	TNL	TNL	0	0	0
-721	89	singleton	0	1	TNL	TNLX	0	0	1
-722	216	singleton	0	1	TNL	TNL	0	0	0
-723	77	singleton	0	1	TNL	TNL	0	0	0
-724	N/A	singleton	0	1	TNL	T	0	0	0
-725	13	singleton	0	1	TNL	TN	0	0	0
-726	249	singleton	0	1	CNL	CNL	0	0	0
-727	99	singleton	0	1	TNL	TNL	0	0	0
-728	253	singleton	0	1	TNL	TNL	0	0	0
-729	N/A	singleton	0	1	CNL	CNL	0	0	0
-730	212	singleton	0	1	TNL	TN	0	0	0
-731	109	singleton	0	1	CNL	CNL	0	0	0
-732	17	singleton	0	1	CNL	CN	0	0	0
-733	92	singleton	0	1	TNL	TNL	0	0	0
-734	161	singleton	0	1	NL	NL	0	0	0
-735	36	singleton	0	1	TNL	TNL	0	0	0
-736	135	singleton	0	1	NL	N	0	0	0
-737	N/A	singleton	0	1	NL	NL	0	0	0
-738	3	singleton	0	1	CNL	CNL	0	0	0
-739	77	singleton	0	1	TNL	TNL	0	0	0
-740	14	singleton	0	1	CNL	CN	0	0	0
-741	82	singleton	0	1	NL	NL	0	0	0
-742	6	singleton	0	1	CNL	CN	0	0	0
-743	N/A	singleton	0	1	TNL	T	0	0	0
-744	55	singleton	0	1	RNL	RN	0	0	0
-745	200	singleton	0	1	TNL	T	0	0	0
-746	N/A	singleton	0	1	TNL	T	0	0	0
-747	14	singleton	0	1	CNL	CN	0	0	0
-748	11	singleton	0	1	TNL	T	0	0	0
-749	49	singleton	0	1	CNL	CNX	0	1	1
-750	3	singleton	0	1	CNL	CNL	0	0	0
-751	N/A	singleton	0	1	NL	N	0	0	0
-752	55	singleton	0	1	RNL	RN	0	0	0
-753	108	singleton	0	1	RNL	R	0	0	0
-754	15	singleton	0	1	NL	N	0	0	0
-755	N/A	singleton	0	1	CNL	CNL	0	0	0
-756	N/A	singleton	0	1	TNL	T	0	0	0
-757	42	singleton	0	1	TNL	TNL	0	0	0
-758	31	singleton	0	1	RNL	RCN	0	0	0
-759	168	singleton	0	1	CNL	CN	0	0	0
-760	4	singleton	0	1	TNL	TNL	0	0	0
-761	36	singleton	0	1	TNL	TN	0	0	0
-762	165	singleton	0	1	TNL	TNL	0	0	0
-763	75	singleton	0	1	NL	NL	0	1	0
-764	187	singleton	0	1	NL	NL	0	0	0
-765	237	singleton	0	1	NL	N	0	0	0
-766	226	singleton	0	1	NL	N	0	0	0
-767	9	singleton	0	1	NL	N	0	0	0
-768	120	singleton	0	1	TNL	TNL	0	0	0
-769	134	singleton	0	1	CNL	CNL	0	0	0
-770	N/A	singleton	0	1	TNL	T	0	0	0
-771	284	singleton	0	1	TNL	TN	0	0	0
-772	11	singleton	0	1	TNL	T	0	0	0
-773	52	singleton	0	1	TNL	T	0	0	0
-774	327	singleton	0	1	TNL	T	0	0	0
-775	135	singleton	0	1	NL	N	0	0	0
-776	211	singleton	0	1	TNL	TNL	0	0	0
-777	N/A	singleton	0	1	TNL	T	0	0	0
-778	2	singleton	0	1	RNL	R	0	0	0
-779	87	singleton	0	1	TNL	T	0	0	0
-780	101	singleton	0	1	NL	N	0	0	0
-781	8	singleton	0	1	CNL	CNL	0	0	0
-782	N/A	singleton	0	1	NL	N	0	0	0
-783	212	singleton	0	1	TNL	TN	0	0	0
-784	3	singleton	0	1	CNL	CNL	0	0	0
-785	213	singleton	0	1	TNL	TN	0	1	0
-786	102	singleton	0	1	TNL	TN	0	0	0
-787	13	singleton	0	1	TNL	TN	0	0	0
-788	264	singleton	0	1	TNL	T	0	0	0
-789	28	singleton	0	1	TNL	TNL	0	0	0
-790	7	singleton	0	1	CNL	CNL	0	0	0
-791	62	singleton	0	1	TNL	T	0	0	0
-792	8	singleton	0	1	CNL	CNL	0	0	0
-793	1	singleton	0	1	TNL	TNL	0	0	0
-794	26	singleton	0	1	NL	NL	0	0	0
-795	135	singleton	0	1	NL	N	0	0	0
-796	16	singleton	0	1	TNL	TNL	0	0	0
-797	11	singleton	0	1	TNL	T	0	0	0
-798	N/A	singleton	0	1	CNL	CN	0	0	0
-799	7	singleton	0	1	CNL	CNL	0	0	0
-800	66	singleton	0	1	CNL	CNL	0	0	0
-801	N/A	singleton	0	1	TNL	TN	0	0	0
-802	11	singleton	0	1	TNL	T	0	0	0
-803	4	singleton	0	1	TNL	TNL	0	0	0
-804	N/A	singleton	0	1	CNL	CN	0	0	0
-805	315	singleton	0	1	TNL	TNL	0	0	0
-806	176	singleton	0	1	TNL	TNL	0	0	0
-807	223	singleton	0	1	TNL	TN	0	0	0
-808	78	singleton	0	1	NL	NL	0	0	0
-809	131	singleton	0	1	TNL	T	0	0	0
-810	269	singleton	0	1	CNL	CNL	0	0	0
-811	2	singleton	0	1	RNL	R	0	0	0
-812	177	singleton	0	1	TNL	T	0	0	0
-813	11	singleton	0	1	TNL	T	0	0	0
-814	N/A	singleton	0	1	NL	N	0	0	0
-815	92	singleton	0	1	TNL	TNL	0	0	0
-816	2	singleton	0	1	RNL	R	0	0	0
-817	118	singleton	0	1	TNL	T	0	0	0
-818	3	singleton	0	1	CNL	CNL	0	0	0
-819	30	singleton	0	1	TNL	TNL	0	1	0
-820	144	singleton	0	1	TNL	T	0	0	0
-821	2	singleton	0	1	RNL	R	0	0	0
-822	82	singleton	0	1	NL	NL	1	0	0
-823	38	singleton	0	1	TNL	TN	0	0	0
-824	134	singleton	0	1	CNL	CNL	0	0	0
-825	101	singleton	0	1	NL	N	0	0	0
-826	221	singleton	0	1	TNL	TNL	0	0	0
-827	231	singleton	0	1	TNL	T	0	0	0
-828	210	singleton	0	1	CNL	CNL	0	0	0
-829	N/A	singleton	0	1	TNL	T	0	0	0
-830	324	singleton	0	1	NL	N	0	0	0
-831	117	singleton	0	1	RNL	RCNX	0	0	1
-832	1	singleton	0	1	TNL	TNL	0	0	0
-833	N/A	singleton	0	1	NL	N	0	0	0
-834	N/A	singleton	0	1	TNL	T	0	0	0
-836	134	singleton	0	1	CNL	CN	0	0	0
-837	36	singleton	0	1	TNL	TN	0	0	0
-838	N/A	singleton	0	1	NL	NL	0	0	0
-839	40	singleton	0	1	TNL	TNL	0	0	0
-840	10	singleton	0	1	TNL	TNL	0	0	0
-841	100	singleton	0	1	TNL	TNL	0	0	0
-842	N/A	singleton	0	1	TNL	T	0	0	0
-843	56	singleton	0	1	CNL	CN	0	0	0
-844	189	singleton	0	1	TNL	TL	0	0	0
-845	147	singleton	0	1	NL	N	0	0	0
-846	27	singleton	0	1	NL	N	0	0	0
-847	73	singleton	0	1	TNL	TNL	0	0	0
-848	N/A	singleton	0	1	TNL	TN	0	0	0
-849	143	singleton	0	1	NL	NLX	0	0	1
-850	2	singleton	0	1	RNL	R	0	0	0
-851	221	singleton	0	1	TNL	TNL	0	0	0
-852	N/A	singleton	0	1	NL	NL	0	0	0
-853	13	singleton	0	1	TNL	T	0	1	0
-854	140	singleton	0	1	TNL	TN	0	0	0
-855	235	singleton	0	1	TNL	T	0	0	0
-856	151	singleton	0	1	RNL	R	0	0	0
-857	175	singleton	0	1	TNL	TNL	0	0	0
-858	2	singleton	0	1	RNL	R	0	0	0
-859	6	singleton	0	1	CNL	CN	0	0	0
-860	N/A	singleton	0	1	TNL	T	0	0	0
-861	124	singleton	0	1	TNL	TX	0	0	1
-862	34	singleton	0	1	TNL	TN	0	0	0
-863	184	singleton	0	1	TNL	TNL	0	0	0
-864	7	singleton	0	1	CNL	CN	0	0	0
-865	184	singleton	0	1	TNL	TNL	0	0	0
-866	61	singleton	0	1	NL	N	0	0	0
-867	N/A	singleton	0	1	NL	NL	0	0	0
-868	3	singleton	0	1	CNL	CNL	0	0	0
-869	64	singleton	0	1	TNL	TN	0	0	0
-870	124	singleton	0	1	TNL	TX	0	0	1
-871	156	singleton	0	1	NL	N	0	0	0
-872	N/A	singleton	0	1	TNL	T	0	0	0
-873	107	singleton	0	1	TNL	TN	0	0	0
-874	N/A	singleton	0	1	TNL	T	0	0	0
-875	29	singleton	0	1	TNL	T	0	0	0
-876	102	singleton	0	1	TNL	TN	0	0	0
-877	8	singleton	0	1	CNL	CN	0	0	0
-878	214	singleton	0	1	TNL	TNL	0	0	0
-879	303	singleton	0	1	CNL	CNL	0	0	0
-880	4	singleton	0	1	TNL	TNL	0	0	0
-881	N/A	singleton	0	1	TNL	T	0	0	0
-883	99	singleton	0	1	TNL	TNL	0	0	0
-884	4	singleton	0	1	TNL	TNL	0	0	0
-885	11	singleton	0	1	TNL	T	0	0	0
-886	55	singleton	0	1	RNL	RN	0	0	0
-887	39	singleton	0	1	TNL	TNL	0	0	0
-888	11	singleton	0	1	TNL	T	0	0	0
-889	11	singleton	0	1	TNL	T	0	0	0
-890	2	singleton	0	1	RNL	R	0	0	0
-891	6	singleton	0	1	CNL	CN	0	0	0
-892	6	singleton	0	1	CNL	CN	0	0	0
-893	165	singleton	0	1	TNL	TN	0	0	0
-894	11	singleton	0	1	TNL	T	0	0	0
-895	82	singleton	0	1	NL	NL	0	0	0
-896	2	singleton	0	1	RNL	R	0	0	0
-897	11	singleton	0	1	TNL	T	0	0	0
-898	10	singleton	0	1	TNL	TNL	0	0	0
-899	2	singleton	0	1	RNL	R	0	0	0
-900	287	singleton	0	1	TNL	T	0	0	0
-901	238	singleton	0	1	NL	NL	0	0	0
-902	N/A	singleton	0	1	TNL	TN	0	0	0
-903	102	singleton	0	1	TNL	TNL	0	0	0
-904	4	singleton	0	1	TNL	TNL	0	0	0
-905	224	singleton	0	1	TNL	TNL	0	0	0
-906	2	singleton	0	1	RNL	R	0	0	0
-907	247	singleton	0	1	RNL	R	0	0	0
-908	2	singleton	0	1	RNL	R	0	0	0
-909	161	singleton	0	1	NL	NL	0	0	0
-910	194	singleton	0	1	TNL	T	0	0	0
-911	N/A	singleton	0	1	NL	NX	0	0	1
-912	166	singleton	0	1	NL	NL	0	0	0
-913	171	singleton	0	1	TNL	TN	0	1	0
-914	125	singleton	0	1	TNL	TN	0	0	0
-915	77	singleton	0	1	TNL	TNL	0	0	0
-916	6	singleton	0	1	CNL	CN	0	0	0
-917	2	singleton	0	1	RNL	R	0	0	0
-918	4	singleton	0	1	TNL	TNL	0	0	0
-919	258	singleton	0	1	TNL	TNL	0	0	0
-920	N/A	singleton	0	1	TNL	T	0	0	0
-921	25	singleton	0	1	NL	NL	0	1	0
-922	4	singleton	0	1	NL	NL	0	0	0
-923	181	singleton	0	1	TNL	TNL	0	0	0
-924	N/A	singleton	0	1	NL	N	0	0	0
-925	100	singleton	0	1	TNL	TNL	0	0	0
-926	240	singleton	0	1	TNL	TL	0	0	0
-927	6	singleton	0	1	CNL	CN	0	0	0
-928	4	singleton	0	1	TNL	TN	0	0	0
-929	N/A	singleton	0	1	TNL	TN	0	0	0
-930	78	singleton	0	1	TNL	TNL	1	0	0
-931	4	singleton	0	1	TNL	TNL	0	0	0
-932	60	singleton	0	1	NL	NL	0	0	0
-933	63	singleton	0	1	TNL	TNL	0	0	0
-934	7	singleton	0	1	CNL	CNL	0	0	0
-935	7	singleton	0	1	CNL	CNL	0	0	0
-936	218	singleton	0	1	TNL	TX	0	0	1
-937	N/A	singleton	0	1	TNL	T	0	0	0
-938	165	singleton	0	1	TNL	TNL	0	0	0
-939	184	singleton	0	1	TNL	TNL	0	0	0
-940	33	singleton	0	1	NL	N	0	0	0
-941	82	singleton	0	1	NL	NL	0	0	0
-942	1	singleton	0	1	TNL	TNL	0	0	0
-943	2	singleton	0	1	RNL	R	0	0	0
-944	108	singleton	0	1	RNL	R	0	0	0
-945	6	singleton	0	1	CNL	CN	0	0	0
-946	2	singleton	0	1	RNL	R	0	0	0
-947	6	singleton	0	1	CNL	CN	0	0	0
-948	17	singleton	0	1	NL	N	0	0	0
-949	83	singleton	0	1	NL	NL	0	0	0
-950	2	singleton	0	1	RNL	R	0	0	0
-951	80	singleton	0	1	NL	NL	1	0	0
-952	188	singleton	0	1	CNL	CN	0	0	0
-953	34	singleton	0	1	TNL	TN	0	0	0
-954	84	singleton	0	1	TNL	TNL	1	0	0
-955	109	singleton	0	1	NL	NL	0	0	0
-956	105	singleton	0	1	TNL	TNL	0	0	0
-957	134	singleton	0	1	CNL	CNL	0	0	0
-958	2	singleton	0	1	RNL	R	0	0	0
-959	70	singleton	0	1	NL	NL	0	0	0
-961	4	singleton	0	1	TNL	TNL	0	0	0
-962	76	singleton	0	1	NL	N	0	0	0
-963	20	singleton	0	1	TNL	TNL	0	0	0
-964	234	singleton	0	1	NL	N	0	0	0
-965	N/A	singleton	0	1	RNL	R	0	0	0
-966	N/A	singleton	0	1	NL	NL	0	0	0
-967	9	singleton	0	1	NL	N	0	0	0
-968	5	singleton	0	1	TNL	TNL	0	0	0
-969	135	singleton	0	1	NL	N	0	0	0
-970	226	singleton	0	1	NL	N	0	0	0
-971	146	singleton	0	1	TNL	TN	0	0	0
-972	N/A	singleton	0	1	TNL	T	0	0	0
-973	2	singleton	0	1	RNL	R	0	0	0
-974	152	singleton	0	1	CNL	CNL	0	0	0
-975	108	singleton	0	1	RNL	R	0	0	0
-976	N/A	singleton	0	1	TNL	TL	0	0	0
-977	11	singleton	0	1	TNL	T	0	0	0
-978	2	singleton	0	1	RNL	R	0	0	0
-979	7	singleton	0	1	CNL	CNL	0	0	0
-980	163	singleton	0	1	TNL	TNL	0	0	0
-981	14	singleton	0	1	NL	N	0	0	0
-982	N/A	singleton	0	1	NL	N	0	0	0
-983	13	singleton	0	1	TNL	TN	0	1	0
-984	6	singleton	0	1	CNL	CN	0	0	0
-985	170	singleton	0	1	TNL	TNL	0	0	0
-986	176	singleton	0	1	TNL	TNL	0	0	0
-987	219	singleton	0	1	NL	N	0	0	0
-988	N/A	singleton	0	1	TNL	T	0	0	0
-989	4	singleton	0	1	TNL	TNL	0	0	0
-990	57	singleton	0	1	TNL	TNL	0	0	0
-991	90	singleton	0	1	TNL	TL	0	0	0
-992	168	singleton	0	1	NL	NL	0	0	0
-993	163	singleton	0	1	TNL	TNL	0	0	0
-994	71	singleton	0	1	NL	NL	0	0	0
-995	79	singleton	0	1	TNL	TNL	0	0	0
-996	4	singleton	0	1	TNL	TNL	0	0	0
-997	N/A	singleton	0	1	TNL	TN	0	0	0
-998	55	singleton	0	1	RNL	RN	0	0	0
-999	3	singleton	0	1	CNL	CNL	0	0	0
-1000	253	singleton	0	1	TNL	TNL	0	0	0
-1001	N/A	singleton	0	1	NL	N	0	0	0
-1002	23	singleton	0	1	TNL	TNL	0	0	0
-1003	14	singleton	0	1	NL	N	0	0	0
-1004	29	singleton	0	1	TNL	T	0	0	0
-1005	6	singleton	0	1	CNL	CN	0	0	0
-1006	11	singleton	0	1	TNL	T	0	0	0
-1007	176	singleton	0	1	TNL	TNL	0	0	0
-1008	135	singleton	0	1	NL	N	0	0	0
-1009	47	singleton	0	1	TNL	TN	0	1	0
-1010	4	singleton	0	1	TNL	TNL	0	0	0
-1011	190	singleton	0	1	TNL	TL	0	0	0
-1012	10	singleton	0	1	TNL	TNL	0	0	0
-1013	76	singleton	0	1	NL	N	0	0	0
-1014	2	singleton	0	1	RNL	R	0	0	0
-1015	6	singleton	0	1	CNL	CN	0	0	0
-1016	N/A	singleton	0	1	RNL	R	0	0	0
-1017	46	singleton	0	1	TNL	TNL	0	0	0
-1018	105	singleton	0	1	TNL	TNL	0	0	0
-1019	N/A	singleton	0	1	NL	NL	0	0	0
-1020	244	singleton	0	1	CNL	CN	0	0	0
-1021	3	singleton	0	1	CNL	CNL	0	1	0
-1022	2	singleton	0	1	RNL	R	0	0	0
-1023	247	singleton	0	1	RNL	R	0	0	0
-1024	11	singleton	0	1	TNL	T	0	0	0
-1025	N/A	singleton	0	1	RNL	R	0	0	0
-1026	1	singleton	0	1	TNL	TNL	0	0	0
-1027	212	singleton	0	1	TNL	TN	0	0	0
-1028	74	singleton	0	1	NL	NL	0	0	0
-1029	165	singleton	0	1	TNL	TNL	0	0	0
-1030	2	singleton	0	1	RNL	R	0	0	0
-1031	181	singleton	0	1	TNL	TNL	0	0	0
-1032	2	singleton	0	1	RNL	R	0	0	0
-1033	1	singleton	0	1	TNL	TNL	0	0	0
-1034	124	singleton	0	1	TNL	T	0	0	0
-1035	102	singleton	0	1	NL	N	0	0	0
-1036	N/A	singleton	0	1	CNL	CN	0	0	0
-1037	N/A	singleton	0	1	TNL	T	0	0	0
-1038	N/A	singleton	0	1	TNL	TNL	0	0	0
-1039	N/A	singleton	0	1	TNL	T	0	0	0
-1040	1	singleton	0	1	TNL	TNL	0	0	0
-1041	N/A	singleton	0	1	NL	N	0	0	0
-1042	74	singleton	0	1	TNL	TNL	0	0	0
-1043	163	singleton	0	1	TNL	TNL	0	0	0
-1044	N/A	singleton	0	1	NL	N	0	0	0
-1045	11	singleton	0	1	TNL	T	0	0	0
-1046	148	singleton	0	1	TNL	T	0	0	0
-1047	172	singleton	0	1	NL	N	0	0	0
-1048	17	singleton	0	1	NL	NL	0	0	0
-1049	224	singleton	0	1	TNL	TNL	0	0	0
-1050	N/A	singleton	0	1	NL	N	0	0	0
-1051	2	singleton	0	1	RNL	R	0	0	0
-1052	243	singleton	0	1	TNL	TN	0	1	0
-1053	N/A	singleton	0	1	NL	N	0	0	0
-1054	147	singleton	0	1	TNL	TN	0	1	0
-1055	3	singleton	0	1	CNL	CNL	0	0	0
-1056	209	singleton	0	1	CNL	CN	0	0	0
-1057	6	singleton	0	1	CNL	CN	0	0	0
-1058	163	singleton	0	1	TNL	TNL	0	0	0
-1059	6	singleton	0	1	CNL	CN	0	0	0
-1060	N/A	singleton	0	1	TNL	T	0	0	0
-1061	2	singleton	0	1	RNL	R	0	0	0
-1062	90	singleton	0	1	TNL	TNL	0	0	0
-1063	44	singleton	0	1	TNL	TNL	0	0	0
-1064	101	singleton	0	1	NL	N	0	0	0
-1065	N/A	singleton	0	1	NL	N	0	0	0
-1066	49	singleton	0	1	CNL	CNX	0	1	1
-1067	13	singleton	0	1	TNL	TN	0	1	0
-1068	N/A	singleton	0	1	NL	NL	0	0	0
-1069	N/A	singleton	0	1	TNL	TN	0	0	0
-1070	143	singleton	0	1	NL	NL	0	0	0
-1071	322	singleton	0	1	TNL	T	0	0	0
-1072	168	singleton	0	1	CNL	CN	0	0	0
-1073	7	singleton	0	1	CNL	CNL	0	0	0
-1074	135	singleton	0	1	NL	N	0	0	0
-1075	307	singleton	0	1	TNL	T	0	0	0
-1076	29	singleton	0	1	TNL	T	0	0	0
-1077	N/A	singleton	0	1	TNL	T	0	0	0
-1078	2	singleton	0	1	RNL	R	0	0	0
-1079	5	singleton	0	1	TNL	TNL	0	0	0
-1080	29	singleton	0	1	TNL	T	0	0	0
-1081	N/A	singleton	0	1	TNL	T	0	0	0
-1082	278	singleton	0	1	TNL	TNL	0	0	0
-1083	180	singleton	0	1	TNL	TNL	0	0	0
-1084	115	singleton	0	1	NL	N	0	0	0
-1085	138	singleton	0	1	NL	NL	0	0	0
-1086	11	singleton	0	1	TNL	T	0	0	0
-1087	5	singleton	0	1	TNL	TNL	0	0	0
-1088	156	singleton	0	1	CNL	CN	0	0	0
-1089	253	singleton	0	1	TNL	TNL	0	0	0
-1090	2	singleton	0	1	RNL	R	0	0	0
-1092	170	singleton	0	1	TNL	TN	0	0	0
-1093	202	singleton	0	1	TNL	T	0	0	0
-1094	N/A	singleton	0	1	TNL	TL	0	0	0
-1095	N/A	singleton	0	1	TNL	TN	0	0	0
-1096	2	singleton	0	1	RNL	R	0	0	0
-1097	N/A	singleton	0	1	TNL	T	0	0	0
-1098	233	singleton	0	1	TNL	TL	0	0	0
-1099	34	singleton	0	1	NL	N	0	0	0
-1100	2	singleton	0	1	RNL	R	0	0	0
-1101	44	singleton	0	1	TNL	TNL	0	0	0
-1102	8	singleton	0	1	CNL	CN	0	0	0
-1103	163	singleton	0	1	TNL	TNL	0	0	0
-1104	119	singleton	0	1	TNL	T	0	0	0
-1105	N/A	singleton	0	1	NL	NL	0	0	0
-1106	36	singleton	0	1	TNL	TNL	0	0	0
-1107	76	singleton	0	1	NL	N	0	0	0
-1108	N/A	singleton	0	1	NL	N	0	0	0
-1109	7	singleton	0	1	CNL	CNL	0	0	0
-1110	268	singleton	0	1	CNL	CNL	0	0	0
-1111	7	singleton	0	1	CNL	CNL	0	0	0
-1112	N/A	singleton	0	1	TNL	T	0	0	0
-1113	134	singleton	0	1	CNL	CNL	0	0	0
-1114	199	singleton	0	1	TNL	TX	0	0	1
-1115	11	singleton	0	1	TNL	T	0	0	0
-1116	324	singleton	0	1	NL	N	0	0	0
-1117	150	singleton	0	1	TNL	T	0	0	0
-1118	65	singleton	0	1	NL	N	0	0	0
-1119	94	singleton	0	1	NL	NL	1	0	0
-1120	192	singleton	0	1	TNL	TX	0	0	1
-1121	108	singleton	0	1	RNL	R	0	0	0
-1122	11	singleton	0	1	TNL	T	0	0	0
-1123	188	singleton	0	1	CNL	CN	0	0	0
-1124	N/A	singleton	0	1	NL	NX	1	0	1
-1125	N/A	singleton	0	1	CNL	CN	0	0	0
-1126	50	singleton	0	1	TNL	TN	0	0	0
-1127	142	singleton	0	1	NL	NL	0	0	0
-1128	N/A	singleton	0	1	TNL	T	0	0	0
-1129	N/A	singleton	0	1	TNL	T	0	0	0
-1130	155	singleton	0	1	TNL	TN	0	0	0
-1131	45	singleton	0	1	TNL	T	0	0	0
-1132	124	singleton	0	1	TNL	T	0	0	0
-1133	151	singleton	0	1	RNL	R	0	0	0
-1134	170	singleton	0	1	TNL	TNL	0	0	0
-1135	163	singleton	0	1	TNL	TN	0	0	0
-1136	4	singleton	0	1	TNL	TNL	0	0	0
-1137	78	singleton	0	1	NL	NL	0	0	0
-1138	134	singleton	0	1	NL	N	0	0	0
-1139	119	singleton	0	1	TNL	T	0	0	0
-1140	165	singleton	0	1	TNL	TNL	0	0	0
-1141	234	singleton	0	1	NL	NL	0	0	0
-1142	1	singleton	0	1	TNL	TNL	0	0	0
-1143	125	singleton	0	1	NL	NL	0	0	0
-1144	184	singleton	0	1	NL	NL	0	0	0
-1145	N/A	singleton	0	1	TNL	TNL	0	0	0
-1146	4	singleton	0	1	NL	NL	0	0	0
-1147	N/A	singleton	0	1	NL	NL	0	0	0
-1148	68	singleton	0	1	CNL	CN	0	0	0
-1149	61	singleton	0	1	NL	N	0	0	0
-1150	151	singleton	0	1	RNL	R	0	0	0
-1151	4	singleton	0	1	TNL	TNL	0	0	0
-1152	N/A	singleton	0	1	TNL	TN	0	0	0
-1153	133	singleton	0	1	NL	NL	0	0	0
-1154	253	singleton	0	1	TNL	TNL	0	0	0
-1155	165	singleton	0	1	TNL	TN	0	0	0
-1156	N/A	singleton	0	1	TNL	T	0	0	0
-1157	147	singleton	0	1	NL	N	0	0	0
-1158	109	singleton	0	1	CNL	CNL	0	0	0
-1159	7	singleton	0	1	CNL	CNL	0	0	0
-1160	176	singleton	0	1	TNL	TNL	0	0	0
-1161	N/A	singleton	0	1	RNL	R	0	0	0
-1162	N/A	singleton	0	1	TNL	TN	0	1	0
-1163	34	singleton	0	1	NL	N	0	0	0
-1164	14	singleton	0	1	CNL	CN	0	0	0
-1165	88	singleton	0	1	NL	NL	0	0	0
-1166	97	singleton	0	1	CNL	CNL	0	0	0
-1167	97	singleton	0	1	CNL	CNL	0	0	0
-1168	146	singleton	0	1	TNL	TN	0	0	0
-1169	46	singleton	0	1	TNL	TNL	0	0	0
-1170	N/A	singleton	0	1	CNL	CNL	0	0	0
-1171	N/A	singleton	0	1	TNL	TNL	0	0	0
-1172	1	singleton	0	1	TNL	TNL	0	0	0
-1173	43	singleton	0	1	NL	NLX	1	0	1
-1174	122	singleton	0	1	TNL	T	0	0	0
-1175	85	singleton	0	1	NL	NL	0	0	0
-1176	66	singleton	0	1	CNL	CNL	0	0	0
-1177	89	singleton	0	1	NL	NL	0	0	0
-1178	96	singleton	0	1	TNL	TNL	0	0	0
-1179	3	singleton	0	1	CNL	CNL	0	0	0
-1180	7	singleton	0	1	CNL	CNL	0	0	0
-1181	47	singleton	0	1	NL	N	0	0	0
-1182	154	singleton	0	1	TNL	TNX	0	0	1
-1183	102	singleton	0	1	TNL	TN	0	0	0
-1184	N/A	singleton	0	1	TNL	TN	0	0	0
-1185	134	singleton	0	1	CNL	CNL	0	0	0
-1186	99	singleton	0	1	NL	NL	0	0	0
-1187	4	singleton	0	1	TNL	TNL	0	0	0
-1188	32	singleton	0	1	NL	N	0	0	0
-1189	166	singleton	0	1	NL	NL	0	0	0
-1190	6	singleton	0	1	CNL	CN	0	0	0
-1191	2	singleton	0	1	RNL	R	0	0	0
-1192	N/A	singleton	0	1	NL	N	0	0	0
-1193	55	singleton	0	1	RNL	RN	0	0	0
-1194	145	singleton	0	1	TNL	TN	0	0	0
-1195	103	singleton	0	1	NL	N	0	0	0
-1196	11	singleton	0	1	TNL	T	0	0	0
-1197	5	singleton	0	1	NL	NL	0	0	0
-1198	194	singleton	0	1	TNL	T	0	0	0
-1199	248	singleton	0	1	TNL	T	0	0	0
-1200	150	singleton	0	1	TNL	T	0	0	0
-1201	94	singleton	0	1	NL	NLX	1	0	1
-1202	96	singleton	0	1	TNL	TNL	0	1	0
-1203	93	singleton	0	1	NL	N	0	1	0
-1204	N/A	singleton	0	1	NL	N	0	0	0
-1205	N/A	singleton	0	1	NL	NL	0	0	0
-1206	76	singleton	0	1	NL	N	0	0	0
-1207	N/A	singleton	0	1	RNL	R	0	0	0
-1208	N/A	singleton	0	1	CNL	CN	0	0	0
-1209	N/A	singleton	0	1	CNL	CN	0	1	0
-1210	102	singleton	0	1	NL	N	0	0	0
-1211	221	singleton	0	1	TNL	TNL	0	0	0
-1212	206	singleton	0	1	TNL	TNL	0	0	0
-1213	N/A	singleton	0	1	TNL	TNL	0	0	0
-1214	201	singleton	0	1	TNL	TNL	0	1	0
-1215	124	singleton	0	1	TNL	T	0	0	0
-1216	8	singleton	0	1	CNL	CN	0	1	0
-1217	112	singleton	0	1	TNL	TNL	0	1	0
-1218	2	singleton	0	1	RNL	R	0	0	0
-1219	26	singleton	0	1	TNL	TN	1	0	0
-1220	18	singleton	0	1	TNL	TL	1	0	0
-1221	N/A	singleton	0	1	NL	N	0	0	0
-1222	81	singleton	0	1	TNL	TNL	0	1	0
-1223	N/A	singleton	0	1	NL	N	0	0	0
-1224	71	singleton	0	1	TNL	TN	0	0	0
-1225	131	singleton	0	1	TNL	T	0	0	0
-1226	11	singleton	0	1	TNL	T	0	0	0
-1227	56	singleton	0	1	CNL	CNX	0	0	1
-1228	N/A	singleton	0	1	NL	N	0	0	0
-1229	30	singleton	0	1	TNL	TNL	0	0	0
-1230	134	singleton	0	1	CNL	CNL	0	0	0
-1231	45	singleton	0	1	TNL	T	0	0	0
-1232	2	singleton	0	1	RNL	R	0	0	0
-1233	118	singleton	0	1	TNL	T	0	0	0
-1234	N/A	singleton	0	1	NL	N	0	0	0
-1235	25	singleton	0	1	NL	N	0	1	0
-1236	184	singleton	0	1	TNL	TNL	0	0	0
-1237	N/A	singleton	0	1	TNL	T	0	0	0
-1238	14	singleton	0	1	NL	N	0	0	0
-1239	18	singleton	0	1	TNL	TNL	1	0	0
-1240	137	singleton	0	1	TNL	TN	0	0	0
-1241	268	singleton	0	1	CNL	CNL	0	0	0
-1242	79	singleton	0	1	TNL	TNL	0	0	0
-1243	N/A	singleton	0	1	TNL	T	0	0	0
-1244	46	singleton	0	1	TNL	TN	0	0	0
-1245	144	singleton	0	1	TNL	T	0	0	0
-1246	N/A	singleton	0	1	TNL	T	0	0	0
-1247	2	singleton	0	1	RNL	R	0	0	0
-1248	120	singleton	0	1	TNL	TN	0	0	0
-1249	N/A	singleton	0	1	CNL	CN	0	0	0
-1250	134	singleton	0	1	NL	N	0	0	0
-1251	8	singleton	0	1	NL	NL	0	0	0
-1252	132	singleton	0	1	TNL	T	0	0	0
-1253	N/A	singleton	0	1	TNL	TNL	0	0	0
-1254	76	singleton	0	1	NL	N	0	0	0
-1255	2	singleton	0	1	RNL	R	0	0	0
-1256	3	singleton	0	1	CNL	CNL	0	0	0
-1257	27	singleton	0	1	NL	N	0	0	0
-1258	96	singleton	0	1	TNL	TNL	0	0	0
-1259	77	singleton	0	1	TNL	TNL	0	0	0
-1260	102	singleton	0	1	TNL	TN	0	0	0
-1261	N/A	singleton	0	1	TNL	T	0	0	0
-1262	181	singleton	0	1	TNL	TNL	0	0	0
-1263	1	singleton	0	1	TNL	TNL	0	0	0
-1264	99	singleton	0	1	TNL	TNL	0	0	0
-1265	36	singleton	0	1	TNL	TNL	0	0	0
-1266	257	singleton	0	1	TNL	TN	0	0	0
-1267	10	singleton	0	1	TNL	TNL	0	0	0
-1268	181	singleton	0	1	TNL	TNL	0	0	0
-1269	3	singleton	0	1	CNL	CNL	0	0	0
-1270	2	singleton	0	1	RNL	R	0	0	0
-1271	2	singleton	0	1	RNL	R	0	0	0
-1272	N/A	singleton	0	1	NL	N	0	0	0
-1273	120	singleton	0	1	TNL	TNL	0	0	0
-1274	186	singleton	0	1	NL	N	0	0	0
-1275	N/A	singleton	0	1	CNL	CNL	0	0	0
-1276	10	singleton	0	1	TNL	TNL	0	0	0
-1278	103	singleton	0	1	NL	N	0	0	0
-1279	3	singleton	0	1	CNL	CNL	0	0	0
-1280	12	singleton	0	1	NL	N	0	0	0
-1281	4	singleton	0	1	TNL	TNL	0	0	0
-1282	96	singleton	0	1	TNL	TNL	1	0	0
-1283	N/A	singleton	0	1	TNL	T	0	0	0
-1284	77	singleton	0	1	TNL	TNL	0	0	0
-1285	15	singleton	0	1	NL	N	0	0	0
-1286	11	singleton	0	1	TNL	T	0	0	0
-1287	13	singleton	0	1	TNL	TN	0	1	0
-1288	N/A	singleton	0	1	TNL	T	0	0	0
-1289	4	singleton	0	1	TNL	TNL	0	0	0
-1290	2	singleton	0	1	RNL	R	0	0	0
-1291	324	singleton	0	1	NL	N	0	0	0
-1292	187	singleton	0	1	CNL	CNL	0	0	0
-1293	151	singleton	0	1	RNL	R	0	0	0
-1294	3	singleton	0	1	NL	NL	0	0	0
-1295	252	singleton	0	1	CNL	CN	0	0	0
-1296	13	singleton	0	1	TNL	TN	0	0	0
-1297	134	singleton	0	1	NL	NL	0	0	0
-1298	6	singleton	0	1	CNL	CN	0	0	0
-1299	1	singleton	0	1	TNL	TNL	0	0	0
-1300	111	singleton	0	1	TNL	TN	0	0	0
-1301	166	singleton	0	1	NL	NL	0	0	0
-1302	N/A	singleton	0	1	RNL	R	0	0	0
-1303	238	singleton	0	1	NL	NL	0	0	0
-1304	179	singleton	0	1	TNL	TNL	0	0	0
-1305	6	singleton	0	1	CNL	CN	0	0	0
-1306	138	singleton	0	1	TNL	TNL	0	0	0
-1307	94	singleton	0	1	NL	NL	1	0	0
-1308	171	singleton	0	1	TNL	TN	0	1	0
-1309	132	singleton	0	1	TNL	T	0	0	0
-1310	10	singleton	0	1	NL	NL	0	0	0
-1311	228	singleton	0	1	CNL	CN	0	0	0
-1312	2	singleton	0	1	RNL	R	0	0	0
-1313	4	singleton	0	1	TNL	TNL	0	0	0
-1314	1	singleton	0	1	TNL	TNL	0	0	0
-1315	179	singleton	0	1	TNL	TNL	0	0	0
-1316	91	singleton	0	1	TNL	TN	0	0	0
-1317	135	singleton	0	1	NL	N	0	0	0
-1318	2	singleton	0	1	RNL	R	0	0	0
-1319	12	singleton	0	1	CNL	CN	0	0	0
-1320	N/A	singleton	0	1	TNL	T	0	0	0
-1321	15	singleton	0	1	NL	N	0	0	0
-1322	126	singleton	0	1	NL	N	0	0	0
-1323	151	singleton	0	1	RNL	R	0	0	0
-1324	120	singleton	0	1	TNL	TNL	0	0	0
-1325	6	singleton	0	1	CNL	CN	0	0	0
-1326	225	singleton	0	1	TNL	TN	0	0	0
-1327	115	singleton	0	1	NL	N	0	0	0
-1328	N/A	singleton	0	1	NL	N	0	0	0
-1329	N/A	singleton	0	1	TNL	TN	0	0	0
-1330	16	singleton	0	1	TNL	TNL	0	0	0
-1331	109	singleton	0	1	NL	N	0	0	0
-1332	N/A	singleton	0	1	TNL	TN	0	0	0
-1333	274	singleton	0	1	NL	N	0	0	0
-1334	169	singleton	0	1	TNL	TX	0	0	1
-1335	9	singleton	0	1	NL	N	0	0	0
-1336	165	singleton	0	1	TNL	TNL	0	0	0
-1337	254	singleton	0	1	NL	NL	0	0	0
-1338	234	singleton	0	1	TNL	TNL	0	0	0
-1339	4	singleton	0	1	NL	NL	0	0	0
-1340	278	singleton	0	1	TNL	TNL	0	0	0
-1341	32	singleton	0	1	RNL	RN	0	0	0
-1342	3	singleton	0	1	CNL	CNL	0	0	0
-1343	63	singleton	0	1	TNL	TNL	0	0	0
-1344	168	singleton	0	1	CNL	CNL	0	0	0
-1345	176	singleton	0	1	TNL	TNL	0	0	0
-1346	N/A	singleton	0	1	NL	N	0	0	0
-1347	5	singleton	0	1	TNL	TNL	0	0	0
-1348	3	singleton	0	1	CNL	CNL	0	0	0
-1349	164	singleton	0	1	TNL	TN	0	0	0
-1350	132	singleton	0	1	TNL	T	0	0	0
-1351	73	singleton	0	1	TNL	TNL	0	0	0
-1352	N/A	singleton	0	1	TNL	T	0	0	0
-1353	N/A	singleton	0	1	TNL	TN	0	0	0
-1354	175	singleton	0	1	TNL	TNL	0	0	0
-1355	11	singleton	0	1	TNL	T	0	0	0
-1356	205	singleton	0	1	TNL	TNL	0	1	0
-1357	2	singleton	0	1	RNL	R	0	0	0
-1358	238	singleton	0	1	NL	NL	0	0	0
-1359	216	singleton	0	1	TNL	TNL	0	0	0
-1360	176	singleton	0	1	TNL	TNL	0	0	0
-1361	18	singleton	0	1	TNL	TNL	1	0	0
-1362	230	singleton	0	1	TNL	TN	0	0	0
-1363	76	singleton	0	1	NL	N	0	0	0
-1364	5	singleton	0	1	TNL	TN	0	0	0
-1365	6	singleton	0	1	NL	N	0	0	0
-1366	89	singleton	0	1	TNL	TNLX	0	0	1
-1367	11	singleton	0	1	TNL	T	0	0	0
-1368	11	singleton	0	1	TNL	T	0	0	0
-1369	135	singleton	0	1	NL	N	0	0	0
-1370	56	singleton	0	1	CNL	CN	0	0	0
-1371	159	singleton	0	1	TNL	TNL	0	0	0
-1372	N/A	singleton	0	1	NL	NL	0	0	0
-1373	11	singleton	0	1	TNL	T	0	0	0
-1374	209	singleton	0	1	CNL	CN	0	0	0
-1375	188	singleton	0	1	NL	N	0	0	0
-1376	7	singleton	0	1	CNL	CNL	0	0	0
-1377	N/A	singleton	0	1	CNL	CNL	0	0	0
-1378	134	singleton	0	1	CNL	CNL	0	0	0
-1379	2	singleton	0	1	RNL	R	0	0	0
-1380	135	singleton	0	1	NL	N	0	0	0
-1381	154	singleton	0	1	TNL	TNX	0	0	1
-1382	63	singleton	0	1	NL	NL	0	0	0
-1383	112	singleton	0	1	TNL	TNL	0	0	0
-1384	92	singleton	0	1	TNL	TNL	0	0	0
-1385	15	singleton	0	1	NL	N	0	0	0
-1386	102	singleton	0	1	TNL	TN	0	0	0
-1387	34	singleton	0	1	TNL	TN	0	0	0
-1388	6	singleton	0	1	CNL	CN	0	0	0
-1389	76	singleton	0	1	NL	N	0	0	0
-1390	N/A	singleton	0	1	NL	N	0	0	0
-1391	N/A	singleton	0	1	NL	NL	0	0	0
-1392	170	singleton	0	1	TNL	TNL	0	0	0
-1393	151	singleton	0	1	RNL	R	0	0	0
-1394	N/A	singleton	0	1	TNL	TN	0	0	0
-1395	134	singleton	0	1	CNL	CN	0	0	0
-1396	199	singleton	0	1	TNL	TX	0	0	1
-1397	23	singleton	0	1	TNL	TNL	0	0	0
-1398	32	singleton	0	1	RNL	RN	0	0	0
-1399	64	singleton	0	1	TNL	TNL	0	0	0
-1400	2	singleton	0	1	RNL	R	0	0	0
-1401	262	singleton	0	1	TNL	T	0	0	0
-1402	N/A	singleton	0	1	TNL	T	0	0	0
-1403	10	singleton	0	1	TNL	TNL	0	0	0
-1404	177	singleton	0	1	TNL	T	0	0	0
-1405	N/A	singleton	0	1	TNL	T	0	1	0
-1406	1	singleton	0	1	TNL	TNL	0	0	0
-1407	167	singleton	0	1	TNL	T	0	0	0
-1408	9	singleton	0	1	NL	N	0	0	0
-1409	95	singleton	0	1	TNL	TX	0	0	1
-1410	135	singleton	0	1	NL	N	0	0	0
-1411	165	singleton	0	1	TNL	TNL	0	0	0
-1412	151	singleton	0	1	RNL	R	0	0	0
-1413	206	singleton	0	1	TNL	TNL	0	0	0
-1414	1	singleton	0	1	TNL	TNL	0	0	0
-1415	145	singleton	0	1	NL	N	0	0	0
-1416	3	singleton	0	1	CNL	CNL	0	0	0
-1417	N/A	singleton	0	1	TNL	T	0	0	0
-1418	21	singleton	0	1	TNL	TNL	0	0	0
-1419	174	singleton	0	1	TNL	TNL	0	0	0
-1420	179	singleton	0	1	TNL	TNL	0	0	0
-1421	29	singleton	0	1	TNL	T	0	0	0
-1422	N/A	singleton	0	1	NL	NL	0	0	0
-1423	102	singleton	0	1	TNL	TN	0	0	0
-1424	22	singleton	0	1	NL	N	0	1	0
-1425	228	singleton	0	1	CNL	CN	0	0	0
-1426	131	singleton	0	1	TNL	T	0	0	0
-1427	262	singleton	0	1	TNL	T	0	0	0
-1428	212	singleton	0	1	TNL	TN	0	0	0
-1429	21	singleton	0	1	TNL	TL	0	0	0
-1430	10	singleton	0	1	TNL	TNL	0	0	0
-1431	4	singleton	0	1	TNL	TNL	0	0	0
-1432	34	singleton	0	1	TNL	TN	0	0	0
-1433	80	singleton	0	1	NL	NL	1	0	0
-1434	30	singleton	0	1	TNL	TNL	0	0	0
-1435	160	singleton	0	1	TNL	TNL	0	0	0
-1436	1	singleton	0	1	TNL	TNL	0	0	0
-1437	N/A	singleton	0	1	TNL	T	0	0	0
-1438	139	singleton	0	1	NL	N	0	0	0
-1439	N/A	singleton	0	1	TNL	TN	0	0	0
-1440	262	singleton	0	1	TNL	T	0	0	0
-1441	8	singleton	0	1	CNL	CN	0	0	0
-1442	17	singleton	0	1	NL	N	0	0	0
-1443	193	singleton	0	1	NL	N	0	0	0
-1444	4	singleton	0	1	TNL	TNL	0	0	0
-1445	46	singleton	0	1	TNL	TNL	0	0	0
-1446	134	singleton	0	1	CNL	CNL	0	0	0
-1447	117	singleton	0	1	RNL	RNX	0	0	1
-1448	7	singleton	0	1	CNL	CNL	0	0	0
-1449	12	singleton	0	1	NL	N	0	0	0
-1450	N/A	singleton	0	1	TNL	TN	0	0	0
-1451	34	singleton	0	1	TNL	TN	0	0	0
-1452	28	singleton	0	1	TNL	TNL	0	0	0
-1453	N/A	singleton	0	1	NL	N	0	0	0
-1454	72	singleton	0	1	NL	N	0	0	0
-1455	184	singleton	0	1	TNL	TNL	0	0	0
-1456	250	singleton	0	1	NL	N	0	0	0
-1457	79	singleton	0	1	TNL	TNLX	0	0	1
-1458	43	singleton	0	1	NL	NLX	1	0	1
-1459	228	singleton	0	1	CNL	CN	0	0	0
-1460	69	singleton	0	1	TNL	TNL	0	0	0
-1461	N/A	singleton	0	1	NL	N	0	0	0
-1462	102	singleton	0	1	NL	NL	0	0	0
-1463	N/A	singleton	0	1	TNL	T	0	0	0
-1464	118	singleton	0	1	TNL	T	0	0	0
-1465	16	singleton	0	1	TNL	TNL	0	0	0
-1466	135	singleton	0	1	NL	N	0	0	0
-1467	7	singleton	0	1	CNL	CN	0	0	0
-1468	167	singleton	0	1	TNL	T	0	0	0
-1469	N/A	singleton	0	1	TNL	T	0	0	0
-1470	76	singleton	0	1	NL	N	0	0	0
-1471	108	singleton	0	1	RNL	R	0	0	0
-1472	131	singleton	0	1	TNL	T	0	0	0
-1473	186	singleton	0	1	NL	N	0	0	0
-1474	7	singleton	0	1	CNL	CNL	0	0	0
-1475	N/A	singleton	0	1	NL	N	0	0	0
-1476	16	singleton	0	1	TNL	TNL	0	0	0
-1477	176	singleton	0	1	TNL	TNL	0	0	0
-1478	81	singleton	0	1	TNL	TNL	0	1	0
-1479	N/A	singleton	0	1	TNL	TN	0	0	0
-1481	8	singleton	0	1	CNL	CNL	0	0	0
-1482	12	singleton	0	1	NL	N	0	0	0
-1483	4	singleton	0	1	NL	NL	0	0	0
-1484	N/A	singleton	0	1	TNL	TN	0	0	0
-1485	176	singleton	0	1	TNL	TNL	0	0	0
-1486	14	singleton	0	1	NL	N	0	0	0
-1487	71	singleton	0	1	TNL	TNL	0	0	0
-1488	259	singleton	0	1	TNL	T	0	0	0
-1489	N/A	singleton	0	1	TNL	T	0	0	0
-1490	179	singleton	0	1	TNL	TNL	0	0	0
-1491	14	singleton	0	1	NL	N	0	0	0
-1492	180	singleton	0	1	TNL	TNL	0	0	0
-1493	N/A	singleton	0	1	TNL	T	0	0	0
-1494	39	singleton	0	1	TNL	TNL	0	0	0
-1495	48	singleton	0	1	NL	NL	0	0	0
-1496	101	singleton	0	1	NL	N	0	0	0
-1497	128	singleton	0	1	TNL	TNL	0	0	0
-1498	38	singleton	0	1	TNL	TN	0	0	0
-1499	228	singleton	0	1	CNL	CN	0	0	0
-1500	N/A	singleton	0	1	NL	NL	0	0	0
-1501	57	singleton	0	1	NL	NL	0	0	0
-1502	149	singleton	0	1	TNL	TNL	0	0	0
-1503	72	singleton	0	1	NL	N	0	0	0
-1504	N/A	singleton	0	1	TNL	TN	0	0	0
-1505	74	singleton	0	1	TNL	TNL	0	0	0
-1506	176	singleton	0	1	TNL	TNL	0	0	0
-1507	151	singleton	0	1	RNL	R	0	0	0
-1508	116	singleton	0	1	RNL	R	0	0	0
-1509	N/A	singleton	0	1	TNL	T	0	0	0
-1510	11	singleton	0	1	TNL	T	0	0	0
-1511	118	singleton	0	1	TNL	T	0	0	0
-1512	163	singleton	0	1	TNL	TNL	0	0	0
-1513	234	singleton	0	1	NL	N	0	0	0
-1514	85	singleton	0	1	NL	NL	0	0	0
-1516	153	singleton	0	1	TNL	TN	0	1	0
-1517	119	singleton	0	1	TNL	T	0	0	0
-1518	129	singleton	0	1	RNL	R	0	0	0
-1519	N/A	singleton	0	1	TNL	T	0	0	0
-1520	30	singleton	0	1	TNL	TNL	0	0	0
-1521	1	singleton	0	1	TNL	TNL	0	0	0
-1522	83	singleton	0	1	NL	NL	0	0	0
-1523	4	singleton	0	1	TNL	TNL	0	0	0
-1524	85	singleton	0	1	TNL	TNL	0	0	0
-1525	12	singleton	0	1	CNL	CN	0	0	0
-1526	18	singleton	0	1	TNL	TN	0	0	0
-1527	11	singleton	0	1	TNL	T	0	0	0
-1528	41	singleton	0	1	TNL	TNLX	1	0	1
-1529	45	singleton	0	1	TNL	T	0	0	0
-1530	14	singleton	0	1	CNL	CN	0	0	0
-1531	10	singleton	0	1	TNL	TNL	0	0	0
-1532	56	singleton	0	1	CNL	CN	0	0	0
-1533	N/A	singleton	0	1	TNL	T	0	0	0
-1534	1	singleton	0	1	TNL	TNL	0	0	0
-1535	44	singleton	0	1	TNL	TNL	0	0	0
-1536	148	singleton	0	1	TNL	T	0	1	0
-1537	1	singleton	0	1	TNL	TNL	0	0	0
-1538	65	singleton	0	1	NL	N	0	0	0
-1539	N/A	singleton	0	1	NL	N	0	0	0
-1540	45	singleton	0	1	TNL	T	0	0	0
-1541	79	singleton	0	1	TNL	TNL	0	0	0
-1542	N/A	singleton	0	1	NL	NL	0	0	0
-1543	120	singleton	0	1	NL	NL	0	0	0
-1544	N/A	singleton	0	1	TNL	T	0	1	0
-1545	234	singleton	0	1	NL	NL	0	0	0
-1546	16	singleton	0	1	TNL	TNL	0	0	0
-1547	282	singleton	0	1	CNL	CNL	0	0	0
-1548	55	singleton	0	1	RNL	RN	0	0	0
-1549	N/A	singleton	0	1	NL	N	0	0	0
-1550	2	singleton	0	1	RNL	R	0	0	0
-1551	120	singleton	0	1	TNL	TN	0	0	0
-1552	2	singleton	0	1	RNL	R	0	0	0
-1553	N/A	singleton	0	1	NL	N	0	0	0
-1554	7	singleton	0	1	CNL	CNL	0	0	0
-1555	180	singleton	0	1	TNL	TN	0	0	0
-1556	60	singleton	0	1	NL	NL	0	0	0
-1557	6	singleton	0	1	CNL	CN	0	0	0
-1558	163	singleton	0	1	TNL	TNL	0	0	0
-1559	98	singleton	0	1	TNL	T	0	0	0
-1560	157	singleton	0	1	TNL	TN	0	0	0
-1561	271	singleton	0	1	CNL	CNL	0	0	0
-1562	102	singleton	0	1	TNL	TN	0	0	0
-1563	N/A	singleton	0	1	CNL	CN	0	0	0
-1564	128	singleton	0	1	TNL	TNL	0	0	0
-1565	N/A	singleton	0	1	CNL	CN	0	0	0
-1566	2	singleton	0	1	RNL	R	0	0	0
-1567	22	singleton	0	1	NL	N	0	1	0
-1568	45	singleton	0	1	TNL	T	0	0	0
-1569	3	singleton	0	1	CNL	CNL	0	0	0
-1570	85	singleton	0	1	TNL	TNL	0	1	0
-1571	3	singleton	0	1	CNL	CNL	0	0	0
-1572	40	singleton	0	1	TNL	TNL	0	0	0
-1573	72	singleton	0	1	NL	N	0	0	0
-1574	138	singleton	0	1	TNL	TNL	0	0	0
-1575	8	singleton	0	1	CNL	CN	0	0	0
-1576	143	singleton	0	1	TNL	TNL	0	0	0
-1577	28	singleton	0	1	TNL	TNL	0	0	0
-1578	135	singleton	0	1	NL	N	0	0	0
-1579	4	singleton	0	1	TNL	TNL	0	0	0
-1580	174	singleton	0	1	NL	NL	0	0	0
-1581	N/A	singleton	0	1	RNL	R	0	0	0
-1582	110	singleton	0	1	TNL	TNL	0	1	0
-1583	81	singleton	0	1	TNL	TNL	0	0	0
-1584	29	singleton	0	1	TNL	T	0	0	0
-1585	N/A	singleton	0	1	TNL	TN	0	0	0
-1586	111	singleton	0	1	TNL	T	0	0	0
-1587	226	singleton	0	1	NL	N	0	0	0
-1588	N/A	singleton	0	1	TNL	TNL	0	0	0
-1589	7	singleton	0	1	NL	NL	0	0	0
-1590	11	singleton	0	1	TNL	T	0	0	0
-1591	220	singleton	0	1	TNL	T	0	0	0
-1592	6	singleton	0	1	CNL	CN	0	0	0
-1593	16	singleton	0	1	TNL	TNL	0	0	0
-1594	N/A	singleton	0	1	NL	N	0	0	0
-1595	27	singleton	0	1	NL	N	0	0	0
-1596	15	singleton	0	1	NL	N	0	0	0
-1597	228	singleton	0	1	CNL	CN	0	0	0
-1598	2	singleton	0	1	RNL	R	0	0	0
-1599	253	singleton	0	1	TNL	TNL	0	0	0
-1600	8	singleton	0	1	CNL	CN	0	0	0
-1601	86	singleton	0	1	TNL	T	0	0	0
-1602	69	singleton	0	1	TNL	TNL	0	0	0
-1603	17	singleton	0	1	CNL	CN	0	0	0
-1604	1	singleton	0	1	TNL	TNL	0	0	0
-1605	41	singleton	0	1	TNL	TNLX	1	0	1
-1606	46	singleton	0	1	TNL	TNL	0	0	0
-1607	105	singleton	0	1	TNL	TNL	0	0	0
-1608	N/A	singleton	0	1	TNL	T	0	1	0
-1609	134	singleton	0	1	CNL	CN	0	0	0
-1610	138	singleton	0	1	TNL	TNL	0	0	0
-1611	34	singleton	0	1	TNL	TN	0	0	0
-1612	142	singleton	0	1	TNL	TN	0	0	0
-1613	12	singleton	0	1	NL	N	0	0	0
-1614	137	singleton	0	1	TNL	TNL	0	0	0
-1615	63	singleton	0	1	TNL	TNL	0	0	0
-1616	285	singleton	0	1	TNL	T	0	0	0
-1617	76	singleton	0	1	NL	N	0	0	0
-1618	3	singleton	0	1	CNL	CNL	0	0	0
-1619	108	singleton	0	1	RNL	R	0	0	0
-1620	104	singleton	0	1	NL	N	0	0	0
-1621	N/A	singleton	0	1	TNL	T	0	0	0
-1622	1	singleton	0	1	TNL	TNL	0	0	0
-1623	134	singleton	0	1	CNL	CNL	0	0	0
-1624	13	singleton	0	1	TNL	TN	0	0	0
-1625	22	singleton	0	1	NL	N	0	0	0
-1626	212	singleton	0	1	TNL	TN	0	0	0
-1627	99	singleton	0	1	TNL	TNL	0	0	0
-1628	297	singleton	0	1	TNL	TNL	0	0	0
-1629	74	singleton	0	1	TNL	TNL	0	0	0
-1630	N/A	singleton	0	1	TNL	TL	0	0	0
-1631	161	singleton	0	1	NL	NL	0	0	0
-1632	38	singleton	0	1	TNL	TN	0	0	0
-1633	50	singleton	0	1	TNL	TNL	0	0	0
-1634	49	singleton	0	1	CNL	CNX	0	1	1
-1635	20	singleton	0	1	TNL	TNL	0	0	0
-1636	N/A	singleton	0	1	TNL	T	0	0	0
-1637	N/A	singleton	0	1	NL	N	0	0	0
-1638	31	singleton	0	1	RNL	RCNL	0	0	0
-1639	N/A	singleton	0	1	CNL	CN	0	0	0
-1640	147	singleton	0	1	TNL	TN	0	0	0
-1641	6	singleton	0	1	CNL	CN	0	0	0
-1642	121	singleton	0	1	TNL	T	0	0	0
-1643	2	singleton	0	1	RNL	R	0	0	0
-1644	54	singleton	0	1	NL	N	0	0	0
-1645	87	singleton	0	1	TNL	T	0	0	0
-1646	52	singleton	0	1	TNL	TX	0	0	1
-1647	163	singleton	0	1	TNL	TNL	0	0	0
-1648	64	singleton	0	1	NL	NL	0	0	0
-1649	8	singleton	0	1	CNL	CNL	0	0	0
-1650	61	singleton	0	1	NL	N	0	0	0
-1651	2	singleton	0	1	RNL	R	0	0	0
-1652	11	singleton	0	1	TNL	T	0	0	0
-1653	N/A	singleton	0	1	NL	N	0	0	0
-1654	N/A	singleton	0	1	TNL	T	0	0	0
-1655	61	singleton	0	1	NL	N	0	0	0
-1656	191	singleton	0	1	NL	N	0	0	0
-1657	43	singleton	0	1	NL	NLX	1	0	1
-1658	N/A	singleton	0	1	TNL	TNL	0	0	0
-1659	64	singleton	0	1	TNL	TNL	0	0	0
-1660	70	singleton	0	1	NL	NL	0	0	0
-1661	35	singleton	0	1	NL	N	0	0	0
-1662	73	singleton	0	1	TNL	TNL	0	0	0
-1663	74	singleton	0	1	TNL	TN	0	0	0
-1664	176	singleton	0	1	TNL	TNL	0	0	0
-1665	217	singleton	0	1	NL	N	0	0	0
-1666	4	singleton	0	1	TNL	TNL	0	0	0
-1667	13	singleton	0	1	TNL	TN	0	0	0
-1668	N/A	singleton	0	1	NL	N	0	0	0
-1669	298	singleton	0	1	CNL	CNL	0	0	0
-1670	34	singleton	0	1	TNL	T	0	0	0
-1671	82	singleton	0	1	NL	NL	1	0	0
-1672	90	singleton	0	1	TNL	TNL	0	0	0
-1673	184	singleton	0	1	NL	NL	0	0	0
-1674	96	singleton	0	1	TNL	TNL	1	0	0
-1675	52	singleton	0	1	TNL	T	0	0	0
-1676	157	singleton	0	1	TNL	T	0	0	0
-1677	3	singleton	0	1	CNL	CNL	0	0	0
-1678	7	singleton	0	1	CNL	CNL	0	0	0
-1679	N/A	singleton	0	1	NL	N	0	0	0
-1680	6	singleton	0	1	CNL	CN	0	0	0
-1681	3	singleton	0	1	CNL	CNL	0	0	0
-1682	7	singleton	0	1	CNL	CNL	0	0	0
-1683	163	singleton	0	1	NL	NL	0	0	0
-1684	N/A	singleton	0	1	TNL	TL	0	0	0
-1685	N/A	singleton	0	1	TNL	T	0	0	0
-1686	92	singleton	0	1	TNL	TNL	0	0	0
-1687	146	singleton	0	1	NL	N	0	0	0
-1688	65	singleton	0	1	NL	NL	0	0	0
-1689	6	singleton	0	1	NL	N	0	0	0
-1690	166	singleton	0	1	TNL	TNL	0	0	0
-1691	N/A	singleton	0	1	TNL	T	0	0	0
-1692	N/A	singleton	0	1	TNL	TN	0	0	0
-1693	N/A	singleton	0	1	TNL	T	0	0	0
-1694	5	singleton	0	1	TNL	TNL	0	0	0
-1695	320	singleton	0	1	TNL	TL	0	0	0
-1696	10	singleton	0	1	TNL	TNL	0	0	0
-1697	N/A	singleton	0	1	TNL	T	0	0	0
-1698	N/A	singleton	0	1	TNL	T	0	0	0
-1699	N/A	singleton	0	1	RNL	R	0	0	0
-1700	5	singleton	0	1	TNL	TNL	0	0	0
-1701	N/A	singleton	0	1	TNL	T	0	0	0
-1702	212	singleton	0	1	TNL	TN	0	0	0
-1703	38	singleton	0	1	TNL	TN	0	0	0
-1704	N/A	singleton	0	1	TNL	T	0	0	0
-1705	134	singleton	0	1	CNL	CNL	0	0	0
-1706	90	singleton	0	1	TNL	TNL	0	0	0
-1707	30	singleton	0	1	TNL	TN	0	0	0
-1708	134	singleton	0	1	NL	NL	0	0	0
-1709	124	singleton	0	1	TNL	T	0	0	0
-1710	N/A	singleton	0	1	CNL	CNL	0	0	0
-1711	108	singleton	0	1	RNL	R	0	0	0
-1712	35	singleton	0	1	NL	N	0	0	0
-1713	72	singleton	0	1	NL	N	0	0	0
-1714	N/A	singleton	0	1	NL	N	0	0	0
-1715	123	singleton	0	1	TNL	T	0	0	0
-1716	7	singleton	0	1	CNL	CN	0	0	0
-1717	7	singleton	0	1	CNL	CNL	0	0	0
-1718	165	singleton	0	1	TNL	TNL	0	0	0
-1719	5	singleton	0	1	TNL	TN	0	0	0
-1720	151	singleton	0	1	RNL	R	0	0	0
-1721	11	singleton	0	1	TNL	T	0	0	0
-1722	151	singleton	0	1	RNL	R	0	0	0
-1723	63	singleton	0	1	NL	NL	0	0	0
-1724	17	singleton	0	1	CNL	CN	0	0	0
-1725	55	singleton	0	1	RNL	RN	0	0	0
-1726	201	singleton	0	1	TNL	TN	0	1	0
-1727	15	singleton	0	1	NL	N	0	0	0
-1728	15	singleton	0	1	NL	N	0	0	0
-1729	148	singleton	0	1	TNL	TL	0	1	0
-1730	134	singleton	0	1	NL	NL	0	0	0
-1731	43	singleton	0	1	NL	NLX	1	0	1
-1732	10	singleton	0	1	TNL	TNL	0	0	0
-1733	49	singleton	0	1	CNL	CNX	0	1	1
-1734	39	singleton	0	1	TNL	TNL	0	0	0
-1735	11	singleton	0	1	TNL	T	0	0	0
-1736	176	singleton	0	1	TNL	TNL	0	0	0
-1737	187	singleton	0	1	NL	NL	0	0	0
-1738	76	singleton	0	1	NL	N	0	0	0
-1739	166	singleton	0	1	NL	NL	0	0	0
-1740	58	singleton	0	1	RNL	R	0	0	0
-1741	62	singleton	0	1	TNL	T	0	0	0
-1742	50	singleton	0	1	TNL	TNL	0	0	0
-1743	11	singleton	0	1	TNL	T	0	0	0
-1744	247	singleton	0	1	RNL	R	0	0	0
-1745	6	singleton	0	1	CNL	CN	0	0	0
-1746	11	singleton	0	1	TNL	T	0	0	0
-1747	5	singleton	0	1	TNL	TNL	0	0	0
-1748	1	singleton	0	1	TNL	TNL	0	0	0
-1749	88	singleton	0	1	TNL	TNL	0	0	0
-1750	82	singleton	0	1	NL	NL	0	0	0
-1751	184	singleton	0	1	TNL	TNL	0	0	0
-1752	N/A	singleton	0	1	TNL	T	0	0	0
-1753	2	singleton	0	1	RNL	R	0	0	0
-1754	124	singleton	0	1	TNL	T	0	0	0
-1755	1	singleton	0	1	TNL	TNL	0	0	0
-1756	28	singleton	0	1	TNL	TNL	0	0	0
-1757	111	singleton	0	1	TNL	T	0	0	0
-1758	N/A	singleton	0	1	NL	N	0	0	0
-1759	88	singleton	0	1	NL	NL	0	0	0
-1760	62	singleton	0	1	TNL	T	0	0	0
-1761	88	singleton	0	1	TNL	TNL	0	0	0
-1762	76	singleton	0	1	NL	N	0	0	0
-1763	181	singleton	0	1	TNL	TNL	0	0	0
-1764	4	singleton	0	1	TNL	TNL	0	0	0
-1765	43	singleton	0	1	NL	NLX	1	0	1
-1766	204	singleton	0	1	TNL	TNL	0	1	0
-1767	122	singleton	0	1	TNL	TN	0	0	0
-1768	6	singleton	0	1	CNL	CN	0	0	0
-1769	10	singleton	0	1	TNL	TNL	0	0	0
-1770	241	singleton	0	1	TNL	TNL	0	0	0
-1771	3	singleton	0	1	CNL	CNL	0	0	0
-1772	9	singleton	0	1	CNL	CN	0	0	0
-1773	2	singleton	0	1	RNL	R	0	0	0
-1774	51	singleton	0	1	TNL	T	0	0	0
-1775	111	singleton	0	1	TNL	TN	0	0	0
-1776	4	singleton	0	1	TNL	TNL	0	0	0
-1777	N/A	singleton	0	1	RNL	R	0	0	0
-1778	3	singleton	0	1	CNL	CNL	0	0	0
-1779	203	singleton	0	1	TNL	T	0	0	0
-1780	279	singleton	0	1	NL	NL	0	0	0
-1781	N/A	singleton	0	1	TNL	T	0	0	0
-1782	167	singleton	0	1	TNL	T	0	0	0
-1783	48	singleton	0	1	NL	N	0	0	0
-1784	23	singleton	0	1	TNL	TNL	0	0	0
-1785	8	singleton	0	1	CNL	CN	0	0	0
-1786	72	singleton	0	1	NL	N	0	0	0
-1787	105	singleton	0	1	TNL	TNL	0	0	0
-1788	185	singleton	0	1	TNL	T	0	0	0
-1789	102	singleton	0	1	TNL	TN	0	0	0
-1790	12	singleton	0	1	NL	N	0	0	0
-1791	11	singleton	0	1	TNL	T	0	0	0
-1792	33	singleton	0	1	NL	N	0	0	0
-1793	118	singleton	0	1	TNL	T	0	0	0
-1794	N/A	singleton	0	1	TNL	T	0	0	0
-1795	237	singleton	0	1	NL	N	0	0	0
-1796	163	singleton	0	1	TNL	TNL	0	0	0
-1798	165	singleton	0	1	TNL	TNL	0	0	0
-1799	4	singleton	0	1	TNL	TNL	0	0	0
-1800	190	singleton	0	1	TNL	TNL	0	0	0
-1801	11	singleton	0	1	TNL	T	0	0	0
-1802	N/A	singleton	0	1	TNL	T	0	0	0
-1803	155	singleton	0	1	NL	NL	0	0	0
-1804	185	singleton	0	1	TNL	T	0	0	0
-1805	N/A	singleton	0	1	NL	N	0	0	0
-1806	8	singleton	0	1	CNL	CNL	0	0	0
-1807	11	singleton	0	1	TNL	T	0	0	0
-1808	16	singleton	0	1	NL	NL	0	0	0
-1809	N/A	singleton	0	1	TNL	T	0	0	0
-1810	N/A	singleton	0	1	TNL	TN	0	0	0
-1811	15	singleton	0	1	NL	N	0	0	0
-1812	133	singleton	0	1	NL	NL	0	0	0
-1813	48	singleton	0	1	NL	N	0	0	0
-1814	N/A	singleton	0	1	TNL	T	0	0	0
-1815	163	singleton	0	1	TNL	TNL	0	0	0
-1816	N/A	singleton	0	1	NL	NL	0	0	0
-1817	236	singleton	0	1	NL	NL	0	0	0
-1818	6	singleton	0	1	CNL	CN	0	0	0
-1819	179	singleton	0	1	TNL	TNL	0	0	0
-1820	35	singleton	0	1	NL	N	0	0	0
-1821	69	singleton	0	1	TNL	TNL	0	0	0
-1822	192	singleton	0	1	TNL	TX	0	0	1
-1823	123	singleton	0	1	TNL	T	0	0	0
-1824	20	singleton	0	1	TNL	TNL	0	0	0
-1825	147	singleton	0	1	NL	N	0	0	0
-1826	44	singleton	0	1	TNL	TNL	0	0	0
-1827	2	singleton	0	1	RNL	R	0	0	0
-1828	18	singleton	0	1	TNL	TNL	1	0	0
-1829	12	singleton	0	1	NL	N	0	0	0
-1830	6	singleton	0	1	CNL	CN	0	0	0
+idnew	idold	status	use	NLRs	majorclass	majorsubclass	pairs	putpairs	IDs	paralogs_ogold
+4.14	4	orthogroup	1	10	TNL	TNL	0	0	0	both
+6.18	6	orthogroup	1	17	CNL	CN	0	0	0	both
+7.17	7	orthogroup	1	9	CNL	CNL	0	0	0	complex
+24.1	24	orthogroup	1	63	TNL	TN	0	0	0	none
+102.6	102	orthogroup	1	21	TNL	TNL	0	0	0	none
+16.5	16	orthogroup	1	7	TNL	TNL	0	0	0	both
+10.5	10	orthogroup	1	24	TNL	TNL	0	0	1	complex
+318.1	318	orthogroup	1	4	NL	N	0	0	0	none
+373	373	orthogroup	0	2	TNL	TN	0	0	0	none
+102.10	102	orthogroup	1	6	TNL	TN	0	0	0	none
+188.3	188	orthogroup	1	5	CNL	CN	0	0	0	complex
+141.1	141	orthogroup	1	48	TNL	TL	0	0	0	none
+14.1	14	orthogroup	1	38	CNL	CN	0	0	0	complex
+43.3	43	orthogroup	1	12	NL	NLX	9	0	12	complex
+230.1	230	orthogroup	1	16	TNL	TNL	0	0	0	none
+66.1	66	orthogroup	1	58	CNL	CNL	0	0	0	none
+170.1	170	orthogroup	1	27	TNL	TNL	0	0	0	complex
+223.1	223	orthogroup	1	18	TNL	TN	0	0	0	none
+61.1	61	orthogroup	1	56	CNL	CN	0	0	0	none
+122.1	122	orthogroup	1	7	TNL	TN	0	0	0	complex
+283.1	283	orthogroup	1	7	TNL	T	0	0	0	none
+38.1	38	orthogroup	1	57	TNL	TN	0	0	0	none
+340	340	orthogroup	0	3	TNL	T	0	0	0	none
+163.7	163	orthogroup	1	7	TNL	TNL	0	0	0	both
+415	415	orthogroup	0	2	NL	N	0	0	0	none
+265.1	265	orthogroup	1	8	RNL	R	0	0	0	none
+2.45	2	orthogroup	1	5	RNL	R	0	0	0	both
+21.3	21	orthogroup	1	5	TNL	TNL	4	0	0	complex
+13.3	13	orthogroup	1	4	TNL	TN	0	3	0	complex
+96.1	96	orthogroup	1	54	TNL	TNL	43	5	0	none
+303.1	303	orthogroup	1	4	CNL	CNL	0	0	0	none
+269.1	269	orthogroup	1	7	CNL	CNL	0	0	0	none
+226.1	226	orthogroup	1	14	NL	N	0	0	0	simple
+275.1	275	orthogroup	1	8	TNL	T	0	0	1	none
+76.1	76	orthogroup	1	52	NL	N	0	0	0	none
+123.1	123	orthogroup	1	52	TNL	T	0	0	0	none
+135.6	135	orthogroup	1	3	NL	N	0	0	0	both
+1.3	1	orthogroup	1	19	TNL	TNL	0	0	0	both
+412	412	orthogroup	0	2	CNL	CN	0	0	0	none
+289.1	289	orthogroup	1	5	CNL	CN	0	0	0	none
+398	398	orthogroup	0	2	RNL	R	0	0	0	none
+23.1	23	orthogroup	1	6	TNL	TNL	0	0	0	both
+334	334	orthogroup	0	3	TNL	TNL	0	0	0	none
+23.5	23	orthogroup	1	11	TNL	TNL	0	0	0	both
+108.1	108	orthogroup	1	6	RNL	R	0	0	0	both
+15.1	15	orthogroup	1	10	NL	N	0	0	0	both
+99.2	99	orthogroup	1	34	TNL	TNL	0	0	0	simple
+174.1	174	orthogroup	1	35	NL	NL	0	0	0	none
+78.1	78	orthogroup	1	57	TNL	TNL	56	0	0	none
+126.1	126	orthogroup	1	53	NL	N	0	0	0	none
+114	114	orthogroup	0	58	NL	N	0	0	0	complex
+138.1	138	orthogroup	1	47	TNL	TNL	0	0	0	none
+188.2	188	orthogroup	1	24	NL	N	0	0	0	complex
+124.1	124	orthogroup	1	48	TNL	TX	0	0	43	none
+281.1	281	orthogroup	1	7	TNL	TNL	0	0	0	none
+2.30	2	orthogroup	1	4	RNL	R	0	0	0	both
+64.1	64	orthogroup	1	57	TNL	TNL	0	0	0	none
+139.1	139	orthogroup	1	50	NL	N	0	0	0	none
+11.18	11	orthogroup	1	24	TNL	T	0	0	0	both
+233.1	233	orthogroup	1	16	TNL	TL	0	0	0	none
+190.1	190	orthogroup	1	29	TNL	TNL	0	0	0	none
+151.1	151	orthogroup	1	12	RNL	R	0	0	0	both
+55.1	55	orthogroup	1	53	RNL	RN	0	0	0	none
+2.19	2	orthogroup	1	8	RNL	R	0	0	0	both
+13.2	13	orthogroup	1	46	TNL	TN	0	42	0	complex
+30.1	30	orthogroup	1	56	TNL	TNL	0	0	0	complex
+102.1	102	orthogroup	1	4	TNL	TN	0	0	0	none
+311	311	orthogroup	0	3	TNL	T	0	0	1	none
+263.1	263	orthogroup	1	8	CNL	CN	0	0	0	none
+6.1	6	orthogroup	1	5	CNL	CN	0	0	0	both
+21.1	21	orthogroup	1	5	TNL	TNL	5	0	0	complex
+216.3	216	orthogroup	1	9	TNL	TNL	0	0	0	complex
+228.1	228	orthogroup	1	10	CNL	CN	0	0	0	simple
+93.1	93	orthogroup	1	24	NL	N	0	0	0	simple
+152.2	152	orthogroup	1	7	CNL	CNL	0	0	0	complex
+16.10	16	orthogroup	1	4	NL	NL	0	0	0	both
+6.4	6	orthogroup	1	4	CNL	CN	0	0	0	both
+54.1	54	orthogroup	1	60	NL	N	0	0	1	simple
+119.2	119	orthogroup	1	3	TNL	T	0	0	0	simple
+12.3	12	orthogroup	1	4	CNL	CN	0	0	0	complex
+58.1	58	orthogroup	1	61	RNL	R	0	0	0	none
+10.9	10	orthogroup	1	9	TNL	TNL	0	0	0	complex
+248.1	248	orthogroup	1	11	TNL	T	0	0	0	none
+148.1	148	orthogroup	1	44	TNL	TNL	0	33	0	none
+3.8	3	orthogroup	1	4	CNL	CNL	0	0	0	both
+108.2	108	orthogroup	1	20	RNL	R	0	0	0	both
+144.1	144	orthogroup	1	48	TNL	T	2	0	0	none
+3.19	3	orthogroup	1	8	CNL	CNL	0	0	0	both
+335	335	orthogroup	0	3	CNL	CN	0	0	1	none
+1.14	1	orthogroup	1	7	TNL	TNL	0	0	0	both
+134.6	134	orthogroup	1	9	NL	NL	0	0	0	both
+301.1	301	orthogroup	1	4	CNL	CNL	0	0	0	none
+153.1	153	orthogroup	1	45	TNL	TNL	0	40	0	none
+97.1	97	orthogroup	1	56	CNL	CNL	0	0	0	none
+257.1	257	orthogroup	1	9	TNL	TNL	0	0	0	none
+177.1	177	orthogroup	1	34	TNL	T	0	0	0	none
+122.5	122	orthogroup	1	5	TNL	TN	0	0	0	complex
+321.1	321	orthogroup	1	4	NL	NL	0	0	0	none
+320.1	320	orthogroup	1	3	TNL	TL	0	0	0	none
+106	106	orthogroup	0	60	TNL	TNL	23	1	0	none
+326.1	326	orthogroup	1	4	NL	N	0	0	0	none
+48.1	48	orthogroup	1	59	TNL	TNL	21	1	0	none
+271.1	271	orthogroup	1	7	CNL	CNL	0	0	0	none
+37.1	37	orthogroup	1	63	TNL	TNL	0	0	0	none
+109.1	109	orthogroup	1	54	CNL	CNL	0	1	0	none
+71.1	71	orthogroup	1	57	TNL	TNL	0	0	0	none
+104.1	104	orthogroup	1	8	NL	N	0	0	0	complex
+21.4	21	orthogroup	1	6	TNL	TNL	6	0	0	complex
+234.1	234	orthogroup	1	9	TNL	TN	0	0	0	complex
+246.1	246	orthogroup	1	13	TNL	TN	0	0	0	none
+180.1	180	orthogroup	1	22	TNL	TNL	0	0	2	both
+202.1	202	orthogroup	1	23	TNL	T	0	0	0	none
+210.1	210	orthogroup	1	22	CNL	CNL	0	0	0	none
+2.22	2	orthogroup	1	12	RNL	R	0	0	0	both
+372	372	orthogroup	0	2	TNL	NL	0	0	0	none
+146.1	146	orthogroup	1	46	TNL	TN	0	0	0	none
+28.1	28	orthogroup	1	59	TNL	TNL	0	0	0	none
+259.1	259	orthogroup	1	9	TNL	T	0	0	0	none
+135.1	135	orthogroup	1	9	NL	N	0	0	0	both
+86.1	86	orthogroup	1	60	TNL	TN	0	0	0	none
+337	337	orthogroup	0	3	TNL	TNL	0	0	0	none
+3.10	3	orthogroup	1	9	CNL	CNL	0	0	0	both
+117.3	117	orthogroup	1	4	RNL	RNX	0	0	4	complex
+277.1	277	orthogroup	1	7	TNL	TNL	0	0	0	none
+130.1	130	orthogroup	1	54	CNL	CNLX	23	17	33	none
+183.1	183	orthogroup	1	31	TNL	TNL	0	0	0	none
+7.2	7	orthogroup	1	6	CNL	CNL	0	0	0	complex
+9.3	9	orthogroup	1	4	NL	N	0	0	0	complex
+9.5	9	orthogroup	1	29	NL	N	0	0	0	complex
+12.1	12	orthogroup	1	14	CNL	CN	0	0	0	complex
+225.1	225	orthogroup	1	16	TNL	TNL	0	0	0	none
+313.1	313	orthogroup	1	5	CNL	CN	0	0	0	none
+2.52	2	orthogroup	1	10	RNL	R	0	0	0	both
+128.1	128	orthogroup	1	51	TNL	TNL	0	0	2	none
+231.1	231	orthogroup	1	15	TNL	T	0	0	0	none
+227.1	227	orthogroup	1	18	TNL	T	0	0	0	none
+10.2	10	orthogroup	1	23	TNL	TNL	0	0	0	complex
+1.1	1	orthogroup	1	3	TNL	TNL	0	0	0	both
+135.12	135	orthogroup	1	7	NL	TNL	0	1	0	both
+6.7	6	orthogroup	1	6	CNL	CN	0	0	0	both
+238.1	238	orthogroup	1	6	NL	NL	0	0	0	complex
+181.2	181	orthogroup	1	5	TNL	TNL	0	0	0	complex
+4.7	4	orthogroup	1	10	TNL	TNL	0	0	0	both
+252.1	252	orthogroup	1	10	CNL	CN	0	0	0	none
+6.6	6	orthogroup	1	21	CNL	CN	0	0	0	both
+120.7	120	orthogroup	1	22	TNL	TNL	0	3	0	both
+46.1	46	orthogroup	1	58	TNL	TNL	0	0	0	none
+343	343	orthogroup	0	3	TNL	T	0	2	0	none
+242.1	242	orthogroup	1	14	TNL	TN	0	0	0	none
+397	397	orthogroup	0	2	TNL	T	1	0	0	none
+176.8	176	orthogroup	1	4	TNL	TNL	0	0	0	both
+1.27	1	orthogroup	1	4	TNL	TNL	0	0	0	both
+212.9	212	orthogroup	1	5	TNL	TNL	0	0	0	both
+17.5	17	orthogroup	1	11	NL	N	0	0	0	complex
+108.9	108	orthogroup	1	6	RNL	R	0	0	0	both
+21.2	21	orthogroup	1	38	TNL	TNL	38	0	14	complex
+7.22	7	orthogroup	1	5	CNL	CNL	0	0	0	complex
+336	336	orthogroup	0	3	TNL	T	0	0	0	none
+1.11	1	orthogroup	1	8	TNL	TNL	0	0	0	both
+406	406	orthogroup	0	2	TNL	T	0	0	0	none
+236.1	236	orthogroup	1	12	TNL	TNL	0	0	0	none
+280.1	280	orthogroup	1	7	CNL	CN	0	0	0	none
+224.1	224	orthogroup	1	16	TNL	TN	0	0	0	none
+17.6	17	orthogroup	1	8	CNL	CN	0	0	0	complex
+13.9	13	orthogroup	1	7	TNL	TN	0	6	0	complex
+338	338	orthogroup	0	3	CNL	CNL	0	0	0	none
+1.34	1	orthogroup	1	6	TNL	TNL	0	0	0	both
+279.1	279	orthogroup	1	6	CNL	CNL	0	0	0	none
+17.3	17	orthogroup	1	6	CNL	CN	0	0	0	complex
+11.5	11	orthogroup	1	3	TNL	T	0	0	0	both
+136	136	orthogroup	0	50	TNL	T	0	3	0	none
+369	369	orthogroup	0	2	TNL	T	0	0	0	none
+290.1	290	orthogroup	1	6	NL	NL	0	0	0	none
+34.1	34	orthogroup	1	55	TNL	TN	0	0	0	none
+12.4	12	orthogroup	1	9	CNL	CN	0	0	0	complex
+18.4	18	orthogroup	1	12	TNL	TNL	10	0	0	complex
+151.11	151	orthogroup	1	4	RNL	R	0	0	0	both
+7.4	7	orthogroup	1	7	CNL	CNL	0	0	0	complex
+407	407	orthogroup	0	2	TNL	T	0	1	0	none
+31.1	31	orthogroup	1	56	RNL	RCNL	0	0	0	complex
+4.11	4	orthogroup	1	4	TNL	TNL	0	0	0	both
+185.1	185	orthogroup	1	30	TNL	T	0	0	0	none
+43.1	43	orthogroup	1	9	NL	NLX	9	0	9	complex
+344	344	orthogroup	0	2	CNL	CN	0	0	0	none
+222.1	222	orthogroup	1	19	TNL	T	0	0	0	none
+6.3	6	orthogroup	1	8	CNL	CN	0	0	0	both
+273.1	273	orthogroup	1	8	CNL	CNL	0	0	0	none
+184.6	184	orthogroup	1	9	TNL	TNL	0	0	0	both
+1.28	1	orthogroup	1	8	TNL	TNL	0	0	0	both
+52.1	52	orthogroup	1	58	TNL	T	0	0	0	none
+307.1	307	orthogroup	1	4	TNL	T	0	0	0	none
+395	395	orthogroup	0	2	TNL	T	0	0	0	none
+12.2	12	orthogroup	1	12	CNL	CN	0	0	0	complex
+3.2	3	orthogroup	1	12	CNL	CNL	0	0	0	both
+42.3	42	orthogroup	1	6	TNL	TNL	0	0	0	complex
+25.1	25	orthogroup	1	12	NL	NL	0	12	0	both
+261.1	261	orthogroup	1	10	NL	N	0	0	0	none
+270.1	270	orthogroup	1	6	CNL	CN	0	0	0	none
+36.1	36	orthogroup	1	59	TNL	TNL	0	0	0	none
+346	346	orthogroup	0	3	CNL	CN	0	0	0	none
+17.2	17	orthogroup	1	7	CNL	CN	0	0	0	complex
+21.5	21	orthogroup	1	7	TNL	TNL	7	0	0	complex
+249.1	249	orthogroup	1	11	CNL	CNL	0	0	0	none
+39.1	39	orthogroup	1	60	TNL	TNL	0	0	0	none
+347	347	orthogroup	0	3	NL	NL	0	0	0	none
+355	355	orthogroup	0	3	TNL	T	0	0	0	none
+217.1	217	orthogroup	1	17	NL	N	0	0	0	none
+41.3	41	orthogroup	1	5	NL	NLX	0	0	5	complex
+312.1	312	orthogroup	1	5	NL	N	0	0	0	both
+3.4	3	orthogroup	1	26	CNL	CNL	0	1	0	both
+35.1	35	orthogroup	1	61	RNL	RN	0	0	0	none
+181.3	181	orthogroup	1	13	TNL	TNL	0	0	0	complex
+267.1	267	orthogroup	1	8	TNL	T	0	0	0	none
+81.1	81	orthogroup	1	56	TNL	TNL	0	53	0	none
+199.1	199	orthogroup	1	20	TNL	TX	0	0	20	none
+2.8	2	orthogroup	1	10	RNL	R	0	0	0	both
+262.1	262	orthogroup	1	5	TNL	T	0	0	0	both
+45.3	45	orthogroup	1	28	TNL	T	0	0	0	complex
+212.1	212	orthogroup	1	5	TNL	TN	0	0	0	both
+65.1	65	orthogroup	1	58	CNL	CNL	0	0	0	none
+214.1	214	orthogroup	1	10	TNL	TNL	0	0	0	none
+327.1	327	orthogroup	1	3	TNL	T	0	0	0	none
+181.4	181	orthogroup	1	7	TNL	TNL	0	0	0	complex
+77.2	77	orthogroup	1	22	TNL	TNL	0	0	0	complex
+165.8	165	orthogroup	1	6	TNL	TNL	0	0	0	complex
+72.1	72	orthogroup	1	57	NL	N	0	0	0	none
+13.5	13	orthogroup	1	5	TNL	TN	0	4	0	complex
+165.6	165	orthogroup	1	4	TNL	TNL	0	0	0	complex
+147.1	147	orthogroup	1	42	TNL	TN	0	33	0	none
+7.9	7	orthogroup	1	5	CNL	CNL	0	0	0	complex
+43.2	43	orthogroup	1	36	NL	NLX	34	0	35	complex
+91.1	91	orthogroup	1	58	TNL	TNL	23	16	0	none
+173.1	173	orthogroup	1	36	TNL	T	0	0	0	none
+6.13	6	orthogroup	1	12	CNL	CN	0	0	0	both
+63.1	63	orthogroup	1	57	TNL	TNL	0	0	0	none
+15.2	15	orthogroup	1	4	NL	CN	0	0	0	both
+100.1	100	orthogroup	1	56	TNL	TNL	0	0	0	none
+292.1	292	orthogroup	1	5	CNL	CNL	0	0	0	none
+235.1	235	orthogroup	1	15	TNL	T	0	0	0	none
+4.37	4	orthogroup	1	5	TNL	TNL	0	0	0	both
+77.3	77	orthogroup	1	29	TNL	TNL	0	0	0	complex
+25.3	25	orthogroup	1	3	NL	NL	0	3	0	both
+176.9	176	orthogroup	1	4	TNL	TNL	0	0	0	both
+348	348	orthogroup	0	3	TNL	TNL	0	0	0	none
+255.1	255	orthogroup	1	11	NL	NL	0	0	0	none
+135.9	135	orthogroup	1	10	NL	N	0	0	0	both
+103.1	103	orthogroup	1	56	NL	N	0	0	0	none
+392	392	orthogroup	0	2	RNL	R	0	0	0	none
+134.3	134	orthogroup	1	5	NL	CNL	0	0	0	both
+293.1	293	orthogroup	1	6	TNL	TNL	0	0	0	none
+381	381	orthogroup	0	2	NL	NL	0	0	0	none
+154.1	154	orthogroup	1	42	TNL	TNX	0	0	42	none
+16.12	16	orthogroup	1	5	TNL	TNL	0	0	0	both
+4.13	4	orthogroup	1	6	TNL	TNL	0	0	0	both
+3.11	3	orthogroup	1	4	CNL	CNL	0	0	0	both
+2.11	2	orthogroup	1	6	RNL	R	0	0	0	both
+11.29	11	orthogroup	1	5	TNL	T	0	0	0	both
+380	380	orthogroup	0	2	TNL	T	0	0	0	none
+300.1	300	orthogroup	1	4	CNL	CN	0	0	0	none
+375	375	orthogroup	0	2	TNL	T	0	0	0	none
+165.10	165	orthogroup	1	7	TNL	TNL	0	0	0	complex
+211.1	211	orthogroup	1	20	TNL	TNL	0	0	0	none
+212.4	212	orthogroup	1	4	TNL	TN	0	0	0	both
+256.1	256	orthogroup	1	11	TNL	T	0	2	0	none
+302.1	302	orthogroup	1	5	TNL	TNL	0	0	0	none
+122.3	122	orthogroup	1	21	TNL	T	0	0	0	complex
+169.1	169	orthogroup	1	36	TNL	TX	0	0	36	none
+59.1	59	orthogroup	1	61	RNL	RN	0	0	0	none
+382	382	orthogroup	0	2	NL	NL	0	0	0	none
+345	345	orthogroup	0	3	TNL	T	0	0	0	none
+157.1	157	orthogroup	1	40	TNL	TN	0	0	0	none
+15.7	15	orthogroup	1	8	CNL	CN	0	0	0	both
+284.1	284	orthogroup	1	6	TNL	TN	0	0	0	none
+215.1	215	orthogroup	1	21	TNL	TN	0	0	0	none
+171.1	171	orthogroup	1	36	TNL	TNL	0	19	0	none
+243.1	243	orthogroup	1	14	TNL	TN	0	13	0	none
+1.22	1	orthogroup	1	5	TNL	TNL	0	0	0	both
+7.3	7	orthogroup	1	6	CNL	CNL	0	0	0	complex
+10.6	10	orthogroup	1	15	TNL	TNL	0	0	0	complex
+172.1	172	orthogroup	1	34	TNL	TN	0	0	0	none
+118.1	118	orthogroup	1	50	TNL	T	0	0	0	none
+120.5	120	orthogroup	1	4	TNL	TN	0	0	0	both
+11.14	11	orthogroup	1	4	TNL	T	0	0	0	both
+143.1	143	orthogroup	1	45	TNL	TNL	0	0	7	none
+122.2	122	orthogroup	1	20	TNL	TN	0	0	0	complex
+115.1	115	orthogroup	1	54	CNL	CN	0	1	0	none
+353	353	orthogroup	0	3	NL	N	0	0	0	none
+8.6	8	orthogroup	1	16	CNL	CNL	0	0	0	complex
+120.4	120	orthogroup	1	12	TNL	TNL	0	0	0	both
+111.1	111	orthogroup	1	53	TNL	TN	0	0	0	none
+179.1	179	orthogroup	1	4	TNL	TNL	0	0	0	complex
+160.1	160	orthogroup	1	39	TNL	TNL	0	0	0	both
+161.1	161	orthogroup	1	38	TNL	TNL	0	0	0	none
+8.4	8	orthogroup	1	41	CNL	CNL	0	1	0	complex
+162	162	orthogroup	0	40	TNL	TNL	15	4	0	complex
+134.13	134	orthogroup	1	5	CNL	CNL	0	0	0	both
+245.1	245	orthogroup	1	13	TNL	TN	0	1	1	none
+129.1	129	orthogroup	1	52	RNL	R	0	0	0	none
+119.1	119	orthogroup	1	50	TNL	T	0	0	0	simple
+180.5	180	orthogroup	1	4	TNL	TNLX	0	0	2	both
+10.3	10	orthogroup	1	6	TNL	TNL	0	0	0	complex
+4.19	4	orthogroup	1	7	TNL	TNL	0	0	0	both
+158.1	158	orthogroup	1	42	TNL	T	0	0	0	none
+62.1	62	orthogroup	1	59	TNL	T	0	0	0	none
+104.2	104	orthogroup	1	33	NL	N	0	0	0	complex
+7.8	7	orthogroup	1	13	CNL	CNL	0	0	0	complex
+47.1	47	orthogroup	1	61	TNL	TN	0	51	0	none
+133.3	133	orthogroup	1	4	TNL	TNL	0	0	1	complex
+159.1	159	orthogroup	1	40	TNL	TNL	0	0	0	none
+266.1	266	orthogroup	1	9	TNL	T	0	0	0	none
+23.3	23	orthogroup	1	11	TNL	TNL	0	0	0	both
+87.1	87	orthogroup	1	58	TNL	T	0	0	0	none
+165.3	165	orthogroup	1	11	TNL	TNL	0	0	0	complex
+4.29	4	orthogroup	1	12	TNL	TNL	0	0	0	both
+45.1	45	orthogroup	1	17	TNL	T	0	0	0	complex
+57.1	57	orthogroup	1	60	TNL	TNL	1	1	16	none
+102.3	102	orthogroup	1	5	TNL	TN	0	0	0	none
+221.2	221	orthogroup	1	15	TNL	TNL	0	0	0	complex
+1.5	1	orthogroup	1	11	TNL	TNL	0	0	0	both
+94.1	94	orthogroup	1	55	NL	NLX	54	0	55	none
+88.1	88	orthogroup	1	54	TNL	TNL	22	1	0	none
+7.13	7	orthogroup	1	4	CNL	CNL	0	0	0	complex
+176.5	176	orthogroup	1	5	TNL	TNL	0	0	0	both
+155.1	155	orthogroup	1	42	TNL	TNL	0	0	0	none
+14.7	14	orthogroup	1	4	CNL	CN	0	0	0	complex
+310.1	310	orthogroup	1	5	TNL	T	2	1	0	none
+309.1	309	orthogroup	1	5	CNL	CN	0	0	0	none
+151.4	151	orthogroup	1	10	RNL	R	0	0	0	both
+137.1	137	orthogroup	1	50	TNL	TNL	0	0	0	none
+101.1	101	orthogroup	1	56	CNL	CN	0	0	0	none
+184.2	184	orthogroup	1	6	TNL	TNL	0	0	0	both
+5.1	5	orthogroup	1	24	TNL	TNL	0	1	0	both
+205.1	205	orthogroup	1	23	TNL	TNLX	0	22	19	none
+164.1	164	orthogroup	1	37	TNL	TN	0	0	0	none
+276.1	276	orthogroup	1	7	TNL	TNL	0	0	0	none
+135.5	135	orthogroup	1	6	NL	N	0	0	0	both
+186.1	186	orthogroup	1	31	CNL	CN	0	1	0	none
+131.1	131	orthogroup	1	47	TNL	T	0	0	0	none
+27.1	27	orthogroup	1	62	NL	NL	0	0	0	none
+194.1	194	orthogroup	1	27	TNL	T	0	0	0	none
+1.7	1	orthogroup	1	4	TNL	TNL	0	0	0	both
+83.1	83	orthogroup	1	60	CNL	CNL	0	0	0	none
+216.1	216	orthogroup	1	4	TNL	TNL	0	0	0	complex
+285.1	285	orthogroup	1	4	TNL	T	0	0	0	none
+304.1	304	orthogroup	1	5	CNL	CN	0	0	1	none
+9.1	9	orthogroup	1	27	NL	N	0	0	0	complex
+182.1	182	orthogroup	1	34	NL	N	0	0	0	none
+117.2	117	orthogroup	1	46	RNL	RNX	0	0	44	complex
+168.1	168	orthogroup	1	34	CNL	CNL	0	1	0	none
+40.1	40	orthogroup	1	62	TNL	TN	0	0	0	none
+175.1	175	orthogroup	1	34	TNL	TNL	0	0	0	none
+90.1	90	orthogroup	1	55	TNL	TNL	0	0	0	none
+193.1	193	orthogroup	1	29	NL	NL	0	0	0	none
+7.5	7	orthogroup	1	8	CNL	CNL	0	0	0	complex
+339	339	orthogroup	0	3	TNL	TN	0	0	0	none
+371	371	orthogroup	0	2	TNL	TL	0	0	0	none
+306.1	306	orthogroup	1	5	TNL	TNL	0	0	0	none
+127.1	127	orthogroup	1	55	CNL	CNL	0	0	0	none
+297.1	297	orthogroup	1	4	TNL	TNL	0	0	0	none
+370	370	orthogroup	0	2	TNL	TNL	0	0	0	none
+405	405	orthogroup	0	2	NL	NL	0	0	0	none
+204.1	204	orthogroup	1	21	TNL	TNL	0	20	0	none
+82.1	82	orthogroup	1	55	TNL	TNL	23	0	0	none
+80.1	80	orthogroup	1	56	TNL	TNL	54	0	0	none
+349	349	orthogroup	0	3	NL	NL	0	0	0	none
+296.1	296	orthogroup	1	4	NL	N	0	0	0	none
+288.1	288	orthogroup	1	6	TNL	TN	0	0	0	none
+322.1	322	orthogroup	1	3	TNL	T	0	0	0	none
+240.1	240	orthogroup	1	14	TNL	TNL	0	0	0	none
+49.2	49	orthogroup	1	38	CNL	CNLX	0	36	37	complex
+20.1	20	orthogroup	1	54	TNL	TNL	0	0	10	none
+410	410	orthogroup	0	2	TNL	T	0	0	0	none
+170.2	170	orthogroup	1	5	TNL	TNL	0	0	0	complex
+402	402	orthogroup	0	2	CNL	CN	0	0	0	none
+333	333	orthogroup	0	3	TNL	TNL	0	0	0	none
+112.1	112	orthogroup	1	56	TNL	TNL	15	3	0	none
+107.1	107	orthogroup	1	56	TNL	TNL	0	0	0	none
+247.4	247	orthogroup	1	7	RNL	R	0	0	0	both
+4.10	4	orthogroup	1	5	TNL	TNL	0	0	0	both
+104.3	104	orthogroup	1	16	NL	N	0	0	0	complex
+282.1	282	orthogroup	1	6	CNL	CNL	0	0	0	none
+1.17	1	orthogroup	1	4	TNL	TNL	0	0	0	both
+3.18	3	orthogroup	1	10	CNL	CNL	0	0	0	both
+14.5	14	orthogroup	1	3	CNL	CN	0	0	0	complex
+2.44	2	orthogroup	1	10	RNL	R	0	0	0	both
+108.10	108	orthogroup	1	4	RNL	R	0	0	0	both
+232.1	232	orthogroup	1	16	TNL	T	0	0	0	none
+15.5	15	orthogroup	1	6	CNL	CN	0	0	0	both
+272.1	272	orthogroup	1	8	NL	N	0	0	0	none
+315.1	315	orthogroup	1	3	TNL	TNL	0	0	0	none
+216.5	216	orthogroup	1	5	TNL	TNL	0	0	0	complex
+7.6	7	orthogroup	1	8	CNL	CNL	0	0	0	complex
+208.1	208	orthogroup	1	23	NL	N	0	14	0	none
+53.1	53	orthogroup	1	58	NL	NL	0	0	0	none
+92.1	92	orthogroup	1	56	TNL	TNL	0	0	0	complex
+3.9	3	orthogroup	1	5	CNL	CNL	0	0	0	both
+286.1	286	orthogroup	1	6	TNL	T	0	4	0	none
+184.1	184	orthogroup	1	9	TNL	TNL	0	0	0	both
+22.1	22	orthogroup	1	59	NL	N	0	54	0	complex
+151.12	151	orthogroup	1	9	RNL	R	0	0	0	both
+314.1	314	orthogroup	1	5	TNL	T	0	5	0	none
+93.2	93	orthogroup	1	33	NL	N	0	1	0	simple
+149.1	149	orthogroup	1	48	TNL	TNL	0	0	0	none
+350	350	orthogroup	0	3	NL	NL	3	0	0	none
+67.1	67	orthogroup	1	60	TNL	TN	0	58	0	none
+42.1	42	orthogroup	1	13	TNL	TNL	1	1	0	complex
+319.1	319	orthogroup	1	4	NL	NL	0	0	0	none
+5.2	5	orthogroup	1	37	TNL	TNL	0	0	0	both
+237.1	237	orthogroup	1	12	NL	N	0	0	0	complex
+198.1	198	orthogroup	1	25	CNL	CNL	0	0	0	none
+41.1	41	orthogroup	1	55	TNL	TNLX	44	6	55	complex
+189.1	189	orthogroup	1	26	TNL	TNL	0	0	0	none
+84.1	84	orthogroup	1	58	TNL	TNL	54	2	0	none
+74.1	74	orthogroup	1	56	TNL	TNL	0	0	0	simple
+113	113	orthogroup	0	58	TNL	TNL	0	0	0	complex
+325.1	325	orthogroup	1	4	NL	NL	0	0	0	none
+99.1	99	orthogroup	1	21	TNL	TNL	0	0	0	simple
+254.1	254	orthogroup	1	8	TNL	TN	0	4	0	none
+167.1	167	orthogroup	1	37	TNL	T	0	0	0	none
+3.13	3	orthogroup	1	7	CNL	CNL	0	0	0	both
+6.16	6	orthogroup	1	14	CNL	CN	0	0	0	both
+278.1	278	orthogroup	1	3	TNL	TNL	0	0	0	complex
+400	400	orthogroup	0	2	TNL	TN	0	0	0	none
+125.1	125	orthogroup	1	53	TNL	TNL	0	0	0	none
+219.1	219	orthogroup	1	19	NL	N	0	0	0	none
+239.1	239	orthogroup	1	14	TNL	TN	0	0	0	none
+26.1	26	orthogroup	1	63	TNL	TNL	62	0	0	none
+299.1	299	orthogroup	1	5	TNL	T	0	0	2	none
+31.2	31	orthogroup	1	5	RNL	RCNL	0	0	0	complex
+5.4	5	orthogroup	1	14	TNL	TNL	0	0	0	both
+77.1	77	orthogroup	1	7	TNL	TNL	0	0	0	complex
+5.8	5	orthogroup	1	5	TNL	TNL	0	0	0	both
+12.9	12	orthogroup	1	9	NL	N	0	0	0	complex
+16.8	16	orthogroup	1	4	TNL	TNL	0	0	0	both
+206.1	206	orthogroup	1	20	TNL	TNL	0	0	0	none
+25.2	25	orthogroup	1	46	NL	NL	0	43	0	both
+1.4	1	orthogroup	1	15	TNL	TNL	0	0	1	both
+89.1	89	orthogroup	1	57	TNL	TNL	0	0	0	none
+23.2	23	orthogroup	1	33	TNL	TNL	0	0	0	both
+251.1	251	orthogroup	1	8	TNL	TNL	0	2	0	none
+354	354	orthogroup	0	3	NL	NL	0	0	0	none
+150.1	150	orthogroup	1	47	TNL	T	0	0	0	none
+368	368	orthogroup	0	2	CNL	CN	0	0	0	none
+133.1	133	orthogroup	1	4	TNL	TNL	0	0	0	complex
+29.2	29	orthogroup	1	17	TNL	T	0	0	0	simple
+16.6	16	orthogroup	1	6	TNL	TNL	0	0	0	both
+44.1	44	orthogroup	1	59	TNL	TNL	0	0	0	none
+4.39	4	orthogroup	1	6	TNL	TNL	0	0	0	both
+12.6	12	orthogroup	1	6	NL	N	0	0	0	complex
+132.1	132	orthogroup	1	49	TNL	T	0	0	0	none
+16.7	16	orthogroup	1	17	TNL	TNL	0	0	0	both
+408	408	orthogroup	0	2	NL	N	0	0	0	none
+351	351	orthogroup	0	3	RNL	R	0	0	0	none
+379	379	orthogroup	0	2	CNL	CNL	0	0	0	none
+287.1	287	orthogroup	1	5	TNL	T	0	0	0	none
+116.1	116	orthogroup	1	55	RNL	R	0	0	0	none
+258.1	258	orthogroup	1	9	TNL	TNL	0	0	0	none
+298.1	298	orthogroup	1	4	CNL	CNL	0	0	0	none
+73.1	73	orthogroup	1	59	TNL	TNL	0	0	0	none
+294.1	294	orthogroup	1	6	CNL	CN	0	0	0	none
+404	404	orthogroup	0	2	TNL	T	0	0	0	none
+264.1	264	orthogroup	1	8	TNL	T	0	0	0	none
+200.1	200	orthogroup	1	24	TNL	T	0	0	0	none
+323	323	orthogroup	0	3	RNL	R	0	0	0	none
+414	414	orthogroup	0	2	NL	N	0	0	0	none
+203.1	203	orthogroup	1	20	TNL	TX	0	0	20	none
+1.26	1	orthogroup	1	11	TNL	TNL	0	0	0	both
+201.1	201	orthogroup	1	22	TNL	TN	0	21	0	none
+196.1	196	orthogroup	1	27	TNL	T	0	0	0	none
+8.3	8	orthogroup	1	13	CNL	CNL	0	0	0	complex
+12.8	12	orthogroup	1	6	CNL	CN	0	0	0	complex
+4.6	4	orthogroup	1	7	TNL	TNL	0	0	0	both
+317	317	orthogroup	0	2	TNL	T	0	0	0	none
+411	411	orthogroup	0	2	TNL	T	0	0	0	none
+374	374	orthogroup	0	2	TNL	TNL	0	0	0	none
+70.1	70	orthogroup	1	58	TNL	TNL	0	0	0	none
+180.3	180	orthogroup	1	4	TNL	TNL	0	0	0	both
+305.1	305	orthogroup	1	5	TNL	T	0	0	0	none
+145.1	145	orthogroup	1	46	TNL	TN	0	0	0	none
+45.4	45	orthogroup	1	12	TNL	T	0	0	0	complex
+5.7	5	orthogroup	1	22	TNL	TNL	0	0	0	both
+79.1	79	orthogroup	1	57	TNL	TNL	0	0	0	none
+18.3	18	orthogroup	1	40	TNL	TNL	38	0	0	complex
+11.25	11	orthogroup	1	8	TNL	T	0	0	0	both
+291.1	291	orthogroup	1	6	CNL	CN	0	0	0	none
+413	413	orthogroup	0	2	TNL	TN	0	0	0	none
+105.1	105	orthogroup	1	55	TNL	TNL	0	0	0	none
+102.2	102	orthogroup	1	4	TNL	TN	0	0	0	none
+56.1	56	orthogroup	1	58	CNL	CN	0	0	0	none
+4.20	4	orthogroup	1	8	TNL	TNL	0	0	0	both
+15.6	15	orthogroup	1	17	NL	N	0	0	0	both
+152.1	152	orthogroup	1	35	CNL	CNL	0	0	0	complex
+218.1	218	orthogroup	1	18	TNL	TX	0	0	18	none
+32.2	32	orthogroup	1	14	RNL	RN	0	0	0	complex
+17.4	17	orthogroup	1	31	NL	NL	0	0	0	complex
+85.1	85	orthogroup	1	56	TNL	TNL	0	47	0	none
+213.1	213	orthogroup	1	20	TNL	TN	0	19	0	none
+152.3	152	orthogroup	1	4	CNL	CNL	0	0	0	complex
+7.18	7	orthogroup	1	11	CNL	CNL	0	0	0	complex
+166.1	166	orthogroup	1	34	TNL	TNL	0	0	0	simple
+95.1	95	orthogroup	1	58	TNL	TX	0	0	43	none
+244.1	244	orthogroup	1	12	CNL	CN	0	0	0	none
+4.24	4	orthogroup	1	7	TNL	TNL	0	0	0	both
+30.2	30	orthogroup	1	4	TNL	TNL	0	0	0	complex
+15.3	15	orthogroup	1	24	CNL	CN	0	0	0	both
+179.2	179	orthogroup	1	26	TNL	TNL	0	0	0	complex
+29.1	29	orthogroup	1	41	TNL	T	0	0	0	simple
+399	399	orthogroup	0	2	CNL	CN	0	0	0	none
+16.14	16	orthogroup	1	9	TNL	TNL	0	0	0	both
+68.1	68	orthogroup	1	58	CNL	CNL	0	0	0	none
+191.1	191	orthogroup	1	26	CNL	CN	0	1	0	complex
+134.11	134	orthogroup	1	4	NL	N	0	0	0	both
+14.6	14	orthogroup	1	3	CNL	CN	0	0	0	complex
+32.1	32	orthogroup	1	47	RNL	RN	0	0	0	complex
+3.7	3	orthogroup	1	5	CNL	CNL	0	0	0	both
+9.4	9	orthogroup	1	29	CNL	CN	0	0	0	complex
+134.15	134	orthogroup	1	8	CNL	CNL	0	0	0	both
+50.1	50	orthogroup	1	60	TNL	TNL	0	0	0	none
+207.1	207	orthogroup	1	24	NL	N	0	0	0	none
+250.1	250	orthogroup	1	11	NL	N	0	0	0	none
+2.14	2	orthogroup	1	11	RNL	R	0	0	0	both
+121.1	121	orthogroup	1	54	TNL	T	0	0	0	none
+42.2	42	orthogroup	1	43	TNL	TNL	0	0	0	complex
+49.3	49	orthogroup	1	19	CNL	CNX	0	18	19	complex
+14.3	14	orthogroup	1	19	NL	N	0	0	0	complex
+195.1	195	orthogroup	1	28	NL	NL	0	0	0	none
+69.1	69	orthogroup	1	58	TNL	TNL	0	0	0	none
+110.1	110	orthogroup	1	54	TNL	TNL	0	17	0	none
+401	401	orthogroup	0	2	TNL	T	0	0	0	none
+316	316	orthogroup	0	3	NL	NL	0	0	0	none
+16.4	16	orthogroup	1	7	TNL	TNL	0	0	0	both
+396	396	orthogroup	0	2	TNL	T	0	0	0	none
+140.1	140	orthogroup	1	46	TNL	TNL	0	11	0	complex
+135.10	135	orthogroup	1	3	NL	N	0	0	0	both
+33.1	33	orthogroup	1	59	NL	N	0	0	0	none
+197.1	197	orthogroup	1	23	CNL	CN	0	12	0	none
+133.2	133	orthogroup	1	43	TNL	TNL	0	0	0	complex
+268.1	268	orthogroup	1	5	CNL	CNL	0	0	0	simple
+409	409	orthogroup	0	2	TNL	TN	0	0	0	none
+102.9	102	orthogroup	1	5	TNL	TN	0	0	0	none
+156.1	156	orthogroup	1	43	CNL	CN	0	0	0	none
+308.1	308	orthogroup	1	4	TNL	TNL	0	0	0	none
+3.3	3	orthogroup	1	22	CNL	CNL	0	0	0	both
+117.1	117	orthogroup	1	5	RNL	RNX	0	0	5	complex
+403	403	orthogroup	0	2	TNL	T	0	0	0	none
+238.2	238	orthogroup	1	6	NL	NL	0	0	0	complex
+260.1	260	orthogroup	1	10	NL	N	0	0	0	none
+51.1	51	orthogroup	1	62	TNL	T	0	0	0	none
+209.1	209	orthogroup	1	19	CNL	CN	0	0	0	none
+19	19	orthogroup	0	68	TNL	T	0	1	0	complex
+75.1	75	orthogroup	1	59	NL	NL	0	55	0	none
+163.3	163	orthogroup	1	17	TNL	TNL	0	0	0	both
+12.5	12	orthogroup	1	10	NL	N	0	0	0	complex
+120.3	120	orthogroup	1	11	TNL	TNL	0	0	0	both
+1.33	1	orthogroup	1	14	TNL	TNL	0	0	0	both
+377	377	orthogroup	0	2	TNL	TNL	0	0	0	none
+187.1	187	orthogroup	1	24	CNL	CNL	0	0	0	none
+5.3	5	orthogroup	1	5	TNL	TNL	0	0	0	both
+18.5	18	orthogroup	1	8	TNL	TNL	8	0	0	complex
+229.1	229	orthogroup	1	16	TNL	TNL	0	14	0	none
+176.6	176	orthogroup	1	12	TNL	TNL	0	0	0	both
+378	378	orthogroup	0	2	NL	N	0	0	0	none
+241.1	241	orthogroup	1	14	TNL	TNL	0	0	0	none
+220.1	220	orthogroup	1	19	TNL	T	0	0	0	none
+2.29	2	orthogroup	1	14	RNL	R	0	0	0	both
+376	376	orthogroup	0	2	TNL	TNL	0	0	0	none
+341	341	orthogroup	0	3	TNL	T	0	0	0	none
+192.1	192	orthogroup	1	27	TNL	T	0	0	5	none
+13.1	13	orthogroup	1	9	TNL	TN	0	5	0	complex
+274.1	274	orthogroup	1	7	NL	N	0	0	0	none
+356	356	orthogroup	0	3	TNL	T	0	0	0	none
+142.1	142	orthogroup	1	45	TNL	TNL	0	0	0	none
+7.7	7	orthogroup	1	6	CNL	CNL	0	0	0	complex
+178	178	orthogroup	0	33	TNL	TNL	0	0	0	both
+8.2	8	orthogroup	1	14	CNL	CNL	0	0	0	complex
+60.1	60	orthogroup	1	58	TNL	TNL	0	0	0	none
+98.1	98	orthogroup	1	58	TNL	T	0	0	0	none
+108.6	108	orthogroup	1	15	RNL	R	0	0	0	both
+416	195	singleton	0	1	NL	NL	0	0	0	none
+417	70	singleton	0	1	NL	NL	0	0	0	none
+418	6	singleton	0	1	CNL	CN	0	0	0	both
+419	3	singleton	0	1	CNL	CNL	0	0	0	both
+420	8	singleton	0	1	CNL	CN	0	0	0	complex
+421	N/A	singleton	0	1	CNL	CN	0	0	0	N/A
+422	2	singleton	0	1	RNL	R	0	0	0	both
+423	231	singleton	0	1	TNL	T	0	0	0	none
+424	N/A	singleton	0	1	RNL	R	0	0	0	N/A
+425	22	singleton	0	1	NL	N	0	0	0	complex
+426	49	singleton	0	1	CNL	CNL	0	1	0	complex
+427	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+428	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+429	N/A	singleton	0	1	NL	N	0	0	0	N/A
+430	181	singleton	0	1	TNL	TNL	0	0	0	complex
+431	6	singleton	0	1	CNL	CN	0	0	0	both
+432	N/A	singleton	0	1	TNL	T	0	1	0	N/A
+433	115	singleton	0	1	NL	N	0	0	0	none
+434	N/A	singleton	0	1	RNL	R	0	0	0	N/A
+435	16	singleton	0	1	TNL	TNL	0	0	0	both
+436	7	singleton	0	1	CNL	CNL	0	0	0	complex
+437	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+438	197	singleton	0	1	NL	N	0	1	0	none
+439	18	singleton	0	1	TNL	TNL	1	0	0	complex
+440	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+441	3	singleton	0	1	CNL	CN	0	0	0	both
+442	25	singleton	0	1	NL	NL	0	1	0	both
+443	33	singleton	0	1	NL	N	0	0	0	none
+444	296	singleton	0	1	NL	N	0	0	0	none
+445	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+446	1	singleton	0	1	TNL	TNL	0	0	0	both
+447	129	singleton	0	1	RNL	R	0	0	0	none
+448	60	singleton	0	1	TNL	TNL	0	0	0	none
+449	1	singleton	0	1	TNL	TNL	0	0	0	both
+450	7	singleton	0	1	CNL	CNL	0	0	0	complex
+451	16	singleton	0	1	TNL	TNL	0	0	0	both
+452	151	singleton	0	1	RNL	R	0	0	0	both
+453	1	singleton	0	1	TNL	TNL	0	0	0	both
+454	73	singleton	0	1	TNL	TNL	0	0	0	none
+455	N/A	singleton	0	1	TNL	TNL	0	0	0	N/A
+456	172	singleton	0	1	TNL	TN	0	0	0	none
+457	11	singleton	0	1	TNL	T	0	0	0	both
+458	1	singleton	0	1	TNL	TNL	0	0	0	both
+459	N/A	singleton	0	1	NL	N	0	0	0	N/A
+460	5	singleton	0	1	TNL	TNL	0	0	0	both
+461	3	singleton	0	1	CNL	CNL	0	0	0	both
+462	215	singleton	0	1	TNL	TN	0	0	0	none
+463	67	singleton	0	1	NL	N	0	0	0	none
+464	135	singleton	0	1	NL	N	0	0	0	both
+465	165	singleton	0	1	TNL	TNL	0	0	0	complex
+466	192	singleton	0	1	TNL	TX	0	0	1	none
+467	125	singleton	0	1	TNL	TN	0	0	0	none
+468	49	singleton	0	1	CNL	CNX	0	1	1	complex
+469	324	singleton	0	1	NL	N	0	0	0	complex
+470	212	singleton	0	1	TNL	TN	0	0	0	both
+471	110	singleton	0	1	TNL	TN	0	1	0	none
+472	91	singleton	0	1	TNL	T	0	1	0	none
+473	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+474	10	singleton	0	1	TNL	TNL	0	0	0	complex
+475	4	singleton	0	1	TNL	TNL	0	0	0	both
+476	93	singleton	0	1	NL	N	0	0	0	simple
+477	2	singleton	0	1	RNL	R	0	0	0	both
+478	80	singleton	0	1	TNL	TNL	1	0	0	none
+479	134	singleton	0	1	CNL	CN	0	0	0	both
+480	2	singleton	0	1	RNL	R	0	0	0	both
+481	142	singleton	0	1	TNL	TN	0	0	0	none
+482	152	singleton	0	1	CNL	CNL	0	0	0	complex
+483	170	singleton	0	1	TNL	TNL	0	0	0	complex
+484	15	singleton	0	1	NL	N	0	0	0	both
+485	11	singleton	0	1	TNL	T	0	0	0	both
+486	4	singleton	0	1	TNL	TNL	0	0	0	both
+487	3	singleton	0	1	NL	NL	0	0	0	both
+488	169	singleton	0	1	TNL	T	0	0	0	none
+489	84	singleton	0	1	NL	NL	1	0	0	none
+490	N/A	singleton	0	1	TNL	TNL	0	0	0	N/A
+491	63	singleton	0	1	TNL	TNL	0	0	0	none
+492	N/A	singleton	0	1	CNL	CNL	0	0	0	N/A
+493	226	singleton	0	1	NL	N	0	0	0	simple
+494	140	singleton	0	1	TNL	TN	0	1	0	complex
+495	38	singleton	0	1	TNL	TN	0	0	0	none
+496	97	singleton	0	1	NL	NL	0	0	0	none
+497	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+498	270	singleton	0	1	CNL	CN	0	0	0	none
+499	N/A	singleton	0	1	CNL	CN	0	0	0	N/A
+500	14	singleton	0	1	CNL	CN	0	0	0	complex
+501	221	singleton	0	1	TNL	TNL	0	0	0	complex
+502	1	singleton	0	1	TNL	TNL	0	0	0	both
+503	212	singleton	0	1	TNL	TNL	0	0	0	both
+504	172	singleton	0	1	NL	N	0	0	0	none
+505	2	singleton	0	1	RNL	R	0	0	0	both
+506	135	singleton	0	1	NL	N	0	0	0	both
+507	204	singleton	0	1	TNL	TNL	0	1	0	none
+508	181	singleton	0	1	TNL	TN	0	0	0	complex
+509	11	singleton	0	1	TNL	T	0	0	0	both
+510	108	singleton	0	1	RNL	R	0	0	0	both
+511	171	singleton	0	1	TNL	TN	0	1	0	none
+512	172	singleton	0	1	NL	N	0	0	0	none
+513	1	singleton	0	1	TNL	TNL	0	0	0	both
+514	13	singleton	0	1	TNL	TN	0	0	0	complex
+515	16	singleton	0	1	TNL	TNL	0	0	0	both
+516	300	singleton	0	1	CNL	CN	0	0	0	none
+517	107	singleton	0	1	TNL	TNL	0	0	0	none
+518	10	singleton	0	1	TNL	TNL	0	0	0	complex
+519	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+520	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+521	N/A	singleton	0	1	NL	N	0	0	0	N/A
+522	212	singleton	0	1	TNL	TN	0	0	0	both
+523	189	singleton	0	1	NL	NL	0	0	0	none
+524	42	singleton	0	1	TNL	TNL	0	0	0	complex
+525	99	singleton	0	1	NL	NL	0	0	0	simple
+526	97	singleton	0	1	CNL	CNL	0	0	0	none
+527	N/A	singleton	0	1	NL	N	0	0	0	N/A
+528	2	singleton	0	1	RNL	R	0	0	0	both
+529	88	singleton	0	1	NL	NL	0	0	0	none
+530	64	singleton	0	1	TNL	TNL	0	0	0	none
+531	253	singleton	0	1	TNL	TN	0	0	0	complex
+532	N/A	singleton	0	1	RNL	R	0	0	0	N/A
+533	11	singleton	0	1	TNL	T	0	0	0	both
+534	30	singleton	0	1	NL	NL	0	0	0	complex
+535	134	singleton	0	1	CNL	CNL	0	0	0	both
+536	2	singleton	0	1	RNL	R	0	0	0	both
+537	9	singleton	0	1	NL	N	0	0	0	complex
+538	247	singleton	0	1	RNL	R	0	0	0	both
+539	N/A	singleton	0	1	NL	N	0	0	0	N/A
+540	61	singleton	0	1	NL	N	0	0	0	none
+541	134	singleton	0	1	CNL	CNL	0	0	0	both
+542	234	singleton	0	1	TNL	TN	0	0	0	complex
+543	160	singleton	0	1	TNL	TNL	0	0	0	both
+544	69	singleton	0	1	TNL	TNL	0	0	0	none
+545	118	singleton	0	1	TNL	T	0	0	0	none
+546	12	singleton	0	1	NL	N	0	0	0	complex
+547	110	singleton	0	1	TNL	TNL	0	0	0	none
+548	60	singleton	0	1	NL	NL	0	0	0	none
+549	N/A	singleton	0	1	CNL	CN	0	0	0	N/A
+550	141	singleton	0	1	TNL	TL	0	0	0	none
+551	239	singleton	0	1	TNL	TN	0	0	0	none
+552	134	singleton	0	1	CNL	CNL	0	0	0	both
+553	163	singleton	0	1	TNL	TNL	0	0	0	both
+554	92	singleton	0	1	TNL	TNL	0	0	0	complex
+555	3	singleton	0	1	CNL	CNL	0	0	0	both
+556	234	singleton	0	1	NL	N	0	0	0	complex
+557	59	singleton	0	1	RNL	RN	0	0	0	none
+558	7	singleton	0	1	CNL	CNL	0	0	0	complex
+559	53	singleton	0	1	TNL	TNL	0	0	0	none
+560	2	singleton	0	1	RNL	R	0	0	0	both
+561	6	singleton	0	1	CNL	CN	0	0	0	both
+562	180	singleton	0	1	TNL	TNL	0	0	0	both
+563	122	singleton	0	1	TNL	T	0	0	0	complex
+564	37	singleton	0	1	TNL	TN	0	0	0	none
+565	14	singleton	0	1	CNL	CN	0	0	0	complex
+566	175	singleton	0	1	TNL	TNL	0	0	0	none
+567	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+568	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+569	181	singleton	0	1	TNL	TNL	0	0	0	complex
+570	209	singleton	0	1	CNL	CN	0	0	0	none
+571	11	singleton	0	1	TNL	T	0	0	0	both
+572	1	singleton	0	1	TNL	TNL	0	0	0	both
+573	216	singleton	0	1	TNL	TNL	0	0	0	complex
+574	122	singleton	0	1	TNL	T	0	0	0	complex
+575	1	singleton	0	1	TNL	TNL	0	0	0	both
+576	6	singleton	0	1	CNL	CN	0	0	0	both
+577	242	singleton	0	1	TNL	TN	0	0	0	none
+578	7	singleton	0	1	CNL	CNL	0	0	0	complex
+579	N/A	singleton	0	1	CNL	CN	0	0	0	N/A
+580	N/A	singleton	0	1	TNL	T	1	0	0	N/A
+581	286	singleton	0	1	TNL	T	0	0	0	none
+582	10	singleton	0	1	TNL	TNL	0	0	0	complex
+583	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+584	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+585	4	singleton	0	1	TNL	TNL	0	0	0	both
+586	N/A	singleton	0	1	CNL	CNL	0	0	0	N/A
+587	134	singleton	0	1	CNL	CN	0	0	0	both
+588	2	singleton	0	1	RNL	R	0	0	0	both
+589	53	singleton	0	1	NL	NL	0	0	0	none
+590	88	singleton	0	1	NL	NL	0	0	0	none
+591	4	singleton	0	1	TNL	TNL	0	0	0	both
+592	12	singleton	0	1	NL	N	0	0	0	complex
+593	N/A	singleton	0	1	NL	N	0	0	0	N/A
+594	4	singleton	0	1	TNL	TNL	0	0	0	both
+595	8	singleton	0	1	CNL	CN	0	0	0	complex
+596	251	singleton	0	1	TNL	TNL	0	1	0	none
+597	12	singleton	0	1	NL	N	0	0	0	complex
+598	N/A	singleton	0	1	TNL	TL	0	0	0	N/A
+599	21	singleton	0	1	NL	NX	0	0	1	complex
+600	4	singleton	0	1	TNL	TNL	0	0	0	both
+601	N/A	singleton	0	1	RNL	R	0	0	0	N/A
+603	118	singleton	0	1	TNL	T	0	0	0	none
+604	20	singleton	0	1	TNL	TNL	0	0	0	none
+605	10	singleton	0	1	TNL	TNL	0	0	0	complex
+606	N/A	singleton	0	1	NL	N	0	0	0	N/A
+607	68	singleton	0	1	NL	NL	0	0	0	none
+608	8	singleton	0	1	CNL	CNL	0	0	0	complex
+609	7	singleton	0	1	CNL	CNL	0	0	0	complex
+610	88	singleton	0	1	NL	N	0	0	0	none
+611	81	singleton	0	1	TNL	TNL	0	1	0	none
+612	31	singleton	0	1	RNL	RCNL	0	0	0	complex
+613	N/A	singleton	0	1	CNL	CNL	0	0	0	N/A
+614	78	singleton	0	1	TNL	TNL	1	0	0	none
+615	23	singleton	0	1	TNL	TN	0	0	0	both
+616	183	singleton	0	1	TNL	TNL	0	0	0	none
+617	N/A	singleton	0	1	NL	N	0	0	0	N/A
+618	3	singleton	0	1	NL	N	0	0	0	both
+619	10	singleton	0	1	TNL	TNL	0	0	0	complex
+620	5	singleton	0	1	TNL	TNL	0	0	0	both
+621	N/A	singleton	0	1	TNL	TNL	0	0	0	N/A
+622	124	singleton	0	1	TNL	T	0	0	0	none
+623	183	singleton	0	1	NL	NL	0	0	0	none
+624	247	singleton	0	1	RNL	R	0	0	0	both
+625	120	singleton	0	1	TNL	TNL	0	0	0	both
+626	53	singleton	0	1	TNL	TNL	0	0	0	none
+627	N/A	singleton	0	1	NL	N	0	0	0	N/A
+628	2	singleton	0	1	RNL	R	0	0	0	both
+629	N/A	singleton	0	1	CNL	CN	0	0	0	N/A
+630	51	singleton	0	1	TNL	T	0	0	0	none
+631	151	singleton	0	1	RNL	R	0	0	0	both
+632	48	singleton	0	1	TNL	TN	1	0	0	none
+633	N/A	singleton	0	1	NL	N	0	0	0	N/A
+634	54	singleton	0	1	NL	N	0	0	0	simple
+635	61	singleton	0	1	NL	N	0	0	0	none
+636	1	singleton	0	1	TNL	TNL	0	0	0	both
+637	141	singleton	0	1	TNL	TL	0	0	0	none
+638	16	singleton	0	1	TNL	TNL	0	0	0	both
+639	135	singleton	0	1	NL	N	0	0	0	both
+640	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+641	2	singleton	0	1	RNL	R	0	0	0	both
+642	1	singleton	0	1	TNL	TNL	0	0	0	both
+643	265	singleton	0	1	RNL	RC	0	0	0	none
+644	184	singleton	0	1	TNL	TNL	0	0	0	both
+645	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+646	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+647	62	singleton	0	1	TNL	T	0	0	0	none
+648	15	singleton	0	1	NL	N	0	0	0	both
+649	49	singleton	0	1	CNL	CNX	0	1	1	complex
+650	104	singleton	0	1	NL	N	0	0	0	complex
+651	45	singleton	0	1	TNL	T	0	0	0	complex
+652	21	singleton	0	1	TNL	TN	1	0	0	complex
+653	6	singleton	0	1	CNL	CN	0	0	0	both
+654	N/A	singleton	0	1	TNL	TNL	0	0	0	N/A
+655	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+656	20	singleton	0	1	TNL	TNL	0	0	0	none
+657	68	singleton	0	1	CNL	CNL	0	0	0	none
+658	N/A	singleton	0	1	RNL	R	0	0	0	N/A
+659	66	singleton	0	1	NL	NL	0	0	0	none
+660	75	singleton	0	1	NL	N	0	0	0	none
+661	154	singleton	0	1	TNL	TNX	0	0	1	none
+662	22	singleton	0	1	NL	N	0	0	0	complex
+663	41	singleton	0	1	NL	NLX	0	0	1	complex
+664	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+665	189	singleton	0	1	NL	NL	0	0	0	none
+666	7	singleton	0	1	CNL	CNL	0	0	0	complex
+667	24	singleton	0	1	TNL	TN	0	0	0	none
+668	278	singleton	0	1	TNL	TNL	0	0	0	complex
+669	13	singleton	0	1	TNL	TN	0	0	0	complex
+670	1	singleton	0	1	TNL	TNL	0	0	0	both
+671	55	singleton	0	1	NL	N	0	0	0	none
+672	14	singleton	0	1	NL	N	0	0	0	complex
+673	N/A	singleton	0	1	CNL	CN	0	0	0	N/A
+674	1	singleton	0	1	TNL	TNL	0	0	0	both
+675	232	singleton	0	1	TNL	T	0	0	0	none
+676	100	singleton	0	1	TNL	TNL	0	0	0	none
+677	164	singleton	0	1	TNL	TN	0	0	0	none
+678	151	singleton	0	1	RNL	R	0	0	0	both
+679	94	singleton	0	1	NL	NL	0	0	0	none
+680	159	singleton	0	1	TNL	TNL	0	0	0	none
+681	2	singleton	0	1	RNL	R	0	0	0	both
+682	32	singleton	0	1	NL	N	0	0	0	complex
+683	21	singleton	0	1	TNL	TN	1	0	0	complex
+684	165	singleton	0	1	TNL	TNLX	0	0	1	complex
+685	145	singleton	0	1	NL	N	0	0	0	none
+686	6	singleton	0	1	NL	N	0	0	0	both
+687	191	singleton	0	1	CNL	CN	0	0	0	complex
+688	4	singleton	0	1	TNL	TNL	0	0	0	both
+689	10	singleton	0	1	TNL	TNL	0	0	0	complex
+690	N/A	singleton	0	1	NL	N	0	0	0	N/A
+691	11	singleton	0	1	TNL	T	0	0	0	both
+692	55	singleton	0	1	RNL	RN	0	0	0	none
+693	N/A	singleton	0	1	NL	N	0	0	0	N/A
+694	202	singleton	0	1	TNL	T	0	0	0	none
+695	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+696	16	singleton	0	1	TNL	TNLX	0	0	1	both
+697	229	singleton	0	1	TNL	TN	0	0	0	none
+698	N/A	singleton	0	1	NL	N	0	0	0	N/A
+699	278	singleton	0	1	TNL	TNL	0	0	0	complex
+700	4	singleton	0	1	TNL	TNL	0	0	0	both
+701	107	singleton	0	1	TNL	TN	0	0	0	none
+702	105	singleton	0	1	TNL	TNL	0	0	0	none
+703	125	singleton	0	1	TNL	TN	0	0	0	none
+704	1	singleton	0	1	TNL	TNL	0	0	0	both
+705	82	singleton	0	1	NL	NL	0	0	0	none
+706	65	singleton	0	1	NL	N	0	0	0	none
+707	32	singleton	0	1	RNL	RN	0	0	0	complex
+708	4	singleton	0	1	TNL	TNL	0	0	0	both
+709	3	singleton	0	1	CNL	CNL	0	0	0	both
+710	253	singleton	0	1	TNL	TNL	0	0	0	complex
+711	4	singleton	0	1	NL	NL	0	0	0	both
+712	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+713	262	singleton	0	1	TNL	T	0	0	0	both
+714	84	singleton	0	1	TNL	TNL	1	0	0	none
+715	165	singleton	0	1	TNL	TN	0	0	0	complex
+716	4	singleton	0	1	NL	NL	0	0	0	both
+717	120	singleton	0	1	TNL	TNL	0	0	0	both
+718	14	singleton	0	1	NL	N	0	0	0	complex
+719	71	singleton	0	1	TNL	TNL	0	0	0	none
+720	4	singleton	0	1	TNL	TNL	0	0	0	both
+721	89	singleton	0	1	TNL	TNLX	0	0	1	none
+722	216	singleton	0	1	TNL	TNL	0	0	0	complex
+723	77	singleton	0	1	TNL	TNL	0	0	0	complex
+724	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+725	13	singleton	0	1	TNL	TN	0	0	0	complex
+726	249	singleton	0	1	CNL	CNL	0	0	0	none
+727	99	singleton	0	1	TNL	TNL	0	0	0	simple
+728	253	singleton	0	1	TNL	TNL	0	0	0	complex
+729	N/A	singleton	0	1	CNL	CNL	0	0	0	N/A
+730	212	singleton	0	1	TNL	TN	0	0	0	both
+731	109	singleton	0	1	CNL	CNL	0	0	0	none
+732	17	singleton	0	1	CNL	CN	0	0	0	complex
+733	92	singleton	0	1	TNL	TNL	0	0	0	complex
+734	161	singleton	0	1	NL	NL	0	0	0	none
+735	36	singleton	0	1	TNL	TNL	0	0	0	none
+736	135	singleton	0	1	NL	N	0	0	0	both
+737	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+738	3	singleton	0	1	CNL	CNL	0	0	0	both
+739	77	singleton	0	1	TNL	TNL	0	0	0	complex
+740	14	singleton	0	1	CNL	CN	0	0	0	complex
+741	82	singleton	0	1	NL	NL	0	0	0	none
+742	6	singleton	0	1	CNL	CN	0	0	0	both
+743	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+744	55	singleton	0	1	RNL	RN	0	0	0	none
+745	200	singleton	0	1	TNL	T	0	0	0	none
+746	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+747	14	singleton	0	1	CNL	CN	0	0	0	complex
+748	11	singleton	0	1	TNL	T	0	0	0	both
+749	49	singleton	0	1	CNL	CNX	0	1	1	complex
+750	3	singleton	0	1	CNL	CNL	0	0	0	both
+751	N/A	singleton	0	1	NL	N	0	0	0	N/A
+752	55	singleton	0	1	RNL	RN	0	0	0	none
+753	108	singleton	0	1	RNL	R	0	0	0	both
+754	15	singleton	0	1	NL	N	0	0	0	both
+755	N/A	singleton	0	1	CNL	CNL	0	0	0	N/A
+756	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+757	42	singleton	0	1	TNL	TNL	0	0	0	complex
+758	31	singleton	0	1	RNL	RCN	0	0	0	complex
+759	168	singleton	0	1	CNL	CN	0	0	0	none
+760	4	singleton	0	1	TNL	TNL	0	0	0	both
+761	36	singleton	0	1	TNL	TN	0	0	0	none
+762	165	singleton	0	1	TNL	TNL	0	0	0	complex
+763	75	singleton	0	1	NL	NL	0	1	0	none
+764	187	singleton	0	1	NL	NL	0	0	0	none
+765	237	singleton	0	1	NL	N	0	0	0	complex
+766	226	singleton	0	1	NL	N	0	0	0	simple
+767	9	singleton	0	1	NL	N	0	0	0	complex
+768	120	singleton	0	1	TNL	TNL	0	0	0	both
+769	134	singleton	0	1	CNL	CNL	0	0	0	both
+770	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+771	284	singleton	0	1	TNL	TN	0	0	0	none
+772	11	singleton	0	1	TNL	T	0	0	0	both
+773	52	singleton	0	1	TNL	T	0	0	0	none
+774	327	singleton	0	1	TNL	T	0	0	0	none
+775	135	singleton	0	1	NL	N	0	0	0	both
+776	211	singleton	0	1	TNL	TNL	0	0	0	none
+777	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+778	2	singleton	0	1	RNL	R	0	0	0	both
+779	87	singleton	0	1	TNL	T	0	0	0	none
+780	101	singleton	0	1	NL	N	0	0	0	none
+781	8	singleton	0	1	CNL	CNL	0	0	0	complex
+782	N/A	singleton	0	1	NL	N	0	0	0	N/A
+783	212	singleton	0	1	TNL	TN	0	0	0	both
+784	3	singleton	0	1	CNL	CNL	0	0	0	both
+785	213	singleton	0	1	TNL	TN	0	1	0	none
+786	102	singleton	0	1	TNL	TN	0	0	0	none
+787	13	singleton	0	1	TNL	TN	0	0	0	complex
+788	264	singleton	0	1	TNL	T	0	0	0	none
+789	28	singleton	0	1	TNL	TNL	0	0	0	none
+790	7	singleton	0	1	CNL	CNL	0	0	0	complex
+791	62	singleton	0	1	TNL	T	0	0	0	none
+792	8	singleton	0	1	CNL	CNL	0	0	0	complex
+793	1	singleton	0	1	TNL	TNL	0	0	0	both
+794	26	singleton	0	1	NL	NL	0	0	0	none
+795	135	singleton	0	1	NL	N	0	0	0	both
+796	16	singleton	0	1	TNL	TNL	0	0	0	both
+797	11	singleton	0	1	TNL	T	0	0	0	both
+798	N/A	singleton	0	1	CNL	CN	0	0	0	N/A
+799	7	singleton	0	1	CNL	CNL	0	0	0	complex
+800	66	singleton	0	1	CNL	CNL	0	0	0	none
+801	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+802	11	singleton	0	1	TNL	T	0	0	0	both
+803	4	singleton	0	1	TNL	TNL	0	0	0	both
+804	N/A	singleton	0	1	CNL	CN	0	0	0	N/A
+805	315	singleton	0	1	TNL	TNL	0	0	0	none
+806	176	singleton	0	1	TNL	TNL	0	0	0	both
+807	223	singleton	0	1	TNL	TN	0	0	0	none
+808	78	singleton	0	1	NL	NL	0	0	0	none
+809	131	singleton	0	1	TNL	T	0	0	0	none
+810	269	singleton	0	1	CNL	CNL	0	0	0	none
+811	2	singleton	0	1	RNL	R	0	0	0	both
+812	177	singleton	0	1	TNL	T	0	0	0	none
+813	11	singleton	0	1	TNL	T	0	0	0	both
+814	N/A	singleton	0	1	NL	N	0	0	0	N/A
+815	92	singleton	0	1	TNL	TNL	0	0	0	complex
+816	2	singleton	0	1	RNL	R	0	0	0	both
+817	118	singleton	0	1	TNL	T	0	0	0	none
+818	3	singleton	0	1	CNL	CNL	0	0	0	both
+819	30	singleton	0	1	TNL	TNL	0	1	0	complex
+820	144	singleton	0	1	TNL	T	0	0	0	none
+821	2	singleton	0	1	RNL	R	0	0	0	both
+822	82	singleton	0	1	NL	NL	1	0	0	none
+823	38	singleton	0	1	TNL	TN	0	0	0	none
+824	134	singleton	0	1	CNL	CNL	0	0	0	both
+825	101	singleton	0	1	NL	N	0	0	0	none
+826	221	singleton	0	1	TNL	TNL	0	0	0	complex
+827	231	singleton	0	1	TNL	T	0	0	0	none
+828	210	singleton	0	1	CNL	CNL	0	0	0	none
+829	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+830	324	singleton	0	1	NL	N	0	0	0	complex
+831	117	singleton	0	1	RNL	RCNX	0	0	1	complex
+832	1	singleton	0	1	TNL	TNL	0	0	0	both
+833	N/A	singleton	0	1	NL	N	0	0	0	N/A
+834	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+836	134	singleton	0	1	CNL	CN	0	0	0	both
+837	36	singleton	0	1	TNL	TN	0	0	0	none
+838	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+839	40	singleton	0	1	TNL	TNL	0	0	0	none
+840	10	singleton	0	1	TNL	TNL	0	0	0	complex
+841	100	singleton	0	1	TNL	TNL	0	0	0	none
+842	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+843	56	singleton	0	1	CNL	CN	0	0	0	none
+844	189	singleton	0	1	TNL	TL	0	0	0	none
+845	147	singleton	0	1	NL	N	0	0	0	none
+846	27	singleton	0	1	NL	N	0	0	0	none
+847	73	singleton	0	1	TNL	TNL	0	0	0	none
+848	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+849	143	singleton	0	1	NL	NLX	0	0	1	none
+850	2	singleton	0	1	RNL	R	0	0	0	both
+851	221	singleton	0	1	TNL	TNL	0	0	0	complex
+852	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+853	13	singleton	0	1	TNL	T	0	1	0	complex
+854	140	singleton	0	1	TNL	TN	0	0	0	complex
+855	235	singleton	0	1	TNL	T	0	0	0	none
+856	151	singleton	0	1	RNL	R	0	0	0	both
+857	175	singleton	0	1	TNL	TNL	0	0	0	none
+858	2	singleton	0	1	RNL	R	0	0	0	both
+859	6	singleton	0	1	CNL	CN	0	0	0	both
+860	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+861	124	singleton	0	1	TNL	TX	0	0	1	none
+862	34	singleton	0	1	TNL	TN	0	0	0	none
+863	184	singleton	0	1	TNL	TNL	0	0	0	both
+864	7	singleton	0	1	CNL	CN	0	0	0	complex
+865	184	singleton	0	1	TNL	TNL	0	0	0	both
+866	61	singleton	0	1	NL	N	0	0	0	none
+867	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+868	3	singleton	0	1	CNL	CNL	0	0	0	both
+869	64	singleton	0	1	TNL	TN	0	0	0	none
+870	124	singleton	0	1	TNL	TX	0	0	1	none
+871	156	singleton	0	1	NL	N	0	0	0	none
+872	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+873	107	singleton	0	1	TNL	TN	0	0	0	none
+874	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+875	29	singleton	0	1	TNL	T	0	0	0	simple
+876	102	singleton	0	1	TNL	TN	0	0	0	none
+877	8	singleton	0	1	CNL	CN	0	0	0	complex
+878	214	singleton	0	1	TNL	TNL	0	0	0	none
+879	303	singleton	0	1	CNL	CNL	0	0	0	none
+880	4	singleton	0	1	TNL	TNL	0	0	0	both
+881	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+883	99	singleton	0	1	TNL	TNL	0	0	0	simple
+884	4	singleton	0	1	TNL	TNL	0	0	0	both
+885	11	singleton	0	1	TNL	T	0	0	0	both
+886	55	singleton	0	1	RNL	RN	0	0	0	none
+887	39	singleton	0	1	TNL	TNL	0	0	0	none
+888	11	singleton	0	1	TNL	T	0	0	0	both
+889	11	singleton	0	1	TNL	T	0	0	0	both
+890	2	singleton	0	1	RNL	R	0	0	0	both
+891	6	singleton	0	1	CNL	CN	0	0	0	both
+892	6	singleton	0	1	CNL	CN	0	0	0	both
+893	165	singleton	0	1	TNL	TN	0	0	0	complex
+894	11	singleton	0	1	TNL	T	0	0	0	both
+895	82	singleton	0	1	NL	NL	0	0	0	none
+896	2	singleton	0	1	RNL	R	0	0	0	both
+897	11	singleton	0	1	TNL	T	0	0	0	both
+898	10	singleton	0	1	TNL	TNL	0	0	0	complex
+899	2	singleton	0	1	RNL	R	0	0	0	both
+900	287	singleton	0	1	TNL	T	0	0	0	none
+901	238	singleton	0	1	NL	NL	0	0	0	complex
+902	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+903	102	singleton	0	1	TNL	TNL	0	0	0	none
+904	4	singleton	0	1	TNL	TNL	0	0	0	both
+905	224	singleton	0	1	TNL	TNL	0	0	0	none
+906	2	singleton	0	1	RNL	R	0	0	0	both
+907	247	singleton	0	1	RNL	R	0	0	0	both
+908	2	singleton	0	1	RNL	R	0	0	0	both
+909	161	singleton	0	1	NL	NL	0	0	0	none
+910	194	singleton	0	1	TNL	T	0	0	0	none
+911	N/A	singleton	0	1	NL	NX	0	0	1	N/A
+912	166	singleton	0	1	NL	NL	0	0	0	simple
+913	171	singleton	0	1	TNL	TN	0	1	0	none
+914	125	singleton	0	1	TNL	TN	0	0	0	none
+915	77	singleton	0	1	TNL	TNL	0	0	0	complex
+916	6	singleton	0	1	CNL	CN	0	0	0	both
+917	2	singleton	0	1	RNL	R	0	0	0	both
+918	4	singleton	0	1	TNL	TNL	0	0	0	both
+919	258	singleton	0	1	TNL	TNL	0	0	0	none
+920	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+921	25	singleton	0	1	NL	NL	0	1	0	both
+922	4	singleton	0	1	NL	NL	0	0	0	both
+923	181	singleton	0	1	TNL	TNL	0	0	0	complex
+924	N/A	singleton	0	1	NL	N	0	0	0	N/A
+925	100	singleton	0	1	TNL	TNL	0	0	0	none
+926	240	singleton	0	1	TNL	TL	0	0	0	none
+927	6	singleton	0	1	CNL	CN	0	0	0	both
+928	4	singleton	0	1	TNL	TN	0	0	0	both
+929	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+930	78	singleton	0	1	TNL	TNL	1	0	0	none
+931	4	singleton	0	1	TNL	TNL	0	0	0	both
+932	60	singleton	0	1	NL	NL	0	0	0	none
+933	63	singleton	0	1	TNL	TNL	0	0	0	none
+934	7	singleton	0	1	CNL	CNL	0	0	0	complex
+935	7	singleton	0	1	CNL	CNL	0	0	0	complex
+936	218	singleton	0	1	TNL	TX	0	0	1	none
+937	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+938	165	singleton	0	1	TNL	TNL	0	0	0	complex
+939	184	singleton	0	1	TNL	TNL	0	0	0	both
+940	33	singleton	0	1	NL	N	0	0	0	none
+941	82	singleton	0	1	NL	NL	0	0	0	none
+942	1	singleton	0	1	TNL	TNL	0	0	0	both
+943	2	singleton	0	1	RNL	R	0	0	0	both
+944	108	singleton	0	1	RNL	R	0	0	0	both
+945	6	singleton	0	1	CNL	CN	0	0	0	both
+946	2	singleton	0	1	RNL	R	0	0	0	both
+947	6	singleton	0	1	CNL	CN	0	0	0	both
+948	17	singleton	0	1	NL	N	0	0	0	complex
+949	83	singleton	0	1	NL	NL	0	0	0	none
+950	2	singleton	0	1	RNL	R	0	0	0	both
+951	80	singleton	0	1	NL	NL	1	0	0	none
+952	188	singleton	0	1	CNL	CN	0	0	0	complex
+953	34	singleton	0	1	TNL	TN	0	0	0	none
+954	84	singleton	0	1	TNL	TNL	1	0	0	none
+955	109	singleton	0	1	NL	NL	0	0	0	none
+956	105	singleton	0	1	TNL	TNL	0	0	0	none
+957	134	singleton	0	1	CNL	CNL	0	0	0	both
+958	2	singleton	0	1	RNL	R	0	0	0	both
+959	70	singleton	0	1	NL	NL	0	0	0	none
+961	4	singleton	0	1	TNL	TNL	0	0	0	both
+962	76	singleton	0	1	NL	N	0	0	0	none
+963	20	singleton	0	1	TNL	TNL	0	0	0	none
+964	234	singleton	0	1	NL	N	0	0	0	complex
+965	N/A	singleton	0	1	RNL	R	0	0	0	N/A
+966	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+967	9	singleton	0	1	NL	N	0	0	0	complex
+968	5	singleton	0	1	TNL	TNL	0	0	0	both
+969	135	singleton	0	1	NL	N	0	0	0	both
+970	226	singleton	0	1	NL	N	0	0	0	simple
+971	146	singleton	0	1	TNL	TN	0	0	0	none
+972	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+973	2	singleton	0	1	RNL	R	0	0	0	both
+974	152	singleton	0	1	CNL	CNL	0	0	0	complex
+975	108	singleton	0	1	RNL	R	0	0	0	both
+976	N/A	singleton	0	1	TNL	TL	0	0	0	N/A
+977	11	singleton	0	1	TNL	T	0	0	0	both
+978	2	singleton	0	1	RNL	R	0	0	0	both
+979	7	singleton	0	1	CNL	CNL	0	0	0	complex
+980	163	singleton	0	1	TNL	TNL	0	0	0	both
+981	14	singleton	0	1	NL	N	0	0	0	complex
+982	N/A	singleton	0	1	NL	N	0	0	0	N/A
+983	13	singleton	0	1	TNL	TN	0	1	0	complex
+984	6	singleton	0	1	CNL	CN	0	0	0	both
+985	170	singleton	0	1	TNL	TNL	0	0	0	complex
+986	176	singleton	0	1	TNL	TNL	0	0	0	both
+987	219	singleton	0	1	NL	N	0	0	0	none
+988	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+989	4	singleton	0	1	TNL	TNL	0	0	0	both
+990	57	singleton	0	1	TNL	TNL	0	0	0	none
+991	90	singleton	0	1	TNL	TL	0	0	0	none
+992	168	singleton	0	1	NL	NL	0	0	0	none
+993	163	singleton	0	1	TNL	TNL	0	0	0	both
+994	71	singleton	0	1	NL	NL	0	0	0	none
+995	79	singleton	0	1	TNL	TNL	0	0	0	none
+996	4	singleton	0	1	TNL	TNL	0	0	0	both
+997	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+998	55	singleton	0	1	RNL	RN	0	0	0	none
+999	3	singleton	0	1	CNL	CNL	0	0	0	both
+1000	253	singleton	0	1	TNL	TNL	0	0	0	complex
+1001	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1002	23	singleton	0	1	TNL	TNL	0	0	0	both
+1003	14	singleton	0	1	NL	N	0	0	0	complex
+1004	29	singleton	0	1	TNL	T	0	0	0	simple
+1005	6	singleton	0	1	CNL	CN	0	0	0	both
+1006	11	singleton	0	1	TNL	T	0	0	0	both
+1007	176	singleton	0	1	TNL	TNL	0	0	0	both
+1008	135	singleton	0	1	NL	N	0	0	0	both
+1009	47	singleton	0	1	TNL	TN	0	1	0	none
+1010	4	singleton	0	1	TNL	TNL	0	0	0	both
+1011	190	singleton	0	1	TNL	TL	0	0	0	none
+1012	10	singleton	0	1	TNL	TNL	0	0	0	complex
+1013	76	singleton	0	1	NL	N	0	0	0	none
+1014	2	singleton	0	1	RNL	R	0	0	0	both
+1015	6	singleton	0	1	CNL	CN	0	0	0	both
+1016	N/A	singleton	0	1	RNL	R	0	0	0	N/A
+1017	46	singleton	0	1	TNL	TNL	0	0	0	none
+1018	105	singleton	0	1	TNL	TNL	0	0	0	none
+1019	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+1020	244	singleton	0	1	CNL	CN	0	0	0	none
+1021	3	singleton	0	1	CNL	CNL	0	1	0	both
+1022	2	singleton	0	1	RNL	R	0	0	0	both
+1023	247	singleton	0	1	RNL	R	0	0	0	both
+1024	11	singleton	0	1	TNL	T	0	0	0	both
+1025	N/A	singleton	0	1	RNL	R	0	0	0	N/A
+1026	1	singleton	0	1	TNL	TNL	0	0	0	both
+1027	212	singleton	0	1	TNL	TN	0	0	0	both
+1028	74	singleton	0	1	NL	NL	0	0	0	simple
+1029	165	singleton	0	1	TNL	TNL	0	0	0	complex
+1030	2	singleton	0	1	RNL	R	0	0	0	both
+1031	181	singleton	0	1	TNL	TNL	0	0	0	complex
+1032	2	singleton	0	1	RNL	R	0	0	0	both
+1033	1	singleton	0	1	TNL	TNL	0	0	0	both
+1034	124	singleton	0	1	TNL	T	0	0	0	none
+1035	102	singleton	0	1	NL	N	0	0	0	none
+1036	N/A	singleton	0	1	CNL	CN	0	0	0	N/A
+1037	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1038	N/A	singleton	0	1	TNL	TNL	0	0	0	N/A
+1039	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1040	1	singleton	0	1	TNL	TNL	0	0	0	both
+1041	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1042	74	singleton	0	1	TNL	TNL	0	0	0	simple
+1043	163	singleton	0	1	TNL	TNL	0	0	0	both
+1044	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1045	11	singleton	0	1	TNL	T	0	0	0	both
+1046	148	singleton	0	1	TNL	T	0	0	0	none
+1047	172	singleton	0	1	NL	N	0	0	0	none
+1048	17	singleton	0	1	NL	NL	0	0	0	complex
+1049	224	singleton	0	1	TNL	TNL	0	0	0	none
+1050	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1051	2	singleton	0	1	RNL	R	0	0	0	both
+1052	243	singleton	0	1	TNL	TN	0	1	0	none
+1053	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1054	147	singleton	0	1	TNL	TN	0	1	0	none
+1055	3	singleton	0	1	CNL	CNL	0	0	0	both
+1056	209	singleton	0	1	CNL	CN	0	0	0	none
+1057	6	singleton	0	1	CNL	CN	0	0	0	both
+1058	163	singleton	0	1	TNL	TNL	0	0	0	both
+1059	6	singleton	0	1	CNL	CN	0	0	0	both
+1060	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1061	2	singleton	0	1	RNL	R	0	0	0	both
+1062	90	singleton	0	1	TNL	TNL	0	0	0	none
+1063	44	singleton	0	1	TNL	TNL	0	0	0	none
+1064	101	singleton	0	1	NL	N	0	0	0	none
+1065	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1066	49	singleton	0	1	CNL	CNX	0	1	1	complex
+1067	13	singleton	0	1	TNL	TN	0	1	0	complex
+1068	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+1069	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+1070	143	singleton	0	1	NL	NL	0	0	0	none
+1071	322	singleton	0	1	TNL	T	0	0	0	none
+1072	168	singleton	0	1	CNL	CN	0	0	0	none
+1073	7	singleton	0	1	CNL	CNL	0	0	0	complex
+1074	135	singleton	0	1	NL	N	0	0	0	both
+1075	307	singleton	0	1	TNL	T	0	0	0	none
+1076	29	singleton	0	1	TNL	T	0	0	0	simple
+1077	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1078	2	singleton	0	1	RNL	R	0	0	0	both
+1079	5	singleton	0	1	TNL	TNL	0	0	0	both
+1080	29	singleton	0	1	TNL	T	0	0	0	simple
+1081	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1082	278	singleton	0	1	TNL	TNL	0	0	0	complex
+1083	180	singleton	0	1	TNL	TNL	0	0	0	both
+1084	115	singleton	0	1	NL	N	0	0	0	none
+1085	138	singleton	0	1	NL	NL	0	0	0	none
+1086	11	singleton	0	1	TNL	T	0	0	0	both
+1087	5	singleton	0	1	TNL	TNL	0	0	0	both
+1088	156	singleton	0	1	CNL	CN	0	0	0	none
+1089	253	singleton	0	1	TNL	TNL	0	0	0	complex
+1090	2	singleton	0	1	RNL	R	0	0	0	both
+1092	170	singleton	0	1	TNL	TN	0	0	0	complex
+1093	202	singleton	0	1	TNL	T	0	0	0	none
+1094	N/A	singleton	0	1	TNL	TL	0	0	0	N/A
+1095	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+1096	2	singleton	0	1	RNL	R	0	0	0	both
+1097	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1098	233	singleton	0	1	TNL	TL	0	0	0	none
+1099	34	singleton	0	1	NL	N	0	0	0	none
+1100	2	singleton	0	1	RNL	R	0	0	0	both
+1101	44	singleton	0	1	TNL	TNL	0	0	0	none
+1102	8	singleton	0	1	CNL	CN	0	0	0	complex
+1103	163	singleton	0	1	TNL	TNL	0	0	0	both
+1104	119	singleton	0	1	TNL	T	0	0	0	simple
+1105	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+1106	36	singleton	0	1	TNL	TNL	0	0	0	none
+1107	76	singleton	0	1	NL	N	0	0	0	none
+1108	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1109	7	singleton	0	1	CNL	CNL	0	0	0	complex
+1110	268	singleton	0	1	CNL	CNL	0	0	0	simple
+1111	7	singleton	0	1	CNL	CNL	0	0	0	complex
+1112	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1113	134	singleton	0	1	CNL	CNL	0	0	0	both
+1114	199	singleton	0	1	TNL	TX	0	0	1	none
+1115	11	singleton	0	1	TNL	T	0	0	0	both
+1116	324	singleton	0	1	NL	N	0	0	0	complex
+1117	150	singleton	0	1	TNL	T	0	0	0	none
+1118	65	singleton	0	1	NL	N	0	0	0	none
+1119	94	singleton	0	1	NL	NL	1	0	0	none
+1120	192	singleton	0	1	TNL	TX	0	0	1	none
+1121	108	singleton	0	1	RNL	R	0	0	0	both
+1122	11	singleton	0	1	TNL	T	0	0	0	both
+1123	188	singleton	0	1	CNL	CN	0	0	0	complex
+1124	N/A	singleton	0	1	NL	NX	1	0	1	N/A
+1125	N/A	singleton	0	1	CNL	CN	0	0	0	N/A
+1126	50	singleton	0	1	TNL	TN	0	0	0	none
+1127	142	singleton	0	1	NL	NL	0	0	0	none
+1128	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1129	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1130	155	singleton	0	1	TNL	TN	0	0	0	none
+1131	45	singleton	0	1	TNL	T	0	0	0	complex
+1132	124	singleton	0	1	TNL	T	0	0	0	none
+1133	151	singleton	0	1	RNL	R	0	0	0	both
+1134	170	singleton	0	1	TNL	TNL	0	0	0	complex
+1135	163	singleton	0	1	TNL	TN	0	0	0	both
+1136	4	singleton	0	1	TNL	TNL	0	0	0	both
+1137	78	singleton	0	1	NL	NL	0	0	0	none
+1138	134	singleton	0	1	NL	N	0	0	0	both
+1139	119	singleton	0	1	TNL	T	0	0	0	simple
+1140	165	singleton	0	1	TNL	TNL	0	0	0	complex
+1141	234	singleton	0	1	NL	NL	0	0	0	complex
+1142	1	singleton	0	1	TNL	TNL	0	0	0	both
+1143	125	singleton	0	1	NL	NL	0	0	0	none
+1144	184	singleton	0	1	NL	NL	0	0	0	both
+1145	N/A	singleton	0	1	TNL	TNL	0	0	0	N/A
+1146	4	singleton	0	1	NL	NL	0	0	0	both
+1147	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+1148	68	singleton	0	1	CNL	CN	0	0	0	none
+1149	61	singleton	0	1	NL	N	0	0	0	none
+1150	151	singleton	0	1	RNL	R	0	0	0	both
+1151	4	singleton	0	1	TNL	TNL	0	0	0	both
+1152	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+1153	133	singleton	0	1	NL	NL	0	0	0	complex
+1154	253	singleton	0	1	TNL	TNL	0	0	0	complex
+1155	165	singleton	0	1	TNL	TN	0	0	0	complex
+1156	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1157	147	singleton	0	1	NL	N	0	0	0	none
+1158	109	singleton	0	1	CNL	CNL	0	0	0	none
+1159	7	singleton	0	1	CNL	CNL	0	0	0	complex
+1160	176	singleton	0	1	TNL	TNL	0	0	0	both
+1161	N/A	singleton	0	1	RNL	R	0	0	0	N/A
+1162	N/A	singleton	0	1	TNL	TN	0	1	0	N/A
+1163	34	singleton	0	1	NL	N	0	0	0	none
+1164	14	singleton	0	1	CNL	CN	0	0	0	complex
+1165	88	singleton	0	1	NL	NL	0	0	0	none
+1166	97	singleton	0	1	CNL	CNL	0	0	0	none
+1167	97	singleton	0	1	CNL	CNL	0	0	0	none
+1168	146	singleton	0	1	TNL	TN	0	0	0	none
+1169	46	singleton	0	1	TNL	TNL	0	0	0	none
+1170	N/A	singleton	0	1	CNL	CNL	0	0	0	N/A
+1171	N/A	singleton	0	1	TNL	TNL	0	0	0	N/A
+1172	1	singleton	0	1	TNL	TNL	0	0	0	both
+1173	43	singleton	0	1	NL	NLX	1	0	1	complex
+1174	122	singleton	0	1	TNL	T	0	0	0	complex
+1175	85	singleton	0	1	NL	NL	0	0	0	none
+1176	66	singleton	0	1	CNL	CNL	0	0	0	none
+1177	89	singleton	0	1	NL	NL	0	0	0	none
+1178	96	singleton	0	1	TNL	TNL	0	0	0	none
+1179	3	singleton	0	1	CNL	CNL	0	0	0	both
+1180	7	singleton	0	1	CNL	CNL	0	0	0	complex
+1181	47	singleton	0	1	NL	N	0	0	0	none
+1182	154	singleton	0	1	TNL	TNX	0	0	1	none
+1183	102	singleton	0	1	TNL	TN	0	0	0	none
+1184	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+1185	134	singleton	0	1	CNL	CNL	0	0	0	both
+1186	99	singleton	0	1	NL	NL	0	0	0	simple
+1187	4	singleton	0	1	TNL	TNL	0	0	0	both
+1188	32	singleton	0	1	NL	N	0	0	0	complex
+1189	166	singleton	0	1	NL	NL	0	0	0	simple
+1190	6	singleton	0	1	CNL	CN	0	0	0	both
+1191	2	singleton	0	1	RNL	R	0	0	0	both
+1192	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1193	55	singleton	0	1	RNL	RN	0	0	0	none
+1194	145	singleton	0	1	TNL	TN	0	0	0	none
+1195	103	singleton	0	1	NL	N	0	0	0	none
+1196	11	singleton	0	1	TNL	T	0	0	0	both
+1197	5	singleton	0	1	NL	NL	0	0	0	both
+1198	194	singleton	0	1	TNL	T	0	0	0	none
+1199	248	singleton	0	1	TNL	T	0	0	0	none
+1200	150	singleton	0	1	TNL	T	0	0	0	none
+1201	94	singleton	0	1	NL	NLX	1	0	1	none
+1202	96	singleton	0	1	TNL	TNL	0	1	0	none
+1203	93	singleton	0	1	NL	N	0	1	0	simple
+1204	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1205	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+1206	76	singleton	0	1	NL	N	0	0	0	none
+1207	N/A	singleton	0	1	RNL	R	0	0	0	N/A
+1208	N/A	singleton	0	1	CNL	CN	0	0	0	N/A
+1209	N/A	singleton	0	1	CNL	CN	0	1	0	N/A
+1210	102	singleton	0	1	NL	N	0	0	0	none
+1211	221	singleton	0	1	TNL	TNL	0	0	0	complex
+1212	206	singleton	0	1	TNL	TNL	0	0	0	none
+1213	N/A	singleton	0	1	TNL	TNL	0	0	0	N/A
+1214	201	singleton	0	1	TNL	TNL	0	1	0	none
+1215	124	singleton	0	1	TNL	T	0	0	0	none
+1216	8	singleton	0	1	CNL	CN	0	1	0	complex
+1217	112	singleton	0	1	TNL	TNL	0	1	0	none
+1218	2	singleton	0	1	RNL	R	0	0	0	both
+1219	26	singleton	0	1	TNL	TN	1	0	0	none
+1220	18	singleton	0	1	TNL	TL	1	0	0	complex
+1221	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1222	81	singleton	0	1	TNL	TNL	0	1	0	none
+1223	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1224	71	singleton	0	1	TNL	TN	0	0	0	none
+1225	131	singleton	0	1	TNL	T	0	0	0	none
+1226	11	singleton	0	1	TNL	T	0	0	0	both
+1227	56	singleton	0	1	CNL	CNX	0	0	1	none
+1228	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1229	30	singleton	0	1	TNL	TNL	0	0	0	complex
+1230	134	singleton	0	1	CNL	CNL	0	0	0	both
+1231	45	singleton	0	1	TNL	T	0	0	0	complex
+1232	2	singleton	0	1	RNL	R	0	0	0	both
+1233	118	singleton	0	1	TNL	T	0	0	0	none
+1234	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1235	25	singleton	0	1	NL	N	0	1	0	both
+1236	184	singleton	0	1	TNL	TNL	0	0	0	both
+1237	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1238	14	singleton	0	1	NL	N	0	0	0	complex
+1239	18	singleton	0	1	TNL	TNL	1	0	0	complex
+1240	137	singleton	0	1	TNL	TN	0	0	0	none
+1241	268	singleton	0	1	CNL	CNL	0	0	0	simple
+1242	79	singleton	0	1	TNL	TNL	0	0	0	none
+1243	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1244	46	singleton	0	1	TNL	TN	0	0	0	none
+1245	144	singleton	0	1	TNL	T	0	0	0	none
+1246	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1247	2	singleton	0	1	RNL	R	0	0	0	both
+1248	120	singleton	0	1	TNL	TN	0	0	0	both
+1249	N/A	singleton	0	1	CNL	CN	0	0	0	N/A
+1250	134	singleton	0	1	NL	N	0	0	0	both
+1251	8	singleton	0	1	NL	NL	0	0	0	complex
+1252	132	singleton	0	1	TNL	T	0	0	0	none
+1253	N/A	singleton	0	1	TNL	TNL	0	0	0	N/A
+1254	76	singleton	0	1	NL	N	0	0	0	none
+1255	2	singleton	0	1	RNL	R	0	0	0	both
+1256	3	singleton	0	1	CNL	CNL	0	0	0	both
+1257	27	singleton	0	1	NL	N	0	0	0	none
+1258	96	singleton	0	1	TNL	TNL	0	0	0	none
+1259	77	singleton	0	1	TNL	TNL	0	0	0	complex
+1260	102	singleton	0	1	TNL	TN	0	0	0	none
+1261	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1262	181	singleton	0	1	TNL	TNL	0	0	0	complex
+1263	1	singleton	0	1	TNL	TNL	0	0	0	both
+1264	99	singleton	0	1	TNL	TNL	0	0	0	simple
+1265	36	singleton	0	1	TNL	TNL	0	0	0	none
+1266	257	singleton	0	1	TNL	TN	0	0	0	none
+1267	10	singleton	0	1	TNL	TNL	0	0	0	complex
+1268	181	singleton	0	1	TNL	TNL	0	0	0	complex
+1269	3	singleton	0	1	CNL	CNL	0	0	0	both
+1270	2	singleton	0	1	RNL	R	0	0	0	both
+1271	2	singleton	0	1	RNL	R	0	0	0	both
+1272	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1273	120	singleton	0	1	TNL	TNL	0	0	0	both
+1274	186	singleton	0	1	NL	N	0	0	0	none
+1275	N/A	singleton	0	1	CNL	CNL	0	0	0	N/A
+1276	10	singleton	0	1	TNL	TNL	0	0	0	complex
+1278	103	singleton	0	1	NL	N	0	0	0	none
+1279	3	singleton	0	1	CNL	CNL	0	0	0	both
+1280	12	singleton	0	1	NL	N	0	0	0	complex
+1281	4	singleton	0	1	TNL	TNL	0	0	0	both
+1282	96	singleton	0	1	TNL	TNL	1	0	0	none
+1283	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1284	77	singleton	0	1	TNL	TNL	0	0	0	complex
+1285	15	singleton	0	1	NL	N	0	0	0	both
+1286	11	singleton	0	1	TNL	T	0	0	0	both
+1287	13	singleton	0	1	TNL	TN	0	1	0	complex
+1288	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1289	4	singleton	0	1	TNL	TNL	0	0	0	both
+1290	2	singleton	0	1	RNL	R	0	0	0	both
+1291	324	singleton	0	1	NL	N	0	0	0	complex
+1292	187	singleton	0	1	CNL	CNL	0	0	0	none
+1293	151	singleton	0	1	RNL	R	0	0	0	both
+1294	3	singleton	0	1	NL	NL	0	0	0	both
+1295	252	singleton	0	1	CNL	CN	0	0	0	none
+1296	13	singleton	0	1	TNL	TN	0	0	0	complex
+1297	134	singleton	0	1	NL	NL	0	0	0	both
+1298	6	singleton	0	1	CNL	CN	0	0	0	both
+1299	1	singleton	0	1	TNL	TNL	0	0	0	both
+1300	111	singleton	0	1	TNL	TN	0	0	0	none
+1301	166	singleton	0	1	NL	NL	0	0	0	simple
+1302	N/A	singleton	0	1	RNL	R	0	0	0	N/A
+1303	238	singleton	0	1	NL	NL	0	0	0	complex
+1304	179	singleton	0	1	TNL	TNL	0	0	0	complex
+1305	6	singleton	0	1	CNL	CN	0	0	0	both
+1306	138	singleton	0	1	TNL	TNL	0	0	0	none
+1307	94	singleton	0	1	NL	NL	1	0	0	none
+1308	171	singleton	0	1	TNL	TN	0	1	0	none
+1309	132	singleton	0	1	TNL	T	0	0	0	none
+1310	10	singleton	0	1	NL	NL	0	0	0	complex
+1311	228	singleton	0	1	CNL	CN	0	0	0	simple
+1312	2	singleton	0	1	RNL	R	0	0	0	both
+1313	4	singleton	0	1	TNL	TNL	0	0	0	both
+1314	1	singleton	0	1	TNL	TNL	0	0	0	both
+1315	179	singleton	0	1	TNL	TNL	0	0	0	complex
+1316	91	singleton	0	1	TNL	TN	0	0	0	none
+1317	135	singleton	0	1	NL	N	0	0	0	both
+1318	2	singleton	0	1	RNL	R	0	0	0	both
+1319	12	singleton	0	1	CNL	CN	0	0	0	complex
+1320	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1321	15	singleton	0	1	NL	N	0	0	0	both
+1322	126	singleton	0	1	NL	N	0	0	0	none
+1323	151	singleton	0	1	RNL	R	0	0	0	both
+1324	120	singleton	0	1	TNL	TNL	0	0	0	both
+1325	6	singleton	0	1	CNL	CN	0	0	0	both
+1326	225	singleton	0	1	TNL	TN	0	0	0	none
+1327	115	singleton	0	1	NL	N	0	0	0	none
+1328	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1329	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+1330	16	singleton	0	1	TNL	TNL	0	0	0	both
+1331	109	singleton	0	1	NL	N	0	0	0	none
+1332	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+1333	274	singleton	0	1	NL	N	0	0	0	none
+1334	169	singleton	0	1	TNL	TX	0	0	1	none
+1335	9	singleton	0	1	NL	N	0	0	0	complex
+1336	165	singleton	0	1	TNL	TNL	0	0	0	complex
+1337	254	singleton	0	1	NL	NL	0	0	0	none
+1338	234	singleton	0	1	TNL	TNL	0	0	0	complex
+1339	4	singleton	0	1	NL	NL	0	0	0	both
+1340	278	singleton	0	1	TNL	TNL	0	0	0	complex
+1341	32	singleton	0	1	RNL	RN	0	0	0	complex
+1342	3	singleton	0	1	CNL	CNL	0	0	0	both
+1343	63	singleton	0	1	TNL	TNL	0	0	0	none
+1344	168	singleton	0	1	CNL	CNL	0	0	0	none
+1345	176	singleton	0	1	TNL	TNL	0	0	0	both
+1346	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1347	5	singleton	0	1	TNL	TNL	0	0	0	both
+1348	3	singleton	0	1	CNL	CNL	0	0	0	both
+1349	164	singleton	0	1	TNL	TN	0	0	0	none
+1350	132	singleton	0	1	TNL	T	0	0	0	none
+1351	73	singleton	0	1	TNL	TNL	0	0	0	none
+1352	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1353	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+1354	175	singleton	0	1	TNL	TNL	0	0	0	none
+1355	11	singleton	0	1	TNL	T	0	0	0	both
+1356	205	singleton	0	1	TNL	TNL	0	1	0	none
+1357	2	singleton	0	1	RNL	R	0	0	0	both
+1358	238	singleton	0	1	NL	NL	0	0	0	complex
+1359	216	singleton	0	1	TNL	TNL	0	0	0	complex
+1360	176	singleton	0	1	TNL	TNL	0	0	0	both
+1361	18	singleton	0	1	TNL	TNL	1	0	0	complex
+1362	230	singleton	0	1	TNL	TN	0	0	0	none
+1363	76	singleton	0	1	NL	N	0	0	0	none
+1364	5	singleton	0	1	TNL	TN	0	0	0	both
+1365	6	singleton	0	1	NL	N	0	0	0	both
+1366	89	singleton	0	1	TNL	TNLX	0	0	1	none
+1367	11	singleton	0	1	TNL	T	0	0	0	both
+1368	11	singleton	0	1	TNL	T	0	0	0	both
+1369	135	singleton	0	1	NL	N	0	0	0	both
+1370	56	singleton	0	1	CNL	CN	0	0	0	none
+1371	159	singleton	0	1	TNL	TNL	0	0	0	none
+1372	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+1373	11	singleton	0	1	TNL	T	0	0	0	both
+1374	209	singleton	0	1	CNL	CN	0	0	0	none
+1375	188	singleton	0	1	NL	N	0	0	0	complex
+1376	7	singleton	0	1	CNL	CNL	0	0	0	complex
+1377	N/A	singleton	0	1	CNL	CNL	0	0	0	N/A
+1378	134	singleton	0	1	CNL	CNL	0	0	0	both
+1379	2	singleton	0	1	RNL	R	0	0	0	both
+1380	135	singleton	0	1	NL	N	0	0	0	both
+1381	154	singleton	0	1	TNL	TNX	0	0	1	none
+1382	63	singleton	0	1	NL	NL	0	0	0	none
+1383	112	singleton	0	1	TNL	TNL	0	0	0	none
+1384	92	singleton	0	1	TNL	TNL	0	0	0	complex
+1385	15	singleton	0	1	NL	N	0	0	0	both
+1386	102	singleton	0	1	TNL	TN	0	0	0	none
+1387	34	singleton	0	1	TNL	TN	0	0	0	none
+1388	6	singleton	0	1	CNL	CN	0	0	0	both
+1389	76	singleton	0	1	NL	N	0	0	0	none
+1390	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1391	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+1392	170	singleton	0	1	TNL	TNL	0	0	0	complex
+1393	151	singleton	0	1	RNL	R	0	0	0	both
+1394	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+1395	134	singleton	0	1	CNL	CN	0	0	0	both
+1396	199	singleton	0	1	TNL	TX	0	0	1	none
+1397	23	singleton	0	1	TNL	TNL	0	0	0	both
+1398	32	singleton	0	1	RNL	RN	0	0	0	complex
+1399	64	singleton	0	1	TNL	TNL	0	0	0	none
+1400	2	singleton	0	1	RNL	R	0	0	0	both
+1401	262	singleton	0	1	TNL	T	0	0	0	both
+1402	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1403	10	singleton	0	1	TNL	TNL	0	0	0	complex
+1404	177	singleton	0	1	TNL	T	0	0	0	none
+1405	N/A	singleton	0	1	TNL	T	0	1	0	N/A
+1406	1	singleton	0	1	TNL	TNL	0	0	0	both
+1407	167	singleton	0	1	TNL	T	0	0	0	none
+1408	9	singleton	0	1	NL	N	0	0	0	complex
+1409	95	singleton	0	1	TNL	TX	0	0	1	none
+1410	135	singleton	0	1	NL	N	0	0	0	both
+1411	165	singleton	0	1	TNL	TNL	0	0	0	complex
+1412	151	singleton	0	1	RNL	R	0	0	0	both
+1413	206	singleton	0	1	TNL	TNL	0	0	0	none
+1414	1	singleton	0	1	TNL	TNL	0	0	0	both
+1415	145	singleton	0	1	NL	N	0	0	0	none
+1416	3	singleton	0	1	CNL	CNL	0	0	0	both
+1417	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1418	21	singleton	0	1	TNL	TNL	0	0	0	complex
+1419	174	singleton	0	1	TNL	TNL	0	0	0	none
+1420	179	singleton	0	1	TNL	TNL	0	0	0	complex
+1421	29	singleton	0	1	TNL	T	0	0	0	simple
+1422	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+1423	102	singleton	0	1	TNL	TN	0	0	0	none
+1424	22	singleton	0	1	NL	N	0	1	0	complex
+1425	228	singleton	0	1	CNL	CN	0	0	0	simple
+1426	131	singleton	0	1	TNL	T	0	0	0	none
+1427	262	singleton	0	1	TNL	T	0	0	0	both
+1428	212	singleton	0	1	TNL	TN	0	0	0	both
+1429	21	singleton	0	1	TNL	TL	0	0	0	complex
+1430	10	singleton	0	1	TNL	TNL	0	0	0	complex
+1431	4	singleton	0	1	TNL	TNL	0	0	0	both
+1432	34	singleton	0	1	TNL	TN	0	0	0	none
+1433	80	singleton	0	1	NL	NL	1	0	0	none
+1434	30	singleton	0	1	TNL	TNL	0	0	0	complex
+1435	160	singleton	0	1	TNL	TNL	0	0	0	both
+1436	1	singleton	0	1	TNL	TNL	0	0	0	both
+1437	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1438	139	singleton	0	1	NL	N	0	0	0	none
+1439	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+1440	262	singleton	0	1	TNL	T	0	0	0	both
+1441	8	singleton	0	1	CNL	CN	0	0	0	complex
+1442	17	singleton	0	1	NL	N	0	0	0	complex
+1443	193	singleton	0	1	NL	N	0	0	0	none
+1444	4	singleton	0	1	TNL	TNL	0	0	0	both
+1445	46	singleton	0	1	TNL	TNL	0	0	0	none
+1446	134	singleton	0	1	CNL	CNL	0	0	0	both
+1447	117	singleton	0	1	RNL	RNX	0	0	1	complex
+1448	7	singleton	0	1	CNL	CNL	0	0	0	complex
+1449	12	singleton	0	1	NL	N	0	0	0	complex
+1450	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+1451	34	singleton	0	1	TNL	TN	0	0	0	none
+1452	28	singleton	0	1	TNL	TNL	0	0	0	none
+1453	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1454	72	singleton	0	1	NL	N	0	0	0	none
+1455	184	singleton	0	1	TNL	TNL	0	0	0	both
+1456	250	singleton	0	1	NL	N	0	0	0	none
+1457	79	singleton	0	1	TNL	TNLX	0	0	1	none
+1458	43	singleton	0	1	NL	NLX	1	0	1	complex
+1459	228	singleton	0	1	CNL	CN	0	0	0	simple
+1460	69	singleton	0	1	TNL	TNL	0	0	0	none
+1461	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1462	102	singleton	0	1	NL	NL	0	0	0	none
+1463	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1464	118	singleton	0	1	TNL	T	0	0	0	none
+1465	16	singleton	0	1	TNL	TNL	0	0	0	both
+1466	135	singleton	0	1	NL	N	0	0	0	both
+1467	7	singleton	0	1	CNL	CN	0	0	0	complex
+1468	167	singleton	0	1	TNL	T	0	0	0	none
+1469	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1470	76	singleton	0	1	NL	N	0	0	0	none
+1471	108	singleton	0	1	RNL	R	0	0	0	both
+1472	131	singleton	0	1	TNL	T	0	0	0	none
+1473	186	singleton	0	1	NL	N	0	0	0	none
+1474	7	singleton	0	1	CNL	CNL	0	0	0	complex
+1475	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1476	16	singleton	0	1	TNL	TNL	0	0	0	both
+1477	176	singleton	0	1	TNL	TNL	0	0	0	both
+1478	81	singleton	0	1	TNL	TNL	0	1	0	none
+1479	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+1481	8	singleton	0	1	CNL	CNL	0	0	0	complex
+1482	12	singleton	0	1	NL	N	0	0	0	complex
+1483	4	singleton	0	1	NL	NL	0	0	0	both
+1484	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+1485	176	singleton	0	1	TNL	TNL	0	0	0	both
+1486	14	singleton	0	1	NL	N	0	0	0	complex
+1487	71	singleton	0	1	TNL	TNL	0	0	0	none
+1488	259	singleton	0	1	TNL	T	0	0	0	none
+1489	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1490	179	singleton	0	1	TNL	TNL	0	0	0	complex
+1491	14	singleton	0	1	NL	N	0	0	0	complex
+1492	180	singleton	0	1	TNL	TNL	0	0	0	both
+1493	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1494	39	singleton	0	1	TNL	TNL	0	0	0	none
+1495	48	singleton	0	1	NL	NL	0	0	0	none
+1496	101	singleton	0	1	NL	N	0	0	0	none
+1497	128	singleton	0	1	TNL	TNL	0	0	0	none
+1498	38	singleton	0	1	TNL	TN	0	0	0	none
+1499	228	singleton	0	1	CNL	CN	0	0	0	simple
+1500	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+1501	57	singleton	0	1	NL	NL	0	0	0	none
+1502	149	singleton	0	1	TNL	TNL	0	0	0	none
+1503	72	singleton	0	1	NL	N	0	0	0	none
+1504	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+1505	74	singleton	0	1	TNL	TNL	0	0	0	simple
+1506	176	singleton	0	1	TNL	TNL	0	0	0	both
+1507	151	singleton	0	1	RNL	R	0	0	0	both
+1508	116	singleton	0	1	RNL	R	0	0	0	none
+1509	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1510	11	singleton	0	1	TNL	T	0	0	0	both
+1511	118	singleton	0	1	TNL	T	0	0	0	none
+1512	163	singleton	0	1	TNL	TNL	0	0	0	both
+1513	234	singleton	0	1	NL	N	0	0	0	complex
+1514	85	singleton	0	1	NL	NL	0	0	0	none
+1516	153	singleton	0	1	TNL	TN	0	1	0	none
+1517	119	singleton	0	1	TNL	T	0	0	0	simple
+1518	129	singleton	0	1	RNL	R	0	0	0	none
+1519	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1520	30	singleton	0	1	TNL	TNL	0	0	0	complex
+1521	1	singleton	0	1	TNL	TNL	0	0	0	both
+1522	83	singleton	0	1	NL	NL	0	0	0	none
+1523	4	singleton	0	1	TNL	TNL	0	0	0	both
+1524	85	singleton	0	1	TNL	TNL	0	0	0	none
+1525	12	singleton	0	1	CNL	CN	0	0	0	complex
+1526	18	singleton	0	1	TNL	TN	0	0	0	complex
+1527	11	singleton	0	1	TNL	T	0	0	0	both
+1528	41	singleton	0	1	TNL	TNLX	1	0	1	complex
+1529	45	singleton	0	1	TNL	T	0	0	0	complex
+1530	14	singleton	0	1	CNL	CN	0	0	0	complex
+1531	10	singleton	0	1	TNL	TNL	0	0	0	complex
+1532	56	singleton	0	1	CNL	CN	0	0	0	none
+1533	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1534	1	singleton	0	1	TNL	TNL	0	0	0	both
+1535	44	singleton	0	1	TNL	TNL	0	0	0	none
+1536	148	singleton	0	1	TNL	T	0	1	0	none
+1537	1	singleton	0	1	TNL	TNL	0	0	0	both
+1538	65	singleton	0	1	NL	N	0	0	0	none
+1539	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1540	45	singleton	0	1	TNL	T	0	0	0	complex
+1541	79	singleton	0	1	TNL	TNL	0	0	0	none
+1542	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+1543	120	singleton	0	1	NL	NL	0	0	0	both
+1544	N/A	singleton	0	1	TNL	T	0	1	0	N/A
+1545	234	singleton	0	1	NL	NL	0	0	0	complex
+1546	16	singleton	0	1	TNL	TNL	0	0	0	both
+1547	282	singleton	0	1	CNL	CNL	0	0	0	none
+1548	55	singleton	0	1	RNL	RN	0	0	0	none
+1549	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1550	2	singleton	0	1	RNL	R	0	0	0	both
+1551	120	singleton	0	1	TNL	TN	0	0	0	both
+1552	2	singleton	0	1	RNL	R	0	0	0	both
+1553	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1554	7	singleton	0	1	CNL	CNL	0	0	0	complex
+1555	180	singleton	0	1	TNL	TN	0	0	0	both
+1556	60	singleton	0	1	NL	NL	0	0	0	none
+1557	6	singleton	0	1	CNL	CN	0	0	0	both
+1558	163	singleton	0	1	TNL	TNL	0	0	0	both
+1559	98	singleton	0	1	TNL	T	0	0	0	none
+1560	157	singleton	0	1	TNL	TN	0	0	0	none
+1561	271	singleton	0	1	CNL	CNL	0	0	0	none
+1562	102	singleton	0	1	TNL	TN	0	0	0	none
+1563	N/A	singleton	0	1	CNL	CN	0	0	0	N/A
+1564	128	singleton	0	1	TNL	TNL	0	0	0	none
+1565	N/A	singleton	0	1	CNL	CN	0	0	0	N/A
+1566	2	singleton	0	1	RNL	R	0	0	0	both
+1567	22	singleton	0	1	NL	N	0	1	0	complex
+1568	45	singleton	0	1	TNL	T	0	0	0	complex
+1569	3	singleton	0	1	CNL	CNL	0	0	0	both
+1570	85	singleton	0	1	TNL	TNL	0	1	0	none
+1571	3	singleton	0	1	CNL	CNL	0	0	0	both
+1572	40	singleton	0	1	TNL	TNL	0	0	0	none
+1573	72	singleton	0	1	NL	N	0	0	0	none
+1574	138	singleton	0	1	TNL	TNL	0	0	0	none
+1575	8	singleton	0	1	CNL	CN	0	0	0	complex
+1576	143	singleton	0	1	TNL	TNL	0	0	0	none
+1577	28	singleton	0	1	TNL	TNL	0	0	0	none
+1578	135	singleton	0	1	NL	N	0	0	0	both
+1579	4	singleton	0	1	TNL	TNL	0	0	0	both
+1580	174	singleton	0	1	NL	NL	0	0	0	none
+1581	N/A	singleton	0	1	RNL	R	0	0	0	N/A
+1582	110	singleton	0	1	TNL	TNL	0	1	0	none
+1583	81	singleton	0	1	TNL	TNL	0	0	0	none
+1584	29	singleton	0	1	TNL	T	0	0	0	simple
+1585	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+1586	111	singleton	0	1	TNL	T	0	0	0	none
+1587	226	singleton	0	1	NL	N	0	0	0	simple
+1588	N/A	singleton	0	1	TNL	TNL	0	0	0	N/A
+1589	7	singleton	0	1	NL	NL	0	0	0	complex
+1590	11	singleton	0	1	TNL	T	0	0	0	both
+1591	220	singleton	0	1	TNL	T	0	0	0	none
+1592	6	singleton	0	1	CNL	CN	0	0	0	both
+1593	16	singleton	0	1	TNL	TNL	0	0	0	both
+1594	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1595	27	singleton	0	1	NL	N	0	0	0	none
+1596	15	singleton	0	1	NL	N	0	0	0	both
+1597	228	singleton	0	1	CNL	CN	0	0	0	simple
+1598	2	singleton	0	1	RNL	R	0	0	0	both
+1599	253	singleton	0	1	TNL	TNL	0	0	0	complex
+1600	8	singleton	0	1	CNL	CN	0	0	0	complex
+1601	86	singleton	0	1	TNL	T	0	0	0	none
+1602	69	singleton	0	1	TNL	TNL	0	0	0	none
+1603	17	singleton	0	1	CNL	CN	0	0	0	complex
+1604	1	singleton	0	1	TNL	TNL	0	0	0	both
+1605	41	singleton	0	1	TNL	TNLX	1	0	1	complex
+1606	46	singleton	0	1	TNL	TNL	0	0	0	none
+1607	105	singleton	0	1	TNL	TNL	0	0	0	none
+1608	N/A	singleton	0	1	TNL	T	0	1	0	N/A
+1609	134	singleton	0	1	CNL	CN	0	0	0	both
+1610	138	singleton	0	1	TNL	TNL	0	0	0	none
+1611	34	singleton	0	1	TNL	TN	0	0	0	none
+1612	142	singleton	0	1	TNL	TN	0	0	0	none
+1613	12	singleton	0	1	NL	N	0	0	0	complex
+1614	137	singleton	0	1	TNL	TNL	0	0	0	none
+1615	63	singleton	0	1	TNL	TNL	0	0	0	none
+1616	285	singleton	0	1	TNL	T	0	0	0	none
+1617	76	singleton	0	1	NL	N	0	0	0	none
+1618	3	singleton	0	1	CNL	CNL	0	0	0	both
+1619	108	singleton	0	1	RNL	R	0	0	0	both
+1620	104	singleton	0	1	NL	N	0	0	0	complex
+1621	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1622	1	singleton	0	1	TNL	TNL	0	0	0	both
+1623	134	singleton	0	1	CNL	CNL	0	0	0	both
+1624	13	singleton	0	1	TNL	TN	0	0	0	complex
+1625	22	singleton	0	1	NL	N	0	0	0	complex
+1626	212	singleton	0	1	TNL	TN	0	0	0	both
+1627	99	singleton	0	1	TNL	TNL	0	0	0	simple
+1628	297	singleton	0	1	TNL	TNL	0	0	0	none
+1629	74	singleton	0	1	TNL	TNL	0	0	0	simple
+1630	N/A	singleton	0	1	TNL	TL	0	0	0	N/A
+1631	161	singleton	0	1	NL	NL	0	0	0	none
+1632	38	singleton	0	1	TNL	TN	0	0	0	none
+1633	50	singleton	0	1	TNL	TNL	0	0	0	none
+1634	49	singleton	0	1	CNL	CNX	0	1	1	complex
+1635	20	singleton	0	1	TNL	TNL	0	0	0	none
+1636	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1637	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1638	31	singleton	0	1	RNL	RCNL	0	0	0	complex
+1639	N/A	singleton	0	1	CNL	CN	0	0	0	N/A
+1640	147	singleton	0	1	TNL	TN	0	0	0	none
+1641	6	singleton	0	1	CNL	CN	0	0	0	both
+1642	121	singleton	0	1	TNL	T	0	0	0	none
+1643	2	singleton	0	1	RNL	R	0	0	0	both
+1644	54	singleton	0	1	NL	N	0	0	0	simple
+1645	87	singleton	0	1	TNL	T	0	0	0	none
+1646	52	singleton	0	1	TNL	TX	0	0	1	none
+1647	163	singleton	0	1	TNL	TNL	0	0	0	both
+1648	64	singleton	0	1	NL	NL	0	0	0	none
+1649	8	singleton	0	1	CNL	CNL	0	0	0	complex
+1650	61	singleton	0	1	NL	N	0	0	0	none
+1651	2	singleton	0	1	RNL	R	0	0	0	both
+1652	11	singleton	0	1	TNL	T	0	0	0	both
+1653	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1654	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1655	61	singleton	0	1	NL	N	0	0	0	none
+1656	191	singleton	0	1	NL	N	0	0	0	complex
+1657	43	singleton	0	1	NL	NLX	1	0	1	complex
+1658	N/A	singleton	0	1	TNL	TNL	0	0	0	N/A
+1659	64	singleton	0	1	TNL	TNL	0	0	0	none
+1660	70	singleton	0	1	NL	NL	0	0	0	none
+1661	35	singleton	0	1	NL	N	0	0	0	none
+1662	73	singleton	0	1	TNL	TNL	0	0	0	none
+1663	74	singleton	0	1	TNL	TN	0	0	0	simple
+1664	176	singleton	0	1	TNL	TNL	0	0	0	both
+1665	217	singleton	0	1	NL	N	0	0	0	none
+1666	4	singleton	0	1	TNL	TNL	0	0	0	both
+1667	13	singleton	0	1	TNL	TN	0	0	0	complex
+1668	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1669	298	singleton	0	1	CNL	CNL	0	0	0	none
+1670	34	singleton	0	1	TNL	T	0	0	0	none
+1671	82	singleton	0	1	NL	NL	1	0	0	none
+1672	90	singleton	0	1	TNL	TNL	0	0	0	none
+1673	184	singleton	0	1	NL	NL	0	0	0	both
+1674	96	singleton	0	1	TNL	TNL	1	0	0	none
+1675	52	singleton	0	1	TNL	T	0	0	0	none
+1676	157	singleton	0	1	TNL	T	0	0	0	none
+1677	3	singleton	0	1	CNL	CNL	0	0	0	both
+1678	7	singleton	0	1	CNL	CNL	0	0	0	complex
+1679	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1680	6	singleton	0	1	CNL	CN	0	0	0	both
+1681	3	singleton	0	1	CNL	CNL	0	0	0	both
+1682	7	singleton	0	1	CNL	CNL	0	0	0	complex
+1683	163	singleton	0	1	NL	NL	0	0	0	both
+1684	N/A	singleton	0	1	TNL	TL	0	0	0	N/A
+1685	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1686	92	singleton	0	1	TNL	TNL	0	0	0	complex
+1687	146	singleton	0	1	NL	N	0	0	0	none
+1688	65	singleton	0	1	NL	NL	0	0	0	none
+1689	6	singleton	0	1	NL	N	0	0	0	both
+1690	166	singleton	0	1	TNL	TNL	0	0	0	simple
+1691	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1692	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+1693	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1694	5	singleton	0	1	TNL	TNL	0	0	0	both
+1695	320	singleton	0	1	TNL	TL	0	0	0	none
+1696	10	singleton	0	1	TNL	TNL	0	0	0	complex
+1697	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1698	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1699	N/A	singleton	0	1	RNL	R	0	0	0	N/A
+1700	5	singleton	0	1	TNL	TNL	0	0	0	both
+1701	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1702	212	singleton	0	1	TNL	TN	0	0	0	both
+1703	38	singleton	0	1	TNL	TN	0	0	0	none
+1704	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1705	134	singleton	0	1	CNL	CNL	0	0	0	both
+1706	90	singleton	0	1	TNL	TNL	0	0	0	none
+1707	30	singleton	0	1	TNL	TN	0	0	0	complex
+1708	134	singleton	0	1	NL	NL	0	0	0	both
+1709	124	singleton	0	1	TNL	T	0	0	0	none
+1710	N/A	singleton	0	1	CNL	CNL	0	0	0	N/A
+1711	108	singleton	0	1	RNL	R	0	0	0	both
+1712	35	singleton	0	1	NL	N	0	0	0	none
+1713	72	singleton	0	1	NL	N	0	0	0	none
+1714	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1715	123	singleton	0	1	TNL	T	0	0	0	none
+1716	7	singleton	0	1	CNL	CN	0	0	0	complex
+1717	7	singleton	0	1	CNL	CNL	0	0	0	complex
+1718	165	singleton	0	1	TNL	TNL	0	0	0	complex
+1719	5	singleton	0	1	TNL	TN	0	0	0	both
+1720	151	singleton	0	1	RNL	R	0	0	0	both
+1721	11	singleton	0	1	TNL	T	0	0	0	both
+1722	151	singleton	0	1	RNL	R	0	0	0	both
+1723	63	singleton	0	1	NL	NL	0	0	0	none
+1724	17	singleton	0	1	CNL	CN	0	0	0	complex
+1725	55	singleton	0	1	RNL	RN	0	0	0	none
+1726	201	singleton	0	1	TNL	TN	0	1	0	none
+1727	15	singleton	0	1	NL	N	0	0	0	both
+1728	15	singleton	0	1	NL	N	0	0	0	both
+1729	148	singleton	0	1	TNL	TL	0	1	0	none
+1730	134	singleton	0	1	NL	NL	0	0	0	both
+1731	43	singleton	0	1	NL	NLX	1	0	1	complex
+1732	10	singleton	0	1	TNL	TNL	0	0	0	complex
+1733	49	singleton	0	1	CNL	CNX	0	1	1	complex
+1734	39	singleton	0	1	TNL	TNL	0	0	0	none
+1735	11	singleton	0	1	TNL	T	0	0	0	both
+1736	176	singleton	0	1	TNL	TNL	0	0	0	both
+1737	187	singleton	0	1	NL	NL	0	0	0	none
+1738	76	singleton	0	1	NL	N	0	0	0	none
+1739	166	singleton	0	1	NL	NL	0	0	0	simple
+1740	58	singleton	0	1	RNL	R	0	0	0	none
+1741	62	singleton	0	1	TNL	T	0	0	0	none
+1742	50	singleton	0	1	TNL	TNL	0	0	0	none
+1743	11	singleton	0	1	TNL	T	0	0	0	both
+1744	247	singleton	0	1	RNL	R	0	0	0	both
+1745	6	singleton	0	1	CNL	CN	0	0	0	both
+1746	11	singleton	0	1	TNL	T	0	0	0	both
+1747	5	singleton	0	1	TNL	TNL	0	0	0	both
+1748	1	singleton	0	1	TNL	TNL	0	0	0	both
+1749	88	singleton	0	1	TNL	TNL	0	0	0	none
+1750	82	singleton	0	1	NL	NL	0	0	0	none
+1751	184	singleton	0	1	TNL	TNL	0	0	0	both
+1752	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1753	2	singleton	0	1	RNL	R	0	0	0	both
+1754	124	singleton	0	1	TNL	T	0	0	0	none
+1755	1	singleton	0	1	TNL	TNL	0	0	0	both
+1756	28	singleton	0	1	TNL	TNL	0	0	0	none
+1757	111	singleton	0	1	TNL	T	0	0	0	none
+1758	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1759	88	singleton	0	1	NL	NL	0	0	0	none
+1760	62	singleton	0	1	TNL	T	0	0	0	none
+1761	88	singleton	0	1	TNL	TNL	0	0	0	none
+1762	76	singleton	0	1	NL	N	0	0	0	none
+1763	181	singleton	0	1	TNL	TNL	0	0	0	complex
+1764	4	singleton	0	1	TNL	TNL	0	0	0	both
+1765	43	singleton	0	1	NL	NLX	1	0	1	complex
+1766	204	singleton	0	1	TNL	TNL	0	1	0	none
+1767	122	singleton	0	1	TNL	TN	0	0	0	complex
+1768	6	singleton	0	1	CNL	CN	0	0	0	both
+1769	10	singleton	0	1	TNL	TNL	0	0	0	complex
+1770	241	singleton	0	1	TNL	TNL	0	0	0	none
+1771	3	singleton	0	1	CNL	CNL	0	0	0	both
+1772	9	singleton	0	1	CNL	CN	0	0	0	complex
+1773	2	singleton	0	1	RNL	R	0	0	0	both
+1774	51	singleton	0	1	TNL	T	0	0	0	none
+1775	111	singleton	0	1	TNL	TN	0	0	0	none
+1776	4	singleton	0	1	TNL	TNL	0	0	0	both
+1777	N/A	singleton	0	1	RNL	R	0	0	0	N/A
+1778	3	singleton	0	1	CNL	CNL	0	0	0	both
+1779	203	singleton	0	1	TNL	T	0	0	0	none
+1780	279	singleton	0	1	NL	NL	0	0	0	none
+1781	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1782	167	singleton	0	1	TNL	T	0	0	0	none
+1783	48	singleton	0	1	NL	N	0	0	0	none
+1784	23	singleton	0	1	TNL	TNL	0	0	0	both
+1785	8	singleton	0	1	CNL	CN	0	0	0	complex
+1786	72	singleton	0	1	NL	N	0	0	0	none
+1787	105	singleton	0	1	TNL	TNL	0	0	0	none
+1788	185	singleton	0	1	TNL	T	0	0	0	none
+1789	102	singleton	0	1	TNL	TN	0	0	0	none
+1790	12	singleton	0	1	NL	N	0	0	0	complex
+1791	11	singleton	0	1	TNL	T	0	0	0	both
+1792	33	singleton	0	1	NL	N	0	0	0	none
+1793	118	singleton	0	1	TNL	T	0	0	0	none
+1794	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1795	237	singleton	0	1	NL	N	0	0	0	complex
+1796	163	singleton	0	1	TNL	TNL	0	0	0	both
+1798	165	singleton	0	1	TNL	TNL	0	0	0	complex
+1799	4	singleton	0	1	TNL	TNL	0	0	0	both
+1800	190	singleton	0	1	TNL	TNL	0	0	0	none
+1801	11	singleton	0	1	TNL	T	0	0	0	both
+1802	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1803	155	singleton	0	1	NL	NL	0	0	0	none
+1804	185	singleton	0	1	TNL	T	0	0	0	none
+1805	N/A	singleton	0	1	NL	N	0	0	0	N/A
+1806	8	singleton	0	1	CNL	CNL	0	0	0	complex
+1807	11	singleton	0	1	TNL	T	0	0	0	both
+1808	16	singleton	0	1	NL	NL	0	0	0	both
+1809	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1810	N/A	singleton	0	1	TNL	TN	0	0	0	N/A
+1811	15	singleton	0	1	NL	N	0	0	0	both
+1812	133	singleton	0	1	NL	NL	0	0	0	complex
+1813	48	singleton	0	1	NL	N	0	0	0	none
+1814	N/A	singleton	0	1	TNL	T	0	0	0	N/A
+1815	163	singleton	0	1	TNL	TNL	0	0	0	both
+1816	N/A	singleton	0	1	NL	NL	0	0	0	N/A
+1817	236	singleton	0	1	NL	NL	0	0	0	none
+1818	6	singleton	0	1	CNL	CN	0	0	0	both
+1819	179	singleton	0	1	TNL	TNL	0	0	0	complex
+1820	35	singleton	0	1	NL	N	0	0	0	none
+1821	69	singleton	0	1	TNL	TNL	0	0	0	none
+1822	192	singleton	0	1	TNL	TX	0	0	1	none
+1823	123	singleton	0	1	TNL	T	0	0	0	none
+1824	20	singleton	0	1	TNL	TNL	0	0	0	none
+1825	147	singleton	0	1	NL	N	0	0	0	none
+1826	44	singleton	0	1	TNL	TNL	0	0	0	none
+1827	2	singleton	0	1	RNL	R	0	0	0	both
+1828	18	singleton	0	1	TNL	TNL	1	0	0	complex
+1829	12	singleton	0	1	NL	N	0	0	0	complex
+1830	6	singleton	0	1	CNL	CN	0	0	0	both

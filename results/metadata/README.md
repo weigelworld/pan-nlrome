@@ -50,6 +50,7 @@
 - pairs: number of genes that are in pairs
 - putpairs: number of genes that are in putative pairs
 - IDs: number of genes with integrated domains
+- paralogs_ogold: Paralogs in the original orthogroups (see column idold). Might be 'none', 'simple' (duplications in terminal branches), 'complex' (duplications spread across the whole phylogeny), or 'both' (simple and complex paralogs occur)
 
 ## File 'architecture_based_metadata.tsv'
 summarizes domain-architecture based stats and dataset analysis intersections. Below is a brief description of each column content
