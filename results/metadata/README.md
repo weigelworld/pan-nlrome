@@ -43,7 +43,7 @@
 - idnew: Reinspected orthogroup identifier
 - idold: Original orthogroup identifier
 - status: orthogroup or singleton
-- use: binary
+- use: '0' used for OGs where it was not possible to generate a proper tree during orthogroup refinement because sequence divergence in the transcript alignment was to high or the number of sequences was to low (<4)
 - NLRs: number of NLRs contained
 - majorclass: major NLR class
 - majorsubclass: major NLR subclass
