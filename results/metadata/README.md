@@ -1,6 +1,25 @@
 # Explanation of metadata columns
 
-## File 'transcript_based_metadata.tsv':
+##File 'accession_metadata.tsv':
+- Identifier: numeric accession identifier
+- 1001_ecotype: numeric accession identifier from the 1001G project
+- Accession: accession name
+- Stock_Numbers: seed stock number
+- Origin: country of geographic origin
+- latitude: exact latitude of geographic origin
+- longitude: exact longitude of geographic origin
+- Relict: accession belongs (1) or does not belong (0) to the relict group
+- MAGIC-founder: accession belongs (1) or does not belong (0) to the group of MAGIC-founders
+- Size_Selection: size selection method used
+- Sequencing_Provider: sequencing provider 
+- Sequencing_Facility: sequencing facility
+- Library_Adaptors: library adaptors used
+- SMRT_cells: number of SMRT cells that produced the dataset
+- multiplexed: data was produced multiplexed (1) or not multiplexed (0)
+- Population: populations as defined in the 1001G project
+- Albugo_AcEx1_phenotype: resistance/susceptibility phenotype to Albugo AcEx1
+
+## File 'transcript_metadata.tsv':
 - Transcript_ID: transcript identifier
 - Gene_ID: gene identifier
 - Architecture: sorted domain list
@@ -39,7 +58,7 @@
 - TEs_2kb_Downstream: one or more TE(s) predicted in 2kb region downstream of gene
 - TEs_2kb_Upstream: one or more TE(s) predicted in 2kb region upstream of gene
 
-## File 'orthogroup_based_metadata.tsv':
+## File 'orthogroup_metadata.tsv':
 - idnew: Reinspected orthogroup identifier
 - idold: Original orthogroup identifier
 - status: orthogroup or singleton
@@ -52,7 +71,7 @@
 - IDs: number of genes with integrated domains
 - paralogs_ogold: Paralogs in the original orthogroups (see column idold). Might be 'none', 'simple' (duplications in terminal branches), 'complex' (duplications spread across the whole phylogeny), or 'both' (simple and complex paralogs occur)
 
-## File 'architecture_based_metadata.tsv'
+## File 'architecture_metadata.tsv'
 summarizes domain-architecture based stats and dataset analysis intersections. Below is a brief description of each column content
 
 - Collapsed_Arch: 97 collapsed architectures reverse sorted by the number of NLRs
@@ -73,7 +92,7 @@ summarizes domain-architecture based stats and dataset analysis intersections. B
 - Collapsed_Arch_in_Family: (1) Collapsed Architectures detected in Arabidopsis halleri, Arabidopsis lyrata, Camelina sativa, Capsella grandiflora, Capsella rubella, Leavenworthia alabamica, Aethionema arabicum, Thellungiella parvula, Arabis alpina, Sisymbrium irio, Thellungiella halophila, Thellungiella salsuginea, Raphanus sativus, Brassica rapa, Brassica nigra, Brassica napus, Brassica juncea and Brassica oleracea. (0) not detected
 
 
-## File 'domain_based_metadata.tsv'
+## File 'domain_metadata.tsv'
 summarizes domain-based stats and dataset analysis intersections\. Below is a brief description of each column content\.
 
 - Domain_ID: Pfam-A domain accessions reverse sorted by the number of NLRs. NB=PF00931, TIR=PF01582, LRR=(PF00560|PF07725|PF13306|PF13855) and RPW8=PF05659. Coil is not a Pfam 
@@ -95,14 +114,4 @@ rubella, Leavenworthia alabamica, Aethionema arabicum, Thellungiella parvula, Ar
 - At-panNLRome_NLRs: Number of NLR-coding genes with the corresponding domain in the 65 Arabidopsis thaliana-panNLR'ome accessions
 - At-panNLRome_Architectures: Number of collapsed architectures with the corresponding domain in the 65 Arabidopsis thaliana-panNLR'ome accessions
 - At-panNLRome: Presence/absence in the 65 Arabidopsis thaliana-panNLR'ome accessions. (1) Present; (0) Absent.
-- Kroj_et_al._Table_S3: Putative integrated decoy in at least one genome from Kroj et al. New Phytologist 2016. (1) Significant enrichment in NLRs; (0) Not significant
-Sarris_et_al._TableS14_RightP_lt_0.01: Putative integrated decoys in at least one genome from Sarris et al. BMC Biology 2016. (1) Significant enrichment in NLRs; (0) Not significant
-
-## File 'OG_metadata.tsv'
-contains several statistics for the original unrefined orthogroups\.
-
-- OG: original unrefined orthogroup id
-- size: orthogroup size
-- majorclass: The major NLR class of the orthogroup (TNL, RNL, CNL, or NL)
-- paralogs: Describes paralogy in the orthogroup phylogeny. Can be 'none', 'simple' (duplications in terminal branches), 'complex' (duplications spread across the whole phylogeny), and 'both' (simple and complex paralogs both occur)
-
+- Kroj_et_al._Table_S3: Putative integrated decoy in at least one genome from Kroj et al. New Phytologist 2016. (1) Significant enrichment in NLRs; (0) Not significant Sarris_et_al._TableS14_RightP_lt_0.01: Putative integrated decoys in at least one genome from Sarris et al. BMC Biology 2016. (1) Significant enrichment in NLRs; (0) Not significant
