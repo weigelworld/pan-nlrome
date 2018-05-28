@@ -1,6 +1,6 @@
 # Explanation of metadata columns
 
-##File 'accession_metadata.tsv':
+## File 'accession_metadata.tsv':
 - Identifier: numeric accession identifier
 - 1001_ecotype: numeric accession identifier from the 1001G project
 - Accession: accession name
