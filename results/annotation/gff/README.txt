@@ -1,0 +1,1 @@
+This folder contains gff files for all RenSeq accessions (<acc>.gff), A. lyrata (ALYR.gff), and C. rubella (CRUB.gff). All annotated genes are present in the files. NLR genes have an additional comment NLR=<architecture>, and <architecture> can be TNL, CNL, RNL, or NL (see also architecture folder in this repository). 
