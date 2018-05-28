@@ -10,14 +10,14 @@
 - longitude: exact longitude of geographic origin
 - Relict: accession belongs (1) or does not belong (0) to the relict group
 - MAGIC-founder: accession belongs (1) or does not belong (0) to the group of MAGIC-founders
-- Size_Selection: size selection method used
-- Sequencing_Provider: sequencing provider 
-- Sequencing_Facility: sequencing facility
+- Size_Selection: size selection method used. BP=BluePippin; SE=SageElf
+- Sequencing_Provider: MPI=Max Planck Institute for Developmental Biology, Tuebingen; UNC=The University of North Carolina at Chapel Hill; EI=Earlham Institute, Norwich 
+- Sequencing_Facility
 - Library_Adaptors: library adaptors used
 - SMRT_cells: number of SMRT cells that produced the dataset
 - multiplexed: data was produced multiplexed (1) or not multiplexed (0)
 - Population: populations as defined in the 1001G project
-- Albugo_AcEx1_phenotype: resistance/susceptibility phenotype to Albugo AcEx1
+- Albugo_AcEx1_phenotype: resistance/susceptibility phenotype to Albugo AcEx1. GS=Green Susceptible; GR=Green Resistant; WCS=Weak Chlorotic Susceptible
 
 ## File 'transcript_metadata.tsv':
 - Transcript_ID: transcript identifier
