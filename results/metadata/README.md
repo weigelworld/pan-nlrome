@@ -33,7 +33,7 @@
 - OG_Refined_Size: from orthogroup refinement
 - Fusion_Flag: from webapollo, points to gene fusion correction
 - Merged_Flag: from webapollo, points to gene splitting
-- Pair_Fla
+- Pair_Flag
 - PutPair_Flag
 - Truncated_Flag: from webapollo, gene putatively truncated
 - Pseudogene_Flag: from webapollo, gene with similarity to pseudogene in Araport11
@@ -57,6 +57,7 @@
 - TE_In_Introns: one or more TE(s) predicted in intron(s)
 - TEs_2kb_Downstream: one or more TE(s) predicted in 2kb region downstream of gene
 - TEs_2kb_Upstream: one or more TE(s) predicted in 2kb region upstream of gene
+- Outlier: binary; 1=Outlier 0=no-Outlier
 
 ## File 'orthogroup_metadata.tsv':
 - idnew: Reinspected orthogroup identifier
