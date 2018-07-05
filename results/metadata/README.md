@@ -27,10 +27,10 @@
 - Subclass: subclass an NLR belongs to
 - Combined_Subclasses: summarized version of column4 (e.g. for T(N,L)X in col5, col4 contains TLX, TNLX, TNX, and TX)
 - Arch_Type: canonical or with integrated domains (noncanonical)
-- OG_ID: identifier from initial orthogroup calculations
-- OG_Size: from initial orthogroup calculations
-- OG_Refined: identifier from orthogroup refinement
-- OG_Refined_Size: from orthogroup refinement
+- OG_orig_ID: identifier from initial orthogroup calculations
+- OG_orig_Size: from initial orthogroup calculations
+- OG: final orthogourp identifier after refinement
+- OG_Size: final size after refinement
 - Fusion_Flag: from webapollo, points to gene fusion correction
 - Merged_Flag: from webapollo, points to gene splitting
 - Pair_Flag
