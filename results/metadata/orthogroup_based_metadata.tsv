@@ -1,1985 +1,479 @@
-idnew	idold	status	use	NLRs	majorclass	majorsubclass	pairs	putpairs	IDs
-4.14	4	orthogroup	1	10	TNL	TNL	0	0	0
-6.18	6	orthogroup	1	17	CNL	CN	0	0	0
-7.17	7	orthogroup	1	9	CNL	CNL	0	0	0
-24.1	24	orthogroup	1	63	TNL	TN	0	0	0
-102.6	102	orthogroup	1	21	TNL	TNL	0	0	0
-16.5	16	orthogroup	1	7	TNL	TNL	0	0	0
-10.5	10	orthogroup	1	24	TNL	TNL	0	0	1
-318.1	318	orthogroup	1	4	NL	N	0	0	0
-373	373	orthogroup	0	2	TNL	TN	0	0	0
-102.10	102	orthogroup	1	6	TNL	TN	0	0	0
-188.3	188	orthogroup	1	5	CNL	CN	0	0	0
-141.1	141	orthogroup	1	48	TNL	TL	0	0	0
-14.1	14	orthogroup	1	38	CNL	CN	0	0	0
-43.3	43	orthogroup	1	12	NL	NLX	9	0	12
-230.1	230	orthogroup	1	16	TNL	TNL	0	0	0
-66.1	66	orthogroup	1	58	CNL	CNL	0	0	0
-170.1	170	orthogroup	1	27	TNL	TNL	0	0	0
-223.1	223	orthogroup	1	18	TNL	TN	0	0	0
-61.1	61	orthogroup	1	56	CNL	CN	0	0	0
-122.1	122	orthogroup	1	7	TNL	TN	0	0	0
-283.1	283	orthogroup	1	7	TNL	T	0	0	0
-38.1	38	orthogroup	1	57	TNL	TN	0	0	0
-340	340	orthogroup	0	3	TNL	T	0	0	0
-163.7	163	orthogroup	1	7	TNL	TNL	0	0	0
-415	415	orthogroup	0	2	NL	N	0	0	0
-265.1	265	orthogroup	1	8	RNL	R	0	0	0
-2.45	2	orthogroup	1	5	RNL	R	0	0	0
-21.3	21	orthogroup	1	5	TNL	TNL	4	0	0
-13.3	13	orthogroup	1	4	TNL	TN	0	3	0
-96.1	96	orthogroup	1	54	TNL	TNL	43	5	0
-303.1	303	orthogroup	1	4	CNL	CNL	0	0	0
-269.1	269	orthogroup	1	7	CNL	CNL	0	0	0
-226.1	226	orthogroup	1	14	NL	N	0	0	0
-275.1	275	orthogroup	1	8	TNL	T	0	0	1
-76.1	76	orthogroup	1	52	NL	N	0	0	0
-123.1	123	orthogroup	1	52	TNL	T	0	0	0
-135.6	135	orthogroup	1	3	NL	N	0	0	0
-1.3	1	orthogroup	1	19	TNL	TNL	0	0	0
-412	412	orthogroup	0	2	CNL	CN	0	0	0
-289.1	289	orthogroup	1	5	CNL	CN	0	0	0
-398	398	orthogroup	0	2	RNL	R	0	0	0
-23.1	23	orthogroup	1	6	TNL	TNL	0	0	0
-334	334	orthogroup	0	3	TNL	TNL	0	0	0
-23.5	23	orthogroup	1	11	TNL	TNL	0	0	0
-108.1	108	orthogroup	1	6	RNL	R	0	0	0
-15.1	15	orthogroup	1	10	NL	N	0	0	0
-99.2	99	orthogroup	1	34	TNL	TNL	0	0	0
-174.1	174	orthogroup	1	35	NL	NL	0	0	0
-78.1	78	orthogroup	1	57	TNL	TNL	56	0	0
-126.1	126	orthogroup	1	53	NL	N	0	0	0
-114	114	orthogroup	0	58	NL	N	0	0	0
-138.1	138	orthogroup	1	47	TNL	TNL	0	0	0
-188.2	188	orthogroup	1	24	NL	N	0	0	0
-124.1	124	orthogroup	1	48	TNL	TX	0	0	43
-281.1	281	orthogroup	1	7	TNL	TNL	0	0	0
-2.30	2	orthogroup	1	4	RNL	R	0	0	0
-64.1	64	orthogroup	1	57	TNL	TNL	0	0	0
-139.1	139	orthogroup	1	50	NL	N	0	0	0
-11.18	11	orthogroup	1	24	TNL	T	0	0	0
-233.1	233	orthogroup	1	16	TNL	TL	0	0	0
-190.1	190	orthogroup	1	29	TNL	TNL	0	0	0
-151.1	151	orthogroup	1	12	RNL	R	0	0	0
-55.1	55	orthogroup	1	53	RNL	RN	0	0	0
-2.19	2	orthogroup	1	8	RNL	R	0	0	0
-13.2	13	orthogroup	1	46	TNL	TN	0	42	0
-30.1	30	orthogroup	1	56	TNL	TNL	0	0	0
-102.1	102	orthogroup	1	4	TNL	TN	0	0	0
-311	311	orthogroup	0	3	TNL	T	0	0	1
-263.1	263	orthogroup	1	8	CNL	CN	0	0	0
-6.1	6	orthogroup	1	5	CNL	CN	0	0	0
-21.1	21	orthogroup	1	5	TNL	TNL	5	0	0
-216.3	216	orthogroup	1	9	TNL	TNL	0	0	0
-228.1	228	orthogroup	1	10	CNL	CN	0	0	0
-93.1	93	orthogroup	1	24	NL	N	0	0	0
-152.2	152	orthogroup	1	7	CNL	CNL	0	0	0
-16.10	16	orthogroup	1	4	NL	NL	0	0	0
-6.4	6	orthogroup	1	4	CNL	CN	0	0	0
-54.1	54	orthogroup	1	60	NL	N	0	0	1
-119.2	119	orthogroup	1	3	TNL	T	0	0	0
-12.3	12	orthogroup	1	4	CNL	CN	0	0	0
-58.1	58	orthogroup	1	61	RNL	R	0	0	0
-10.9	10	orthogroup	1	9	TNL	TNL	0	0	0
-248.1	248	orthogroup	1	11	TNL	T	0	0	0
-148.1	148	orthogroup	1	44	TNL	TNL	0	33	0
-3.8	3	orthogroup	1	4	CNL	CNL	0	0	0
-108.2	108	orthogroup	1	20	RNL	R	0	0	0
-144.1	144	orthogroup	1	48	TNL	T	2	0	0
-3.19	3	orthogroup	1	8	CNL	CNL	0	0	0
-335	335	orthogroup	0	3	CNL	CN	0	0	1
-1.14	1	orthogroup	1	7	TNL	TNL	0	0	0
-134.6	134	orthogroup	1	9	NL	NL	0	0	0
-301.1	301	orthogroup	1	4	CNL	CNL	0	0	0
-153.1	153	orthogroup	1	45	TNL	TNL	0	40	0
-97.1	97	orthogroup	1	56	CNL	CNL	0	0	0
-257.1	257	orthogroup	1	9	TNL	TNL	0	0	0
-177.1	177	orthogroup	1	34	TNL	T	0	0	0
-122.5	122	orthogroup	1	5	TNL	TN	0	0	0
-321.1	321	orthogroup	1	4	NL	NL	0	0	0
-320.1	320	orthogroup	1	3	TNL	TL	0	0	0
-106	106	orthogroup	0	60	TNL	TNL	23	1	0
-326.1	326	orthogroup	1	4	NL	N	0	0	0
-48.1	48	orthogroup	1	59	TNL	TNL	21	1	0
-271.1	271	orthogroup	1	7	CNL	CNL	0	0	0
-37.1	37	orthogroup	1	63	TNL	TNL	0	0	0
-109.1	109	orthogroup	1	54	CNL	CNL	0	1	0
-71.1	71	orthogroup	1	57	TNL	TNL	0	0	0
-104.1	104	orthogroup	1	8	NL	N	0	0	0
-21.4	21	orthogroup	1	6	TNL	TNL	6	0	0
-234.1	234	orthogroup	1	9	TNL	TN	0	0	0
-246.1	246	orthogroup	1	13	TNL	TN	0	0	0
-180.1	180	orthogroup	1	22	TNL	TNL	0	0	2
-202.1	202	orthogroup	1	23	TNL	T	0	0	0
-210.1	210	orthogroup	1	22	CNL	CNL	0	0	0
-2.22	2	orthogroup	1	12	RNL	R	0	0	0
-372	372	orthogroup	0	2	TNL	NL	0	0	0
-146.1	146	orthogroup	1	46	TNL	TN	0	0	0
-28.1	28	orthogroup	1	59	TNL	TNL	0	0	0
-259.1	259	orthogroup	1	9	TNL	T	0	0	0
-135.1	135	orthogroup	1	9	NL	N	0	0	0
-86.1	86	orthogroup	1	60	TNL	TN	0	0	0
-337	337	orthogroup	0	3	TNL	TNL	0	0	0
-3.10	3	orthogroup	1	9	CNL	CNL	0	0	0
-117.3	117	orthogroup	1	4	RNL	RNX	0	0	4
-277.1	277	orthogroup	1	7	TNL	TNL	0	0	0
-130.1	130	orthogroup	1	54	CNL	CNLX	23	17	33
-183.1	183	orthogroup	1	31	TNL	TNL	0	0	0
-7.2	7	orthogroup	1	6	CNL	CNL	0	0	0
-9.3	9	orthogroup	1	4	NL	N	0	0	0
-9.5	9	orthogroup	1	29	NL	N	0	0	0
-12.1	12	orthogroup	1	14	CNL	CN	0	0	0
-225.1	225	orthogroup	1	16	TNL	TNL	0	0	0
-313.1	313	orthogroup	1	5	CNL	CN	0	0	0
-2.52	2	orthogroup	1	10	RNL	R	0	0	0
-128.1	128	orthogroup	1	51	TNL	TNL	0	0	2
-231.1	231	orthogroup	1	15	TNL	T	0	0	0
-227.1	227	orthogroup	1	18	TNL	T	0	0	0
-10.2	10	orthogroup	1	23	TNL	TNL	0	0	0
-1.1	1	orthogroup	1	3	TNL	TNL	0	0	0
-135.12	135	orthogroup	1	7	NL	TNL	0	1	0
-6.7	6	orthogroup	1	6	CNL	CN	0	0	0
-238.1	238	orthogroup	1	6	NL	NL	0	0	0
-181.2	181	orthogroup	1	5	TNL	TNL	0	0	0
-4.7	4	orthogroup	1	10	TNL	TNL	0	0	0
-252.1	252	orthogroup	1	10	CNL	CN	0	0	0
-6.6	6	orthogroup	1	21	CNL	CN	0	0	0
-120.7	120	orthogroup	1	22	TNL	TNL	0	3	0
-46.1	46	orthogroup	1	58	TNL	TNL	0	0	0
-343	343	orthogroup	0	3	TNL	T	0	2	0
-242.1	242	orthogroup	1	14	TNL	TN	0	0	0
-397	397	orthogroup	0	2	TNL	T	1	0	0
-176.8	176	orthogroup	1	4	TNL	TNL	0	0	0
-1.27	1	orthogroup	1	4	TNL	TNL	0	0	0
-212.9	212	orthogroup	1	5	TNL	TNL	0	0	0
-17.5	17	orthogroup	1	11	NL	N	0	0	0
-108.9	108	orthogroup	1	6	RNL	R	0	0	0
-21.2	21	orthogroup	1	38	TNL	TNL	38	0	14
-7.22	7	orthogroup	1	5	CNL	CNL	0	0	0
-336	336	orthogroup	0	3	TNL	T	0	0	0
-1.11	1	orthogroup	1	8	TNL	TNL	0	0	0
-406	406	orthogroup	0	2	TNL	T	0	0	0
-236.1	236	orthogroup	1	12	TNL	TNL	0	0	0
-280.1	280	orthogroup	1	7	CNL	CN	0	0	0
-224.1	224	orthogroup	1	16	TNL	TN	0	0	0
-17.6	17	orthogroup	1	8	CNL	CN	0	0	0
-13.9	13	orthogroup	1	7	TNL	TN	0	6	0
-338	338	orthogroup	0	3	CNL	CNL	0	0	0
-1.34	1	orthogroup	1	6	TNL	TNL	0	0	0
-279.1	279	orthogroup	1	6	CNL	CNL	0	0	0
-17.3	17	orthogroup	1	6	CNL	CN	0	0	0
-11.5	11	orthogroup	1	3	TNL	T	0	0	0
-136	136	orthogroup	0	50	TNL	T	0	3	0
-369	369	orthogroup	0	2	TNL	T	0	0	0
-290.1	290	orthogroup	1	6	NL	NL	0	0	0
-34.1	34	orthogroup	1	55	TNL	TN	0	0	0
-12.4	12	orthogroup	1	9	CNL	CN	0	0	0
-18.4	18	orthogroup	1	12	TNL	TNL	10	0	0
-151.11	151	orthogroup	1	4	RNL	R	0	0	0
-7.4	7	orthogroup	1	7	CNL	CNL	0	0	0
-407	407	orthogroup	0	2	TNL	T	0	1	0
-31.1	31	orthogroup	1	56	RNL	RCNL	0	0	0
-4.11	4	orthogroup	1	4	TNL	TNL	0	0	0
-185.1	185	orthogroup	1	30	TNL	T	0	0	0
-43.1	43	orthogroup	1	9	NL	NLX	9	0	9
-344	344	orthogroup	0	2	CNL	CN	0	0	0
-222.1	222	orthogroup	1	19	TNL	T	0	0	0
-6.3	6	orthogroup	1	8	CNL	CN	0	0	0
-273.1	273	orthogroup	1	8	CNL	CNL	0	0	0
-184.6	184	orthogroup	1	9	TNL	TNL	0	0	0
-1.28	1	orthogroup	1	8	TNL	TNL	0	0	0
-52.1	52	orthogroup	1	58	TNL	T	0	0	0
-307.1	307	orthogroup	1	4	TNL	T	0	0	0
-395	395	orthogroup	0	2	TNL	T	0	0	0
-12.2	12	orthogroup	1	12	CNL	CN	0	0	0
-3.2	3	orthogroup	1	12	CNL	CNL	0	0	0
-42.3	42	orthogroup	1	6	TNL	TNL	0	0	0
-25.1	25	orthogroup	1	12	NL	NL	0	12	0
-261.1	261	orthogroup	1	10	NL	N	0	0	0
-270.1	270	orthogroup	1	6	CNL	CN	0	0	0
-36.1	36	orthogroup	1	59	TNL	TNL	0	0	0
-346	346	orthogroup	0	3	CNL	CN	0	0	0
-17.2	17	orthogroup	1	7	CNL	CN	0	0	0
-21.5	21	orthogroup	1	7	TNL	TNL	7	0	0
-249.1	249	orthogroup	1	11	CNL	CNL	0	0	0
-39.1	39	orthogroup	1	60	TNL	TNL	0	0	0
-347	347	orthogroup	0	3	NL	NL	0	0	0
-355	355	orthogroup	0	3	TNL	T	0	0	0
-217.1	217	orthogroup	1	17	NL	N	0	0	0
-41.3	41	orthogroup	1	5	NL	NLX	0	0	5
-312.1	312	orthogroup	1	5	NL	N	0	0	0
-3.4	3	orthogroup	1	26	CNL	CNL	0	1	0
-35.1	35	orthogroup	1	61	RNL	RN	0	0	0
-181.3	181	orthogroup	1	13	TNL	TNL	0	0	0
-267.1	267	orthogroup	1	8	TNL	T	0	0	0
-81.1	81	orthogroup	1	56	TNL	TNL	0	53	0
-199.1	199	orthogroup	1	20	TNL	TX	0	0	20
-2.8	2	orthogroup	1	10	RNL	R	0	0	0
-262.1	262	orthogroup	1	5	TNL	T	0	0	0
-45.3	45	orthogroup	1	28	TNL	T	0	0	0
-212.1	212	orthogroup	1	5	TNL	TN	0	0	0
-65.1	65	orthogroup	1	58	CNL	CNL	0	0	0
-214.1	214	orthogroup	1	10	TNL	TNL	0	0	0
-327.1	327	orthogroup	1	3	TNL	T	0	0	0
-181.4	181	orthogroup	1	7	TNL	TNL	0	0	0
-77.2	77	orthogroup	1	22	TNL	TNL	0	0	0
-165.8	165	orthogroup	1	6	TNL	TNL	0	0	0
-72.1	72	orthogroup	1	57	NL	N	0	0	0
-13.5	13	orthogroup	1	5	TNL	TN	0	4	0
-165.6	165	orthogroup	1	4	TNL	TNL	0	0	0
-147.1	147	orthogroup	1	42	TNL	TN	0	33	0
-7.9	7	orthogroup	1	5	CNL	CNL	0	0	0
-43.2	43	orthogroup	1	36	NL	NLX	34	0	35
-91.1	91	orthogroup	1	58	TNL	TNL	23	16	0
-173.1	173	orthogroup	1	36	TNL	T	0	0	0
-6.13	6	orthogroup	1	12	CNL	CN	0	0	0
-63.1	63	orthogroup	1	57	TNL	TNL	0	0	0
-15.2	15	orthogroup	1	4	NL	CN	0	0	0
-100.1	100	orthogroup	1	56	TNL	TNL	0	0	0
-292.1	292	orthogroup	1	5	CNL	CNL	0	0	0
-235.1	235	orthogroup	1	15	TNL	T	0	0	0
-4.37	4	orthogroup	1	5	TNL	TNL	0	0	0
-77.3	77	orthogroup	1	29	TNL	TNL	0	0	0
-25.3	25	orthogroup	1	3	NL	NL	0	3	0
-176.9	176	orthogroup	1	4	TNL	TNL	0	0	0
-348	348	orthogroup	0	3	TNL	TNL	0	0	0
-255.1	255	orthogroup	1	11	NL	NL	0	0	0
-135.9	135	orthogroup	1	10	NL	N	0	0	0
-103.1	103	orthogroup	1	56	NL	N	0	0	0
-392	392	orthogroup	0	2	RNL	R	0	0	0
-134.3	134	orthogroup	1	5	NL	CNL	0	0	0
-293.1	293	orthogroup	1	6	TNL	TNL	0	0	0
-381	381	orthogroup	0	2	NL	NL	0	0	0
-154.1	154	orthogroup	1	42	TNL	TNX	0	0	42
-16.12	16	orthogroup	1	5	TNL	TNL	0	0	0
-4.13	4	orthogroup	1	6	TNL	TNL	0	0	0
-3.11	3	orthogroup	1	4	CNL	CNL	0	0	0
-2.11	2	orthogroup	1	6	RNL	R	0	0	0
-11.29	11	orthogroup	1	5	TNL	T	0	0	0
-380	380	orthogroup	0	2	TNL	T	0	0	0
-300.1	300	orthogroup	1	4	CNL	CN	0	0	0
-375	375	orthogroup	0	2	TNL	T	0	0	0
-165.10	165	orthogroup	1	7	TNL	TNL	0	0	0
-211.1	211	orthogroup	1	20	TNL	TNL	0	0	0
-212.4	212	orthogroup	1	4	TNL	TN	0	0	0
-256.1	256	orthogroup	1	11	TNL	T	0	2	0
-302.1	302	orthogroup	1	5	TNL	TNL	0	0	0
-122.3	122	orthogroup	1	21	TNL	T	0	0	0
-169.1	169	orthogroup	1	36	TNL	TX	0	0	36
-59.1	59	orthogroup	1	61	RNL	RN	0	0	0
-382	382	orthogroup	0	2	NL	NL	0	0	0
-345	345	orthogroup	0	3	TNL	T	0	0	0
-157.1	157	orthogroup	1	40	TNL	TN	0	0	0
-15.7	15	orthogroup	1	8	CNL	CN	0	0	0
-284.1	284	orthogroup	1	6	TNL	TN	0	0	0
-215.1	215	orthogroup	1	21	TNL	TN	0	0	0
-171.1	171	orthogroup	1	36	TNL	TNL	0	19	0
-243.1	243	orthogroup	1	14	TNL	TN	0	13	0
-1.22	1	orthogroup	1	5	TNL	TNL	0	0	0
-7.3	7	orthogroup	1	6	CNL	CNL	0	0	0
-10.6	10	orthogroup	1	15	TNL	TNL	0	0	0
-172.1	172	orthogroup	1	34	TNL	TN	0	0	0
-118.1	118	orthogroup	1	50	TNL	T	0	0	0
-120.5	120	orthogroup	1	4	TNL	TN	0	0	0
-11.14	11	orthogroup	1	4	TNL	T	0	0	0
-143.1	143	orthogroup	1	45	TNL	TNL	0	0	7
-122.2	122	orthogroup	1	20	TNL	TN	0	0	0
-115.1	115	orthogroup	1	54	CNL	CN	0	1	0
-353	353	orthogroup	0	3	NL	N	0	0	0
-8.6	8	orthogroup	1	16	CNL	CNL	0	0	0
-120.4	120	orthogroup	1	12	TNL	TNL	0	0	0
-111.1	111	orthogroup	1	53	TNL	TN	0	0	0
-179.1	179	orthogroup	1	4	TNL	TNL	0	0	0
-160.1	160	orthogroup	1	39	TNL	TNL	0	0	0
-161.1	161	orthogroup	1	38	TNL	TNL	0	0	0
-8.4	8	orthogroup	1	41	CNL	CNL	0	1	0
-162	162	orthogroup	0	40	TNL	TNL	15	4	0
-134.13	134	orthogroup	1	5	CNL	CNL	0	0	0
-245.1	245	orthogroup	1	13	TNL	TN	0	1	1
-129.1	129	orthogroup	1	52	RNL	R	0	0	0
-119.1	119	orthogroup	1	50	TNL	T	0	0	0
-180.5	180	orthogroup	1	4	TNL	TNLX	0	0	2
-10.3	10	orthogroup	1	6	TNL	TNL	0	0	0
-4.19	4	orthogroup	1	7	TNL	TNL	0	0	0
-158.1	158	orthogroup	1	42	TNL	T	0	0	0
-62.1	62	orthogroup	1	59	TNL	T	0	0	0
-104.2	104	orthogroup	1	33	NL	N	0	0	0
-7.8	7	orthogroup	1	13	CNL	CNL	0	0	0
-47.1	47	orthogroup	1	61	TNL	TN	0	51	0
-133.3	133	orthogroup	1	4	TNL	TNL	0	0	1
-159.1	159	orthogroup	1	40	TNL	TNL	0	0	0
-266.1	266	orthogroup	1	9	TNL	T	0	0	0
-23.3	23	orthogroup	1	11	TNL	TNL	0	0	0
-87.1	87	orthogroup	1	58	TNL	T	0	0	0
-165.3	165	orthogroup	1	11	TNL	TNL	0	0	0
-4.29	4	orthogroup	1	12	TNL	TNL	0	0	0
-45.1	45	orthogroup	1	17	TNL	T	0	0	0
-57.1	57	orthogroup	1	60	TNL	TNL	1	1	16
-102.3	102	orthogroup	1	5	TNL	TN	0	0	0
-221.2	221	orthogroup	1	15	TNL	TNL	0	0	0
-1.5	1	orthogroup	1	11	TNL	TNL	0	0	0
-94.1	94	orthogroup	1	55	NL	NLX	54	0	55
-88.1	88	orthogroup	1	54	TNL	TNL	22	1	0
-7.13	7	orthogroup	1	4	CNL	CNL	0	0	0
-176.5	176	orthogroup	1	5	TNL	TNL	0	0	0
-155.1	155	orthogroup	1	42	TNL	TNL	0	0	0
-14.7	14	orthogroup	1	4	CNL	CN	0	0	0
-310.1	310	orthogroup	1	5	TNL	T	2	1	0
-309.1	309	orthogroup	1	5	CNL	CN	0	0	0
-151.4	151	orthogroup	1	10	RNL	R	0	0	0
-137.1	137	orthogroup	1	50	TNL	TNL	0	0	0
-101.1	101	orthogroup	1	56	CNL	CN	0	0	0
-184.2	184	orthogroup	1	6	TNL	TNL	0	0	0
-5.1	5	orthogroup	1	24	TNL	TNL	0	1	0
-205.1	205	orthogroup	1	23	TNL	TNLX	0	22	19
-164.1	164	orthogroup	1	37	TNL	TN	0	0	0
-276.1	276	orthogroup	1	7	TNL	TNL	0	0	0
-135.5	135	orthogroup	1	6	NL	N	0	0	0
-186.1	186	orthogroup	1	31	CNL	CN	0	1	0
-131.1	131	orthogroup	1	47	TNL	T	0	0	0
-27.1	27	orthogroup	1	62	NL	NL	0	0	0
-194.1	194	orthogroup	1	27	TNL	T	0	0	0
-1.7	1	orthogroup	1	4	TNL	TNL	0	0	0
-83.1	83	orthogroup	1	60	CNL	CNL	0	0	0
-216.1	216	orthogroup	1	4	TNL	TNL	0	0	0
-285.1	285	orthogroup	1	4	TNL	T	0	0	0
-304.1	304	orthogroup	1	5	CNL	CN	0	0	1
-9.1	9	orthogroup	1	27	NL	N	0	0	0
-182.1	182	orthogroup	1	34	NL	N	0	0	0
-117.2	117	orthogroup	1	46	RNL	RNX	0	0	44
-168.1	168	orthogroup	1	34	CNL	CNL	0	1	0
-40.1	40	orthogroup	1	62	TNL	TN	0	0	0
-175.1	175	orthogroup	1	34	TNL	TNL	0	0	0
-90.1	90	orthogroup	1	55	TNL	TNL	0	0	0
-193.1	193	orthogroup	1	29	NL	NL	0	0	0
-7.5	7	orthogroup	1	8	CNL	CNL	0	0	0
-339	339	orthogroup	0	3	TNL	TN	0	0	0
-371	371	orthogroup	0	2	TNL	TL	0	0	0
-306.1	306	orthogroup	1	5	TNL	TNL	0	0	0
-127.1	127	orthogroup	1	55	CNL	CNL	0	0	0
-297.1	297	orthogroup	1	4	TNL	TNL	0	0	0
-370	370	orthogroup	0	2	TNL	TNL	0	0	0
-405	405	orthogroup	0	2	NL	NL	0	0	0
-204.1	204	orthogroup	1	21	TNL	TNL	0	20	0
-82.1	82	orthogroup	1	55	TNL	TNL	23	0	0
-80.1	80	orthogroup	1	56	TNL	TNL	54	0	0
-349	349	orthogroup	0	3	NL	NL	0	0	0
-296.1	296	orthogroup	1	4	NL	N	0	0	0
-288.1	288	orthogroup	1	6	TNL	TN	0	0	0
-322.1	322	orthogroup	1	3	TNL	T	0	0	0
-240.1	240	orthogroup	1	14	TNL	TNL	0	0	0
-49.2	49	orthogroup	1	38	CNL	CNLX	0	36	37
-20.1	20	orthogroup	1	54	TNL	TNL	0	0	10
-410	410	orthogroup	0	2	TNL	T	0	0	0
-170.2	170	orthogroup	1	5	TNL	TNL	0	0	0
-402	402	orthogroup	0	2	CNL	CN	0	0	0
-333	333	orthogroup	0	3	TNL	TNL	0	0	0
-112.1	112	orthogroup	1	56	TNL	TNL	15	3	0
-107.1	107	orthogroup	1	56	TNL	TNL	0	0	0
-247.4	247	orthogroup	1	7	RNL	R	0	0	0
-4.10	4	orthogroup	1	5	TNL	TNL	0	0	0
-104.3	104	orthogroup	1	16	NL	N	0	0	0
-282.1	282	orthogroup	1	6	CNL	CNL	0	0	0
-1.17	1	orthogroup	1	4	TNL	TNL	0	0	0
-3.18	3	orthogroup	1	10	CNL	CNL	0	0	0
-14.5	14	orthogroup	1	3	CNL	CN	0	0	0
-2.44	2	orthogroup	1	10	RNL	R	0	0	0
-108.10	108	orthogroup	1	4	RNL	R	0	0	0
-232.1	232	orthogroup	1	16	TNL	T	0	0	0
-15.5	15	orthogroup	1	6	CNL	CN	0	0	0
-272.1	272	orthogroup	1	8	NL	N	0	0	0
-315.1	315	orthogroup	1	3	TNL	TNL	0	0	0
-216.5	216	orthogroup	1	5	TNL	TNL	0	0	0
-7.6	7	orthogroup	1	8	CNL	CNL	0	0	0
-208.1	208	orthogroup	1	23	NL	N	0	14	0
-53.1	53	orthogroup	1	58	NL	NL	0	0	0
-92.1	92	orthogroup	1	56	TNL	TNL	0	0	0
-3.9	3	orthogroup	1	5	CNL	CNL	0	0	0
-286.1	286	orthogroup	1	6	TNL	T	0	4	0
-184.1	184	orthogroup	1	9	TNL	TNL	0	0	0
-22.1	22	orthogroup	1	59	NL	N	0	54	0
-151.12	151	orthogroup	1	9	RNL	R	0	0	0
-314.1	314	orthogroup	1	5	TNL	T	0	5	0
-93.2	93	orthogroup	1	33	NL	N	0	1	0
-149.1	149	orthogroup	1	48	TNL	TNL	0	0	0
-350	350	orthogroup	0	3	NL	NL	3	0	0
-67.1	67	orthogroup	1	60	TNL	TN	0	58	0
-42.1	42	orthogroup	1	13	TNL	TNL	1	1	0
-319.1	319	orthogroup	1	4	NL	NL	0	0	0
-5.2	5	orthogroup	1	37	TNL	TNL	0	0	0
-237.1	237	orthogroup	1	12	NL	N	0	0	0
-198.1	198	orthogroup	1	25	CNL	CNL	0	0	0
-41.1	41	orthogroup	1	55	TNL	TNLX	44	6	55
-189.1	189	orthogroup	1	26	TNL	TNL	0	0	0
-84.1	84	orthogroup	1	58	TNL	TNL	54	2	0
-74.1	74	orthogroup	1	56	TNL	TNL	0	0	0
-113	113	orthogroup	0	58	TNL	TNL	0	0	0
-325.1	325	orthogroup	1	4	NL	NL	0	0	0
-99.1	99	orthogroup	1	21	TNL	TNL	0	0	0
-254.1	254	orthogroup	1	8	TNL	TN	0	4	0
-167.1	167	orthogroup	1	37	TNL	T	0	0	0
-3.13	3	orthogroup	1	7	CNL	CNL	0	0	0
-6.16	6	orthogroup	1	14	CNL	CN	0	0	0
-278.1	278	orthogroup	1	3	TNL	TNL	0	0	0
-400	400	orthogroup	0	2	TNL	TN	0	0	0
-125.1	125	orthogroup	1	53	TNL	TNL	0	0	0
-219.1	219	orthogroup	1	19	NL	N	0	0	0
-239.1	239	orthogroup	1	14	TNL	TN	0	0	0
-26.1	26	orthogroup	1	63	TNL	TNL	62	0	0
-299.1	299	orthogroup	1	5	TNL	T	0	0	2
-31.2	31	orthogroup	1	5	RNL	RCNL	0	0	0
-5.4	5	orthogroup	1	14	TNL	TNL	0	0	0
-77.1	77	orthogroup	1	7	TNL	TNL	0	0	0
-5.8	5	orthogroup	1	5	TNL	TNL	0	0	0
-12.9	12	orthogroup	1	9	NL	N	0	0	0
-16.8	16	orthogroup	1	4	TNL	TNL	0	0	0
-206.1	206	orthogroup	1	20	TNL	TNL	0	0	0
-25.2	25	orthogroup	1	46	NL	NL	0	43	0
-1.4	1	orthogroup	1	15	TNL	TNL	0	0	1
-89.1	89	orthogroup	1	57	TNL	TNL	0	0	0
-23.2	23	orthogroup	1	33	TNL	TNL	0	0	0
-251.1	251	orthogroup	1	8	TNL	TNL	0	2	0
-354	354	orthogroup	0	3	NL	NL	0	0	0
-150.1	150	orthogroup	1	47	TNL	T	0	0	0
-368	368	orthogroup	0	2	CNL	CN	0	0	0
-133.1	133	orthogroup	1	4	TNL	TNL	0	0	0
-29.2	29	orthogroup	1	17	TNL	T	0	0	0
-16.6	16	orthogroup	1	6	TNL	TNL	0	0	0
-44.1	44	orthogroup	1	59	TNL	TNL	0	0	0
-4.39	4	orthogroup	1	6	TNL	TNL	0	0	0
-12.6	12	orthogroup	1	6	NL	N	0	0	0
-132.1	132	orthogroup	1	49	TNL	T	0	0	0
-16.7	16	orthogroup	1	17	TNL	TNL	0	0	0
-408	408	orthogroup	0	2	NL	N	0	0	0
-351	351	orthogroup	0	3	RNL	R	0	0	0
-379	379	orthogroup	0	2	CNL	CNL	0	0	0
-287.1	287	orthogroup	1	5	TNL	T	0	0	0
-116.1	116	orthogroup	1	55	RNL	R	0	0	0
-258.1	258	orthogroup	1	9	TNL	TNL	0	0	0
-298.1	298	orthogroup	1	4	CNL	CNL	0	0	0
-73.1	73	orthogroup	1	59	TNL	TNL	0	0	0
-294.1	294	orthogroup	1	6	CNL	CN	0	0	0
-404	404	orthogroup	0	2	TNL	T	0	0	0
-264.1	264	orthogroup	1	8	TNL	T	0	0	0
-200.1	200	orthogroup	1	24	TNL	T	0	0	0
-323	323	orthogroup	0	3	RNL	R	0	0	0
-414	414	orthogroup	0	2	NL	N	0	0	0
-203.1	203	orthogroup	1	20	TNL	TX	0	0	20
-1.26	1	orthogroup	1	11	TNL	TNL	0	0	0
-201.1	201	orthogroup	1	22	TNL	TN	0	21	0
-196.1	196	orthogroup	1	27	TNL	T	0	0	0
-8.3	8	orthogroup	1	13	CNL	CNL	0	0	0
-12.8	12	orthogroup	1	6	CNL	CN	0	0	0
-4.6	4	orthogroup	1	7	TNL	TNL	0	0	0
-317	317	orthogroup	0	2	TNL	T	0	0	0
-411	411	orthogroup	0	2	TNL	T	0	0	0
-374	374	orthogroup	0	2	TNL	TNL	0	0	0
-70.1	70	orthogroup	1	58	TNL	TNL	0	0	0
-180.3	180	orthogroup	1	4	TNL	TNL	0	0	0
-305.1	305	orthogroup	1	5	TNL	T	0	0	0
-145.1	145	orthogroup	1	46	TNL	TN	0	0	0
-45.4	45	orthogroup	1	12	TNL	T	0	0	0
-5.7	5	orthogroup	1	22	TNL	TNL	0	0	0
-79.1	79	orthogroup	1	57	TNL	TNL	0	0	0
-18.3	18	orthogroup	1	40	TNL	TNL	38	0	0
-11.25	11	orthogroup	1	8	TNL	T	0	0	0
-291.1	291	orthogroup	1	6	CNL	CN	0	0	0
-413	413	orthogroup	0	2	TNL	TN	0	0	0
-105.1	105	orthogroup	1	55	TNL	TNL	0	0	0
-102.2	102	orthogroup	1	4	TNL	TN	0	0	0
-56.1	56	orthogroup	1	58	CNL	CN	0	0	0
-4.20	4	orthogroup	1	8	TNL	TNL	0	0	0
-15.6	15	orthogroup	1	17	NL	N	0	0	0
-152.1	152	orthogroup	1	35	CNL	CNL	0	0	0
-218.1	218	orthogroup	1	18	TNL	TX	0	0	18
-32.2	32	orthogroup	1	14	RNL	RN	0	0	0
-17.4	17	orthogroup	1	31	NL	NL	0	0	0
-85.1	85	orthogroup	1	56	TNL	TNL	0	47	0
-213.1	213	orthogroup	1	20	TNL	TN	0	19	0
-152.3	152	orthogroup	1	4	CNL	CNL	0	0	0
-7.18	7	orthogroup	1	11	CNL	CNL	0	0	0
-166.1	166	orthogroup	1	34	TNL	TNL	0	0	0
-95.1	95	orthogroup	1	58	TNL	TX	0	0	43
-244.1	244	orthogroup	1	12	CNL	CN	0	0	0
-4.24	4	orthogroup	1	7	TNL	TNL	0	0	0
-30.2	30	orthogroup	1	4	TNL	TNL	0	0	0
-15.3	15	orthogroup	1	24	CNL	CN	0	0	0
-179.2	179	orthogroup	1	26	TNL	TNL	0	0	0
-29.1	29	orthogroup	1	41	TNL	T	0	0	0
-399	399	orthogroup	0	2	CNL	CN	0	0	0
-16.14	16	orthogroup	1	9	TNL	TNL	0	0	0
-68.1	68	orthogroup	1	58	CNL	CNL	0	0	0
-191.1	191	orthogroup	1	26	CNL	CN	0	1	0
-134.11	134	orthogroup	1	4	NL	N	0	0	0
-14.6	14	orthogroup	1	3	CNL	CN	0	0	0
-32.1	32	orthogroup	1	47	RNL	RN	0	0	0
-3.7	3	orthogroup	1	5	CNL	CNL	0	0	0
-9.4	9	orthogroup	1	29	CNL	CN	0	0	0
-134.15	134	orthogroup	1	8	CNL	CNL	0	0	0
-50.1	50	orthogroup	1	60	TNL	TNL	0	0	0
-207.1	207	orthogroup	1	24	NL	N	0	0	0
-250.1	250	orthogroup	1	11	NL	N	0	0	0
-2.14	2	orthogroup	1	11	RNL	R	0	0	0
-121.1	121	orthogroup	1	54	TNL	T	0	0	0
-42.2	42	orthogroup	1	43	TNL	TNL	0	0	0
-49.3	49	orthogroup	1	19	CNL	CNX	0	18	19
-14.3	14	orthogroup	1	19	NL	N	0	0	0
-195.1	195	orthogroup	1	28	NL	NL	0	0	0
-69.1	69	orthogroup	1	58	TNL	TNL	0	0	0
-110.1	110	orthogroup	1	54	TNL	TNL	0	17	0
-401	401	orthogroup	0	2	TNL	T	0	0	0
-316	316	orthogroup	0	3	NL	NL	0	0	0
-16.4	16	orthogroup	1	7	TNL	TNL	0	0	0
-396	396	orthogroup	0	2	TNL	T	0	0	0
-140.1	140	orthogroup	1	46	TNL	TNL	0	11	0
-135.10	135	orthogroup	1	3	NL	N	0	0	0
-33.1	33	orthogroup	1	59	NL	N	0	0	0
-197.1	197	orthogroup	1	23	CNL	CN	0	12	0
-133.2	133	orthogroup	1	43	TNL	TNL	0	0	0
-268.1	268	orthogroup	1	5	CNL	CNL	0	0	0
-409	409	orthogroup	0	2	TNL	TN	0	0	0
-102.9	102	orthogroup	1	5	TNL	TN	0	0	0
-156.1	156	orthogroup	1	43	CNL	CN	0	0	0
-308.1	308	orthogroup	1	4	TNL	TNL	0	0	0
-3.3	3	orthogroup	1	22	CNL	CNL	0	0	0
-117.1	117	orthogroup	1	5	RNL	RNX	0	0	5
-403	403	orthogroup	0	2	TNL	T	0	0	0
-238.2	238	orthogroup	1	6	NL	NL	0	0	0
-260.1	260	orthogroup	1	10	NL	N	0	0	0
-51.1	51	orthogroup	1	62	TNL	T	0	0	0
-209.1	209	orthogroup	1	19	CNL	CN	0	0	0
-19	19	orthogroup	0	68	TNL	T	0	1	0
-75.1	75	orthogroup	1	59	NL	NL	0	55	0
-163.3	163	orthogroup	1	17	TNL	TNL	0	0	0
-12.5	12	orthogroup	1	10	NL	N	0	0	0
-120.3	120	orthogroup	1	11	TNL	TNL	0	0	0
-1.33	1	orthogroup	1	14	TNL	TNL	0	0	0
-377	377	orthogroup	0	2	TNL	TNL	0	0	0
-187.1	187	orthogroup	1	24	CNL	CNL	0	0	0
-5.3	5	orthogroup	1	5	TNL	TNL	0	0	0
-18.5	18	orthogroup	1	8	TNL	TNL	8	0	0
-229.1	229	orthogroup	1	16	TNL	TNL	0	14	0
-176.6	176	orthogroup	1	12	TNL	TNL	0	0	0
-378	378	orthogroup	0	2	NL	N	0	0	0
-241.1	241	orthogroup	1	14	TNL	TNL	0	0	0
-220.1	220	orthogroup	1	19	TNL	T	0	0	0
-2.29	2	orthogroup	1	14	RNL	R	0	0	0
-376	376	orthogroup	0	2	TNL	TNL	0	0	0
-341	341	orthogroup	0	3	TNL	T	0	0	0
-192.1	192	orthogroup	1	27	TNL	T	0	0	5
-13.1	13	orthogroup	1	9	TNL	TN	0	5	0
-274.1	274	orthogroup	1	7	NL	N	0	0	0
-356	356	orthogroup	0	3	TNL	T	0	0	0
-142.1	142	orthogroup	1	45	TNL	TNL	0	0	0
-7.7	7	orthogroup	1	6	CNL	CNL	0	0	0
-178	178	orthogroup	0	33	TNL	TNL	0	0	0
-8.2	8	orthogroup	1	14	CNL	CNL	0	0	0
-60.1	60	orthogroup	1	58	TNL	TNL	0	0	0
-98.1	98	orthogroup	1	58	TNL	T	0	0	0
-108.6	108	orthogroup	1	15	RNL	R	0	0	0
-416	195	singleton	0	1	NL	NL	0	0	0
-417	70	singleton	0	1	NL	NL	0	0	0
-418	6	singleton	0	1	CNL	CN	0	0	0
-419	3	singleton	0	1	CNL	CNL	0	0	0
-420	8	singleton	0	1	CNL	CN	0	0	0
-421	N/A	singleton	0	1	CNL	CN	0	0	0
-422	2	singleton	0	1	RNL	R	0	0	0
-423	231	singleton	0	1	TNL	T	0	0	0
-424	N/A	singleton	0	1	RNL	R	0	0	0
-425	22	singleton	0	1	NL	N	0	0	0
-426	49	singleton	0	1	CNL	CNL	0	1	0
-427	N/A	singleton	0	1	TNL	T	0	0	0
-428	N/A	singleton	0	1	TNL	T	0	0	0
-429	N/A	singleton	0	1	NL	N	0	0	0
-430	181	singleton	0	1	TNL	TNL	0	0	0
-431	6	singleton	0	1	CNL	CN	0	0	0
-432	N/A	singleton	0	1	TNL	T	0	1	0
-433	115	singleton	0	1	NL	N	0	0	0
-434	N/A	singleton	0	1	RNL	R	0	0	0
-435	16	singleton	0	1	TNL	TNL	0	0	0
-436	7	singleton	0	1	CNL	CNL	0	0	0
-437	N/A	singleton	0	1	TNL	T	0	0	0
-438	197	singleton	0	1	NL	N	0	1	0
-439	18	singleton	0	1	TNL	TNL	1	0	0
-440	N/A	singleton	0	1	TNL	T	0	0	0
-441	3	singleton	0	1	CNL	CN	0	0	0
-442	25	singleton	0	1	NL	NL	0	1	0
-443	33	singleton	0	1	NL	N	0	0	0
-444	296	singleton	0	1	NL	N	0	0	0
-445	N/A	singleton	0	1	TNL	TN	0	0	0
-446	1	singleton	0	1	TNL	TNL	0	0	0
-447	129	singleton	0	1	RNL	R	0	0	0
-448	60	singleton	0	1	TNL	TNL	0	0	0
-449	1	singleton	0	1	TNL	TNL	0	0	0
-450	7	singleton	0	1	CNL	CNL	0	0	0
-451	16	singleton	0	1	TNL	TNL	0	0	0
-452	151	singleton	0	1	RNL	R	0	0	0
-453	1	singleton	0	1	TNL	TNL	0	0	0
-454	73	singleton	0	1	TNL	TNL	0	0	0
-455	N/A	singleton	0	1	TNL	TNL	0	0	0
-456	172	singleton	0	1	TNL	TN	0	0	0
-457	11	singleton	0	1	TNL	T	0	0	0
-458	1	singleton	0	1	TNL	TNL	0	0	0
-459	N/A	singleton	0	1	NL	N	0	0	0
-460	5	singleton	0	1	TNL	TNL	0	0	0
-461	3	singleton	0	1	CNL	CNL	0	0	0
-462	215	singleton	0	1	TNL	TN	0	0	0
-463	67	singleton	0	1	NL	N	0	0	0
-464	135	singleton	0	1	NL	N	0	0	0
-465	165	singleton	0	1	TNL	TNL	0	0	0
-466	192	singleton	0	1	TNL	TX	0	0	1
-467	125	singleton	0	1	TNL	TN	0	0	0
-468	49	singleton	0	1	CNL	CNX	0	1	1
-469	324	singleton	0	1	NL	N	0	0	0
-470	212	singleton	0	1	TNL	TN	0	0	0
-471	110	singleton	0	1	TNL	TN	0	1	0
-472	91	singleton	0	1	TNL	T	0	1	0
-473	N/A	singleton	0	1	NL	NL	0	0	0
-474	10	singleton	0	1	TNL	TNL	0	0	0
-475	4	singleton	0	1	TNL	TNL	0	0	0
-476	93	singleton	0	1	NL	N	0	0	0
-477	2	singleton	0	1	RNL	R	0	0	0
-478	80	singleton	0	1	TNL	TNL	1	0	0
-479	134	singleton	0	1	CNL	CN	0	0	0
-480	2	singleton	0	1	RNL	R	0	0	0
-481	142	singleton	0	1	TNL	TN	0	0	0
-482	152	singleton	0	1	CNL	CNL	0	0	0
-483	170	singleton	0	1	TNL	TNL	0	0	0
-484	15	singleton	0	1	NL	N	0	0	0
-485	11	singleton	0	1	TNL	T	0	0	0
-486	4	singleton	0	1	TNL	TNL	0	0	0
-487	3	singleton	0	1	NL	NL	0	0	0
-488	169	singleton	0	1	TNL	T	0	0	0
-489	84	singleton	0	1	NL	NL	1	0	0
-490	N/A	singleton	0	1	TNL	TNL	0	0	0
-491	63	singleton	0	1	TNL	TNL	0	0	0
-492	N/A	singleton	0	1	CNL	CNL	0	0	0
-493	226	singleton	0	1	NL	N	0	0	0
-494	140	singleton	0	1	TNL	TN	0	1	0
-495	38	singleton	0	1	TNL	TN	0	0	0
-496	97	singleton	0	1	NL	NL	0	0	0
-497	N/A	singleton	0	1	TNL	T	0	0	0
-498	270	singleton	0	1	CNL	CN	0	0	0
-499	N/A	singleton	0	1	CNL	CN	0	0	0
-500	14	singleton	0	1	CNL	CN	0	0	0
-501	221	singleton	0	1	TNL	TNL	0	0	0
-502	1	singleton	0	1	TNL	TNL	0	0	0
-503	212	singleton	0	1	TNL	TNL	0	0	0
-504	172	singleton	0	1	NL	N	0	0	0
-505	2	singleton	0	1	RNL	R	0	0	0
-506	135	singleton	0	1	NL	N	0	0	0
-507	204	singleton	0	1	TNL	TNL	0	1	0
-508	181	singleton	0	1	TNL	TN	0	0	0
-509	11	singleton	0	1	TNL	T	0	0	0
-510	108	singleton	0	1	RNL	R	0	0	0
-511	171	singleton	0	1	TNL	TN	0	1	0
-512	172	singleton	0	1	NL	N	0	0	0
-513	1	singleton	0	1	TNL	TNL	0	0	0
-514	13	singleton	0	1	TNL	TN	0	0	0
-515	16	singleton	0	1	TNL	TNL	0	0	0
-516	300	singleton	0	1	CNL	CN	0	0	0
-517	107	singleton	0	1	TNL	TNL	0	0	0
-518	10	singleton	0	1	TNL	TNL	0	0	0
-519	N/A	singleton	0	1	TNL	T	0	0	0
-520	N/A	singleton	0	1	TNL	T	0	0	0
-521	N/A	singleton	0	1	NL	N	0	0	0
-522	212	singleton	0	1	TNL	TN	0	0	0
-523	189	singleton	0	1	NL	NL	0	0	0
-524	42	singleton	0	1	TNL	TNL	0	0	0
-525	99	singleton	0	1	NL	NL	0	0	0
-526	97	singleton	0	1	CNL	CNL	0	0	0
-527	N/A	singleton	0	1	NL	N	0	0	0
-528	2	singleton	0	1	RNL	R	0	0	0
-529	88	singleton	0	1	NL	NL	0	0	0
-530	64	singleton	0	1	TNL	TNL	0	0	0
-531	253	singleton	0	1	TNL	TN	0	0	0
-532	N/A	singleton	0	1	RNL	R	0	0	0
-533	11	singleton	0	1	TNL	T	0	0	0
-534	30	singleton	0	1	NL	NL	0	0	0
-535	134	singleton	0	1	CNL	CNL	0	0	0
-536	2	singleton	0	1	RNL	R	0	0	0
-537	9	singleton	0	1	NL	N	0	0	0
-538	247	singleton	0	1	RNL	R	0	0	0
-539	N/A	singleton	0	1	NL	N	0	0	0
-540	61	singleton	0	1	NL	N	0	0	0
-541	134	singleton	0	1	CNL	CNL	0	0	0
-542	234	singleton	0	1	TNL	TN	0	0	0
-543	160	singleton	0	1	TNL	TNL	0	0	0
-544	69	singleton	0	1	TNL	TNL	0	0	0
-545	118	singleton	0	1	TNL	T	0	0	0
-546	12	singleton	0	1	NL	N	0	0	0
-547	110	singleton	0	1	TNL	TNL	0	0	0
-548	60	singleton	0	1	NL	NL	0	0	0
-549	N/A	singleton	0	1	CNL	CN	0	0	0
-550	141	singleton	0	1	TNL	TL	0	0	0
-551	239	singleton	0	1	TNL	TN	0	0	0
-552	134	singleton	0	1	CNL	CNL	0	0	0
-553	163	singleton	0	1	TNL	TNL	0	0	0
-554	92	singleton	0	1	TNL	TNL	0	0	0
-555	3	singleton	0	1	CNL	CNL	0	0	0
-556	234	singleton	0	1	NL	N	0	0	0
-557	59	singleton	0	1	RNL	RN	0	0	0
-558	7	singleton	0	1	CNL	CNL	0	0	0
-559	53	singleton	0	1	TNL	TNL	0	0	0
-560	2	singleton	0	1	RNL	R	0	0	0
-561	6	singleton	0	1	CNL	CN	0	0	0
-562	180	singleton	0	1	TNL	TNL	0	0	0
-563	122	singleton	0	1	TNL	T	0	0	0
-564	37	singleton	0	1	TNL	TN	0	0	0
-565	14	singleton	0	1	CNL	CN	0	0	0
-566	175	singleton	0	1	TNL	TNL	0	0	0
-567	N/A	singleton	0	1	TNL	T	0	0	0
-568	N/A	singleton	0	1	TNL	TN	0	0	0
-569	181	singleton	0	1	TNL	TNL	0	0	0
-570	209	singleton	0	1	CNL	CN	0	0	0
-571	11	singleton	0	1	TNL	T	0	0	0
-572	1	singleton	0	1	TNL	TNL	0	0	0
-573	216	singleton	0	1	TNL	TNL	0	0	0
-574	122	singleton	0	1	TNL	T	0	0	0
-575	1	singleton	0	1	TNL	TNL	0	0	0
-576	6	singleton	0	1	CNL	CN	0	0	0
-577	242	singleton	0	1	TNL	TN	0	0	0
-578	7	singleton	0	1	CNL	CNL	0	0	0
-579	N/A	singleton	0	1	CNL	CN	0	0	0
-580	N/A	singleton	0	1	TNL	T	1	0	0
-581	286	singleton	0	1	TNL	T	0	0	0
-582	10	singleton	0	1	TNL	TNL	0	0	0
-583	N/A	singleton	0	1	NL	NL	0	0	0
-584	N/A	singleton	0	1	TNL	T	0	0	0
-585	4	singleton	0	1	TNL	TNL	0	0	0
-586	N/A	singleton	0	1	CNL	CNL	0	0	0
-587	134	singleton	0	1	CNL	CN	0	0	0
-588	2	singleton	0	1	RNL	R	0	0	0
-589	53	singleton	0	1	NL	NL	0	0	0
-590	88	singleton	0	1	NL	NL	0	0	0
-591	4	singleton	0	1	TNL	TNL	0	0	0
-592	12	singleton	0	1	NL	N	0	0	0
-593	N/A	singleton	0	1	NL	N	0	0	0
-594	4	singleton	0	1	TNL	TNL	0	0	0
-595	8	singleton	0	1	CNL	CN	0	0	0
-596	251	singleton	0	1	TNL	TNL	0	1	0
-597	12	singleton	0	1	NL	N	0	0	0
-598	N/A	singleton	0	1	TNL	TL	0	0	0
-599	21	singleton	0	1	NL	NX	0	0	1
-600	4	singleton	0	1	TNL	TNL	0	0	0
-601	N/A	singleton	0	1	RNL	R	0	0	0
-603	118	singleton	0	1	TNL	T	0	0	0
-604	20	singleton	0	1	TNL	TNL	0	0	0
-605	10	singleton	0	1	TNL	TNL	0	0	0
-606	N/A	singleton	0	1	NL	N	0	0	0
-607	68	singleton	0	1	NL	NL	0	0	0
-608	8	singleton	0	1	CNL	CNL	0	0	0
-609	7	singleton	0	1	CNL	CNL	0	0	0
-610	88	singleton	0	1	NL	N	0	0	0
-611	81	singleton	0	1	TNL	TNL	0	1	0
-612	31	singleton	0	1	RNL	RCNL	0	0	0
-613	N/A	singleton	0	1	CNL	CNL	0	0	0
-614	78	singleton	0	1	TNL	TNL	1	0	0
-615	23	singleton	0	1	TNL	TN	0	0	0
-616	183	singleton	0	1	TNL	TNL	0	0	0
-617	N/A	singleton	0	1	NL	N	0	0	0
-618	3	singleton	0	1	NL	N	0	0	0
-619	10	singleton	0	1	TNL	TNL	0	0	0
-620	5	singleton	0	1	TNL	TNL	0	0	0
-621	N/A	singleton	0	1	TNL	TNL	0	0	0
-622	124	singleton	0	1	TNL	T	0	0	0
-623	183	singleton	0	1	NL	NL	0	0	0
-624	247	singleton	0	1	RNL	R	0	0	0
-625	120	singleton	0	1	TNL	TNL	0	0	0
-626	53	singleton	0	1	TNL	TNL	0	0	0
-627	N/A	singleton	0	1	NL	N	0	0	0
-628	2	singleton	0	1	RNL	R	0	0	0
-629	N/A	singleton	0	1	CNL	CN	0	0	0
-630	51	singleton	0	1	TNL	T	0	0	0
-631	151	singleton	0	1	RNL	R	0	0	0
-632	48	singleton	0	1	TNL	TN	1	0	0
-633	N/A	singleton	0	1	NL	N	0	0	0
-634	54	singleton	0	1	NL	N	0	0	0
-635	61	singleton	0	1	NL	N	0	0	0
-636	1	singleton	0	1	TNL	TNL	0	0	0
-637	141	singleton	0	1	TNL	TL	0	0	0
-638	16	singleton	0	1	TNL	TNL	0	0	0
-639	135	singleton	0	1	NL	N	0	0	0
-640	N/A	singleton	0	1	TNL	T	0	0	0
-641	2	singleton	0	1	RNL	R	0	0	0
-642	1	singleton	0	1	TNL	TNL	0	0	0
-643	265	singleton	0	1	RNL	RC	0	0	0
-644	184	singleton	0	1	TNL	TNL	0	0	0
-645	N/A	singleton	0	1	TNL	TN	0	0	0
-646	N/A	singleton	0	1	NL	NL	0	0	0
-647	62	singleton	0	1	TNL	T	0	0	0
-648	15	singleton	0	1	NL	N	0	0	0
-649	49	singleton	0	1	CNL	CNX	0	1	1
-650	104	singleton	0	1	NL	N	0	0	0
-651	45	singleton	0	1	TNL	T	0	0	0
-652	21	singleton	0	1	TNL	TN	1	0	0
-653	6	singleton	0	1	CNL	CN	0	0	0
-654	N/A	singleton	0	1	TNL	TNL	0	0	0
-655	N/A	singleton	0	1	NL	NL	0	0	0
-656	20	singleton	0	1	TNL	TNL	0	0	0
-657	68	singleton	0	1	CNL	CNL	0	0	0
-658	N/A	singleton	0	1	RNL	R	0	0	0
-659	66	singleton	0	1	NL	NL	0	0	0
-660	75	singleton	0	1	NL	N	0	0	0
-661	154	singleton	0	1	TNL	TNX	0	0	1
-662	22	singleton	0	1	NL	N	0	0	0
-663	41	singleton	0	1	NL	NLX	0	0	1
-664	N/A	singleton	0	1	TNL	TN	0	0	0
-665	189	singleton	0	1	NL	NL	0	0	0
-666	7	singleton	0	1	CNL	CNL	0	0	0
-667	24	singleton	0	1	TNL	TN	0	0	0
-668	278	singleton	0	1	TNL	TNL	0	0	0
-669	13	singleton	0	1	TNL	TN	0	0	0
-670	1	singleton	0	1	TNL	TNL	0	0	0
-671	55	singleton	0	1	NL	N	0	0	0
-672	14	singleton	0	1	NL	N	0	0	0
-673	N/A	singleton	0	1	CNL	CN	0	0	0
-674	1	singleton	0	1	TNL	TNL	0	0	0
-675	232	singleton	0	1	TNL	T	0	0	0
-676	100	singleton	0	1	TNL	TNL	0	0	0
-677	164	singleton	0	1	TNL	TN	0	0	0
-678	151	singleton	0	1	RNL	R	0	0	0
-679	94	singleton	0	1	NL	NL	0	0	0
-680	159	singleton	0	1	TNL	TNL	0	0	0
-681	2	singleton	0	1	RNL	R	0	0	0
-682	32	singleton	0	1	NL	N	0	0	0
-683	21	singleton	0	1	TNL	TN	1	0	0
-684	165	singleton	0	1	TNL	TNLX	0	0	1
-685	145	singleton	0	1	NL	N	0	0	0
-686	6	singleton	0	1	NL	N	0	0	0
-687	191	singleton	0	1	CNL	CN	0	0	0
-688	4	singleton	0	1	TNL	TNL	0	0	0
-689	10	singleton	0	1	TNL	TNL	0	0	0
-690	N/A	singleton	0	1	NL	N	0	0	0
-691	11	singleton	0	1	TNL	T	0	0	0
-692	55	singleton	0	1	RNL	RN	0	0	0
-693	N/A	singleton	0	1	NL	N	0	0	0
-694	202	singleton	0	1	TNL	T	0	0	0
-695	N/A	singleton	0	1	TNL	T	0	0	0
-696	16	singleton	0	1	TNL	TNLX	0	0	1
-697	229	singleton	0	1	TNL	TN	0	0	0
-698	N/A	singleton	0	1	NL	N	0	0	0
-699	278	singleton	0	1	TNL	TNL	0	0	0
-700	4	singleton	0	1	TNL	TNL	0	0	0
-701	107	singleton	0	1	TNL	TN	0	0	0
-702	105	singleton	0	1	TNL	TNL	0	0	0
-703	125	singleton	0	1	TNL	TN	0	0	0
-704	1	singleton	0	1	TNL	TNL	0	0	0
-705	82	singleton	0	1	NL	NL	0	0	0
-706	65	singleton	0	1	NL	N	0	0	0
-707	32	singleton	0	1	RNL	RN	0	0	0
-708	4	singleton	0	1	TNL	TNL	0	0	0
-709	3	singleton	0	1	CNL	CNL	0	0	0
-710	253	singleton	0	1	TNL	TNL	0	0	0
-711	4	singleton	0	1	NL	NL	0	0	0
-712	N/A	singleton	0	1	NL	NL	0	0	0
-713	262	singleton	0	1	TNL	T	0	0	0
-714	84	singleton	0	1	TNL	TNL	1	0	0
-715	165	singleton	0	1	TNL	TN	0	0	0
-716	4	singleton	0	1	NL	NL	0	0	0
-717	120	singleton	0	1	TNL	TNL	0	0	0
-718	14	singleton	0	1	NL	N	0	0	0
-719	71	singleton	0	1	TNL	TNL	0	0	0
-720	4	singleton	0	1	TNL	TNL	0	0	0
-721	89	singleton	0	1	TNL	TNLX	0	0	1
-722	216	singleton	0	1	TNL	TNL	0	0	0
-723	77	singleton	0	1	TNL	TNL	0	0	0
-724	N/A	singleton	0	1	TNL	T	0	0	0
-725	13	singleton	0	1	TNL	TN	0	0	0
-726	249	singleton	0	1	CNL	CNL	0	0	0
-727	99	singleton	0	1	TNL	TNL	0	0	0
-728	253	singleton	0	1	TNL	TNL	0	0	0
-729	N/A	singleton	0	1	CNL	CNL	0	0	0
-730	212	singleton	0	1	TNL	TN	0	0	0
-731	109	singleton	0	1	CNL	CNL	0	0	0
-732	17	singleton	0	1	CNL	CN	0	0	0
-733	92	singleton	0	1	TNL	TNL	0	0	0
-734	161	singleton	0	1	NL	NL	0	0	0
-735	36	singleton	0	1	TNL	TNL	0	0	0
-736	135	singleton	0	1	NL	N	0	0	0
-737	N/A	singleton	0	1	NL	NL	0	0	0
-738	3	singleton	0	1	CNL	CNL	0	0	0
-739	77	singleton	0	1	TNL	TNL	0	0	0
-740	14	singleton	0	1	CNL	CN	0	0	0
-741	82	singleton	0	1	NL	NL	0	0	0
-742	6	singleton	0	1	CNL	CN	0	0	0
-743	N/A	singleton	0	1	TNL	T	0	0	0
-744	55	singleton	0	1	RNL	RN	0	0	0
-745	200	singleton	0	1	TNL	T	0	0	0
-746	N/A	singleton	0	1	TNL	T	0	0	0
-747	14	singleton	0	1	CNL	CN	0	0	0
-748	11	singleton	0	1	TNL	T	0	0	0
-749	49	singleton	0	1	CNL	CNX	0	1	1
-750	3	singleton	0	1	CNL	CNL	0	0	0
-751	N/A	singleton	0	1	NL	N	0	0	0
-752	55	singleton	0	1	RNL	RN	0	0	0
-753	108	singleton	0	1	RNL	R	0	0	0
-754	15	singleton	0	1	NL	N	0	0	0
-755	N/A	singleton	0	1	CNL	CNL	0	0	0
-756	N/A	singleton	0	1	TNL	T	0	0	0
-757	42	singleton	0	1	TNL	TNL	0	0	0
-758	31	singleton	0	1	RNL	RCN	0	0	0
-759	168	singleton	0	1	CNL	CN	0	0	0
-760	4	singleton	0	1	TNL	TNL	0	0	0
-761	36	singleton	0	1	TNL	TN	0	0	0
-762	165	singleton	0	1	TNL	TNL	0	0	0
-763	75	singleton	0	1	NL	NL	0	1	0
-764	187	singleton	0	1	NL	NL	0	0	0
-765	237	singleton	0	1	NL	N	0	0	0
-766	226	singleton	0	1	NL	N	0	0	0
-767	9	singleton	0	1	NL	N	0	0	0
-768	120	singleton	0	1	TNL	TNL	0	0	0
-769	134	singleton	0	1	CNL	CNL	0	0	0
-770	N/A	singleton	0	1	TNL	T	0	0	0
-771	284	singleton	0	1	TNL	TN	0	0	0
-772	11	singleton	0	1	TNL	T	0	0	0
-773	52	singleton	0	1	TNL	T	0	0	0
-774	327	singleton	0	1	TNL	T	0	0	0
-775	135	singleton	0	1	NL	N	0	0	0
-776	211	singleton	0	1	TNL	TNL	0	0	0
-777	N/A	singleton	0	1	TNL	T	0	0	0
-778	2	singleton	0	1	RNL	R	0	0	0
-779	87	singleton	0	1	TNL	T	0	0	0
-780	101	singleton	0	1	NL	N	0	0	0
-781	8	singleton	0	1	CNL	CNL	0	0	0
-782	N/A	singleton	0	1	NL	N	0	0	0
-783	212	singleton	0	1	TNL	TN	0	0	0
-784	3	singleton	0	1	CNL	CNL	0	0	0
-785	213	singleton	0	1	TNL	TN	0	1	0
-786	102	singleton	0	1	TNL	TN	0	0	0
-787	13	singleton	0	1	TNL	TN	0	0	0
-788	264	singleton	0	1	TNL	T	0	0	0
-789	28	singleton	0	1	TNL	TNL	0	0	0
-790	7	singleton	0	1	CNL	CNL	0	0	0
-791	62	singleton	0	1	TNL	T	0	0	0
-792	8	singleton	0	1	CNL	CNL	0	0	0
-793	1	singleton	0	1	TNL	TNL	0	0	0
-794	26	singleton	0	1	NL	NL	0	0	0
-795	135	singleton	0	1	NL	N	0	0	0
-796	16	singleton	0	1	TNL	TNL	0	0	0
-797	11	singleton	0	1	TNL	T	0	0	0
-798	N/A	singleton	0	1	CNL	CN	0	0	0
-799	7	singleton	0	1	CNL	CNL	0	0	0
-800	66	singleton	0	1	CNL	CNL	0	0	0
-801	N/A	singleton	0	1	TNL	TN	0	0	0
-802	11	singleton	0	1	TNL	T	0	0	0
-803	4	singleton	0	1	TNL	TNL	0	0	0
-804	N/A	singleton	0	1	CNL	CN	0	0	0
-805	315	singleton	0	1	TNL	TNL	0	0	0
-806	176	singleton	0	1	TNL	TNL	0	0	0
-807	223	singleton	0	1	TNL	TN	0	0	0
-808	78	singleton	0	1	NL	NL	0	0	0
-809	131	singleton	0	1	TNL	T	0	0	0
-810	269	singleton	0	1	CNL	CNL	0	0	0
-811	2	singleton	0	1	RNL	R	0	0	0
-812	177	singleton	0	1	TNL	T	0	0	0
-813	11	singleton	0	1	TNL	T	0	0	0
-814	N/A	singleton	0	1	NL	N	0	0	0
-815	92	singleton	0	1	TNL	TNL	0	0	0
-816	2	singleton	0	1	RNL	R	0	0	0
-817	118	singleton	0	1	TNL	T	0	0	0
-818	3	singleton	0	1	CNL	CNL	0	0	0
-819	30	singleton	0	1	TNL	TNL	0	1	0
-820	144	singleton	0	1	TNL	T	0	0	0
-821	2	singleton	0	1	RNL	R	0	0	0
-822	82	singleton	0	1	NL	NL	1	0	0
-823	38	singleton	0	1	TNL	TN	0	0	0
-824	134	singleton	0	1	CNL	CNL	0	0	0
-825	101	singleton	0	1	NL	N	0	0	0
-826	221	singleton	0	1	TNL	TNL	0	0	0
-827	231	singleton	0	1	TNL	T	0	0	0
-828	210	singleton	0	1	CNL	CNL	0	0	0
-829	N/A	singleton	0	1	TNL	T	0	0	0
-830	324	singleton	0	1	NL	N	0	0	0
-831	117	singleton	0	1	RNL	RCNX	0	0	1
-832	1	singleton	0	1	TNL	TNL	0	0	0
-833	N/A	singleton	0	1	NL	N	0	0	0
-834	N/A	singleton	0	1	TNL	T	0	0	0
-836	134	singleton	0	1	CNL	CN	0	0	0
-837	36	singleton	0	1	TNL	TN	0	0	0
-838	N/A	singleton	0	1	NL	NL	0	0	0
-839	40	singleton	0	1	TNL	TNL	0	0	0
-840	10	singleton	0	1	TNL	TNL	0	0	0
-841	100	singleton	0	1	TNL	TNL	0	0	0
-842	N/A	singleton	0	1	TNL	T	0	0	0
-843	56	singleton	0	1	CNL	CN	0	0	0
-844	189	singleton	0	1	TNL	TL	0	0	0
-845	147	singleton	0	1	NL	N	0	0	0
-846	27	singleton	0	1	NL	N	0	0	0
-847	73	singleton	0	1	TNL	TNL	0	0	0
-848	N/A	singleton	0	1	TNL	TN	0	0	0
-849	143	singleton	0	1	NL	NLX	0	0	1
-850	2	singleton	0	1	RNL	R	0	0	0
-851	221	singleton	0	1	TNL	TNL	0	0	0
-852	N/A	singleton	0	1	NL	NL	0	0	0
-853	13	singleton	0	1	TNL	T	0	1	0
-854	140	singleton	0	1	TNL	TN	0	0	0
-855	235	singleton	0	1	TNL	T	0	0	0
-856	151	singleton	0	1	RNL	R	0	0	0
-857	175	singleton	0	1	TNL	TNL	0	0	0
-858	2	singleton	0	1	RNL	R	0	0	0
-859	6	singleton	0	1	CNL	CN	0	0	0
-860	N/A	singleton	0	1	TNL	T	0	0	0
-861	124	singleton	0	1	TNL	TX	0	0	1
-862	34	singleton	0	1	TNL	TN	0	0	0
-863	184	singleton	0	1	TNL	TNL	0	0	0
-864	7	singleton	0	1	CNL	CN	0	0	0
-865	184	singleton	0	1	TNL	TNL	0	0	0
-866	61	singleton	0	1	NL	N	0	0	0
-867	N/A	singleton	0	1	NL	NL	0	0	0
-868	3	singleton	0	1	CNL	CNL	0	0	0
-869	64	singleton	0	1	TNL	TN	0	0	0
-870	124	singleton	0	1	TNL	TX	0	0	1
-871	156	singleton	0	1	NL	N	0	0	0
-872	N/A	singleton	0	1	TNL	T	0	0	0
-873	107	singleton	0	1	TNL	TN	0	0	0
-874	N/A	singleton	0	1	TNL	T	0	0	0
-875	29	singleton	0	1	TNL	T	0	0	0
-876	102	singleton	0	1	TNL	TN	0	0	0
-877	8	singleton	0	1	CNL	CN	0	0	0
-878	214	singleton	0	1	TNL	TNL	0	0	0
-879	303	singleton	0	1	CNL	CNL	0	0	0
-880	4	singleton	0	1	TNL	TNL	0	0	0
-881	N/A	singleton	0	1	TNL	T	0	0	0
-883	99	singleton	0	1	TNL	TNL	0	0	0
-884	4	singleton	0	1	TNL	TNL	0	0	0
-885	11	singleton	0	1	TNL	T	0	0	0
-886	55	singleton	0	1	RNL	RN	0	0	0
-887	39	singleton	0	1	TNL	TNL	0	0	0
-888	11	singleton	0	1	TNL	T	0	0	0
-889	11	singleton	0	1	TNL	T	0	0	0
-890	2	singleton	0	1	RNL	R	0	0	0
-891	6	singleton	0	1	CNL	CN	0	0	0
-892	6	singleton	0	1	CNL	CN	0	0	0
-893	165	singleton	0	1	TNL	TN	0	0	0
-894	11	singleton	0	1	TNL	T	0	0	0
-895	82	singleton	0	1	NL	NL	0	0	0
-896	2	singleton	0	1	RNL	R	0	0	0
-897	11	singleton	0	1	TNL	T	0	0	0
-898	10	singleton	0	1	TNL	TNL	0	0	0
-899	2	singleton	0	1	RNL	R	0	0	0
-900	287	singleton	0	1	TNL	T	0	0	0
-901	238	singleton	0	1	NL	NL	0	0	0
-902	N/A	singleton	0	1	TNL	TN	0	0	0
-903	102	singleton	0	1	TNL	TNL	0	0	0
-904	4	singleton	0	1	TNL	TNL	0	0	0
-905	224	singleton	0	1	TNL	TNL	0	0	0
-906	2	singleton	0	1	RNL	R	0	0	0
-907	247	singleton	0	1	RNL	R	0	0	0
-908	2	singleton	0	1	RNL	R	0	0	0
-909	161	singleton	0	1	NL	NL	0	0	0
-910	194	singleton	0	1	TNL	T	0	0	0
-911	N/A	singleton	0	1	NL	NX	0	0	1
-912	166	singleton	0	1	NL	NL	0	0	0
-913	171	singleton	0	1	TNL	TN	0	1	0
-914	125	singleton	0	1	TNL	TN	0	0	0
-915	77	singleton	0	1	TNL	TNL	0	0	0
-916	6	singleton	0	1	CNL	CN	0	0	0
-917	2	singleton	0	1	RNL	R	0	0	0
-918	4	singleton	0	1	TNL	TNL	0	0	0
-919	258	singleton	0	1	TNL	TNL	0	0	0
-920	N/A	singleton	0	1	TNL	T	0	0	0
-921	25	singleton	0	1	NL	NL	0	1	0
-922	4	singleton	0	1	NL	NL	0	0	0
-923	181	singleton	0	1	TNL	TNL	0	0	0
-924	N/A	singleton	0	1	NL	N	0	0	0
-925	100	singleton	0	1	TNL	TNL	0	0	0
-926	240	singleton	0	1	TNL	TL	0	0	0
-927	6	singleton	0	1	CNL	CN	0	0	0
-928	4	singleton	0	1	TNL	TN	0	0	0
-929	N/A	singleton	0	1	TNL	TN	0	0	0
-930	78	singleton	0	1	TNL	TNL	1	0	0
-931	4	singleton	0	1	TNL	TNL	0	0	0
-932	60	singleton	0	1	NL	NL	0	0	0
-933	63	singleton	0	1	TNL	TNL	0	0	0
-934	7	singleton	0	1	CNL	CNL	0	0	0
-935	7	singleton	0	1	CNL	CNL	0	0	0
-936	218	singleton	0	1	TNL	TX	0	0	1
-937	N/A	singleton	0	1	TNL	T	0	0	0
-938	165	singleton	0	1	TNL	TNL	0	0	0
-939	184	singleton	0	1	TNL	TNL	0	0	0
-940	33	singleton	0	1	NL	N	0	0	0
-941	82	singleton	0	1	NL	NL	0	0	0
-942	1	singleton	0	1	TNL	TNL	0	0	0
-943	2	singleton	0	1	RNL	R	0	0	0
-944	108	singleton	0	1	RNL	R	0	0	0
-945	6	singleton	0	1	CNL	CN	0	0	0
-946	2	singleton	0	1	RNL	R	0	0	0
-947	6	singleton	0	1	CNL	CN	0	0	0
-948	17	singleton	0	1	NL	N	0	0	0
-949	83	singleton	0	1	NL	NL	0	0	0
-950	2	singleton	0	1	RNL	R	0	0	0
-951	80	singleton	0	1	NL	NL	1	0	0
-952	188	singleton	0	1	CNL	CN	0	0	0
-953	34	singleton	0	1	TNL	TN	0	0	0
-954	84	singleton	0	1	TNL	TNL	1	0	0
-955	109	singleton	0	1	NL	NL	0	0	0
-956	105	singleton	0	1	TNL	TNL	0	0	0
-957	134	singleton	0	1	CNL	CNL	0	0	0
-958	2	singleton	0	1	RNL	R	0	0	0
-959	70	singleton	0	1	NL	NL	0	0	0
-961	4	singleton	0	1	TNL	TNL	0	0	0
-962	76	singleton	0	1	NL	N	0	0	0
-963	20	singleton	0	1	TNL	TNL	0	0	0
-964	234	singleton	0	1	NL	N	0	0	0
-965	N/A	singleton	0	1	RNL	R	0	0	0
-966	N/A	singleton	0	1	NL	NL	0	0	0
-967	9	singleton	0	1	NL	N	0	0	0
-968	5	singleton	0	1	TNL	TNL	0	0	0
-969	135	singleton	0	1	NL	N	0	0	0
-970	226	singleton	0	1	NL	N	0	0	0
-971	146	singleton	0	1	TNL	TN	0	0	0
-972	N/A	singleton	0	1	TNL	T	0	0	0
-973	2	singleton	0	1	RNL	R	0	0	0
-974	152	singleton	0	1	CNL	CNL	0	0	0
-975	108	singleton	0	1	RNL	R	0	0	0
-976	N/A	singleton	0	1	TNL	TL	0	0	0
-977	11	singleton	0	1	TNL	T	0	0	0
-978	2	singleton	0	1	RNL	R	0	0	0
-979	7	singleton	0	1	CNL	CNL	0	0	0
-980	163	singleton	0	1	TNL	TNL	0	0	0
-981	14	singleton	0	1	NL	N	0	0	0
-982	N/A	singleton	0	1	NL	N	0	0	0
-983	13	singleton	0	1	TNL	TN	0	1	0
-984	6	singleton	0	1	CNL	CN	0	0	0
-985	170	singleton	0	1	TNL	TNL	0	0	0
-986	176	singleton	0	1	TNL	TNL	0	0	0
-987	219	singleton	0	1	NL	N	0	0	0
-988	N/A	singleton	0	1	TNL	T	0	0	0
-989	4	singleton	0	1	TNL	TNL	0	0	0
-990	57	singleton	0	1	TNL	TNL	0	0	0
-991	90	singleton	0	1	TNL	TL	0	0	0
-992	168	singleton	0	1	NL	NL	0	0	0
-993	163	singleton	0	1	TNL	TNL	0	0	0
-994	71	singleton	0	1	NL	NL	0	0	0
-995	79	singleton	0	1	TNL	TNL	0	0	0
-996	4	singleton	0	1	TNL	TNL	0	0	0
-997	N/A	singleton	0	1	TNL	TN	0	0	0
-998	55	singleton	0	1	RNL	RN	0	0	0
-999	3	singleton	0	1	CNL	CNL	0	0	0
-1000	253	singleton	0	1	TNL	TNL	0	0	0
-1001	N/A	singleton	0	1	NL	N	0	0	0
-1002	23	singleton	0	1	TNL	TNL	0	0	0
-1003	14	singleton	0	1	NL	N	0	0	0
-1004	29	singleton	0	1	TNL	T	0	0	0
-1005	6	singleton	0	1	CNL	CN	0	0	0
-1006	11	singleton	0	1	TNL	T	0	0	0
-1007	176	singleton	0	1	TNL	TNL	0	0	0
-1008	135	singleton	0	1	NL	N	0	0	0
-1009	47	singleton	0	1	TNL	TN	0	1	0
-1010	4	singleton	0	1	TNL	TNL	0	0	0
-1011	190	singleton	0	1	TNL	TL	0	0	0
-1012	10	singleton	0	1	TNL	TNL	0	0	0
-1013	76	singleton	0	1	NL	N	0	0	0
-1014	2	singleton	0	1	RNL	R	0	0	0
-1015	6	singleton	0	1	CNL	CN	0	0	0
-1016	N/A	singleton	0	1	RNL	R	0	0	0
-1017	46	singleton	0	1	TNL	TNL	0	0	0
-1018	105	singleton	0	1	TNL	TNL	0	0	0
-1019	N/A	singleton	0	1	NL	NL	0	0	0
-1020	244	singleton	0	1	CNL	CN	0	0	0
-1021	3	singleton	0	1	CNL	CNL	0	1	0
-1022	2	singleton	0	1	RNL	R	0	0	0
-1023	247	singleton	0	1	RNL	R	0	0	0
-1024	11	singleton	0	1	TNL	T	0	0	0
-1025	N/A	singleton	0	1	RNL	R	0	0	0
-1026	1	singleton	0	1	TNL	TNL	0	0	0
-1027	212	singleton	0	1	TNL	TN	0	0	0
-1028	74	singleton	0	1	NL	NL	0	0	0
-1029	165	singleton	0	1	TNL	TNL	0	0	0
-1030	2	singleton	0	1	RNL	R	0	0	0
-1031	181	singleton	0	1	TNL	TNL	0	0	0
-1032	2	singleton	0	1	RNL	R	0	0	0
-1033	1	singleton	0	1	TNL	TNL	0	0	0
-1034	124	singleton	0	1	TNL	T	0	0	0
-1035	102	singleton	0	1	NL	N	0	0	0
-1036	N/A	singleton	0	1	CNL	CN	0	0	0
-1037	N/A	singleton	0	1	TNL	T	0	0	0
-1038	N/A	singleton	0	1	TNL	TNL	0	0	0
-1039	N/A	singleton	0	1	TNL	T	0	0	0
-1040	1	singleton	0	1	TNL	TNL	0	0	0
-1041	N/A	singleton	0	1	NL	N	0	0	0
-1042	74	singleton	0	1	TNL	TNL	0	0	0
-1043	163	singleton	0	1	TNL	TNL	0	0	0
-1044	N/A	singleton	0	1	NL	N	0	0	0
-1045	11	singleton	0	1	TNL	T	0	0	0
-1046	148	singleton	0	1	TNL	T	0	0	0
-1047	172	singleton	0	1	NL	N	0	0	0
-1048	17	singleton	0	1	NL	NL	0	0	0
-1049	224	singleton	0	1	TNL	TNL	0	0	0
-1050	N/A	singleton	0	1	NL	N	0	0	0
-1051	2	singleton	0	1	RNL	R	0	0	0
-1052	243	singleton	0	1	TNL	TN	0	1	0
-1053	N/A	singleton	0	1	NL	N	0	0	0
-1054	147	singleton	0	1	TNL	TN	0	1	0
-1055	3	singleton	0	1	CNL	CNL	0	0	0
-1056	209	singleton	0	1	CNL	CN	0	0	0
-1057	6	singleton	0	1	CNL	CN	0	0	0
-1058	163	singleton	0	1	TNL	TNL	0	0	0
-1059	6	singleton	0	1	CNL	CN	0	0	0
-1060	N/A	singleton	0	1	TNL	T	0	0	0
-1061	2	singleton	0	1	RNL	R	0	0	0
-1062	90	singleton	0	1	TNL	TNL	0	0	0
-1063	44	singleton	0	1	TNL	TNL	0	0	0
-1064	101	singleton	0	1	NL	N	0	0	0
-1065	N/A	singleton	0	1	NL	N	0	0	0
-1066	49	singleton	0	1	CNL	CNX	0	1	1
-1067	13	singleton	0	1	TNL	TN	0	1	0
-1068	N/A	singleton	0	1	NL	NL	0	0	0
-1069	N/A	singleton	0	1	TNL	TN	0	0	0
-1070	143	singleton	0	1	NL	NL	0	0	0
-1071	322	singleton	0	1	TNL	T	0	0	0
-1072	168	singleton	0	1	CNL	CN	0	0	0
-1073	7	singleton	0	1	CNL	CNL	0	0	0
-1074	135	singleton	0	1	NL	N	0	0	0
-1075	307	singleton	0	1	TNL	T	0	0	0
-1076	29	singleton	0	1	TNL	T	0	0	0
-1077	N/A	singleton	0	1	TNL	T	0	0	0
-1078	2	singleton	0	1	RNL	R	0	0	0
-1079	5	singleton	0	1	TNL	TNL	0	0	0
-1080	29	singleton	0	1	TNL	T	0	0	0
-1081	N/A	singleton	0	1	TNL	T	0	0	0
-1082	278	singleton	0	1	TNL	TNL	0	0	0
-1083	180	singleton	0	1	TNL	TNL	0	0	0
-1084	115	singleton	0	1	NL	N	0	0	0
-1085	138	singleton	0	1	NL	NL	0	0	0
-1086	11	singleton	0	1	TNL	T	0	0	0
-1087	5	singleton	0	1	TNL	TNL	0	0	0
-1088	156	singleton	0	1	CNL	CN	0	0	0
-1089	253	singleton	0	1	TNL	TNL	0	0	0
-1090	2	singleton	0	1	RNL	R	0	0	0
-1092	170	singleton	0	1	TNL	TN	0	0	0
-1093	202	singleton	0	1	TNL	T	0	0	0
-1094	N/A	singleton	0	1	TNL	TL	0	0	0
-1095	N/A	singleton	0	1	TNL	TN	0	0	0
-1096	2	singleton	0	1	RNL	R	0	0	0
-1097	N/A	singleton	0	1	TNL	T	0	0	0
-1098	233	singleton	0	1	TNL	TL	0	0	0
-1099	34	singleton	0	1	NL	N	0	0	0
-1100	2	singleton	0	1	RNL	R	0	0	0
-1101	44	singleton	0	1	TNL	TNL	0	0	0
-1102	8	singleton	0	1	CNL	CN	0	0	0
-1103	163	singleton	0	1	TNL	TNL	0	0	0
-1104	119	singleton	0	1	TNL	T	0	0	0
-1105	N/A	singleton	0	1	NL	NL	0	0	0
-1106	36	singleton	0	1	TNL	TNL	0	0	0
-1107	76	singleton	0	1	NL	N	0	0	0
-1108	N/A	singleton	0	1	NL	N	0	0	0
-1109	7	singleton	0	1	CNL	CNL	0	0	0
-1110	268	singleton	0	1	CNL	CNL	0	0	0
-1111	7	singleton	0	1	CNL	CNL	0	0	0
-1112	N/A	singleton	0	1	TNL	T	0	0	0
-1113	134	singleton	0	1	CNL	CNL	0	0	0
-1114	199	singleton	0	1	TNL	TX	0	0	1
-1115	11	singleton	0	1	TNL	T	0	0	0
-1116	324	singleton	0	1	NL	N	0	0	0
-1117	150	singleton	0	1	TNL	T	0	0	0
-1118	65	singleton	0	1	NL	N	0	0	0
-1119	94	singleton	0	1	NL	NL	1	0	0
-1120	192	singleton	0	1	TNL	TX	0	0	1
-1121	108	singleton	0	1	RNL	R	0	0	0
-1122	11	singleton	0	1	TNL	T	0	0	0
-1123	188	singleton	0	1	CNL	CN	0	0	0
-1124	N/A	singleton	0	1	NL	NX	1	0	1
-1125	N/A	singleton	0	1	CNL	CN	0	0	0
-1126	50	singleton	0	1	TNL	TN	0	0	0
-1127	142	singleton	0	1	NL	NL	0	0	0
-1128	N/A	singleton	0	1	TNL	T	0	0	0
-1129	N/A	singleton	0	1	TNL	T	0	0	0
-1130	155	singleton	0	1	TNL	TN	0	0	0
-1131	45	singleton	0	1	TNL	T	0	0	0
-1132	124	singleton	0	1	TNL	T	0	0	0
-1133	151	singleton	0	1	RNL	R	0	0	0
-1134	170	singleton	0	1	TNL	TNL	0	0	0
-1135	163	singleton	0	1	TNL	TN	0	0	0
-1136	4	singleton	0	1	TNL	TNL	0	0	0
-1137	78	singleton	0	1	NL	NL	0	0	0
-1138	134	singleton	0	1	NL	N	0	0	0
-1139	119	singleton	0	1	TNL	T	0	0	0
-1140	165	singleton	0	1	TNL	TNL	0	0	0
-1141	234	singleton	0	1	NL	NL	0	0	0
-1142	1	singleton	0	1	TNL	TNL	0	0	0
-1143	125	singleton	0	1	NL	NL	0	0	0
-1144	184	singleton	0	1	NL	NL	0	0	0
-1145	N/A	singleton	0	1	TNL	TNL	0	0	0
-1146	4	singleton	0	1	NL	NL	0	0	0
-1147	N/A	singleton	0	1	NL	NL	0	0	0
-1148	68	singleton	0	1	CNL	CN	0	0	0
-1149	61	singleton	0	1	NL	N	0	0	0
-1150	151	singleton	0	1	RNL	R	0	0	0
-1151	4	singleton	0	1	TNL	TNL	0	0	0
-1152	N/A	singleton	0	1	TNL	TN	0	0	0
-1153	133	singleton	0	1	NL	NL	0	0	0
-1154	253	singleton	0	1	TNL	TNL	0	0	0
-1155	165	singleton	0	1	TNL	TN	0	0	0
-1156	N/A	singleton	0	1	TNL	T	0	0	0
-1157	147	singleton	0	1	NL	N	0	0	0
-1158	109	singleton	0	1	CNL	CNL	0	0	0
-1159	7	singleton	0	1	CNL	CNL	0	0	0
-1160	176	singleton	0	1	TNL	TNL	0	0	0
-1161	N/A	singleton	0	1	RNL	R	0	0	0
-1162	N/A	singleton	0	1	TNL	TN	0	1	0
-1163	34	singleton	0	1	NL	N	0	0	0
-1164	14	singleton	0	1	CNL	CN	0	0	0
-1165	88	singleton	0	1	NL	NL	0	0	0
-1166	97	singleton	0	1	CNL	CNL	0	0	0
-1167	97	singleton	0	1	CNL	CNL	0	0	0
-1168	146	singleton	0	1	TNL	TN	0	0	0
-1169	46	singleton	0	1	TNL	TNL	0	0	0
-1170	N/A	singleton	0	1	CNL	CNL	0	0	0
-1171	N/A	singleton	0	1	TNL	TNL	0	0	0
-1172	1	singleton	0	1	TNL	TNL	0	0	0
-1173	43	singleton	0	1	NL	NLX	1	0	1
-1174	122	singleton	0	1	TNL	T	0	0	0
-1175	85	singleton	0	1	NL	NL	0	0	0
-1176	66	singleton	0	1	CNL	CNL	0	0	0
-1177	89	singleton	0	1	NL	NL	0	0	0
-1178	96	singleton	0	1	TNL	TNL	0	0	0
-1179	3	singleton	0	1	CNL	CNL	0	0	0
-1180	7	singleton	0	1	CNL	CNL	0	0	0
-1181	47	singleton	0	1	NL	N	0	0	0
-1182	154	singleton	0	1	TNL	TNX	0	0	1
-1183	102	singleton	0	1	TNL	TN	0	0	0
-1184	N/A	singleton	0	1	TNL	TN	0	0	0
-1185	134	singleton	0	1	CNL	CNL	0	0	0
-1186	99	singleton	0	1	NL	NL	0	0	0
-1187	4	singleton	0	1	TNL	TNL	0	0	0
-1188	32	singleton	0	1	NL	N	0	0	0
-1189	166	singleton	0	1	NL	NL	0	0	0
-1190	6	singleton	0	1	CNL	CN	0	0	0
-1191	2	singleton	0	1	RNL	R	0	0	0
-1192	N/A	singleton	0	1	NL	N	0	0	0
-1193	55	singleton	0	1	RNL	RN	0	0	0
-1194	145	singleton	0	1	TNL	TN	0	0	0
-1195	103	singleton	0	1	NL	N	0	0	0
-1196	11	singleton	0	1	TNL	T	0	0	0
-1197	5	singleton	0	1	NL	NL	0	0	0
-1198	194	singleton	0	1	TNL	T	0	0	0
-1199	248	singleton	0	1	TNL	T	0	0	0
-1200	150	singleton	0	1	TNL	T	0	0	0
-1201	94	singleton	0	1	NL	NLX	1	0	1
-1202	96	singleton	0	1	TNL	TNL	0	1	0
-1203	93	singleton	0	1	NL	N	0	1	0
-1204	N/A	singleton	0	1	NL	N	0	0	0
-1205	N/A	singleton	0	1	NL	NL	0	0	0
-1206	76	singleton	0	1	NL	N	0	0	0
-1207	N/A	singleton	0	1	RNL	R	0	0	0
-1208	N/A	singleton	0	1	CNL	CN	0	0	0
-1209	N/A	singleton	0	1	CNL	CN	0	1	0
-1210	102	singleton	0	1	NL	N	0	0	0
-1211	221	singleton	0	1	TNL	TNL	0	0	0
-1212	206	singleton	0	1	TNL	TNL	0	0	0
-1213	N/A	singleton	0	1	TNL	TNL	0	0	0
-1214	201	singleton	0	1	TNL	TNL	0	1	0
-1215	124	singleton	0	1	TNL	T	0	0	0
-1216	8	singleton	0	1	CNL	CN	0	1	0
-1217	112	singleton	0	1	TNL	TNL	0	1	0
-1218	2	singleton	0	1	RNL	R	0	0	0
-1219	26	singleton	0	1	TNL	TN	1	0	0
-1220	18	singleton	0	1	TNL	TL	1	0	0
-1221	N/A	singleton	0	1	NL	N	0	0	0
-1222	81	singleton	0	1	TNL	TNL	0	1	0
-1223	N/A	singleton	0	1	NL	N	0	0	0
-1224	71	singleton	0	1	TNL	TN	0	0	0
-1225	131	singleton	0	1	TNL	T	0	0	0
-1226	11	singleton	0	1	TNL	T	0	0	0
-1227	56	singleton	0	1	CNL	CNX	0	0	1
-1228	N/A	singleton	0	1	NL	N	0	0	0
-1229	30	singleton	0	1	TNL	TNL	0	0	0
-1230	134	singleton	0	1	CNL	CNL	0	0	0
-1231	45	singleton	0	1	TNL	T	0	0	0
-1232	2	singleton	0	1	RNL	R	0	0	0
-1233	118	singleton	0	1	TNL	T	0	0	0
-1234	N/A	singleton	0	1	NL	N	0	0	0
-1235	25	singleton	0	1	NL	N	0	1	0
-1236	184	singleton	0	1	TNL	TNL	0	0	0
-1237	N/A	singleton	0	1	TNL	T	0	0	0
-1238	14	singleton	0	1	NL	N	0	0	0
-1239	18	singleton	0	1	TNL	TNL	1	0	0
-1240	137	singleton	0	1	TNL	TN	0	0	0
-1241	268	singleton	0	1	CNL	CNL	0	0	0
-1242	79	singleton	0	1	TNL	TNL	0	0	0
-1243	N/A	singleton	0	1	TNL	T	0	0	0
-1244	46	singleton	0	1	TNL	TN	0	0	0
-1245	144	singleton	0	1	TNL	T	0	0	0
-1246	N/A	singleton	0	1	TNL	T	0	0	0
-1247	2	singleton	0	1	RNL	R	0	0	0
-1248	120	singleton	0	1	TNL	TN	0	0	0
-1249	N/A	singleton	0	1	CNL	CN	0	0	0
-1250	134	singleton	0	1	NL	N	0	0	0
-1251	8	singleton	0	1	NL	NL	0	0	0
-1252	132	singleton	0	1	TNL	T	0	0	0
-1253	N/A	singleton	0	1	TNL	TNL	0	0	0
-1254	76	singleton	0	1	NL	N	0	0	0
-1255	2	singleton	0	1	RNL	R	0	0	0
-1256	3	singleton	0	1	CNL	CNL	0	0	0
-1257	27	singleton	0	1	NL	N	0	0	0
-1258	96	singleton	0	1	TNL	TNL	0	0	0
-1259	77	singleton	0	1	TNL	TNL	0	0	0
-1260	102	singleton	0	1	TNL	TN	0	0	0
-1261	N/A	singleton	0	1	TNL	T	0	0	0
-1262	181	singleton	0	1	TNL	TNL	0	0	0
-1263	1	singleton	0	1	TNL	TNL	0	0	0
-1264	99	singleton	0	1	TNL	TNL	0	0	0
-1265	36	singleton	0	1	TNL	TNL	0	0	0
-1266	257	singleton	0	1	TNL	TN	0	0	0
-1267	10	singleton	0	1	TNL	TNL	0	0	0
-1268	181	singleton	0	1	TNL	TNL	0	0	0
-1269	3	singleton	0	1	CNL	CNL	0	0	0
-1270	2	singleton	0	1	RNL	R	0	0	0
-1271	2	singleton	0	1	RNL	R	0	0	0
-1272	N/A	singleton	0	1	NL	N	0	0	0
-1273	120	singleton	0	1	TNL	TNL	0	0	0
-1274	186	singleton	0	1	NL	N	0	0	0
-1275	N/A	singleton	0	1	CNL	CNL	0	0	0
-1276	10	singleton	0	1	TNL	TNL	0	0	0
-1278	103	singleton	0	1	NL	N	0	0	0
-1279	3	singleton	0	1	CNL	CNL	0	0	0
-1280	12	singleton	0	1	NL	N	0	0	0
-1281	4	singleton	0	1	TNL	TNL	0	0	0
-1282	96	singleton	0	1	TNL	TNL	1	0	0
-1283	N/A	singleton	0	1	TNL	T	0	0	0
-1284	77	singleton	0	1	TNL	TNL	0	0	0
-1285	15	singleton	0	1	NL	N	0	0	0
-1286	11	singleton	0	1	TNL	T	0	0	0
-1287	13	singleton	0	1	TNL	TN	0	1	0
-1288	N/A	singleton	0	1	TNL	T	0	0	0
-1289	4	singleton	0	1	TNL	TNL	0	0	0
-1290	2	singleton	0	1	RNL	R	0	0	0
-1291	324	singleton	0	1	NL	N	0	0	0
-1292	187	singleton	0	1	CNL	CNL	0	0	0
-1293	151	singleton	0	1	RNL	R	0	0	0
-1294	3	singleton	0	1	NL	NL	0	0	0
-1295	252	singleton	0	1	CNL	CN	0	0	0
-1296	13	singleton	0	1	TNL	TN	0	0	0
-1297	134	singleton	0	1	NL	NL	0	0	0
-1298	6	singleton	0	1	CNL	CN	0	0	0
-1299	1	singleton	0	1	TNL	TNL	0	0	0
-1300	111	singleton	0	1	TNL	TN	0	0	0
-1301	166	singleton	0	1	NL	NL	0	0	0
-1302	N/A	singleton	0	1	RNL	R	0	0	0
-1303	238	singleton	0	1	NL	NL	0	0	0
-1304	179	singleton	0	1	TNL	TNL	0	0	0
-1305	6	singleton	0	1	CNL	CN	0	0	0
-1306	138	singleton	0	1	TNL	TNL	0	0	0
-1307	94	singleton	0	1	NL	NL	1	0	0
-1308	171	singleton	0	1	TNL	TN	0	1	0
-1309	132	singleton	0	1	TNL	T	0	0	0
-1310	10	singleton	0	1	NL	NL	0	0	0
-1311	228	singleton	0	1	CNL	CN	0	0	0
-1312	2	singleton	0	1	RNL	R	0	0	0
-1313	4	singleton	0	1	TNL	TNL	0	0	0
-1314	1	singleton	0	1	TNL	TNL	0	0	0
-1315	179	singleton	0	1	TNL	TNL	0	0	0
-1316	91	singleton	0	1	TNL	TN	0	0	0
-1317	135	singleton	0	1	NL	N	0	0	0
-1318	2	singleton	0	1	RNL	R	0	0	0
-1319	12	singleton	0	1	CNL	CN	0	0	0
-1320	N/A	singleton	0	1	TNL	T	0	0	0
-1321	15	singleton	0	1	NL	N	0	0	0
-1322	126	singleton	0	1	NL	N	0	0	0
-1323	151	singleton	0	1	RNL	R	0	0	0
-1324	120	singleton	0	1	TNL	TNL	0	0	0
-1325	6	singleton	0	1	CNL	CN	0	0	0
-1326	225	singleton	0	1	TNL	TN	0	0	0
-1327	115	singleton	0	1	NL	N	0	0	0
-1328	N/A	singleton	0	1	NL	N	0	0	0
-1329	N/A	singleton	0	1	TNL	TN	0	0	0
-1330	16	singleton	0	1	TNL	TNL	0	0	0
-1331	109	singleton	0	1	NL	N	0	0	0
-1332	N/A	singleton	0	1	TNL	TN	0	0	0
-1333	274	singleton	0	1	NL	N	0	0	0
-1334	169	singleton	0	1	TNL	TX	0	0	1
-1335	9	singleton	0	1	NL	N	0	0	0
-1336	165	singleton	0	1	TNL	TNL	0	0	0
-1337	254	singleton	0	1	NL	NL	0	0	0
-1338	234	singleton	0	1	TNL	TNL	0	0	0
-1339	4	singleton	0	1	NL	NL	0	0	0
-1340	278	singleton	0	1	TNL	TNL	0	0	0
-1341	32	singleton	0	1	RNL	RN	0	0	0
-1342	3	singleton	0	1	CNL	CNL	0	0	0
-1343	63	singleton	0	1	TNL	TNL	0	0	0
-1344	168	singleton	0	1	CNL	CNL	0	0	0
-1345	176	singleton	0	1	TNL	TNL	0	0	0
-1346	N/A	singleton	0	1	NL	N	0	0	0
-1347	5	singleton	0	1	TNL	TNL	0	0	0
-1348	3	singleton	0	1	CNL	CNL	0	0	0
-1349	164	singleton	0	1	TNL	TN	0	0	0
-1350	132	singleton	0	1	TNL	T	0	0	0
-1351	73	singleton	0	1	TNL	TNL	0	0	0
-1352	N/A	singleton	0	1	TNL	T	0	0	0
-1353	N/A	singleton	0	1	TNL	TN	0	0	0
-1354	175	singleton	0	1	TNL	TNL	0	0	0
-1355	11	singleton	0	1	TNL	T	0	0	0
-1356	205	singleton	0	1	TNL	TNL	0	1	0
-1357	2	singleton	0	1	RNL	R	0	0	0
-1358	238	singleton	0	1	NL	NL	0	0	0
-1359	216	singleton	0	1	TNL	TNL	0	0	0
-1360	176	singleton	0	1	TNL	TNL	0	0	0
-1361	18	singleton	0	1	TNL	TNL	1	0	0
-1362	230	singleton	0	1	TNL	TN	0	0	0
-1363	76	singleton	0	1	NL	N	0	0	0
-1364	5	singleton	0	1	TNL	TN	0	0	0
-1365	6	singleton	0	1	NL	N	0	0	0
-1366	89	singleton	0	1	TNL	TNLX	0	0	1
-1367	11	singleton	0	1	TNL	T	0	0	0
-1368	11	singleton	0	1	TNL	T	0	0	0
-1369	135	singleton	0	1	NL	N	0	0	0
-1370	56	singleton	0	1	CNL	CN	0	0	0
-1371	159	singleton	0	1	TNL	TNL	0	0	0
-1372	N/A	singleton	0	1	NL	NL	0	0	0
-1373	11	singleton	0	1	TNL	T	0	0	0
-1374	209	singleton	0	1	CNL	CN	0	0	0
-1375	188	singleton	0	1	NL	N	0	0	0
-1376	7	singleton	0	1	CNL	CNL	0	0	0
-1377	N/A	singleton	0	1	CNL	CNL	0	0	0
-1378	134	singleton	0	1	CNL	CNL	0	0	0
-1379	2	singleton	0	1	RNL	R	0	0	0
-1380	135	singleton	0	1	NL	N	0	0	0
-1381	154	singleton	0	1	TNL	TNX	0	0	1
-1382	63	singleton	0	1	NL	NL	0	0	0
-1383	112	singleton	0	1	TNL	TNL	0	0	0
-1384	92	singleton	0	1	TNL	TNL	0	0	0
-1385	15	singleton	0	1	NL	N	0	0	0
-1386	102	singleton	0	1	TNL	TN	0	0	0
-1387	34	singleton	0	1	TNL	TN	0	0	0
-1388	6	singleton	0	1	CNL	CN	0	0	0
-1389	76	singleton	0	1	NL	N	0	0	0
-1390	N/A	singleton	0	1	NL	N	0	0	0
-1391	N/A	singleton	0	1	NL	NL	0	0	0
-1392	170	singleton	0	1	TNL	TNL	0	0	0
-1393	151	singleton	0	1	RNL	R	0	0	0
-1394	N/A	singleton	0	1	TNL	TN	0	0	0
-1395	134	singleton	0	1	CNL	CN	0	0	0
-1396	199	singleton	0	1	TNL	TX	0	0	1
-1397	23	singleton	0	1	TNL	TNL	0	0	0
-1398	32	singleton	0	1	RNL	RN	0	0	0
-1399	64	singleton	0	1	TNL	TNL	0	0	0
-1400	2	singleton	0	1	RNL	R	0	0	0
-1401	262	singleton	0	1	TNL	T	0	0	0
-1402	N/A	singleton	0	1	TNL	T	0	0	0
-1403	10	singleton	0	1	TNL	TNL	0	0	0
-1404	177	singleton	0	1	TNL	T	0	0	0
-1405	N/A	singleton	0	1	TNL	T	0	1	0
-1406	1	singleton	0	1	TNL	TNL	0	0	0
-1407	167	singleton	0	1	TNL	T	0	0	0
-1408	9	singleton	0	1	NL	N	0	0	0
-1409	95	singleton	0	1	TNL	TX	0	0	1
-1410	135	singleton	0	1	NL	N	0	0	0
-1411	165	singleton	0	1	TNL	TNL	0	0	0
-1412	151	singleton	0	1	RNL	R	0	0	0
-1413	206	singleton	0	1	TNL	TNL	0	0	0
-1414	1	singleton	0	1	TNL	TNL	0	0	0
-1415	145	singleton	0	1	NL	N	0	0	0
-1416	3	singleton	0	1	CNL	CNL	0	0	0
-1417	N/A	singleton	0	1	TNL	T	0	0	0
-1418	21	singleton	0	1	TNL	TNL	0	0	0
-1419	174	singleton	0	1	TNL	TNL	0	0	0
-1420	179	singleton	0	1	TNL	TNL	0	0	0
-1421	29	singleton	0	1	TNL	T	0	0	0
-1422	N/A	singleton	0	1	NL	NL	0	0	0
-1423	102	singleton	0	1	TNL	TN	0	0	0
-1424	22	singleton	0	1	NL	N	0	1	0
-1425	228	singleton	0	1	CNL	CN	0	0	0
-1426	131	singleton	0	1	TNL	T	0	0	0
-1427	262	singleton	0	1	TNL	T	0	0	0
-1428	212	singleton	0	1	TNL	TN	0	0	0
-1429	21	singleton	0	1	TNL	TL	0	0	0
-1430	10	singleton	0	1	TNL	TNL	0	0	0
-1431	4	singleton	0	1	TNL	TNL	0	0	0
-1432	34	singleton	0	1	TNL	TN	0	0	0
-1433	80	singleton	0	1	NL	NL	1	0	0
-1434	30	singleton	0	1	TNL	TNL	0	0	0
-1435	160	singleton	0	1	TNL	TNL	0	0	0
-1436	1	singleton	0	1	TNL	TNL	0	0	0
-1437	N/A	singleton	0	1	TNL	T	0	0	0
-1438	139	singleton	0	1	NL	N	0	0	0
-1439	N/A	singleton	0	1	TNL	TN	0	0	0
-1440	262	singleton	0	1	TNL	T	0	0	0
-1441	8	singleton	0	1	CNL	CN	0	0	0
-1442	17	singleton	0	1	NL	N	0	0	0
-1443	193	singleton	0	1	NL	N	0	0	0
-1444	4	singleton	0	1	TNL	TNL	0	0	0
-1445	46	singleton	0	1	TNL	TNL	0	0	0
-1446	134	singleton	0	1	CNL	CNL	0	0	0
-1447	117	singleton	0	1	RNL	RNX	0	0	1
-1448	7	singleton	0	1	CNL	CNL	0	0	0
-1449	12	singleton	0	1	NL	N	0	0	0
-1450	N/A	singleton	0	1	TNL	TN	0	0	0
-1451	34	singleton	0	1	TNL	TN	0	0	0
-1452	28	singleton	0	1	TNL	TNL	0	0	0
-1453	N/A	singleton	0	1	NL	N	0	0	0
-1454	72	singleton	0	1	NL	N	0	0	0
-1455	184	singleton	0	1	TNL	TNL	0	0	0
-1456	250	singleton	0	1	NL	N	0	0	0
-1457	79	singleton	0	1	TNL	TNLX	0	0	1
-1458	43	singleton	0	1	NL	NLX	1	0	1
-1459	228	singleton	0	1	CNL	CN	0	0	0
-1460	69	singleton	0	1	TNL	TNL	0	0	0
-1461	N/A	singleton	0	1	NL	N	0	0	0
-1462	102	singleton	0	1	NL	NL	0	0	0
-1463	N/A	singleton	0	1	TNL	T	0	0	0
-1464	118	singleton	0	1	TNL	T	0	0	0
-1465	16	singleton	0	1	TNL	TNL	0	0	0
-1466	135	singleton	0	1	NL	N	0	0	0
-1467	7	singleton	0	1	CNL	CN	0	0	0
-1468	167	singleton	0	1	TNL	T	0	0	0
-1469	N/A	singleton	0	1	TNL	T	0	0	0
-1470	76	singleton	0	1	NL	N	0	0	0
-1471	108	singleton	0	1	RNL	R	0	0	0
-1472	131	singleton	0	1	TNL	T	0	0	0
-1473	186	singleton	0	1	NL	N	0	0	0
-1474	7	singleton	0	1	CNL	CNL	0	0	0
-1475	N/A	singleton	0	1	NL	N	0	0	0
-1476	16	singleton	0	1	TNL	TNL	0	0	0
-1477	176	singleton	0	1	TNL	TNL	0	0	0
-1478	81	singleton	0	1	TNL	TNL	0	1	0
-1479	N/A	singleton	0	1	TNL	TN	0	0	0
-1481	8	singleton	0	1	CNL	CNL	0	0	0
-1482	12	singleton	0	1	NL	N	0	0	0
-1483	4	singleton	0	1	NL	NL	0	0	0
-1484	N/A	singleton	0	1	TNL	TN	0	0	0
-1485	176	singleton	0	1	TNL	TNL	0	0	0
-1486	14	singleton	0	1	NL	N	0	0	0
-1487	71	singleton	0	1	TNL	TNL	0	0	0
-1488	259	singleton	0	1	TNL	T	0	0	0
-1489	N/A	singleton	0	1	TNL	T	0	0	0
-1490	179	singleton	0	1	TNL	TNL	0	0	0
-1491	14	singleton	0	1	NL	N	0	0	0
-1492	180	singleton	0	1	TNL	TNL	0	0	0
-1493	N/A	singleton	0	1	TNL	T	0	0	0
-1494	39	singleton	0	1	TNL	TNL	0	0	0
-1495	48	singleton	0	1	NL	NL	0	0	0
-1496	101	singleton	0	1	NL	N	0	0	0
-1497	128	singleton	0	1	TNL	TNL	0	0	0
-1498	38	singleton	0	1	TNL	TN	0	0	0
-1499	228	singleton	0	1	CNL	CN	0	0	0
-1500	N/A	singleton	0	1	NL	NL	0	0	0
-1501	57	singleton	0	1	NL	NL	0	0	0
-1502	149	singleton	0	1	TNL	TNL	0	0	0
-1503	72	singleton	0	1	NL	N	0	0	0
-1504	N/A	singleton	0	1	TNL	TN	0	0	0
-1505	74	singleton	0	1	TNL	TNL	0	0	0
-1506	176	singleton	0	1	TNL	TNL	0	0	0
-1507	151	singleton	0	1	RNL	R	0	0	0
-1508	116	singleton	0	1	RNL	R	0	0	0
-1509	N/A	singleton	0	1	TNL	T	0	0	0
-1510	11	singleton	0	1	TNL	T	0	0	0
-1511	118	singleton	0	1	TNL	T	0	0	0
-1512	163	singleton	0	1	TNL	TNL	0	0	0
-1513	234	singleton	0	1	NL	N	0	0	0
-1514	85	singleton	0	1	NL	NL	0	0	0
-1516	153	singleton	0	1	TNL	TN	0	1	0
-1517	119	singleton	0	1	TNL	T	0	0	0
-1518	129	singleton	0	1	RNL	R	0	0	0
-1519	N/A	singleton	0	1	TNL	T	0	0	0
-1520	30	singleton	0	1	TNL	TNL	0	0	0
-1521	1	singleton	0	1	TNL	TNL	0	0	0
-1522	83	singleton	0	1	NL	NL	0	0	0
-1523	4	singleton	0	1	TNL	TNL	0	0	0
-1524	85	singleton	0	1	TNL	TNL	0	0	0
-1525	12	singleton	0	1	CNL	CN	0	0	0
-1526	18	singleton	0	1	TNL	TN	0	0	0
-1527	11	singleton	0	1	TNL	T	0	0	0
-1528	41	singleton	0	1	TNL	TNLX	1	0	1
-1529	45	singleton	0	1	TNL	T	0	0	0
-1530	14	singleton	0	1	CNL	CN	0	0	0
-1531	10	singleton	0	1	TNL	TNL	0	0	0
-1532	56	singleton	0	1	CNL	CN	0	0	0
-1533	N/A	singleton	0	1	TNL	T	0	0	0
-1534	1	singleton	0	1	TNL	TNL	0	0	0
-1535	44	singleton	0	1	TNL	TNL	0	0	0
-1536	148	singleton	0	1	TNL	T	0	1	0
-1537	1	singleton	0	1	TNL	TNL	0	0	0
-1538	65	singleton	0	1	NL	N	0	0	0
-1539	N/A	singleton	0	1	NL	N	0	0	0
-1540	45	singleton	0	1	TNL	T	0	0	0
-1541	79	singleton	0	1	TNL	TNL	0	0	0
-1542	N/A	singleton	0	1	NL	NL	0	0	0
-1543	120	singleton	0	1	NL	NL	0	0	0
-1544	N/A	singleton	0	1	TNL	T	0	1	0
-1545	234	singleton	0	1	NL	NL	0	0	0
-1546	16	singleton	0	1	TNL	TNL	0	0	0
-1547	282	singleton	0	1	CNL	CNL	0	0	0
-1548	55	singleton	0	1	RNL	RN	0	0	0
-1549	N/A	singleton	0	1	NL	N	0	0	0
-1550	2	singleton	0	1	RNL	R	0	0	0
-1551	120	singleton	0	1	TNL	TN	0	0	0
-1552	2	singleton	0	1	RNL	R	0	0	0
-1553	N/A	singleton	0	1	NL	N	0	0	0
-1554	7	singleton	0	1	CNL	CNL	0	0	0
-1555	180	singleton	0	1	TNL	TN	0	0	0
-1556	60	singleton	0	1	NL	NL	0	0	0
-1557	6	singleton	0	1	CNL	CN	0	0	0
-1558	163	singleton	0	1	TNL	TNL	0	0	0
-1559	98	singleton	0	1	TNL	T	0	0	0
-1560	157	singleton	0	1	TNL	TN	0	0	0
-1561	271	singleton	0	1	CNL	CNL	0	0	0
-1562	102	singleton	0	1	TNL	TN	0	0	0
-1563	N/A	singleton	0	1	CNL	CN	0	0	0
-1564	128	singleton	0	1	TNL	TNL	0	0	0
-1565	N/A	singleton	0	1	CNL	CN	0	0	0
-1566	2	singleton	0	1	RNL	R	0	0	0
-1567	22	singleton	0	1	NL	N	0	1	0
-1568	45	singleton	0	1	TNL	T	0	0	0
-1569	3	singleton	0	1	CNL	CNL	0	0	0
-1570	85	singleton	0	1	TNL	TNL	0	1	0
-1571	3	singleton	0	1	CNL	CNL	0	0	0
-1572	40	singleton	0	1	TNL	TNL	0	0	0
-1573	72	singleton	0	1	NL	N	0	0	0
-1574	138	singleton	0	1	TNL	TNL	0	0	0
-1575	8	singleton	0	1	CNL	CN	0	0	0
-1576	143	singleton	0	1	TNL	TNL	0	0	0
-1577	28	singleton	0	1	TNL	TNL	0	0	0
-1578	135	singleton	0	1	NL	N	0	0	0
-1579	4	singleton	0	1	TNL	TNL	0	0	0
-1580	174	singleton	0	1	NL	NL	0	0	0
-1581	N/A	singleton	0	1	RNL	R	0	0	0
-1582	110	singleton	0	1	TNL	TNL	0	1	0
-1583	81	singleton	0	1	TNL	TNL	0	0	0
-1584	29	singleton	0	1	TNL	T	0	0	0
-1585	N/A	singleton	0	1	TNL	TN	0	0	0
-1586	111	singleton	0	1	TNL	T	0	0	0
-1587	226	singleton	0	1	NL	N	0	0	0
-1588	N/A	singleton	0	1	TNL	TNL	0	0	0
-1589	7	singleton	0	1	NL	NL	0	0	0
-1590	11	singleton	0	1	TNL	T	0	0	0
-1591	220	singleton	0	1	TNL	T	0	0	0
-1592	6	singleton	0	1	CNL	CN	0	0	0
-1593	16	singleton	0	1	TNL	TNL	0	0	0
-1594	N/A	singleton	0	1	NL	N	0	0	0
-1595	27	singleton	0	1	NL	N	0	0	0
-1596	15	singleton	0	1	NL	N	0	0	0
-1597	228	singleton	0	1	CNL	CN	0	0	0
-1598	2	singleton	0	1	RNL	R	0	0	0
-1599	253	singleton	0	1	TNL	TNL	0	0	0
-1600	8	singleton	0	1	CNL	CN	0	0	0
-1601	86	singleton	0	1	TNL	T	0	0	0
-1602	69	singleton	0	1	TNL	TNL	0	0	0
-1603	17	singleton	0	1	CNL	CN	0	0	0
-1604	1	singleton	0	1	TNL	TNL	0	0	0
-1605	41	singleton	0	1	TNL	TNLX	1	0	1
-1606	46	singleton	0	1	TNL	TNL	0	0	0
-1607	105	singleton	0	1	TNL	TNL	0	0	0
-1608	N/A	singleton	0	1	TNL	T	0	1	0
-1609	134	singleton	0	1	CNL	CN	0	0	0
-1610	138	singleton	0	1	TNL	TNL	0	0	0
-1611	34	singleton	0	1	TNL	TN	0	0	0
-1612	142	singleton	0	1	TNL	TN	0	0	0
-1613	12	singleton	0	1	NL	N	0	0	0
-1614	137	singleton	0	1	TNL	TNL	0	0	0
-1615	63	singleton	0	1	TNL	TNL	0	0	0
-1616	285	singleton	0	1	TNL	T	0	0	0
-1617	76	singleton	0	1	NL	N	0	0	0
-1618	3	singleton	0	1	CNL	CNL	0	0	0
-1619	108	singleton	0	1	RNL	R	0	0	0
-1620	104	singleton	0	1	NL	N	0	0	0
-1621	N/A	singleton	0	1	TNL	T	0	0	0
-1622	1	singleton	0	1	TNL	TNL	0	0	0
-1623	134	singleton	0	1	CNL	CNL	0	0	0
-1624	13	singleton	0	1	TNL	TN	0	0	0
-1625	22	singleton	0	1	NL	N	0	0	0
-1626	212	singleton	0	1	TNL	TN	0	0	0
-1627	99	singleton	0	1	TNL	TNL	0	0	0
-1628	297	singleton	0	1	TNL	TNL	0	0	0
-1629	74	singleton	0	1	TNL	TNL	0	0	0
-1630	N/A	singleton	0	1	TNL	TL	0	0	0
-1631	161	singleton	0	1	NL	NL	0	0	0
-1632	38	singleton	0	1	TNL	TN	0	0	0
-1633	50	singleton	0	1	TNL	TNL	0	0	0
-1634	49	singleton	0	1	CNL	CNX	0	1	1
-1635	20	singleton	0	1	TNL	TNL	0	0	0
-1636	N/A	singleton	0	1	TNL	T	0	0	0
-1637	N/A	singleton	0	1	NL	N	0	0	0
-1638	31	singleton	0	1	RNL	RCNL	0	0	0
-1639	N/A	singleton	0	1	CNL	CN	0	0	0
-1640	147	singleton	0	1	TNL	TN	0	0	0
-1641	6	singleton	0	1	CNL	CN	0	0	0
-1642	121	singleton	0	1	TNL	T	0	0	0
-1643	2	singleton	0	1	RNL	R	0	0	0
-1644	54	singleton	0	1	NL	N	0	0	0
-1645	87	singleton	0	1	TNL	T	0	0	0
-1646	52	singleton	0	1	TNL	TX	0	0	1
-1647	163	singleton	0	1	TNL	TNL	0	0	0
-1648	64	singleton	0	1	NL	NL	0	0	0
-1649	8	singleton	0	1	CNL	CNL	0	0	0
-1650	61	singleton	0	1	NL	N	0	0	0
-1651	2	singleton	0	1	RNL	R	0	0	0
-1652	11	singleton	0	1	TNL	T	0	0	0
-1653	N/A	singleton	0	1	NL	N	0	0	0
-1654	N/A	singleton	0	1	TNL	T	0	0	0
-1655	61	singleton	0	1	NL	N	0	0	0
-1656	191	singleton	0	1	NL	N	0	0	0
-1657	43	singleton	0	1	NL	NLX	1	0	1
-1658	N/A	singleton	0	1	TNL	TNL	0	0	0
-1659	64	singleton	0	1	TNL	TNL	0	0	0
-1660	70	singleton	0	1	NL	NL	0	0	0
-1661	35	singleton	0	1	NL	N	0	0	0
-1662	73	singleton	0	1	TNL	TNL	0	0	0
-1663	74	singleton	0	1	TNL	TN	0	0	0
-1664	176	singleton	0	1	TNL	TNL	0	0	0
-1665	217	singleton	0	1	NL	N	0	0	0
-1666	4	singleton	0	1	TNL	TNL	0	0	0
-1667	13	singleton	0	1	TNL	TN	0	0	0
-1668	N/A	singleton	0	1	NL	N	0	0	0
-1669	298	singleton	0	1	CNL	CNL	0	0	0
-1670	34	singleton	0	1	TNL	T	0	0	0
-1671	82	singleton	0	1	NL	NL	1	0	0
-1672	90	singleton	0	1	TNL	TNL	0	0	0
-1673	184	singleton	0	1	NL	NL	0	0	0
-1674	96	singleton	0	1	TNL	TNL	1	0	0
-1675	52	singleton	0	1	TNL	T	0	0	0
-1676	157	singleton	0	1	TNL	T	0	0	0
-1677	3	singleton	0	1	CNL	CNL	0	0	0
-1678	7	singleton	0	1	CNL	CNL	0	0	0
-1679	N/A	singleton	0	1	NL	N	0	0	0
-1680	6	singleton	0	1	CNL	CN	0	0	0
-1681	3	singleton	0	1	CNL	CNL	0	0	0
-1682	7	singleton	0	1	CNL	CNL	0	0	0
-1683	163	singleton	0	1	NL	NL	0	0	0
-1684	N/A	singleton	0	1	TNL	TL	0	0	0
-1685	N/A	singleton	0	1	TNL	T	0	0	0
-1686	92	singleton	0	1	TNL	TNL	0	0	0
-1687	146	singleton	0	1	NL	N	0	0	0
-1688	65	singleton	0	1	NL	NL	0	0	0
-1689	6	singleton	0	1	NL	N	0	0	0
-1690	166	singleton	0	1	TNL	TNL	0	0	0
-1691	N/A	singleton	0	1	TNL	T	0	0	0
-1692	N/A	singleton	0	1	TNL	TN	0	0	0
-1693	N/A	singleton	0	1	TNL	T	0	0	0
-1694	5	singleton	0	1	TNL	TNL	0	0	0
-1695	320	singleton	0	1	TNL	TL	0	0	0
-1696	10	singleton	0	1	TNL	TNL	0	0	0
-1697	N/A	singleton	0	1	TNL	T	0	0	0
-1698	N/A	singleton	0	1	TNL	T	0	0	0
-1699	N/A	singleton	0	1	RNL	R	0	0	0
-1700	5	singleton	0	1	TNL	TNL	0	0	0
-1701	N/A	singleton	0	1	TNL	T	0	0	0
-1702	212	singleton	0	1	TNL	TN	0	0	0
-1703	38	singleton	0	1	TNL	TN	0	0	0
-1704	N/A	singleton	0	1	TNL	T	0	0	0
-1705	134	singleton	0	1	CNL	CNL	0	0	0
-1706	90	singleton	0	1	TNL	TNL	0	0	0
-1707	30	singleton	0	1	TNL	TN	0	0	0
-1708	134	singleton	0	1	NL	NL	0	0	0
-1709	124	singleton	0	1	TNL	T	0	0	0
-1710	N/A	singleton	0	1	CNL	CNL	0	0	0
-1711	108	singleton	0	1	RNL	R	0	0	0
-1712	35	singleton	0	1	NL	N	0	0	0
-1713	72	singleton	0	1	NL	N	0	0	0
-1714	N/A	singleton	0	1	NL	N	0	0	0
-1715	123	singleton	0	1	TNL	T	0	0	0
-1716	7	singleton	0	1	CNL	CN	0	0	0
-1717	7	singleton	0	1	CNL	CNL	0	0	0
-1718	165	singleton	0	1	TNL	TNL	0	0	0
-1719	5	singleton	0	1	TNL	TN	0	0	0
-1720	151	singleton	0	1	RNL	R	0	0	0
-1721	11	singleton	0	1	TNL	T	0	0	0
-1722	151	singleton	0	1	RNL	R	0	0	0
-1723	63	singleton	0	1	NL	NL	0	0	0
-1724	17	singleton	0	1	CNL	CN	0	0	0
-1725	55	singleton	0	1	RNL	RN	0	0	0
-1726	201	singleton	0	1	TNL	TN	0	1	0
-1727	15	singleton	0	1	NL	N	0	0	0
-1728	15	singleton	0	1	NL	N	0	0	0
-1729	148	singleton	0	1	TNL	TL	0	1	0
-1730	134	singleton	0	1	NL	NL	0	0	0
-1731	43	singleton	0	1	NL	NLX	1	0	1
-1732	10	singleton	0	1	TNL	TNL	0	0	0
-1733	49	singleton	0	1	CNL	CNX	0	1	1
-1734	39	singleton	0	1	TNL	TNL	0	0	0
-1735	11	singleton	0	1	TNL	T	0	0	0
-1736	176	singleton	0	1	TNL	TNL	0	0	0
-1737	187	singleton	0	1	NL	NL	0	0	0
-1738	76	singleton	0	1	NL	N	0	0	0
-1739	166	singleton	0	1	NL	NL	0	0	0
-1740	58	singleton	0	1	RNL	R	0	0	0
-1741	62	singleton	0	1	TNL	T	0	0	0
-1742	50	singleton	0	1	TNL	TNL	0	0	0
-1743	11	singleton	0	1	TNL	T	0	0	0
-1744	247	singleton	0	1	RNL	R	0	0	0
-1745	6	singleton	0	1	CNL	CN	0	0	0
-1746	11	singleton	0	1	TNL	T	0	0	0
-1747	5	singleton	0	1	TNL	TNL	0	0	0
-1748	1	singleton	0	1	TNL	TNL	0	0	0
-1749	88	singleton	0	1	TNL	TNL	0	0	0
-1750	82	singleton	0	1	NL	NL	0	0	0
-1751	184	singleton	0	1	TNL	TNL	0	0	0
-1752	N/A	singleton	0	1	TNL	T	0	0	0
-1753	2	singleton	0	1	RNL	R	0	0	0
-1754	124	singleton	0	1	TNL	T	0	0	0
-1755	1	singleton	0	1	TNL	TNL	0	0	0
-1756	28	singleton	0	1	TNL	TNL	0	0	0
-1757	111	singleton	0	1	TNL	T	0	0	0
-1758	N/A	singleton	0	1	NL	N	0	0	0
-1759	88	singleton	0	1	NL	NL	0	0	0
-1760	62	singleton	0	1	TNL	T	0	0	0
-1761	88	singleton	0	1	TNL	TNL	0	0	0
-1762	76	singleton	0	1	NL	N	0	0	0
-1763	181	singleton	0	1	TNL	TNL	0	0	0
-1764	4	singleton	0	1	TNL	TNL	0	0	0
-1765	43	singleton	0	1	NL	NLX	1	0	1
-1766	204	singleton	0	1	TNL	TNL	0	1	0
-1767	122	singleton	0	1	TNL	TN	0	0	0
-1768	6	singleton	0	1	CNL	CN	0	0	0
-1769	10	singleton	0	1	TNL	TNL	0	0	0
-1770	241	singleton	0	1	TNL	TNL	0	0	0
-1771	3	singleton	0	1	CNL	CNL	0	0	0
-1772	9	singleton	0	1	CNL	CN	0	0	0
-1773	2	singleton	0	1	RNL	R	0	0	0
-1774	51	singleton	0	1	TNL	T	0	0	0
-1775	111	singleton	0	1	TNL	TN	0	0	0
-1776	4	singleton	0	1	TNL	TNL	0	0	0
-1777	N/A	singleton	0	1	RNL	R	0	0	0
-1778	3	singleton	0	1	CNL	CNL	0	0	0
-1779	203	singleton	0	1	TNL	T	0	0	0
-1780	279	singleton	0	1	NL	NL	0	0	0
-1781	N/A	singleton	0	1	TNL	T	0	0	0
-1782	167	singleton	0	1	TNL	T	0	0	0
-1783	48	singleton	0	1	NL	N	0	0	0
-1784	23	singleton	0	1	TNL	TNL	0	0	0
-1785	8	singleton	0	1	CNL	CN	0	0	0
-1786	72	singleton	0	1	NL	N	0	0	0
-1787	105	singleton	0	1	TNL	TNL	0	0	0
-1788	185	singleton	0	1	TNL	T	0	0	0
-1789	102	singleton	0	1	TNL	TN	0	0	0
-1790	12	singleton	0	1	NL	N	0	0	0
-1791	11	singleton	0	1	TNL	T	0	0	0
-1792	33	singleton	0	1	NL	N	0	0	0
-1793	118	singleton	0	1	TNL	T	0	0	0
-1794	N/A	singleton	0	1	TNL	T	0	0	0
-1795	237	singleton	0	1	NL	N	0	0	0
-1796	163	singleton	0	1	TNL	TNL	0	0	0
-1798	165	singleton	0	1	TNL	TNL	0	0	0
-1799	4	singleton	0	1	TNL	TNL	0	0	0
-1800	190	singleton	0	1	TNL	TNL	0	0	0
-1801	11	singleton	0	1	TNL	T	0	0	0
-1802	N/A	singleton	0	1	TNL	T	0	0	0
-1803	155	singleton	0	1	NL	NL	0	0	0
-1804	185	singleton	0	1	TNL	T	0	0	0
-1805	N/A	singleton	0	1	NL	N	0	0	0
-1806	8	singleton	0	1	CNL	CNL	0	0	0
-1807	11	singleton	0	1	TNL	T	0	0	0
-1808	16	singleton	0	1	NL	NL	0	0	0
-1809	N/A	singleton	0	1	TNL	T	0	0	0
-1810	N/A	singleton	0	1	TNL	TN	0	0	0
-1811	15	singleton	0	1	NL	N	0	0	0
-1812	133	singleton	0	1	NL	NL	0	0	0
-1813	48	singleton	0	1	NL	N	0	0	0
-1814	N/A	singleton	0	1	TNL	T	0	0	0
-1815	163	singleton	0	1	TNL	TNL	0	0	0
-1816	N/A	singleton	0	1	NL	NL	0	0	0
-1817	236	singleton	0	1	NL	NL	0	0	0
-1818	6	singleton	0	1	CNL	CN	0	0	0
-1819	179	singleton	0	1	TNL	TNL	0	0	0
-1820	35	singleton	0	1	NL	N	0	0	0
-1821	69	singleton	0	1	TNL	TNL	0	0	0
-1822	192	singleton	0	1	TNL	TX	0	0	1
-1823	123	singleton	0	1	TNL	T	0	0	0
-1824	20	singleton	0	1	TNL	TNL	0	0	0
-1825	147	singleton	0	1	NL	N	0	0	0
-1826	44	singleton	0	1	TNL	TNL	0	0	0
-1827	2	singleton	0	1	RNL	R	0	0	0
-1828	18	singleton	0	1	TNL	TNL	1	0	0
-1829	12	singleton	0	1	NL	N	0	0	0
-1830	6	singleton	0	1	CNL	CN	0	0	0
+idnew	idold	alnlength	NLRs	majorclass	majorsubclass	IDs	pairs	nuc.diversity.within	hap.diversity.within	Pi	Tajima.D	n.segregating.sites	Rozas.R_2	Fu.Li.F	Fu.Li.D	Fu.F_S	Strobeck.S	ogtype	tree.bl	exp.avg	exp.dev	cls.per	edpSel	pdpSel	pSelCls	Araport11	AtGenExp	TissueBias	PathogenInduction
+100.1	100	3474	56	TNL	TNL	0	0	0.00513891692648169	0.959090909090909	0.00513891692648169	-1.88832249881551	175	0.0514378560303531	-3.6444201521739	-3.87898326679524	-1.85322824038628	0.917735347170051	core	0.000622101	97.93	13.41	90.00	2	0	1	AT5G46450.1	100	Leaf	–
+101.1	101	2736	56	CNL	CN	0	0	0.00188230994152047	0.946753246753247	0.00188230994152047	-2.35895747396212	74	0.0480688923610099	-3.72080283088191	-3.67145998409668	-17.9634664352904	0.999999997231506	core	0.000290615	93.14	21.07	0.00	1	0	1	NA	NA	NA	NA
+10.2	10	4011	23	TNL	TNL	0	0	0.0159285285622641	0.988142292490119	0.015928528562264	-1.02121502459953	315	0.0860062764521271	-1.61367989149989	-1.69154532252047	0.378050169638713	0.650198140111262	shell	0.0060887	99.87	0.63	0.00	19	9	2	NA	NA	NA	NA
+102.1	102	3699	4	TNL	TN	0	0	0.00202757502027575	1	0.00202757502027575	-0.847292986755707	15	0.321022671404304	-0.216746024520285	-0.847292986755706	-0.009730284642576	1	cloud	0.007214	0.00	0.00	37.50	NA	NA	NA	NA	NA	NA	NA
+102.10	102	3588	6	TNL	TN	0	0	0.00354886659234485	0.933333333333333	0.00354886659234485	-0.920762036519967	34	0.276013040941373	-0.600094548835493	-0.882043954851342	1.21845427937541	0.645643844634531	cloud	0.00813933	0.00	0.00	40.00	NA	NA	NA	NA	NA	NA	NA
+102.2	102	3603	4	TNL	TN	0	0	0.00282172263854196	1	0.00282172263854196	-0.194584718617106	19	0.0979750346653012	0.321166302598403	-0.194584718617106	0.353399360235296	1	cloud	0.0011124	0.00	0.00	50.00	NA	NA	NA	NA	NA	NA	NA
+102.3	102	3603	5	TNL	TN	0	0	0.00177629752983625	0.4	0.00177629752983625	-1.22187298057666	16	0.4	-0.782172367060875	-1.22187298057666	5.53021607933943	0.0566090991622907	cloud	0.000639571	0.00	0.00	55.56	NA	NA	NA	NA	NA	NA	NA
+102.6	102	3543	21	TNL	TNL	0	0	0.00203217612193057	0.952380952380952	0.00203217612193057	-1.09954489380315	36	0.102396332055119	-2.00794302124684	-2.17312518740658	-2.79185759006143	0.980025564466242	shell	0.000506128	41.29	2.83	84.00	NA	NA	NA	NA	NA	NA	NA
+102.9	102	3603	5	TNL	TN	0	0	0.00605051346100472	0.9	0.00605051346100472	0.242505594617144	44	0.169360122932376	0.546349974492571	0.242505594617142	2.92120189387001	0.349506766157852	cloud	0.00197857	0.00	0.00	55.56	NA	NA	NA	NA	NA	NA	NA
+10.3	10	3675	6	TNL	TNL	0	0	0.0241995464852608	1	0.0241995464852608	-0.244208062331375	211	0.143593640327394	0.0580817508067385	-0.19266718374728	1.71626053569026	1	cloud	0.00990078	99.83	0.41	0.00	2	0	1	NA	NA	NA	NA
+103.1	103	1137	56	NL	N	0	0	0.00217021325200745	0.822727272727273	0.00217021325200745	-1.5369983999508	22	0.0587344929659967	-1.46139852922095	-1.11187573229382	-3.12970514188245	0.982414006880729	core	0.000212661	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+104.1	104	2520	8	NL	N	0	0	0.0207624716553288	0.892857142857143	0.0207624716553288	-0.0924979896424168	138	0.164795897589957	0.603394260447216	0.599955352326728	4.72771876083186	0.0793125637603368	cloud	0.00461054	99.88	0.35	0.00	NA	NA	NA	AT3G46530.1	100	Leaf	–
+104.2	104	2604	33	NL	N	0	0	0.0291422287390029	0.964015151515151	0.0291422287390029	0.280080718813445	287	0.125644260590551	0.243975437065749	0.108480821097172	4.47102338769423	0.0313510043801889	shell	0.00361516	96.15	17.49	2.70	7	0	1	NA	NA	NA	NA
+104.3	104	2577	16	NL	N	0	0	0.021038675462424	0.95	0.021038675462424	0.0964663005869727	176	0.141748656150456	0.421440755297795	0.386914016688831	5.16192334425801	0.0277625872966442	shell	0.00442362	97.62	6.37	5.00	3	1	2	NA	NA	NA	NA
+10.5	10	4221	24	TNL	TNL	1	0	0.00504207739769064	0.981884057971015	0.00504207739769064	-2.50377959502565	211	0.106779218485681	-4.16919004782831	-4.28906262293391	-1.67458475632864	0.933125336404459	shell	0.00314722	73.46	20.32	0.00	9	0	1	NA	NA	NA	NA
+105.1	105	3531	55	TNL	TNL	0	0	0.0139005461010559	0.991919191919192	0.0139005461010559	-1.53131216364215	391	0.060931030916597	-3.21706651727088	-3.52428778220613	-5.48218486884957	0.998573722279629	core	0.00238019	91.64	19.62	89.83	16	5	2	AT5G46270.4	100	Leaf	–
+10.6	10	3552	15	TNL	TNL	0	0	0.0037966537966538	0.990476190476191	0.0037966537966538	-0.371732761395059	48	0.11370501859955	-0.612793348406531	-0.754987151684917	-3.72672676176683	0.997324648709299	shell	0.000818778	84.20	9.17	73.68	NA	NA	NA	NA	NA	NA	NA
+107.1	107	3417	56	TNL	TNL	0	0	0.00570181939804416	0.979220779220779	0.00570181939804416	-2.79571996390235	404	0.0677337852138508	-6.45037489353846	-7.20883689599672	-6.99694728708305	0.999675592252976	core	0.00231263	93.70	19.25	91.67	16	0	1	AT1G63740.2	100	Leaf+Root	–
+108.1	108	600	6	RNL	R	0	0	0.00255555555555556	0.733333333333333	0.00255555555555556	0.862222333675827	3	0.235440223337968	0.737296905288721	0.510516127141683	0.53994317950217	0.728812174000383	cloud	0.000609444	21.67	0.52	40.00	NA	NA	NA	AT3G50480.1	1000	Leaf	–
+108.10	108	486	4	RNL	R	0	0	0.00205761316872428	0.5	0.00205761316872428	-0.709896167879475	2	0.433012701892219	-0.151066890532825	-0.709896167879472	1.09861228866811	0.708333333333333	cloud	0.0009166	21.25	0.50	50.00	NA	NA	NA	NA	NA	NA	NA
+108.2	108	306	20	RNL	R	0	0	0.00584795321637427	0.694736842105263	0.00584795321637427	-1.49971018851821	11	0.129341569291036	-1.73125771763339	-1.64521319142097	0.38533922924354	0.640900085046074	shell	0.00107978	16.25	8.34	83.33	NA	NA	NA	NA	NA	NA	NA
+108.6	108	306	15	RNL	R	0	0	0.00175967823026647	0.41025641025641	0.00175967823026647	-0.46215935131172	2	0.164307764333029	-0.391960300305798	-0.411825814043111	-0.4129531680014	0.865224023697443	shell	0.000243037	13.80	9.22	78.95	NA	NA	NA	NA	NA	NA	NA
+10.9	10	3687	9	TNL	TNL	0	0	0.0193623240816081	0.972222222222222	0.0193623240816081	0.000664174090832054	194	0.151258128048895	0.241194633397368	0.11011436313986	2.52438623988852	0.38453366006317	shell	0.00571867	88.89	33.33	0.00	3	1	2	NA	NA	NA	NA
+109.1	109	2793	54	CNL	CNL	0	1	0.0104469019208699	0.944793850454228	0.0104469019208699	-1.00482666365997	185	0.0844056040475111	-3.33971310389469	-4.01652777791861	2.82648475194234	0.0975853917598036	core	0.00156901	30.15	14.47	51.72	8	0	1	NA	NA	NA	NA
+1.1	1	3906	3	TNL	TNL	0	0	0.0686123911930364	1	0.0686123911930364	NA	402	0.0859799760982801	NA	NA	4.48989021851508	1	cloud	NA	97.33	2.89	14.29	NA	NA	NA	NA	NA	NA	NA
+110.1	110	3411	54	TNL	TNL	0	17	0.00902411956548684	0.972746331236897	0.00902411956548684	-2.53977266190012	473	0.0637628675110427	-5.63873896705247	-6.23647524671778	-4.79090276494879	0.996624410170427	core	0.0038896	52.76	20.92	51.72	32	1	2	AT1G56540.1	20	Leaf	–
+1.11	1	4596	8	TNL	TNL	0	0	0.0359862613452692	1	0.0359862613452692	0.0366080713295985	426	0.149396384150394	0.214794370719362	0.0337700084873318	1.70645828515665	1	cloud	0.0208576	80.38	32.88	8.33	5	0	1	NA	NA	NA	NA
+111.1	111	1197	53	TNL	TN	0	0	0.00178482005691539	0.683599419448476	0.00178482005691539	-2.31285606170828	32	0.0764176915812819	-4.61336514151429	-4.87791154622821	-4.13527153373507	0.994388769175735	core	0.00046133	0.00	0.00	91.23	NA	NA	NA	NA	NA	NA	NA
+11.14	11	627	4	TNL	T	0	0	0.000797448165869219	0.5	0.000797448165869219	-0.612372435695797	1	3.75	-0.119678388469542	-0.612372435695794	0.171850256926659	0.876190476190476	cloud	0.0003288	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+11.18	11	696	24	TNL	T	0	0	0.00193653173413293	0.554347826086957	0.00193653173413293	-0.487334554341969	6	0.108675521485311	-0.309086391498488	-0.23774598956291	-1.08654224827922	0.891140418557294	shell	0.000499333	0.29	0.46	28.57	NA	NA	NA	AT1G57850.1	20	Leaf	–
+112.1	112	3897	56	TNL	TNL	0	18	0.0425410488920882	0.974025974025974	0.0425410488920881	3.3494265767744	394	0.208043715662683	2.13315653012956	0.74629107764837	11.1186367034609	5.74643959419486e-05	core	0.0024893	83.02	17.82	33.33	24	3	2	AT4G19530.2	1000	Leaf	–
+11.25	11	630	8	TNL	T	0	0	0.00374149659863946	0.964285714285714	0.00374149659863946	-0.603859096131483	7	0.127039791816212	-0.665635747532671	-0.893650888472432	-3.98977692943122	0.998589333886343	shell	0.000941769	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+11.29	11	630	5	TNL	T	0	0	0.00476190476190476	0.9	0.00476190476190476	-0.746820038053631	7	0.14638501094228	-0.363270526563074	-0.746820038053632	-0.331576266009006	0.903571428571429	cloud	0.001905	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+1.14	1	4032	7	TNL	TNL	0	0	0.0363284202569917	1	0.0363284202569917	0.840421605427676	314	0.198242516463935	0.760270901887594	0.462478110248315	1.88544214768235	1	cloud	0.013125	90.43	3.78	36.36	5	0	1	NA	NA	NA	NA
+115.1	115	2820	54	CNL	CN	0	1	0.00227213028631468	0.905660377358491	0.00227213028631468	-0.971090322097859	41	0.0738105896201457	-1.15783995692975	-1.0255832719672	-8.15157257458277	0.999910840309454	core	0.0035097	16.52	18.65	84.48	38	2	2	AT1G58390.1	20	Leaf	–
+116.1	116	615	55	RNL	R	0	0	0.0053915852289836	0.863973063973064	0.0053915852289836	-0.487157988024424	18	0.0891404048668343	-0.488978987473148	-0.409596944385764	-3.12854156681305	0.981422658946354	shell	0.00028615	0.02	0.13	91.53	NA	NA	NA	NA	NA	NA	NA
+1.17	1	3696	4	TNL	TNL	0	0	0.0100559163059163	1	0.0100559163059163	-0.69534314973257	73	0.131010247986403	-0.083795906277297	-0.695343149732569	1.77481383390668	1	cloud	0.004079	95.00	4.24	0.00	NA	NA	NA	NA	NA	NA	NA
+117.2	117	2880	46	RNL	RNX	44	0	0.00404622920021471	0.342028985507246	0.00404622920021471	-2.86581699691169	237	0.134783030282615	-6.16669171818932	-6.7109887445618	16.918963541572	4.68209101740467e-07	shell	0.00721837	15.85	7.27	0.00	11	0	1	NA	NA	NA	NA
+118.1	118	696	50	TNL	T	0	0	0.0140980530143092	0.918367346938776	0.0140980530143092	0.336175654844674	40	0.118414258824875	-0.280319335675271	-0.607984113038939	0.321130468732066	0.549686336500543	core	0.00125814	1.08	2.00	90.74	NA	NA	NA	NA	NA	NA	NA
+119.1	119	1422	50	TNL	T	0	0	0.00103217658371365	0.539591836734694	0.00103217658371365	-1.60947458503867	14	0.0733450171340195	-2.77663713093318	-2.81080830362677	-0.694977454981788	0.820326634353672	shell	0.0056878	0.00	0.00	1.85	4	0	1	NA	NA	NA	NA
+119.2	119	1485	3	TNL	T	0	0	0.00134680134680135	1	0.00134680134680135	NA	3	0.272165526975909	NA	NA	-0.693147180559945	1	cloud	NA	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+120.4	120	3519	12	TNL	TNL	0	0	0.00440896604579469	0.96969696969697	0.00440896604579469	-1.65983723630577	73	0.172631993617014	-1.96188197981146	-2.05070965412124	-0.363151193751029	0.837357420747515	shell	0.00114552	80.58	25.43	68.75	NA	NA	NA	NA	NA	NA	NA
+120.5	120	2802	4	TNL	TN	0	0	0.00285510349750178	0.5	0.00285510349750178	-0.849027712467093	16	0.433012701892219	-0.217857588653712	-0.849027712467091	5.09986642782419	0.094949494949495	cloud	0.0194198	55.25	40.18	25.00	NA	NA	NA	NA	NA	NA	NA
+120.7	120	3762	22	TNL	TNL	0	3	0.0243687731726009	0.96969696969697	0.0243687731726009	1.44246657317818	247	0.179522803003529	1.09469723685391	0.649816822369778	5.67025232065604	0.0156150777375422	shell	0.00575424	80.55	12.41	53.85	11	0	1	NA	NA	NA	NA
+12.1	12	2763	14	CNL	CN	0	0	0.0036033456228896	0.769230769230769	0.0036033456228896	-1.7691210732887	53	0.163387009233245	-2.2513619257887	-2.31606189766942	1.53647928011676	0.3674722281433	shell	0.00229948	16.36	5.23	11.11	1	0	1	NA	NA	NA	NA
+121.1	121	1008	54	TNL	T	0	0	0.00146209776712921	0.781271837875611	0.00146209776712921	-1.67253295849698	15	0.0484153690745868	-1.60511059790382	-1.24245801539385	-6.5997548311528	0.99965517889323	shell	0.000162143	44.80	14.14	0.00	NA	NA	NA	NA	NA	NA	NA
+1.22	1	4083	5	TNL	TNL	0	0	0.045652706343375	1	0.045652706343375	0.271631261302903	375	0.156399488490212	0.58201593155079	0.271631261302902	2.90656548650261	1	cloud	0.0226656	82.20	15.25	0.00	2	0	1	NA	NA	NA	NA
+12.2	12	2757	12	CNL	CN	0	0	0.00601224431474703	0.893939393939394	0.00601224431474703	-1.66248539468071	78	0.143460442772003	-1.91806079790825	-1.99289713785553	2.10731837428453	0.285047710221817	shell	0.00364114	18.25	2.38	0.00	5	0	1	NA	NA	NA	NA
+122.2	122	1119	20	TNL	TN	0	0	0.00752551620337708	0.521052631578947	0.00752551620337708	-2.43170720436088	74	0.147147211870684	-3.57572117839386	-3.60650489993045	3.8543899091875	0.0631469833069536	shell	0.003225	88.35	17.38	83.33	NA	NA	NA	NA	NA	NA	NA
+122.3	122	1095	21	TNL	T	0	0	0.0145161991737334	0.80952380952381	0.0145161991737334	0.965251669093279	46	0.161934709678563	0.0522204829469276	-0.459140485334731	6.53623609518095	0.00632734863456596	shell	0.002829	85.62	21.92	84.00	NA	NA	NA	NA	NA	NA	NA
+122.5	122	1089	5	TNL	TN	0	0	0.0238751147842057	0.4	0.0238751147842057	-1.26180423158394	65	0.4	-0.821397349224857	-1.26180423158394	10.2184442671248	0.00201301465669282	cloud	0.0108961	95.00	3.46	55.56	NA	NA	NA	NA	NA	NA	NA
+12.3	12	2721	4	CNL	CN	0	0	0.00434889133896852	1	0.00434889133896852	-0.142706153249577	22	0.19532383461142	0.367610385486497	-0.142706153249577	0.528957165280158	1	cloud	0.0018438	18.75	2.06	0.00	NA	NA	NA	NA	NA	NA	NA
+123.1	123	1011	52	TNL	T	0	0	0.00940335047509074	0.785067873303167	0.00940335047509074	-2.12141451623321	107	0.0523503708078627	-2.60150734899277	-2.29331820545616	2.71149740204952	0.115887629521216	shell	0.00317509	0.54	0.78	87.50	5	0	1	NA	NA	NA	NA
+12.4	12	2748	9	CNL	CN	0	0	0.0125748018761119	0.944444444444444	0.0125748018761119	-0.362113832206347	101	0.199008198214417	-0.39748279236415	-0.601854302164403	2.97859862750478	0.222516540314466	shell	0.00491973	19.78	3.23	7.69	2	0	1	NA	NA	NA	NA
+124.1	124	1203	48	TNL	TX	43	0	0.0129935209258178	0.839539007092199	0.0129935209258178	0.615418988415108	59	0.130942009154494	1.23866617356126	1.26535600329559	5.14907946267242	0.0141817031492665	core	0.00301455	25.17	10.65	0.00	8	1	2	AT2G32140.1	100	Leaf+Root	–
+12.5	12	2742	10	NL	N	0	0	0.0225869195234622	0.955555555555556	0.0225869195234622	-2.02051640991725	294	0.180240481259856	-2.27130048652977	-2.41347031965215	3.78434357902461	0.135751420840763	shell	0.00712312	14.90	5.49	64.29	6	0	1	NA	NA	NA	NA
+125.1	125	2760	53	TNL	TNL	0	0	0.00149555120843062	0.939767779390421	0.00149555120843062	-1.75146059432729	39	0.0512289967400434	-3.38939619513396	-3.57062465364558	-19.3401085939904	0.999999999389856	core	0.000392796	2.04	1.70	71.93	3	0	1	AT3G04220.3	100	Root	–
+1.26	1	4536	11	TNL	TNL	0	0	0.029028379028379	1	0.029028379028379	-0.853103289188615	468	0.0987100744290842	-0.769304219572088	-0.845831428582493	0.688486746147234	1	shell	0.0206344	92.55	3.72	33.33	23	1	2	NA	NA	NA	NA
+12.6	12	2733	6	NL	N	0	0	0.0500304915233565	0.933333333333333	0.0500304915233565	0.449891096964647	292	0.223256299679619	0.605060996242578	0.339103267258377	5.47816195104211	0.102606059639127	cloud	0.0237806	10.67	9.05	30.00	NA	NA	NA	NA	NA	NA	NA
+126.1	126	1044	53	NL	N	0	0	0.0286383175127482	0.928156748911466	0.0286383175127482	0.906568140957149	108	0.134744283104277	0.392146088012979	-0.0659348396559169	4.20613226850691	0.030046211213686	shell	0.00137115	41.08	25.97	8.77	NA	NA	NA	NA	NA	NA	NA
+1.27	1	3963	4	TNL	TNL	0	0	0.0468920851206998	1	0.0468920851206998	0.0214472921424974	340	0.107139807677077	0.533047572893484	0.0214472921424978	3.42324494698027	1	cloud	0.0274826	92.75	7.23	0.00	1	0	1	NA	NA	NA	NA
+127.1	127	2574	55	CNL	CNL	0	0	0.0232503747655263	0.923232323232323	0.0232503747655263	-0.934725059871249	370	0.0795962157790934	-0.397704963747959	0.0101137084348077	15.1272676650806	1.19380606028117e-06	shell	0.00229836	74.11	30.79	0.00	6	0	1	AT1G15890.1	20	Leaf+Root	–
+1.28	1	4005	8	TNL	TNL	0	0	0.0362671660424469	1	0.0362671660424469	-0.6479747137857	427	0.116674078790711	-0.523870606517437	-0.713326628762582	1.56691246458876	1	cloud	0.0189243	87.12	11.05	16.67	6	0	1	NA	NA	NA	NA
+12.8	12	3654	6	CNL	CN	0	0	0.00220762634555738	0.933333333333333	0.00220762634555738	-1.25108860013719	23	0.203317373117253	-0.946594065814453	-1.25732280313296	0.461121805360944	0.78552915560526	cloud	0.00143211	7.17	10.59	20.00	NA	NA	NA	NA	NA	NA	NA
+128.1	128	4350	51	TNL	TNL	2	0	0.0188365111561866	0.88156862745098	0.0188365111561866	0.0667224443835299	362	0.110170641941551	-1.62089900574703	-2.32217636267962	26.0518802717088	3.97491111325282e-11	shell	0.00847582	53.08	19.02	85.45	19	0	1	NA	NA	NA	NA
+12.9	12	1773	9	NL	N	0	0	0.0171711474587955	0.972222222222222	0.0171711474587955	-0.758513278467751	97	0.126651456973058	-0.419954781225896	-0.488440961812527	1.03060575965031	0.662295770626646	shell	0.00604347	3.22	5.43	69.23	7	0	1	NA	NA	NA	NA
+129.1	129	603	52	RNL	R	0	0	0.00995650205483392	0.706636500754148	0.00995650205483392	0.42213126872402	24	0.118916393135877	-0.676781537895075	-1.16485506518048	0.286244101934284	0.567955620606333	shell	0.00051001	0.00	0.00	75.00	NA	NA	NA	NA	NA	NA	NA
+1.3	1	4410	19	TNL	TNL	0	0	0.0313349511344499	0.964912280701754	0.0313349511344499	-0.135553823925461	499	0.127158275867635	0.259601993811164	0.296610455351568	7.59925413369317	0.00383434779418557	shell	0.0107011	89.16	22.00	21.74	38	0	1	NA	NA	NA	NA
+130.1	130	5097	54	CNL	CNLX	33	40	0.0501222475450749	0.975541579315164	0.0501222475450749	2.36532169494525	704	0.179367088952525	1.91560933352655	1.08813542669812	22.4390459776361	1.39147262700893e-09	shell	0.00540429	37.04	29.12	72.41	25	0	1	AT5G17890.1	100	Leaf+Root	NaN
+13.1	13	1371	9	TNL	TN	0	5	0.000162087689439987	0.222222222222222	0.000162087689439987	-1.08822734260014	1	8.88888888888889	-1.09286307085388	-1.18990462469604	-0.263475946781515	0.907028912128731	shell	4.86667e-05	4.22	2.33	69.23	NA	NA	NA	NA	NA	NA	NA
+131.1	131	804	47	TNL	T	0	0	0.005209843474579	0.827012025901943	0.005209843474579	-0.858155237867398	25	0.0786899141857367	-1.75841475234389	-1.8912393870838	-3.1092005336589	0.981007815132131	shell	0.000820242	8.21	5.47	90.20	NA	NA	NA	AT5G44910.1	100	Root	–
+13.2	13	1449	46	TNL	TN	0	42	0.0811167455149812	0.918840579710145	0.0811167455149812	2.42398745789735	311	0.185723915104928	1.38894105362168	0.371914100724293	29.1988379099087	2.26614085886448e-12	shell	0.00623744	0.54	1.07	90.00	8	0	1	AT1G72850.1	20	Root	–
+132.1	132	801	49	TNL	T	0	0	0.00412749369410686	0.817176870748299	0.00412749369410686	-2.22241360152106	42	0.0697917749631477	-3.82406865891281	-3.88431880481164	-6.57063449512362	0.999576290485532	shell	0.000663926	4.65	3.48	84.91	NA	NA	NA	AT5G44920.1	100	Root	–
+1.33	1	4941	14	TNL	TNL	0	0	0.026152556207201	1	0.026152556207201	-0.76076787417703	494	0.104277347727151	-0.686780453653184	-0.708676072033492	0.0246325894242149	1	shell	0.0189971	92.43	8.09	38.89	38	1	2	NA	NA	NA	NA
+13.3	13	1371	4	TNL	TN	0	3	0.000364697301239971	0.5	0.000364697301239971	-0.612372435695797	1	3.75	-0.119678388469542	-0.612372435695794	0.171850256926659	0.876190476190476	cloud	0.000146	6.75	7.63	50.00	NA	NA	NA	NA	NA	NA	NA
+133.2	133	3384	43	TNL	TNL	0	0	0.00724797038503125	0.912513842746401	0.00724797038503125	-0.55064946325706	125	0.0947325339553629	-1.37082376248678	-1.575351440554	0.89589787073211	0.411633713222493	shell	0.000947759	93.95	21.94	70.21	6	0	1	NA	NA	NA	NA
+133.3	133	3522	4	TNL	TNL	1	0	0.0160420215786485	1	0.0160420215786485	-0.872360647618892	113	0.377087475749097	-0.233891592117864	-0.87236064761889	2.21024475444111	1	cloud	0.0260136	90.75	11.30	50.00	1	0	1	NA	NA	NA	NA
+1.34	1	3915	6	TNL	TNL	0	0	0.0361856108982546	0.933333333333333	0.0361856108982546	0.326619652475604	308	0.196794942933726	0.464373785665576	0.18411252730631	5.54627518349349	0.0992593387634971	cloud	0.0120838	94.67	4.63	0.00	3	0	1	NA	NA	NA	NA
+134.11	134	2688	4	NL	N	0	0	0.00297619047619048	1	0.00297619047619048	0.483041945134648	14	0.220157642963178	0.861985057650365	0.483041945134648	0.0687138925480517	1	cloud	0.0277912	13.00	13.74	37.50	NA	NA	NA	NA	NA	NA	NA
+134.13	134	2628	5	CNL	CNL	0	0	0.00144596651445967	0.9	0.00144596651445967	-0.0733949047665474	8	0.223955910839611	0.23058617589019	-0.0733949047665474	0.0512542610986555	0.858791239749658	cloud	0.00138657	7.60	4.98	55.56	NA	NA	NA	NA	NA	NA	NA
+134.15	134	2040	8	CNL	CNL	0	0	0.00446428571428571	0.928571428571429	0.00446428571428571	-1.39240734106645	32	0.133950658520994	-1.29793917846696	-1.48361459618888	0.735791882208873	0.653797628666506	shell	0.00129654	24.00	11.10	66.67	NA	NA	NA	NA	NA	NA	NA
+134.3	134	2628	5	NL	CNL	0	0	0.00357686453576865	0.9	0.00357686453576865	-1.10301863018571	23	0.244137306806373	-0.675989745706479	-1.10301863018572	1.50244217638283	0.603679314671256	cloud	0.00885429	14.40	6.19	44.44	NA	NA	NA	NA	NA	NA	NA
+134.6	134	2106	9	NL	NL	0	0	0.00160915901656642	0.722222222222222	0.00160915901656642	-1.3907446559135	13	0.149404667576182	-1.21339312682343	-1.30030477370521	0.316058994185909	0.706212934964084	shell	0.0010008	10.78	7.66	38.46	NA	NA	NA	NA	NA	NA	NA
+135.1	135	2721	9	NL	N	0	0	0.00294009555310548	0.805555555555556	0.00294009555310548	-1.71722309781561	33	0.167506302543202	-1.6804386964778	-1.80697703453851	2.40591565147075	0.259920326586993	shell	0.00148833	11.22	6.83	0.00	2	0	1	NA	NA	NA	NA
+135.10	135	2502	3	NL	N	0	0	0.00213162803090861	1	0.00213162803090861	NA	8	0.212459146399699	NA	NA	0.457581109247178	1	cloud	NA	14.00	2.00	0.00	NA	NA	NA	NA	NA	NA	NA
+135.12	135	3537	7	NL	TNL	0	1	0.0278955800584299	0.857142857142857	0.0278955800584299	-1.73698950954111	343	0.330510966790159	-1.58476705625777	-1.84629173394263	7.36065788117096	0.0152312021191997	cloud	0.0175901	14.43	0.53	54.55	3	0	1	NA	NA	NA	NA
+135.5	135	1416	6	NL	N	0	0	0.0101224105461394	0.8	0.0101224105461394	-1.5263319619532	43	0.278881288634881	-1.23276348441739	-1.56662338091316	3.38799143968056	0.195347145893301	cloud	0.00346444	12.00	9.86	10.00	NA	NA	NA	NA	NA	NA	NA
+135.9	135	2634	10	NL	N	0	0	0.00265755504935459	0.644444444444444	0.00265755504935459	-0.268796817963822	21	0.155401608305531	0.814472925082367	0.993923910415794	4.14084425374358	0.0754534460524044	shell	0.00696406	6.80	8.11	7.14	NA	NA	NA	NA	NA	NA	NA
+137.1	137	3474	50	TNL	TNL	0	0	0.00420006344506715	0.936326530612245	0.00420006344506715	-1.79419018305938	131	0.0628785766261508	-4.26362397808108	-4.76849586226381	-3.00542907051832	0.976095358996546	shell	0.00205388	72.92	11.49	87.04	24	0	1	AT1G56510.1	100	Leaf	–
+138.1	138	3333	47	TNL	TNL	0	0	0.0130647662361056	0.987049028677151	0.0130647662361056	-1.83866965758059	386	0.0603278015815	-3.79680797669015	-4.11182396303596	-3.32848577653661	0.985281073318792	shell	0.00436425	40.19	20.45	88.24	17	4	2	AT5G41550.1	20	Root	–
+139.1	139	1161	50	NL	N	0	0	0.0945005185536747	0.920816326530612	0.0945005185536747	3.35841532060189	255	0.213393228220422	2.5300385353574	1.33661841269664	27.1482977721191	1.43102842042585e-11	shell	0.00338296	64.66	17.53	9.26	1	0	1	AT5G45490.1	100	Root	–
+1.4	1	5145	15	TNL	TNL	1	0	0.024526817529733	1	0.024526817529733	-0.556369395857973	469	0.105527443440341	-0.646303670759062	-0.72615864465299	-0.206861300856347	0.999999999999999	shell	0.0191251	85.20	24.19	21.05	29	0	1	NA	NA	NA	NA
+140.1	140	3990	46	TNL	TNL	0	11	0.00580969331541414	0.922705314009662	0.00580969331541414	-2.14282408407595	246	0.0781717264386834	-3.72041893801007	-3.81761604459103	2.97048405333824	0.0907432474559045	shell	0.00602476	40.91	16.06	84.00	33	2	2	AT1G56520.2	20	Leaf	–
+14.1	14	2916	38	CNL	CN	0	0	0.00808313186480828	0.916073968705548	0.00808313186480828	-1.85923201270844	197	0.0696534146869223	-3.52302169534078	-3.71671043330132	1.43306830369869	0.302771696905974	shell	0.00141489	39.42	14.49	0.00	7	0	1	NA	NA	NA	NA
+141.1	141	3168	48	TNL	TL	0	0	0.00998179937674618	0.983156028368794	0.00998179937674618	-1.51039209464863	240	0.0786877604318523	-2.52022916158119	-2.56529336464066	-1.57162879949614	0.89782464068253	shell	0.00242431	8.67	4.05	86.54	17	0	1	NA	NA	NA	NA
+142.1	142	3741	45	TNL	TNL	0	0	0.0132244659911059	0.973737373737374	0.0132244659911059	0.484685840135788	191	0.12656185235803	0.837573846761293	0.79810936055046	2.89240678655425	0.0987413825236751	shell	0.00543393	13.31	7.59	89.80	13	0	1	NA	NA	NA	NA
+14.3	14	1686	19	NL	N	0	0	0.0144221764375351	0.941520467836257	0.0144221764375351	0.612002328533374	74	0.155671687911125	0.852584048975707	0.729807096138514	1.63591472996194	0.325620032070197	shell	0.00228143	1.84	4.79	0.00	NA	NA	NA	NA	NA	NA	NA
+143.1	143	4194	45	TNL	TNL	7	0	0.00205921879741622	0.953535353535354	0.00205921879741622	-2.61525365438598	135	0.0670654520258041	-4.92708188905613	-5.1655111144663	-5.89840457977543	0.999042398300472	shell	0.00134708	88.67	15.46	79.59	10	0	1	AT5G40910.1	100	Leaf+Root	–
+144.1	144	438	48	TNL	T	0	2	0.00844020207908287	0.710992907801418	0.00844020207908287	-2.64454162780851	66	0.121346094488352	-5.75062443213306	-6.24480200862981	-0.220357915962088	0.701896358554457	shell	0.00234023	0.69	0.47	88.46	NA	NA	NA	NA	NA	NA	NA
+145.1	145	1593	46	TNL	TN	0	0	0.00626351398479459	0.944927536231884	0.00626351398479459	-2.48859510902655	140	0.0964920369267229	-5.21129618356388	-5.62854808294953	-8.52918638973237	0.999944294804709	shell	0.00125117	90.65	19.54	74.00	1	0	1	AT3G04210.1	1000	Leaf	–
+14.6	14	2472	3	CNL	CN	0	0	0.000539374325782093	0.666666666666667	0.000539374325782093	NA	2	0.471404520791032	NA	NA	1.06087196068526	0.771428571428572	cloud	NA	16.00	14.00	0.00	NA	NA	NA	NA	NA	NA	NA
+146.1	146	1638	46	TNL	TN	0	0	0.0210554877221544	0.977777777777778	0.0210554877221544	0.950129368173973	120	0.139388315696235	0.613968560757332	0.219324246578494	-1.6207331575529	0.904890208720861	shell	0.00180957	30.74	9.75	0.00	1	2	2	AT1G66090.1	100	Leaf	–
+14.7	14	2616	4	CNL	CN	0	0	0.000382262996941896	0.833333333333333	0.000382262996941896	-0.709896167879475	2	0.25	-0.151066890532825	-0.709896167879472	-0.887303195000903	0.958333333333333	cloud	0.0011262	27.25	19.91	0.00	NA	NA	NA	NA	NA	NA	NA
+147.1	147	3492	42	TNL	TN	0	33	0.0010410388836338	0.910569105691057	0.0010410388836338	-2.32316711946138	46	0.0674217985608033	-4.61247465291095	-4.88465169320311	-6.71617897706407	0.999653377654571	shell	0.000173802	0.00	0.00	91.30	NA	NA	NA	NA	NA	NA	NA
+148.1	148	2373	44	TNL	TNL	0	33	0.0138886290357787	0.841437632135307	0.0138886290357787	-2.47336116975202	433	0.0389456716150626	-1.78018873804461	-0.983959632260524	8.5094884822365	0.000667771441726669	shell	0.00328764	0.00	0.00	91.67	NA	NA	NA	NA	NA	NA	NA
+149.1	149	3156	48	TNL	TNL	0	0	0.00200226518890057	0.956560283687943	0.00200226518890057	-2.51444575678447	95	0.0570036650673353	-5.17433670062515	-5.55694266613458	-12.4533513334019	0.99999915500401	shell	0.000602527	1.75	1.90	69.23	5	0	1	NA	NA	NA	NA
+1.5	1	4899	11	TNL	TNL	0	0	0.038545899905361	1	0.038545899905361	-0.459900881210645	611	0.113235581732787	-0.380374751826369	-0.488963391930597	1.10534125525459	1	shell	0.0317265	89.45	12.80	26.67	34	0	1	NA	NA	NA	NA
+150.1	150	705	47	TNL	T	0	0	0.00922969931964756	0.980573543015726	0.00922969931964756	-1.19820064854185	44	0.0678899976688878	-1.3044504502806	-1.10253486470124	-23.1136025104098	0.999999999989465	shell	0.00227498	2.02	1.19	54.90	NA	NA	NA	NA	NA	NA	NA
+15.1	15	3729	10	NL	N	0	0	0.0299454724233485	0.972222222222222	0.0299454724233485	0.223553813836691	291	0.161243375581404	0.486523153563345	0.353299784950868	3.33294925972867	0.269849707755703	shell	0.0110818	91.50	15.81	14.29	9	0	1	NA	NA	NA	NA
+151.1	151	444	12	RNL	R	0	0	0.00335790335790336	0.745454545454545	0.00335790335790336	0.335793876328056	4	0.17872366592125	0.499716899629851	0.406090241249227	0.111425587613132	0.74732849756508	shell	0.000430429	64.50	12.18	75.00	NA	NA	NA	NA	NA	NA	NA
+151.12	151	486	9	RNL	R	0	0	0.0025148605395519	0.861111111111111	0.0025148605395519	-0.68913834500995	4	0.142318760638328	-0.261541705869918	-0.264178628281709	-1.99456295373827	0.973339501223096	shell	0.000561333	58.44	25.77	61.54	NA	NA	NA	NA	NA	NA	NA
+15.2	15	3600	4	NL	CN	0	0	0.0275462962962963	1	0.0275462962962963	0.0466708078223026	181	0.134780808192285	0.552674087269616	0.0466708078223029	2.78662404963274	1	cloud	0.0160318	99.00	0.00	0.00	1	0	1	NA	NA	NA	NA
+152.1	152	2595	35	CNL	CNL	0	0	0.00197924256407765	0.907563025210084	0.00197924256407765	-1.34193078329798	34	0.0776733524026482	-2.34394246569998	-2.42425908363741	-3.26804205428451	0.985024609368427	shell	0.000257716	53.83	20.37	0.00	NA	NA	NA	NA	NA	NA	NA
+152.2	152	2628	7	CNL	CNL	0	0	0.0480901645285207	0.857142857142857	0.0480901645285207	-1.7348870866895	439	0.337471067322727	-1.58424725231859	-1.84628444465578	8.06362321585254	0.00961969975911129	shell	0.0204069	57.57	21.31	0.00	NA	NA	NA	NA	NA	NA	NA
+152.3	152	2568	4	CNL	CNL	0	0	0.000843717549325026	1	0.000843717549325026	-0.0650102494825903	4	0.223412610307575	0.345251478974884	-0.0650102494825881	-1.74087334584597	1	cloud	0.000312	56.50	7.94	0.00	NA	NA	NA	NA	NA	NA	NA
+15.3	15	3849	24	CNL	CN	0	0	0.028886667344426	0.992753623188406	0.028886667344426	-0.651767563430613	495	0.102897090821946	-0.0728954104953259	0.141260353648494	0.512481147759417	0.659102994250399	shell	0.0109869	92.88	20.19	3.57	34	5	2	NA	NA	NA	NA
+153.1	153	3930	45	TNL	TNL	0	40	0.0652951910967178	0.957575757575758	0.0652951910967178	3.07967570400308	612	0.208039657262573	2.50073273764517	1.48941296733576	33.4787040316556	4.19910780982726e-14	shell	0.00843091	7.56	9.77	87.76	30	0	1	AT1G72840.2	20	Root	–
+154.1	154	2805	42	TNL	TNX	42	0	0.00307605673459332	0.991869918699187	0.00307605673459332	-1.91304141512378	79	0.0515588512214875	-2.94782703556454	-2.90457654402742	-26.0870014586203	0.999999999999669	shell	0.00192057	82.00	0.00	4.35	0	3	3	AT4G16990.12	100	Leaf	–
+15.5	15	3480	6	CNL	CN	0	0	0.0197509578544061	0.933333333333333	0.0197509578544061	0.681828481077713	142	0.205998588484332	1.07048726575593	0.911313240551121	4.17677024516454	0.191548243232053	cloud	0.00663378	96.50	5.65	10.00	NA	NA	NA	NA	NA	NA	NA
+155.1	155	4908	42	TNL	TNL	0	0	0.00289531798566327	0.940766550522648	0.00289531798566327	-2.11098763152911	144	0.0530296851880924	-2.57506132423703	-2.2906726526998	0.216159795000753	0.579702211540525	shell	0.00491325	94.57	21.51	86.96	67	0	1	AT5G46470.1	100	Leaf	–
+15.6	15	4458	17	NL	N	0	0	0.0181658441752654	0.991666666666667	0.0181658441752654	-0.677331777827952	318	0.10412923394242	-0.714971532988974	-0.750583396776416	0.467715399152055	0.752257935790615	shell	0.009809	95.00	9.14	4.76	27	1	2	AT1G59124.2	1000	Leaf	–
+156.1	156	2706	43	CNL	CN	0	0	0.00329770437541283	0.889258028792912	0.00329770437541283	-1.30669825941151	61	0.0736707006435249	-2.21400641747331	-2.26438707828322	-1.9797585180378	0.933920303020009	shell	0.000312807	83.65	18.61	0.00	NA	NA	NA	AT5G35450.1	20	Root	–
+15.7	15	3471	8	CNL	CN	0	0	0.0145594106268264	0.642857142857143	0.0145594106268264	-1.88766087551167	200	0.162376694779925	-1.86467253422106	-2.07038625266389	10.6394384039394	0.000635737775427183	shell	0.00540715	84.50	34.66	0.00	NA	NA	NA	NA	NA	NA	NA
+157.1	157	1140	40	TNL	TN	0	0	0.00125730994152047	0.792307692307692	0.00125730994152047	-1.78143834663597	14	0.0487659503530096	-2.63362085325671	-2.55664822644634	-9.60868438061733	0.999988075938675	shell	0.000168247	72.47	16.75	88.64	NA	NA	NA	NA	NA	NA	NA
+158.1	158	597	42	TNL	T	0	0	0.00247851724748403	0.824622531939605	0.00247851724748403	-2.29853978022639	21	0.0373177259260912	-3.46544687270874	-3.36995039330112	-16.421812792004	0.99999999116693	shell	0.00044679	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+159.1	159	3789	40	TNL	TNL	0	0	0.0120314540742094	0.914102564102564	0.0120314540742094	0.423959308600011	174	0.125646296460551	-0.443854133373384	-0.89272794083086	7.84745139471598	0.00128845435101255	shell	0.00106121	63.70	22.55	0.00	4	0	1	AT5G51630.1	100	Root	–
+160.1	160	5403	39	TNL	TNL	0	0	0.0102716964109758	0.977058029689609	0.0102716964109758	0.248294704203287	220	0.122034290172323	0.448738065968797	0.405184264197182	0.821854729341763	0.450652355441699	shell	0.00610268	53.46	15.00	83.72	59	1	2	AT5G46510.1	20	Leaf	–
+16.10	16	5349	4	NL	NL	0	0	0.00507883093413099	1	0.00507883093413099	-0.243814951249252	51	0.224249451842619	0.296649559981095	-0.243814951249251	1.44365766482987	1	cloud	0.0101672	83.50	18.95	50.00	NA	NA	NA	NA	NA	NA	NA
+161.1	161	2493	38	TNL	TNL	0	0	0.0107806837808738	0.379800853485064	0.0107806837808738	-2.90585279159562	492	0.146977867033284	-5.82575290009959	-6.21225736008607	20.585797359744	1.18229878995643e-08	shell	0.00460193	0.00	0.00	2.38	2	0	1	NA	NA	NA	NA
+16.12	16	6141	5	TNL	TNL	0	0	0.0162839928350432	0.9	0.0162839928350432	-0.0964080645526567	211	0.20005389988195	0.244211586529835	-0.096408064552658	5.73605025195049	0.0938337342937826	cloud	0.0252024	95.20	1.64	55.56	NA	NA	NA	NA	NA	NA	NA
+16.14	16	7443	9	TNL	TNL	0	0	0.0215937420693567	1	0.0215937420693567	-0.459309302444571	479	0.140190413149186	-0.457655926432929	-0.648307008861168	1.40139723265388	1	shell	0.0286335	95.56	2.01	69.23	25	0	1	NA	NA	NA	NA
+163.3	163	4356	17	TNL	TNL	0	0	0.00555690595797548	1	0.00555690595797548	-1.20315804357095	114	0.086216197531559	-1.15495228716219	-1.07731422418734	-4.64393896954428	1	shell	0.00252329	73.71	20.74	80.95	13	0	1	NA	NA	NA	NA
+163.7	163	3258	7	TNL	TNL	0	0	0.00368324125230203	0.952380952380952	0.00368324125230203	-0.917149954747966	35	0.160538452565691	-0.634394025739945	-0.83024619191045	0.465636076527732	0.776599870717518	cloud	0.00441382	52.86	22.46	63.64	3	0	1	NA	NA	NA	NA
+16.4	16	4812	7	TNL	TNL	0	0	0.011439654831176	1	0.011439654831176	-1.54336912342551	183	0.0903322776348364	-1.35413790158948	-1.59891239080911	0.812323279038299	1	cloud	0.0134693	92.29	7.43	54.55	18	0	1	NA	NA	NA	NA
+164.1	164	4668	37	TNL	TN	0	0	0.007446392407832	0.986486486486487	0.007446392407832	0.9725223067958	115	0.146784140731151	0.943067852665142	0.659795054655728	-1.93837667855466	0.938688882473068	shell	0.000402521	42.70	12.79	82.93	NA	NA	NA	NA	NA	NA	NA
+16.5	16	4089	7	TNL	TNL	0	0	0.00272508122838277	0.857142857142857	0.00272508122838277	-0.839694393134535	32	0.164574183849703	-0.545382293320245	-0.734786918486318	1.89227642368984	0.416221590314631	cloud	0.000749182	89.00	14.36	63.64	NA	NA	NA	NA	NA	NA	NA
+165.10	165	4626	7	TNL	TNL	0	0	0.0311901673769378	1	0.0311901673769378	-0.153997774416938	363	0.139107741530328	0.0756426541749534	-0.129807607211277	1.86951091985337	1	shell	0.0275185	68.43	35.36	27.27	3	0	1	NA	NA	NA	NA
+165.3	165	3033	11	TNL	TNL	0	0	0.025825015735995	0.981818181818182	0.025825015735995	0.184040917512293	221	0.150165294914123	0.337426223481196	0.20206461981103	1.8888978763158	0.489696270622147	shell	0.0279624	77.91	14.02	26.67	17	0	1	NA	NA	NA	NA
+165.6	165	3771	4	TNL	TNL	0	0	0.0578095995757094	1	0.0578095995757094	-0.339094353818298	413	0.110322380144257	0.224056776733664	-0.339094353818298	3.58434010656168	1	cloud	0.0474936	75.75	16.24	37.50	NA	NA	NA	NA	NA	NA	NA
+165.8	165	3822	6	TNL	TNL	0	0	0.0253270538984825	1	0.0253270538984825	-0.412159123668616	236	0.115729950447684	-0.12936315258926	-0.398066553610002	1.80617602150541	1	cloud	0.0243822	80.17	22.68	20.00	1	0	1	NA	NA	NA	NA
+16.6	16	4755	6	TNL	TNL	0	0	0.0224185068349106	0.933333333333333	0.0224185068349106	-0.8088996214931	278	0.126263092023886	-0.562187176436562	-0.86913419254531	5.00236292672616	0.129208760636209	cloud	0.011355	89.00	11.58	60.00	6	0	1	NA	NA	NA	NA
+166.1	166	3306	34	TNL	TNL	0	0	0.033424886205926	0.973262032085562	0.033424886205926	1.4738195499541	326	0.165484107981829	1.04886284778725	0.523482680020727	5.16182095737875	0.0180979551759236	shell	0.00275378	64.88	12.26	2.63	8	0	1	NA	NA	NA	NA
+16.7	16	5442	17	TNL	TNL	0	0	0.00808796506474696	0.955882352941177	0.00808796506474696	-0.397238304093179	164	0.114358073353894	-0.35091892945024	-0.38995702339595	2.38369481938152	0.225550483629351	shell	0.0144228	90.94	10.60	76.19	26	0	1	NA	NA	NA	NA
+167.1	167	528	37	TNL	T	0	0	0.00854263354263354	0.884384384384384	0.00854263354263354	-1.96892763772822	42	0.0834824191813561	-3.43295609653117	-3.52184675890917	-0.715832100899789	0.800323898893351	shell	0.00169765	76.14	18.30	87.80	NA	NA	NA	AT1G72930.1	1000	Leaf	–
+16.8	16	4701	4	TNL	TNL	0	0	0.0106005814365738	1	0.0106005814365738	-0.70866564414621	98	0.194404567749494	-0.0944885456480275	-0.70866564414621	2.08040759483826	1	cloud	0.0076216	91.25	6.95	50.00	NA	NA	NA	NA	NA	NA	NA
+168.1	168	2766	34	CNL	CNL	0	1	0.00281879661744406	0.86096256684492	0.00281879661744406	-2.54015206850597	99	0.0742301654631625	-4.01927470967366	-4.00553289239072	-1.95898130792852	0.937419533294731	shell	0.000697662	54.38	10.58	76.32	3	0	1	AT1G12220.1	20	Leaf	–
+169.1	169	2085	36	TNL	TX	36	0	0.0115770240950097	0.89047619047619	0.0115770240950097	0.00354541431319685	100	0.114132108247552	-0.388818351807652	-0.574521318512802	4.06815908387742	0.0390108165094057	shell	0.0022009	52.36	13.89	0.00	3	0	1	AT1G51270.3	20	Leaf+Root	–
+1.7	1	3738	4	TNL	TNL	0	0	0.0409755662564651	1	0.0409755662564651	-0.190660608673741	286	0.105686521695377	0.350792431339125	-0.190660608673741	3.22782659947446	1	cloud	0.0223528	68.50	45.70	12.50	1	0	1	NA	NA	NA	NA
+170.1	170	3420	27	TNL	TNL	0	0	0.0136169007514037	0.96011396011396	0.0136169007514037	-2.26405851875575	419	0.159972887838952	-4.2048202474652	-4.43203353423814	1.63961701155591	0.302989545796898	shell	0.00677463	10.63	5.18	0.00	3	1	2	NA	NA	NA	NA
+170.2	170	3339	5	TNL	TNL	0	0	0.00287511230907457	1	0.00287511230907457	-0.968504163089896	23	0.161045731977845	-0.554658252887368	-0.968504163089897	-0.392569453738253	1	cloud	0.000987	10.80	4.38	0.00	NA	NA	NA	NA	NA	NA	NA
+171.1	171	3699	36	TNL	TNL	0	19	0.0044919905422744	0.507936507936508	0.0044919905422744	-2.88496065956496	290	0.156317077620631	-5.68563699685162	-6.03234693787964	12.6519581023515	2.01447156573668e-05	shell	0.0106709	5.75	4.01	72.50	18	0	1	NA	NA	NA	NA
+17.2	17	2955	7	CNL	CN	0	0	0.00109580211103054	0.952380952380952	0.00109580211103054	-0.629911967465126	9	0.138781767710095	-0.415045226745218	-0.613333844160199	-2.05931879321294	0.984888482870457	shell	0.000277182	0.00	0.00	63.64	NA	NA	NA	NA	NA	NA	NA
+172.1	172	3840	34	TNL	TN	0	0	0.00869819518716577	0.971479500891266	0.00869819518716577	-0.144439787495561	142	0.111570319605919	-0.904097214669577	-1.17969108834793	0.786877774571323	0.460431256112085	shell	0.00223943	0.00	0.00	86.84	9	1	2	NA	NA	NA	NA
+17.3	17	2955	6	CNL	CN	0	0	0.00315848843767625	0.6	0.00315848843767625	-1.51027262929752	28	0.356944389299165	-1.21634776962059	-1.54972952724143	4.62596062572651	0.0807046753739309	cloud	0.00206044	0.00	0.00	60.00	NA	NA	NA	NA	NA	NA	NA
+173.1	173	516	36	TNL	T	0	0	0.0177125630614003	0.915873015873016	0.0177125630614003	0.9220186397711	30	0.147701149154843	0.484428610288924	0.104750015458456	0.892463566910179	0.430321065909667	shell	0.00132991	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+17.4	17	2943	31	NL	NL	0	0	0.00166606381462848	0.78494623655914	0.00166606381462848	-2.47180182609654	58	0.100129772106499	-4.6151409680334	-4.83308184308664	-0.923279628561614	0.837644729052502	shell	0.000402695	32.77	12.55	0.00	NA	NA	NA	NA	NA	NA	NA
+174.1	174	3465	35	NL	NL	0	0	0.00671783865061176	0.974789915966387	0.00671783865061176	-1.06937971369019	134	0.0776923920664602	-1.09309802578408	-0.924298921185585	-3.35164962627396	0.986924336562247	shell	0.00137458	16.94	9.27	89.74	8	1	2	NA	NA	NA	NA
+17.5	17	2913	11	NL	N	0	0	0.00082389289392379	0.872727272727273	0.00082389289392379	-1.26449153679548	10	0.107195657985336	-1.50251469291215	-1.62987669017417	-2.31064671041349	0.97764344270482	shell	0.00126321	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+175.1	175	2979	34	TNL	TNL	0	0	0.00210923882507319	0.869875222816399	0.00210923882507319	-1.98725642985236	56	0.0509887654680591	-1.25025183303902	-0.652131380801539	-0.920868099294546	0.830773271693581	shell	0.000792123	0.00	0.00	0.00	2	0	1	NA	NA	NA	NA
+176.5	176	3630	5	TNL	TNL	0	0	0.0238567493112948	1	0.0238567493112948	1.0263620953543	159	0.228537397801196	1.2705982603505	1.0263620953543	2.11845022211145	1	cloud	0.00937057	89.00	5.15	0.00	5	0	1	NA	NA	NA	NA
+176.6	176	4137	12	TNL	TNL	0	0	0.0309512822203178	0.954545454545455	0.0309512822203178	-0.475356123740503	430	0.118960979365405	-0.400034334929582	-0.487532202519064	4.56657481459788	0.0814513859797809	shell	0.0191349	85.17	13.22	18.75	19	0	1	NA	NA	NA	NA
+176.9	176	3645	4	TNL	TNL	0	0	0.022267946959305	0.833333333333333	0.022267946959305	0.275022525630463	145	0.213807779745917	0.746766546777757	0.275022525630463	6.45973367643676	0.0702888475321901	cloud	0.0161042	81.25	25.67	25.00	NA	NA	NA	NA	NA	NA	NA
+177.1	177	507	34	TNL	T	0	0	0.00381820291322554	0.454545454545455	0.00381820291322554	-1.08224321136534	12	0.0770229594222647	-0.358400128181253	0.0115795253635507	0.483579734457433	0.586359703029129	shell	0.000398508	0.00	0.00	89.47	NA	NA	NA	NA	NA	NA	NA
+179.1	179	3780	4	TNL	TNL	0	0	0.0572310405643739	1	0.0572310405643739	-0.489548167426313	416	0.185968656919457	0.0949559509359427	-0.489548167426313	3.57660090247447	1	cloud	0.0309698	93.25	2.99	37.50	NA	NA	NA	NA	NA	NA	NA
+179.2	179	6546	26	TNL	TNL	0	0	0.0150189193635573	0.984615384615385	0.0150189193635573	-0.797876672084263	469	0.0970515829046804	-0.767790064572554	-0.680364470092294	1.80433924172422	0.310128473888104	shell	0.0153767	91.85	19.02	76.67	40	2	2	NA	NA	NA	NA
+180.1	180	3804	22	TNL	TNL	2	0	0.00143617336046358	0.956709956709957	0.00143617336046358	-1.60296879785549	34	0.0880915474904921	-1.74786862112418	-1.59869654426046	-5.03078944592512	0.998432470206661	shell	0.00741478	51.14	16.69	3.85	42	0	1	NA	NA	NA	NA
+180.3	180	3630	4	TNL	TNL	0	0	0.00472910927456382	1	0.00472910927456382	-0.479334270717273	33	0.225681861978853	0.0940373025091308	-0.479334270717274	0.946679362728281	1	cloud	0.005151	29.50	37.56	0.00	NA	NA	NA	NA	NA	NA	NA
+180.5	180	3723	4	TNL	TNLX	2	0	0.0056406124093473	1	0.0056406124093473	-0.633223038581949	41	0.304389853032895	-0.0334956729755508	-0.633223038581949	1.16698061553187	1	cloud	0.0060688	39.50	19.49	12.50	NA	NA	NA	NA	NA	NA	NA
+181.2	181	4335	5	TNL	TNL	0	0	0.0224221453287197	1	0.0224221453287197	0.417032047996075	192	0.238264030570896	0.713858850068949	0.417032047996075	2.23829731182869	1	cloud	0.02976	82.20	19.45	11.11	NA	NA	NA	NA	NA	NA	NA
+181.3	181	4029	13	TNL	TNL	0	0	0.0233944924935245	0.974358974358974	0.0233944924935245	-0.395838317041711	320	0.125252790287362	-0.381651320985936	-0.477819691239107	3.32044060978638	0.173229493324049	shell	0.0166247	83.62	7.79	41.18	14	0	1	NA	NA	NA	NA
+181.4	181	4056	7	TNL	TNL	0	0	0.0341175918098995	1	0.0341175918098995	0.000578479921362334	339	0.151634367527125	0.166431182834592	-0.0589101569890571	1.82526117519244	1	shell	0.0215691	83.71	6.90	18.18	6	0	1	NA	NA	NA	NA
+182.1	182	192	34	NL	N	0	0	0.000306372549019608	0.0588235294117647	0.000306372549019608	-1.13782891736397	1	33.9705882352941	-1.74066688293222	-1.72294499459335	-1.31506215685125	0.977973175650117	shell	8.04462e-05	0.00	0.00	89.47	NA	NA	NA	NA	NA	NA	NA
+18.3	18	3522	40	TNL	TNL	0	38	0.00431791377276897	0.978205128205128	0.00431791377276897	-1.83688350740424	129	0.053799776769905	-1.13133248098185	-0.520295476381043	-5.3391553907211	0.998369766348587	shell	0.000601299	93.70	22.51	90.91	NA	NA	NA	NA	NA	NA	NA
+183.1	183	3267	31	TNL	TNL	0	0	0.00904055214905655	0.995698924731183	0.00904055214905655	-1.56734778248576	199	0.0664852227880368	-1.69823929669632	-1.47573180224267	-7.17431146585685	0.999905246563745	shell	0.0025042	34.61	13.53	82.86	19	1	2	NA	NA	NA	NA
+18.4	18	3495	12	TNL	TNL	0	10	0.00153899510122686	0.727272727272727	0.00153899510122686	-1.15676753639786	22	0.146262330005502	-0.849044553143758	-0.797109120238973	2.41803142989304	0.228748134705902	shell	0.000445286	95.58	14.99	68.75	NA	NA	NA	NA	NA	NA	NA
+184.1	184	2754	9	TNL	TNL	0	0	0.0415758896151053	1	0.0415758896151053	1.19685970563952	253	0.214461280074581	1.41109560236897	1.22396776518593	1.02383946992281	1	shell	0.008946	44.89	24.66	69.23	2	0	1	NA	NA	NA	NA
+184.2	184	2739	6	TNL	TNL	0	0	0.0407447973713034	1	0.0407447973713034	1.06559270362229	204	0.225956465918948	1.30753408416113	1.06559270362229	2.38106484169197	1	cloud	0.0180527	47.17	38.49	40.00	3	0	1	NA	NA	NA	NA
+184.6	184	4359	9	TNL	TNL	0	0	0.0241390736917234	1	0.0241390736917234	-0.524499257523584	318	0.128114491345288	-0.421377046985469	-0.576536218896013	0.927528814484106	1	shell	0.0227287	81.67	21.27	30.77	NA	NA	NA	NA	NA	NA	NA
+18.5	18	3495	8	TNL	TNL	0	8	0.000194154915184958	0.607142857142857	0.000194154915184958	-0.447939441110269	2	0.197036397238517	-0.105411873486912	-0.14931384092843	-0.477600874962875	0.885519951361347	cloud	4.4e-05	92.38	21.57	66.67	NA	NA	NA	NA	NA	NA	NA
+185.1	185	843	30	TNL	T	0	0	0.00718561241324771	0.783908045977011	0.00718561241324771	-2.07845032739208	54	0.110575405035774	-3.84456394723714	-4.02971134828893	-2.35230985249298	0.961010020716496	shell	0.0088513	0.00	0.00	85.29	10	0	1	NA	NA	NA	NA
+186.1	186	2766	31	CNL	CN	0	1	0.00475979443161586	0.952688172043011	0.00475979443161586	-1.32490772627897	81	0.0717322928324041	-2.6925830269088	-2.90933188430812	-2.14203568064464	0.950160944089476	shell	0.0013888	25.10	14.02	80.00	3	0	1	NA	NA	NA	NA
+187.1	187	2817	24	CNL	CNL	0	0	0.0246098995230819	0.978260869565217	0.0246098995230819	-0.85949337612366	329	0.0933258658526326	-0.968903535072965	-0.924377888368856	2.29151421720661	0.215907117011197	shell	0.00870029	69.42	22.85	75.00	14	8	2	NA	NA	NA	NA
+188.2	188	1389	24	NL	N	0	0	0.00339364155215409	0.91304347826087	0.00339364155215409	-0.26681397486168	19	0.12244326425689	-0.901914651074449	-1.10536620832893	-1.21431925287645	0.88464467622026	shell	0.0197716	0.08	0.28	82.14	7	0	1	NA	NA	NA	NA
+188.3	188	738	5	CNL	CN	0	0	0.00867208672086721	0.9	0.00867208672086721	-1.22187298057666	16	0.309737792334097	-0.782172367060875	-1.22187298057666	0.883155887041666	0.72391189412466	cloud	0.00350943	0.00	0.00	55.56	NA	NA	NA	NA	NA	NA	NA
+189.1	189	3405	26	TNL	TNL	0	0	0.00284197447193042	0.990769230769231	0.00284197447193042	-1.88833475224885	72	0.0528798668333456	-2.40556668534576	-2.27509256814166	-11.2032292997189	0.999998692222823	shell	0.00141518	4.23	1.50	0.00	3	0	1	NA	NA	NA	NA
+190.1	190	3465	29	TNL	TNL	0	0	0.011811286688134	0.990147783251232	0.011811286688134	-0.509977205686413	185	0.101959424401875	-0.578452775607217	-0.565120484622256	-2.84121831164259	0.983937984219361	shell	0.00266107	62.31	10.25	69.70	17	2	2	NA	NA	NA	NA
+191.1	191	2826	26	CNL	CN	0	1	0.0164102564102564	0.929230769230769	0.0164102564102564	-0.130403277833127	183	0.119870610497725	0.441641168204636	0.565750685357905	2.92126585751018	0.120756812284784	shell	0.00328639	27.23	14.59	80.00	6	1	2	NA	NA	NA	NA
+192.1	192	1596	27	TNL	T	5	0	0.00308106448457326	0.606837606837607	0.00308106448457326	-2.61730081308796	60	0.160493089621079	-4.21754192832693	-4.26495872050491	0.796978146906585	0.484671327408567	shell	0.146269	0.00	0.00	80.65	NA	NA	NA	NA	NA	NA	NA
+193.1	193	1896	29	NL	NL	0	0	0.00629793602294694	0.982758620689655	0.00629793602294694	-1.85734746282752	91	0.0590426671981291	-2.71916166384778	-2.67837447536303	-8.28945984713967	0.999956887619844	shell	0.00128864	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+194.1	194	501	27	TNL	T	0	0	0.0164912340561043	0.766381766381766	0.0164912340561043	-2.68722843354979	103	0.159046730140213	-4.66587083044413	-4.8170525635878	0.586007158649993	0.524051773646837	shell	0.0068168	2.67	13.86	3.23	1	0	1	NA	NA	NA	NA
+195.1	195	2889	28	NL	NL	0	0	0.00691731636695292	0.896825396825397	0.00691731636695292	-0.699947089847311	95	0.117993249655317	-1.05263988650916	-1.09163757622893	8.18156614435257	0.00122696108441947	shell	0.000711604	0.71	0.53	75.00	1	0	1	NA	NA	NA	NA
+196.1	196	111	27	TNL	T	0	0	0.00266933600266934	0.279202279202279	0.00266933600266934	-1.88848619999683	4	0.0888116948761615	-2.90289230547419	-2.90197919051132	-4.19881664799611	0.997829611422446	shell	0.000712353	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+197.1	197	3204	23	CNL	CN	0	12	0.00376752379683498	0.909090909090909	0.00376752379683498	0.235764960405062	42	0.129148019584954	-0.316533861227001	-0.597797931950817	-0.946803141342754	0.851815048794546	shell	0.00106544	1.09	0.60	81.48	NA	NA	NA	NA	NA	NA	NA
+198.1	198	2916	25	CNL	CNL	0	0	0.0389483310470965	0.883333333333333	0.0389483310470965	-1.54324482061485	696	0.0794589599135029	0.536499145769199	1.38612927004193	15.0895533658893	2.87971877408493e-06	shell	0.00828313	5.64	3.67	0.00	8	0	1	AT5G05400.1	20	Root	–
+199.1	199	1062	20	TNL	TX	20	0	0.00961938745168005	0.794736842105263	0.00961938745168005	-1.3774855156607	55	0.0880004729524368	0.437719314223699	1.09532609577467	3.5840281840729	0.0764850153614722	shell	0.00157862	9.80	1.79	75.00	NA	NA	NA	AT5G45070.1	100	Root	–
+200.1	200	243	24	TNL	T	0	0	0.00605355758334824	0.829710144927536	0.00605355758334824	-2.1286757170649	14	0.0467324235298515	-2.53213368974762	-2.34917547178057	-10.7082470193386	0.99999730202365	shell	0.00129404	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+20.1	20	4242	54	TNL	TNL	10	0	0.0127369280803492	0.881201956673655	0.0127369280803492	-1.90215429101019	520	0.0523094394931038	-0.523602763331215	0.458632331372928	14.3665186135503	2.48456395082743e-06	core	0.0028461	87.78	26.35	0.00	13	0	1	AT5G11250.2	100	Leaf	–
+201.1	201	4116	22	TNL	TN	0	21	0.0295373560679683	0.748917748917749	0.0295373560679683	-2.60380732357024	1206	0.165094857840771	-3.98341905154373	-4.02489694587657	22.2264352896093	4.61123174491618e-09	shell	0.0153106	13.86	8.75	80.77	2	0	1	NA	NA	NA	NA
+202.1	202	825	23	TNL	T	0	0	0.0074931129476584	0.66403162055336	0.0074931129476584	-1.91905545682029	45	0.0762039259061327	-1.1894428284849	-0.718217529258009	2.99539171627658	0.120346629225503	shell	0.00302458	28.30	9.69	81.48	1	0	1	AT1G72920.1	100	Leaf	–
+203.1	203	1176	20	TNL	TX	20	0	0.00523182957393484	0.863157894736842	0.00523182957393484	-0.967246358498668	29	0.0908515244382575	-1.36978946120041	-1.4186076267721	-0.177699484986186	0.726377840625474	shell	0.000872919	7.70	2.60	75.00	NA	NA	NA	AT5G45080.1	100	Root	–
+204.1	204	3729	21	TNL	TNL	0	20	0.0333116244620669	0.961904761904762	0.0333116244620669	1.18989482894653	347	0.176474290214607	1.65131024277557	1.4930188848225	5.95938475422583	0.0139386006742818	shell	0.00329472	15.00	7.51	84.00	2	0	1	NA	NA	NA	NA
+205.1	205	4329	23	TNL	TNLX	19	22	0.0386984734810822	0.948616600790514	0.0386984734810822	0.345374634079761	570	0.145143103475395	1.41470389434274	1.58812545986504	15.5411434907412	2.37722622561156e-06	shell	0.00755698	30.87	14.51	85.19	20	0	1	NA	NA	NA	NA
+206.1	206	3690	20	TNL	TNL	0	0	0.0065539865924975	0.842105263157895	0.0065539865924975	-1.86294686187115	156	0.120123675269389	-2.32035162789124	-2.24368680226904	9.11278427499735	0.000689504834443364	shell	0.00148259	36.25	18.21	0.00	2	0	1	NA	NA	NA	NA
+207.1	207	1788	24	NL	N	0	0	0.00248435625587654	0.865942028985507	0.00248435625587654	-0.769660087429422	21	0.102341030036799	-0.676709317524036	-0.58631485066684	0.104370811637251	0.658107486184745	shell	0.00390089	0.04	0.20	0.00	9	0	1	NA	NA	NA	NA
+208.1	208	981	23	NL	N	0	14	0.00502834487676929	0.573122529644269	0.00502834487676929	-2.62699876165265	55	0.184857629743967	-4.26187865237418	-4.35829680479845	2.03490737126052	0.243039891859029	shell	0.00238486	0.00	0.00	85.19	NA	NA	NA	NA	NA	NA	NA
+209.1	209	2733	19	CNL	CN	0	0	0.0111138927939436	0.941520467836257	0.0111138927939436	-2.35149820283186	241	0.185762217703588	-3.32540032681621	-3.33817033140677	3.56954459611987	0.0812567441939421	shell	0.00400403	50.21	23.70	78.26	2	0	1	NA	NA	NA	NA
+210.1	210	2676	22	CNL	CNL	0	0	0.0033211681193744	0.926406926406926	0.0033211681193744	-0.660137693614808	39	0.0991590309163366	-1.56948697675466	-1.80230491287052	-1.59891756559263	0.923444307323744	shell	0.000356732	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+21.1	21	4896	5	TNL	TNL	0	5	0.00441176470588235	0.9	0.00441176470588235	1.38400136936913	38	0.254488787447086	1.58082042354869	1.38400136936913	2.9050824070282	0.351933622831054	cloud	0.00114543	70.60	2.61	44.44	NA	NA	NA	AT4G36140.1	20	Leaf+Root	–
+211.1	211	4131	20	TNL	TNL	0	0	0.00884582552969206	0.910526315789474	0.00884582552969206	0.648599886960898	112	0.149451182842493	0.144963314893872	-0.202384373986211	3.79258674718682	0.0673989669828181	shell	0.000972189	46.95	0.22	83.33	1	0	1	NA	NA	NA	NA
+21.2	21	4995	38	TNL	TNL	14	38	0.00478999625514562	0.965860597439545	0.00478999625514561	-0.574956383544395	119	0.0950527638610252	-0.508338475046569	-0.410603404528489	-0.236281810617644	0.692930013124936	shell	0.00101355	67.13	18.88	90.48	7	0	1	NA	NA	NA	NA
+212.1	212	2286	5	TNL	TN	0	0	0.0238845144356955	1	0.0238845144356955	0.0504819466231244	113	0.160411503875541	0.377051771328836	0.0504819466231232	1.63372825164544	1	cloud	0.0338711	57.60	38.75	44.44	2	0	1	NA	NA	NA	NA
+212.4	212	1638	4	TNL	TN	0	0	0.0917785917785918	1	0.0917785917785918	-0.27407675094031	283	0.262493541744825	0.279263159778367	-0.27407675094031	3.2089305075628	1	cloud	0.0468828	56.50	16.94	12.50	NA	NA	NA	NA	NA	NA	NA
+212.9	212	2367	5	TNL	TNL	0	0	0.0233065765385157	1	0.0233065765385157	-0.754851500624983	109	0.256300996826931	-0.133692780919937	-0.754851500624982	2.18558911020888	1	cloud	0.0274036	25.60	26.41	44.44	NA	NA	NA	NA	NA	NA	NA
+21.3	21	6255	5	TNL	TNL	0	4	0.0574900079936051	1	0.0574900079936051	-0.109003975992342	760	0.267386421897146	0.233824621396102	-0.109003975992344	3.57268288998834	1	cloud	0.0919864	44.40	35.00	55.56	1	0	1	NA	NA	NA	NA
+213.1	213	1620	20	TNL	TN	0	19	0.00586094866796621	0.91578947368421	0.00586094866796621	-1.07358222475984	46	0.114505228735174	-1.31273244489974	-1.2994824218806	0.477026013655333	0.575056079987164	shell	0.0013693	0.00	0.00	79.17	1	0	1	AT1G72870.1	20	Root	–
+21.4	21	5094	6	TNL	TNL	0	6	0.0053527025258474	1	0.0053527025258474	-1.43017579256228	80	0.342123931817437	-1.13161140339825	-1.45664946006987	0.391482968596097	1	cloud	0.00970689	33.67	4.03	60.00	1	0	1	NA	NA	NA	NA
+214.1	214	4293	10	TNL	TNL	0	0	0.0271294355151797	1	0.0271294355151798	-0.584033434055081	373	0.130690779926393	0.172545159970368	0.257337542025272	0.783393157617237	1	shell	0.019412	42.90	29.14	7.14	23	0	1	NA	NA	NA	NA
+21.5	21	5778	7	TNL	TNL	0	7	0.00120325042443422	0.952380952380952	0.00120325042443423	-0.29994224203556	18	0.147081382263679	-0.0741331715874301	-0.269250695295058	-0.49834383826898	0.906000386771636	shell	0.000297636	32.86	2.41	63.64	NA	NA	NA	NA	NA	NA	NA
+215.1	215	4893	21	TNL	TN	0	0	0.0069584343036213	0.976190476190476	0.0069584343036213	-1.71490472514895	210	0.0913666899292628	-3.02235186848794	-3.20818783294679	0.116637891982812	0.688513677699574	shell	0.00138764	51.00	0.45	84.00	11	0	1	NA	NA	NA	NA
+216.1	216	4713	4	TNL	TNL	0	0	0.021854445151708	1	0.021854445151708	-0.779882867206402	204	0.338528219278662	-0.154504613183185	-0.779882867206401	2.82523411287499	1	cloud	0.0149682	97.25	0.96	37.50	NA	NA	NA	AT4G16890.1	100	Leaf	–
+216.3	216	4533	9	TNL	TNL	0	0	0.0437777287545653	0.972222222222222	0.0437777287545653	0.0227709406170159	537	0.141263732199822	0.0636415642616161	-0.133598129947206	4.40308051010668	0.163789367320713	shell	0.0203039	85.67	32.05	69.23	9	3	2	NA	NA	NA	NA
+216.5	216	5928	5	TNL	TNL	0	0	0.029251012145749	1	0.029251012145749	-0.722880238167993	399	0.147816353327671	-0.328890024071588	-0.722880238167994	2.83286899461889	1	cloud	0.0226751	82.60	24.99	33.33	1	0	1	NA	NA	NA	NA
+217.1	217	3558	17	NL	N	0	0	0.0676189531461826	0.911764705882353	0.0676189531461826	-0.634417999388333	953	0.142148891409857	-1.28520470392873	-1.49478949648797	15.039330212346	6.77657296711344e-06	shell	0.02531	20.71	10.02	0.00	2	0	1	NA	NA	NA	NA
+218.1	218	999	18	TNL	TX	18	0	0.0136541770528699	0.830065359477124	0.0136541770528699	-1.59720133516611	76	0.16561000856363	-2.51023980406795	-2.63746921104751	4.33565406120996	0.0436190416202168	shell	0.00264555	0.00	0.00	68.18	1	0	1	AT5G45090.1	20	Root	+
+219.1	219	1980	19	NL	N	0	0	0.000980565892846594	0.842105263157895	0.000980565892846594	-1.58109078413839	12	0.103716481573659	-2.15646751017141	-2.16634698908646	-4.98824606706333	0.998590893417463	shell	0.000297314	24.53	9.12	73.91	NA	NA	NA	NA	NA	NA	NA
+220.1	220	465	19	TNL	T	0	0	0.00900459032886877	0.859649122807018	0.00900459032886877	1.64361247594833	10	0.205311468632115	1.34239779844263	0.94372688529774	0.905697976304445	0.488916216640865	shell	0.000652457	0.00	0.00	65.22	NA	NA	NA	NA	NA	NA	NA
+22.1	22	4338	59	NL	N	0	54	0.00377617881637515	0.960841613091759	0.00377617881637515	-2.35268830457651	226	0.0517378426757851	-5.57091904592856	-6.27471140243414	-3.82104700935542	0.989467817687593	core	0.000602243	40.15	23.55	88.89	3	0	1	NA	NA	NA	NA
+221.2	221	4416	15	TNL	TNL	0	0	0.0304951690821256	1	0.0304951690821256	-0.848019118167868	541	0.0957316424715842	-1.09210532876277	-1.17997620104211	-0.116575638371298	1	shell	0.0143042	88.20	7.59	10.53	23	0	1	NA	NA	NA	NA
+2.22	2	522	12	RNL	R	0	0	0.00426680599094392	0.924242424242424	0.00426680599094392	-1.02554642620042	9	0.10885957202338	-1.12224707068256	-1.19243396704711	-3.60493917512763	0.995008371360795	shell	0.000955	31.83	10.88	75.00	NA	NA	NA	NA	NA	NA	NA
+222.1	222	588	19	TNL	T	0	0	0.00560926124835899	0.485380116959064	0.00560926124835899	1.5082605770774	8	0.201503944484884	1.16993554219573	0.78844456065382	5.18963556471209	0.0311139201477586	shell	0.00138694	1.00	1.89	56.52	NA	NA	NA	NA	NA	NA	NA
+223.1	223	1617	18	TNL	TN	0	0	0.00695227585983888	0.915032679738562	0.00695227585983888	-0.799525000169315	48	0.135031051091331	-1.28250147679753	-1.40267440102985	1.34114319715406	0.38181678810262	shell	0.00116279	0.00	0.00	81.82	1	0	1	NA	NA	NA	NA
+224.1	224	1557	16	TNL	TN	0	0	0.00207129094412331	0.866666666666667	0.00207129094412331	0.26154891776571	10	0.151920003620326	0.230357023816715	0.0944913300167914	-0.321920893267541	0.778822998632111	shell	0.000266483	0.00	0.00	80.00	NA	NA	NA	NA	NA	NA	NA
+225.1	225	3018	16	TNL	TNL	0	0	0.0187624254473161	0.775	0.0187624254473161	0.514824132166574	168	0.158359397329992	0.734068853307685	0.612076164423239	14.6246824864235	6.93915229968118e-06	shell	0.00314407	0.12	0.34	0.00	4	0	1	NA	NA	NA	NA
+226.1	226	1905	14	NL	N	0	0	0.0339303740878544	0.978021978021978	0.0339303740878544	-0.00971462874899397	206	0.134655434755922	0.0942981469369793	-0.00589565761584944	2.01839486071307	0.356093864997524	shell	0.00931856	96.79	5.96	55.56	NA	NA	NA	NA	NA	NA	NA
+227.1	227	312	18	TNL	T	0	0	0.00173872967990615	0.398692810457516	0.00173872967990615	-1.60021079814134	4	0.127704728964872	-1.72232744924056	-1.61330258616229	-1.48575132916225	0.947954750663352	shell	0.000390364	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+228.1	228	1149	10	CNL	CN	0	0	0.0224929890726235	0.911111111111111	0.0224929890726235	0.449007585347983	67	0.165345954837667	0.471343954865294	0.269282800386473	3.30929999272916	0.150286632948492	shell	0.00528706	57.40	34.98	71.43	2	0	1	NA	NA	NA	NA
+2.29	2	522	14	RNL	R	0	0	0.00364195191781399	0.626373626373626	0.00364195191781399	0.0273710948457502	6	0.152677951795284	0.595784121915293	0.654147598416604	1.06306838757652	0.51266707077135	shell	0.00046308	48.64	10.47	77.78	NA	NA	NA	NA	NA	NA	NA
+229.1	229	3597	16	TNL	TNL	0	14	0.0747636919655268	0.45	0.0747636919655268	-1.01003971306891	1159	0.115119219046673	1.05884906082088	1.6833130325054	Inf	3.30646433108227e-15	shell	0.0181367	19.00	10.03	65.00	NA	NA	NA	NA	NA	NA	NA
+230.1	230	4866	16	TNL	TNL	0	0	0.00414782846965338	0.975	0.00414782846965338	-0.65354922553899	79	0.119790127483848	0.46755959269212	0.766644573895062	-0.416287422567136	0.815160583378678	shell	0.00273134	28.56	0.63	45.00	8	0	1	NA	NA	NA	NA
+23.1	23	3051	6	TNL	TNL	0	0	0.00279689719217743	0.8	0.00279689719217743	1.34683339811106	16	0.266666666666667	1.74744345635086	1.67835720891102	4.36837850473365	0.0959164846051237	cloud	0.000584889	32.83	1.33	50.00	NA	NA	NA	AT1G63880.1	100	Leaf	–
+23.2	23	3630	33	TNL	TNL	0	0	0.0315646130728775	0.981060606060606	0.0315646130728775	-0.564684448682034	545	0.11281625207642	-1.51750549993739	-1.76981524396232	4.56803361557458	0.0312707735111506	shell	0.00875294	33.67	8.78	78.38	14	1	2	NA	NA	NA	NA
+23.3	23	3444	11	TNL	TNL	0	0	0.00217506071164608	0.927272727272727	0.00217506071164608	0.439611103426528	20	0.164029829982131	0.168699506000694	-0.101005154467557	0.649427687531451	0.606112339351401	shell	0.00332932	41.73	15.86	73.33	5	0	1	NA	NA	NA	NA
+233.1	233	2883	16	TNL	TL	0	0	0.00451208232165568	0.983333333333333	0.00451208232165568	-1.3435808156721	63	0.108424889924454	-1.5054076277358	-1.48490748606201	-2.91300107777606	0.989274476148031	shell	0.00116403	68.62	13.39	80.00	1	0	1	NA	NA	NA	NA
+234.1	234	1554	9	TNL	TN	0	0	0.00965250965250965	1	0.00965250965250965	0.668759115161402	36	0.194279030169975	1.14535875085816	1.07285302825293	-1.90415550733077	1	shell	0.00401413	23.22	10.67	69.23	1	0	1	NA	NA	NA	NA
+23.5	23	3093	11	TNL	TNL	0	0	0.00755959204067836	0.945454545454545	0.00755959204067837	-1.40812375391397	97	0.192325680086575	-1.49206287711166	-1.57504471312606	1.01014215805119	0.573870046568108	shell	0.00357142	32.91	4.25	73.33	NA	NA	NA	NA	NA	NA	NA
+235.1	235	468	15	TNL	T	0	0	0.00891330891330891	0.80952380952381	0.00891330891330891	-2.16126771042401	28	0.213882029864305	-2.73342478393942	-2.74713303537017	1.19071599017253	0.444256285897832	shell	0.00261789	0.13	0.35	68.42	NA	NA	NA	NA	NA	NA	NA
+236.1	236	3171	12	TNL	TNL	0	0	0.00999589079059278	0.96969696969697	0.00999589079059278	-0.199454492248405	100	0.134822265070949	-0.436898153964022	-0.641266843076517	1.21900441616799	0.524004646516903	shell	0.00401314	9.00	1.86	68.75	1	0	1	NA	NA	NA	NA
+237.1	237	1038	12	NL	N	0	0	0.0575553220061891	0.954545454545455	0.057555322006189	0.699177541144797	157	0.177583075193866	0.344640571502879	0.0212040091319202	2.65945957923487	0.256047221988194	shell	0.0208869	0.00	0.00	31.25	3	0	1	NA	NA	NA	NA
+238.1	238	3648	6	NL	NL	0	0	0.043859649122807	1	0.043859649122807	-0.099358940864253	371	0.136285291969888	0.179149777374245	-0.0727237631950991	2.33174964019302	1	cloud	0.032311	55.67	19.37	20.00	5	0	1	NA	NA	NA	NA
+238.2	238	3753	6	NL	NL	0	0	0.0353850253130829	1	0.0353850253130829	-0.770884417897304	344	0.106262890394	-0.470700504494013	-0.754768612103407	2.13818575109304	1	cloud	0.0371967	68.83	29.84	30.00	4	0	1	NA	NA	NA	NA
+239.1	239	3339	14	TNL	TN	0	0	0.00775385141961961	0.978021978021978	0.00775385141961961	-0.997031713393227	106	0.129515468324773	-0.437477481554219	-0.28829282928316	-0.0437743822622329	0.780972268883741	shell	0.00250308	1.07	3.73	66.67	4	0	1	NA	NA	NA	NA
+240.1	240	2934	14	TNL	TNL	0	0	0.00359933182019072	0.758241758241758	0.00359933182019072	-2.17184872951244	66	0.15676530045902	-2.76694062608277	-2.81858447001828	2.88132355712064	0.151938255452552	shell	0.00130968	5.36	0.84	0.00	NA	NA	NA	NA	NA	NA	NA
+24.1	24	4839	63	TNL	TN	0	0	0.00303939435591536	0.964669738863287	0.00303939435591536	-2.11767273826802	175	0.0483255876283146	-4.81140598217738	-5.37702627971812	-9.4019075860549	0.999973351608937	core	0.00054161	69.16	23.71	89.55	8	0	1	AT1G27170.1	20	Root	–
+241.1	241	4428	14	TNL	TNL	0	0	0.00995661971271727	0.956043956043956	0.00995661971271727	-2.06843959820344	259	0.179866679480551	-2.70867596876973	-2.78683399175346	2.47004301504367	0.240072848708164	shell	0.0120007	36.07	21.14	61.11	15	1	2	AT4G16960.1	20	Leaf+Root	–
+242.1	242	3600	14	TNL	TN	0	0	0.00181013431013431	0.923076923076923	0.00181013431013431	-0.578116227569646	24	0.113533956865145	-0.519302275018218	-0.558748511564993	-1.64014499878622	0.943843882317213	shell	0.00051024	20.86	6.02	0.00	NA	NA	NA	AT5G36930.2	100	Leaf	–
+243.1	243	1917	14	TNL	TN	0	13	0.000899986815479773	0.274725274725275	0.000899986815479773	-0.797767387403715	7	0.118866919403748	0.438168145779914	0.76975752371561	2.16283664509021	0.305283481278099	shell	0.00014648	0.00	0.00	72.22	NA	NA	NA	NA	NA	NA	NA
+2.44	2	543	10	RNL	R	0	0	0.0044067350697185	0.892857142857143	0.0044067350697185	-0.540906525225186	7	0.141782583995819	-0.303020825887407	-0.426895100680356	-2.15997312329013	0.980948651343467	shell	0.000762353	17.30	10.86	71.43	NA	NA	NA	NA	NA	NA	NA
+244.1	244	2649	12	CNL	CN	0	0	0.0320818605076816	0.939393939393939	0.0320818605076816	0.389913328941727	237	0.16414205531209	0.73101921149233	0.643406375615541	5.63521487392198	0.0288565899763655	shell	0.0067859	98.92	0.90	43.75	NA	NA	NA	NA	NA	NA	NA
+2.45	2	543	5	RNL	R	0	0	0.00184162062615101	0.5	0.00184162062615101	-0.709896167879475	2	0.433012701892219	-0.151066890532825	-0.709896167879472	1.09861228866811	0.708333333333333	cloud	0.000527857	31.20	14.36	55.56	NA	NA	NA	NA	NA	NA	NA
+245.1	245	2832	13	TNL	TN	1	1	0.0201904968854121	0.961538461538462	0.0201904968854121	-1.65402917399286	277	0.126883701368346	-1.73964756147161	-1.73237606357954	2.12617113861511	0.338946445130063	shell	0.0228354	61.31	33.53	58.82	5	0	1	NA	NA	NA	NA
+246.1	246	1944	13	TNL	TN	0	0	0.00415479582146249	0.602564102564103	0.00415479582146249	-0.312658091983559	27	0.150006155126784	-0.0679718308835595	-0.0969031058404749	6.14225782521123	0.0136874545093121	shell	0.0010503	11.00	2.97	58.82	1	0	1	NA	NA	NA	NA
+248.1	248	819	11	TNL	T	0	0	0.0380952380952381	0.890909090909091	0.0380952380952381	-0.581668609802922	104	0.133340617516645	-0.334345461994993	-0.380449013215197	3.15539312200097	0.162406040766701	shell	0.0207622	30.09	16.88	60.00	2	0	1	NA	NA	NA	NA
+249.1	249	2808	11	CNL	CNL	0	0	0.0343952343952344	0.963636363636364	0.0343952343952344	-1.77318264303327	446	0.250039582494939	-2.12141204275206	-2.25771661427329	4.35055550781887	0.0943885857445862	shell	0.0148848	2.18	5.31	6.67	1	0	1	NA	NA	NA	NA
+250.1	250	1020	11	NL	N	0	0	0.00110516934046346	0.781818181818182	0.00110516934046346	0.344258525864815	3	0.184425746117611	0.280011880588359	0.126720966651033	-0.485718899398385	0.853499212183099	shell	0.000155	32.55	19.14	0.00	NA	NA	NA	NA	NA	NA	NA
+25.1	25	2529	12	NL	NL	0	12	0.00420575865415723	0.833333333333333	0.00420575865415723	0.317985281779585	30	0.152072208292796	0.0747538712195355	-0.171359096629242	2.03185968228824	0.28949715114739	shell	0.000589238	69.50	24.82	68.75	NA	NA	NA	AT5G47250.1	100	Leaf+Root	–
+251.1	251	3693	8	TNL	TNL	0	2	0.00554137170709063	0.785714285714286	0.00554137170709063	0.217517651715111	51	0.20086110173581	0.0398957422906578	-0.25780414062049	4.37343631806571	0.0795525620722544	shell	0.00135969	0.00	0.00	58.33	NA	NA	NA	NA	NA	NA	NA
+2.52	2	951	10	RNL	R	0	0	0.00911321416053277	0.911111111111111	0.00911321416053277	0.102476887184208	24	0.155778609920111	-0.165709294769951	-0.43025241798733	0.541804756703779	0.651988597924836	shell	0.00285959	38.30	24.41	71.43	NA	NA	NA	NA	NA	NA	NA
+25.2	25	2529	46	NL	NL	0	43	0.003763493236906	0.965217391304348	0.003763493236906	-1.70174050910107	80	0.0593478558869486	-3.10262782474471	-3.23103032063913	-9.09302541104554	0.999969696916307	shell	0.000572966	67.13	18.76	88.00	1	0	1	NA	NA	NA	NA
+252.1	252	2592	10	CNL	CN	0	0	0.0417009602194787	0.977777777777778	0.0417009602194787	-0.367204233927616	330	0.132345814164492	0.0142158390409327	-0.0308597606074965	2.8438544338013	0.332779695102667	shell	0.0180304	78.00	25.94	28.57	5	0	1	NA	NA	NA	NA
+25.3	25	2529	3	NL	NL	0	3	0.0018452616317385	0.666666666666667	0.0018452616317385	NA	7	0.471404520791032	NA	NA	2.88417978764824	0.423529411764706	cloud	NA	53.67	22.03	42.86	NA	NA	NA	NA	NA	NA	NA
+254.1	254	2865	8	TNL	TN	0	4	0.0114061331338818	1	0.0114061331338818	-1.36329113957353	113	0.170761684084346	-1.18589441740727	-1.34646160624737	-0.199526162358563	1	shell	0.00785492	0.00	0.00	58.33	1	0	1	NA	NA	NA	NA
+255.1	255	2808	11	NL	NL	0	0	0.0076016576016576	0.981818181818182	0.0076016576016576	-1.99404211477949	107	0.240650602391699	-2.25800667894255	-2.35068397827279	-0.477803217020325	0.892980911854867	shell	0.00369542	40.36	10.66	73.33	1	0	1	NA	NA	NA	NA
+256.1	256	483	11	TNL	T	0	2	0.0105401844532279	0.763636363636364	0.0105401844532279	1.52993826321899	11	0.224665739158152	1.40043287877605	1.10689882033964	3.39516684884181	0.125169734258795	shell	0.00121384	11.36	6.77	53.33	NA	NA	NA	NA	NA	NA	NA
+257.1	257	4290	9	TNL	TNL	0	0	0.0221963221963222	1	0.0221963221963222	-1.44398326363279	358	0.149119993446517	-1.26874945088467	-1.36438955394141	0.812347470332809	1	shell	0.0155235	81.78	15.40	15.38	4	0	1	NA	NA	NA	NA
+258.1	258	3615	9	TNL	TNL	0	0	0.0195942830797603	0.972222222222222	0.0195942830797603	-1.43782968914241	266	0.240962582698395	-1.42793221146229	-1.57686977984095	2.51045560462738	0.386785631154702	shell	0.0064906	87.00	8.69	0.00	3	0	1	NA	NA	NA	NA
+259.1	259	576	9	TNL	T	0	0	0.0196759259259259	0.944444444444444	0.0196759259259259	-1.16504880249101	40	0.185654497905633	-1.30664861305757	-1.51177576276279	0.542850317873865	0.686554056090484	shell	0.00513733	35.22	20.28	69.23	NA	NA	NA	NA	NA	NA	NA
+260.1	260	501	10	NL	N	0	0	0.0361055666444888	0.844444444444444	0.0361055666444888	-1.47390398102742	73	0.186025725989503	-1.42937407833384	-1.51097571350462	3.94259670144886	0.0885896530127871	shell	0.121705	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+26.1	26	3720	63	TNL	TNL	0	62	0.0196400354568929	0.945724526369688	0.0196400354568929	-1.48023889972803	590	0.0926852865998645	-4.29002523351179	-5.10236587207971	12.8486275048756	9.35315692214893e-06	core	0.0022285	88.10	19.44	91.04	6	0	1	AT4G36150.1	100	Leaf+Root	–
+261.1	261	498	10	NL	N	0	0	0.00441767068273092	0.377777777777778	0.00441767068273093	-1.94429117909102	11	0.271055482106829	-2.1509455198673	-2.27594978481705	2.2253845365057	0.308592723846136	shell	0.00250194	0.00	0.00	71.43	NA	NA	NA	NA	NA	NA	NA
+262.1	262	573	5	TNL	T	0	0	0.0546829552065154	1	0.0546829552065154	-0.607799414600553	61	0.352088168522896	-0.01011679552192	-0.607799414600552	1.59509836705383	1	cloud	0.0258107	23.60	12.36	33.33	NA	NA	NA	NA	NA	NA	NA
+263.1	263	2793	8	CNL	CN	0	0	0.0539614341977392	0.892857142857143	0.0539614341977392	2.03529505795057	285	0.251707069360448	1.6401197970908	1.23870031023968	7.62479799066351	0.0122957586975994	cloud	0.00958054	35.00	5.58	0.00	1	0	1	NA	NA	NA	NA
+264.1	264	579	8	TNL	T	0	0	0.00684678016284234	0.892857142857143	0.00684678016284234	0.138030222572779	10	0.188872527469331	0.552240674444079	0.479930533261337	0.298749930306292	0.726841297299929	shell	0.00151	0.00	0.00	8.33	NA	NA	NA	NA	NA	NA	NA
+265.1	265	342	8	RNL	R	0	0	0.0127401837928154	0.892857142857143	0.0127401837928154	0.135044987054636	11	0.161295355173691	0.160879774680939	-0.0474086188958518	-0.774658670258044	0.903934724323451	shell	0.00476138	1.00	1.41	66.67	NA	NA	NA	NA	NA	NA	NA
+267.1	267	516	8	TNL	T	0	0	0.0116279069767442	0.714285714285714	0.0116279069767442	2.06899112242197	11	0.272727272727273	1.82466174828002	1.51707580466726	4.63123814394591	0.0643106893106893	cloud	0.00269746	0.62	0.74	50.00	NA	NA	NA	AT1G57630.1	100	Leaf	–
+268.1	268	2670	5	CNL	CNL	0	0	0.040374531835206	1	0.040374531835206	0.34004205328788	215	0.16401202979267	0.643688258676792	0.340042053287879	2.34532246642208	1	cloud	0.0217893	68.80	23.55	22.22	1	0	1	NA	NA	NA	NA
+269.1	269	2718	7	CNL	CNL	0	0	0.133186166298749	0.952380952380952	0.133186166298749	2.26016003615418	641	0.279312171410956	1.97686419728531	1.63110471842737	6.66328759513382	0.056035674329803	shell	0.0273074	0.14	0.38	36.36	NA	NA	NA	NA	NA	NA	NA
+270.1	270	1563	6	CNL	CN	0	0	0.0528044359138409	1	0.0528044359138409	0.921799925727555	165	0.223793708848099	1.31583601573548	1.17287143258399	1.63665836011829	1	cloud	0.0434719	5.33	3.50	50.00	NA	NA	NA	NA	NA	NA	NA
+27.1	27	2745	62	NL	NL	0	0	0.00632446474961928	0.93918561607615	0.00632446474961928	-1.17488832034667	123	0.0686022213402292	-2.11881363410501	-2.22176833877506	-1.25538208232227	0.851569748288641	core	0.000425207	96.15	16.86	0.00	NA	NA	NA	AT4G26090.1	100	Leaf	–
+271.1	271	2709	7	CNL	CNL	0	0	0.030374940673944	1	0.030374940673944	-0.207905723325894	209	0.14502535882202	0.0378429010250569	-0.162192785821824	1.26439823824147	1	shell	0.0115837	92.14	5.52	36.36	1	1	2	NA	NA	NA	NA
+272.1	272	717	8	NL	N	0	0	0.00911536162582188	0.892857142857143	0.00911536162582188	-1.00755909841818	21	0.178488399874654	-0.829141558246138	-0.987631926189463	0.0655181998043424	0.787200535808899	cloud	0.00960885	0.12	0.35	0.00	NA	NA	NA	NA	NA	NA	NA
+273.1	273	2634	8	CNL	CNL	0	0	0.0385616661243085	0.964285714285714	0.0385616661243085	0.201975684505609	254	0.161945085185338	0.400331459571437	0.224308574583575	3.65028461766537	0.235949896503985	cloud	0.0114856	67.38	33.57	58.33	5	0	1	NA	NA	NA	NA
+274.1	274	459	7	NL	N	0	0	0.00497976968565204	0.285714285714286	0.00497976968565204	-1.57597020116064	8	0.349927106111883	-1.41422426090203	-1.66614689636035	3.64353221685765	0.168253075370105	shell	0.002796	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+275.1	275	1725	8	TNL	T	1	0	0.0147412008281573	0.75	0.0147412008281573	1.31452675696968	53	0.237615640315567	1.6983527957468	1.57706199175488	7.66354838475797	0.00638714943771478	cloud	0.0799626	0.00	0.00	0.00	1	0	1	NA	NA	NA	NA
+276.1	276	4407	7	TNL	TNL	0	0	0.0417301479248382	0.952380952380952	0.0417301479248382	-0.133255376830024	461	0.16143473204012	0.162455333291347	-0.0192699956016133	5.34932650880756	0.10673087142741	cloud	0.0200925	73.71	33.65	9.09	7	0	1	NA	NA	NA	NA
+277.1	277	3957	7	TNL	TNL	0	0	0.0191101965173231	0.952380952380952	0.0191101965173231	-0.321452366009017	196	0.144353719906473	-0.122007079966509	-0.340567358376201	3.67608569686653	0.236677229374594	cloud	0.0260355	86.57	10.15	36.36	7	0	1	NA	NA	NA	NA
+278.1	278	3102	3	TNL	TNL	0	0	0.0455620030088115	1	0.0455620030088115	NA	212	0.0795230730591308	NA	NA	3.84780298685833	1	cloud	NA	76.67	12.90	14.29	NA	NA	NA	NA	NA	NA	NA
+279.1	279	2997	6	CNL	CNL	0	0	0.0421755088421755	1	0.0421755088421755	0.272506763268486	277	0.166401062109655	0.542513445511567	0.310294866190395	2.08663907290658	1	cloud	0.0199981	78.33	38.40	40.00	3	1	2	NA	NA	NA	NA
+2.8	2	435	10	RNL	R	0	0	0.00229885057471264	0.666666666666667	0.00229885057471264	-1.74109586520715	5	0.134164078649987	-1.89886287983255	-2.01006762339229	-2.25975090325872	0.979707065696649	shell	0.000684118	22.10	18.36	71.43	NA	NA	NA	NA	NA	NA	NA
+280.1	280	2739	7	CNL	CN	0	0	0.0302856447434761	0.857142857142857	0.0302856447434761	-0.0505987406239293	205	0.168910303071215	0.0759630324478241	-0.163678811969615	6.8740581722715	0.0209033154359775	cloud	0.0101412	71.29	48.02	18.18	NA	NA	NA	NA	NA	NA	NA
+28.1	28	3069	59	TNL	TNL	0	0	0.00287713392669936	0.952659263588545	0.00287713392669936	-2.51583261462709	144	0.041641720856039	-3.57326790481567	-3.37484453841842	-5.76151307551484	0.998749061625686	core	0.000691348	91.22	22.43	0.00	3	0	1	AT5G22690.2	100	Leaf+Root	–
+281.1	281	4314	7	TNL	TNL	0	0	0.0292955383358721	1	0.0292955383358721	-0.892606010860082	365	0.175415156708888	-0.702276918173262	-0.935028543398328	1.72883315568772	1	cloud	0.025719	81.00	35.91	45.45	7	0	1	NA	NA	NA	NA
+282.1	282	2946	6	CNL	CNL	0	0	0.0371803575469563	1	0.0371803575469563	0.0287326353967104	249	0.135811143368586	0.279442063615957	0.0251113750069274	1.93653658175761	1	cloud	0.0189172	92.00	5.90	60.00	1	1	2	NA	NA	NA	NA
+283.1	283	189	7	TNL	T	0	0	0.00604686318972033	0.80952380952381	0.00604686318972033	1.64954664027866	2	0.285714285714286	1.37407529192759	1.17810379459957	-1.21660184224066	0.94572530976701	cloud	0.00120927	0.00	0.00	63.64	NA	NA	NA	NA	NA	NA	NA
+284.1	284	2637	6	TNL	TN	0	0	0.00594109467829604	1	0.00594109467829604	-1.31136372445783	45	0.249141186056921	-1.02529835623014	-1.34771877931289	-0.3125789046778	1	cloud	0.00222933	30.17	0.41	0.00	NA	NA	NA	NA	NA	NA	NA
+285.1	285	570	4	TNL	T	0	0	0.130409356725146	1	0.130409356725146	-0.56193642278001	144	0.166453535278532	0.0314875476957444	-0.561936422780009	2.49225896558417	1	cloud	0.176323	0.00	0.00	37.50	1	0	1	NA	NA	NA	NA
+286.1	286	828	6	TNL	T	0	4	0.0140901771336554	1	0.0140901771336554	-0.515261399962775	29	0.134168017585388	-0.258449088630043	-0.536602985805093	-0.726214422256199	1	cloud	0.00420467	12.67	12.69	50.00	NA	NA	NA	NA	NA	NA	NA
+287.1	287	813	5	TNL	T	0	0	0.00910209102091021	0.9	0.00910209102091021	0.737511289740253	14	0.222348320232477	0.969191579500256	0.737511289740253	1.11564769680194	0.679681849194727	cloud	0.0151266	3.20	0.84	0.00	NA	NA	NA	NA	NA	NA	NA
+288.1	288	1965	6	TNL	TN	0	0	0.0179813401187447	0.8	0.0179813401187447	-0.915493711952248	94	0.280590358258133	-0.591284160773017	-0.873833119906543	5.64461064916089	0.0489777674998348	cloud	0.013259	33.67	15.17	60.00	NA	NA	NA	NA	NA	NA	NA
+289.1	289	2208	5	CNL	CN	0	0	0.0473731884057971	1	0.0473731884057971	-0.925808685654503	248	0.298064614317118	-0.514821902744728	-0.925808685654504	2.31420116129636	1	cloud	0.0476037	35.20	36.20	11.11	NA	NA	NA	NA	NA	NA	NA
+290.1	290	2817	6	NL	NL	0	0	0.0459590580996332	1	0.0459590580996332	-0.476672300771998	319	0.16063376217427	-0.209525280551745	-0.488496543131713	2.11166965652781	1	cloud	0.0211846	79.50	20.07	30.00	3	1	2	NA	NA	NA	NA
+29.1	29	1905	41	TNL	T	0	0	0.00218295883746239	0.948780487804878	0.00218295883746239	-1.53021171872376	32	0.0589880059643817	-2.80087597200478	-2.9127644070844	-10.9908340865986	0.999996527666443	shell	0.000552038	18.78	7.68	75.56	NA	NA	NA	AT4G23510.1	20	Root	–
+291.1	291	2040	6	CNL	CN	0	0	0.0177777777777778	1	0.0177777777777778	-0.769045259948544	94	0.0857950857602381	-0.454613635030327	-0.731738001298595	0.727519948661717	1	cloud	0.0183632	52.17	34.16	30.00	2	0	1	NA	NA	NA	NA
+29.2	29	2049	17	TNL	T	0	0	0.000667470502110068	0.669117647058823	0.000667470502110068	-1.75274693530695	9	0.0749900316612983	-1.70911662455066	-1.55313782643162	-4.15507587189221	0.996767573817757	shell	0.000168355	13.71	10.18	61.90	NA	NA	NA	NA	NA	NA	NA
+292.1	292	2499	5	CNL	CNL	0	0	0.00600240096038415	0.7	0.00600240096038415	-0.990313785138238	36	0.340490296448091	-0.574111873698494	-0.990313785138239	4.78068568831304	0.0929760061919505	cloud	0.00217729	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+293.1	293	2703	6	TNL	TNL	0	0	0.00779380934763843	0.933333333333333	0.00779380934763842	0.927866591577038	42	0.220623500903507	1.25999966997147	1.10585332603122	2.06548266611536	0.481606537119793	cloud	0.00221211	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+294.1	294	1011	6	CNL	CN	0	0	0.00164853280580284	0.333333333333333	0.00164853280580284	-1.33698116636473	5	0.372677996249965	-1.04731006393236	-1.36824923045537	2.59263062541669	0.334534950343774	cloud	0.000586444	0.00	0.00	60.00	NA	NA	NA	NA	NA	NA	NA
+296.1	296	1077	4	NL	N	0	0	0.00324976787372331	1	0.00324976787372331	0.673839616718867	6	0.21650635094611	0.939157126003059	0.673839616718867	-1.01239571897956	1	cloud	0.00112	18.50	8.10	50.00	NA	NA	NA	NA	NA	NA	NA
+297.1	297	4281	4	TNL	TNL	0	0	0.0465623296737522	1	0.0465623296737522	1.16312663292483	329	0.215075275738134	1.51210781515797	1.16312663292483	3.4940387716389	1	cloud	0.028956	93.25	5.19	37.50	2	0	1	NA	NA	NA	NA
+298.1	298	2871	4	CNL	CNL	0	0	0.0344827586206897	0.833333333333333	0.0344827586206897	-0.0288093780095538	182	0.295415908696906	0.488109631945038	-0.0288093780095528	6.84569040817607	0.0581450203843914	cloud	0.0166888	68.00	41.55	12.50	NA	NA	NA	NA	NA	NA	NA
+299.1	299	2277	5	TNL	T	2	0	0.02389108476065	1	0.02389108476065	0.682213319054494	104	0.192173029774683	0.953788945031246	0.682213319054493	1.629825681868	1	cloud	0.0545519	60.00	34.84	22.22	1	0	1	NA	NA	NA	NA
+300.1	300	2820	4	CNL	CN	0	0	0.11128841607565	1	0.11128841607565	-0.850019395523633	626	0.409435126932149	-0.214318728774146	-0.85001939552363	3.95126775095613	1	cloud	0.0610512	13.25	9.22	37.50	NA	NA	NA	NA	NA	NA	NA
+30.1	30	3699	56	TNL	TNL	0	0	0.00234057642816767	0.940909090909091	0.00234057642816767	-1.77132699741856	81	0.0566120428845452	-3.79978122361844	-4.14641519816033	-9.73654664852325	0.999982842062826	core	0.000763009	86.82	25.95	90.00	5	0	1	AT5G18370.1	20	Leaf+Root	–
+301.1	301	2529	4	CNL	CNL	0	0	0.00191116383287202	1	0.00191116383287202	-0.15359764751211	9	0.162235328406808	0.327849257655765	-0.153597647512109	-0.568369383007265	1	cloud	0.000741	1.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+30.2	30	3255	4	TNL	TNL	0	0	0.00435227854582693	1	0.00435227854582693	-0.0110160016723176	26	0.168231070153983	0.480922328075654	-0.0110160016723173	0.73303332165605	1	cloud	0.0041634	72.00	48.13	25.00	NA	NA	NA	NA	NA	NA	NA
+302.1	302	2898	5	TNL	TNL	0	0	0.00772946859903382	1	0.00772946859903382	-1.02587284932871	54	0.152077519760354	-0.606372637483716	-1.02587284932871	0.652529386135341	1	cloud	0.00307686	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA
+303.1	303	2985	4	CNL	CNL	0	0	0.0362925739810162	1	0.0362925739810162	-0.425127882956889	207	0.260609749147828	0.14925051131028	-0.425127882956887	2.87658816185099	1	cloud	0.0213636	77.25	32.85	50.00	2	0	1	NA	NA	NA	NA
+304.1	304	1146	5	CNL	CN	1	0	0.0897033158813264	1	0.0897033158813264	0.0417838165264304	213	0.168502093584414	0.370700030511684	0.0417838165264301	2.29626074154419	1	cloud	0.11241	8.00	9.22	33.33	2	0	1	NA	NA	NA	NA
+306.1	306	4293	5	TNL	TNL	0	0	0.0342417889587701	1	0.0342417889587701	-0.916399886967154	348	0.246153021408379	-0.506168558598536	-0.916399886967155	2.66409028008139	1	cloud	0.032925	84.60	12.76	33.33	1	0	1	NA	NA	NA	NA
+307.1	307	606	4	TNL	T	0	0	0.00577557755775578	0.833333333333333	0.00577557755775578	-0.817336480377384	7	0.292334027566873	-0.19901541634037	-0.817336480377383	0.961328546425037	0.733488733488733	cloud	0.0024886	0.00	0.00	37.50	NA	NA	NA	NA	NA	NA	NA
+308.1	308	3021	4	TNL	TNL	0	0	0.00281363786825554	0.833333333333333	0.00281363786825554	-0.850567233963699	17	0.399772859384358	-0.218852715296254	-0.850567233963698	2.35412333225452	0.464639860520867	cloud	0.0032846	0.50	0.58	0.00	NA	NA	NA	NA	NA	NA	NA
+309.1	309	1455	5	CNL	CN	0	0	0.00151202749140893	0.9	0.00151202749140893	-0.561987124548503	5	0.161245154965971	-0.208050069252555	-0.561987124548504	-0.84824403408241	0.94593746307456	cloud	0.000554714	10.80	4.76	55.56	NA	NA	NA	NA	NA	NA	NA
+3.10	3	3105	9	CNL	CNL	0	0	0.0311594202898551	1	0.0311594202898551	0.0856170649268754	247	0.151957597892673	0.396640451318962	0.260156871929953	1.12070952033295	1	shell	0.0127665	82.67	23.37	38.46	8	1	2	NA	NA	NA	NA
+310.1	310	1143	5	TNL	T	0	3	0.0265966754155731	0.7	0.0265966754155731	-1.17939066298711	75	0.376226881903283	-0.746405996943678	-1.17939066298711	6.62812528306839	0.028992580735488	cloud	0.148743	1.00	1.41	44.44	NA	NA	NA	NA	NA	NA	NA
+3.11	3	2742	4	CNL	CNL	0	0	0.0141016289812789	1	0.0141016289812789	-0.829040383859882	77	0.375527090322456	-0.197295842343764	-0.829040383859881	1.81625599573069	1	cloud	0.0085608	82.50	23.70	0.00	1	0	1	NA	NA	NA	NA
+31.1	31	2580	56	RNL	RCNL	0	0	0.00582200744991443	0.899350649350649	0.00582200744991443	-1.58041812803337	125	0.072905261976178	-4.50640379408003	-5.25709031560419	1.06899561736231	0.360276283062151	core	0.000668257	94.95	20.12	93.33	1	0	1	NA	NA	NA	NA
+312.1	312	3309	5	NL	N	0	0	0	0	0	NA	0	NA	NA	NA	NA	NA	cloud	0.00653514	10.20	22.81	44.44	NA	NA	NA	NA	NA	NA	NA
+3.13	3	3147	7	CNL	CNL	0	0	0.0273881398762238	0.952380952380952	0.0273881398762238	-0.59584948123456	235	0.126852921790391	-0.378151231849709	-0.595461041110492	3.91759638803866	0.211593421767322	cloud	0.0130997	93.43	5.62	18.18	4	0	1	NA	NA	NA	NA
+313.1	313	747	5	CNL	CN	0	0	0.0208835341365462	0.7	0.0208835341365462	-1.25277872964644	39	0.37488547451276	-0.81235699597779	-1.25277872964644	4.87881624268072	0.0875186664426573	cloud	0.00912529	9.20	10.43	55.56	NA	NA	NA	NA	NA	NA	NA
+314.1	314	1200	5	TNL	T	0	5	0.0625	1	0.0625	1.60793876832016	129	0.272825269699842	1.80112404460608	1.60793876832016	1.96843818218719	1	cloud	0.0690467	18.80	41.48	55.56	NA	NA	NA	NA	NA	NA	NA
+315.1	315	3378	3	TNL	TNL	0	0	0.0146043023485297	1	0.0146043023485297	NA	74	0.242072591757557	NA	NA	2.78656467609575	1	cloud	NA	96.67	2.31	42.86	NA	NA	NA	NA	NA	NA	NA
+3.18	3	2991	10	CNL	CNL	0	0	0.0385898436048887	0.977777777777778	0.0385898436048888	-0.240341506340374	343	0.135187195531536	0.0331459355970277	-0.0532443112188388	2.96280964823172	0.315861610520266	shell	0.0124796	82.40	30.08	50.00	9	7	2	NA	NA	NA	NA
+318.1	318	1737	4	NL	N	0	0	0.0642870850124736	1	0.0642870850124736	-0.772783163128908	221	0.396016653060871	-0.148376548263138	-0.772783163128908	2.90739528262597	1	cloud	0.0415774	48.75	56.33	0.00	NA	NA	NA	NA	NA	NA	NA
+3.19	3	2931	8	CNL	CNL	0	0	0.0287891342139039	1	0.0287891342139039	-0.0913433221586336	210	0.135495070900786	0.161349687088019	-0.034069490222361	1.29205642829071	1	shell	0.0133815	96.00	1.20	25.00	4	5	2	NA	NA	NA	NA
+319.1	319	2973	4	NL	NL	0	0	0.0315057741899316	0.833333333333333	0.0315057741899316	0.106215470560006	170	0.201438979439244	0.603331971265641	0.106215470560006	6.73787192466316	0.0613131691748472	cloud	0.0197834	62.75	42.63	37.50	NA	NA	NA	NA	NA	NA	NA
+3.2	3	2859	12	CNL	CNL	0	0	0.0319247034881872	1	0.0319247034881872	-0.217858590170883	289	0.124583657967308	-0.204266099423112	-0.333794679700544	-0.00273314921326946	1	shell	0.012827	92.67	5.84	31.25	19	9	2	NA	NA	NA	NA
+320.1	320	3204	3	TNL	TL	0	0	0.0859342488555972	1	0.0859342488555972	NA	413	0.462844961568346	NA	NA	4.51695181532048	1	cloud	NA	97.67	0.58	42.86	NA	NA	NA	NA	NA	NA	NA
+32.1	32	2565	47	RNL	RN	0	0	0.00848899924804302	0.809435707678076	0.00848899924804302	-1.3890314326957	156	0.0822937309587701	-3.67513279127391	-4.20771076609184	4.22804906675753	0.0310276559708325	shell	0.00101798	92.66	24.39	92.16	1	0	1	NA	NA	NA	NA
+321.1	321	2070	4	NL	NL	0	0	0.00668276972624799	1	0.00668276972624799	-0.253368038463298	26	0.0857034740841086	0.279338118702625	-0.253368038463298	0.706263906174107	1	cloud	0.009933	36.00	22.11	50.00	NA	NA	NA	NA	NA	NA	NA
+32.2	32	2445	14	RNL	RN	0	0	0.000175284837861525	0.274725274725275	0.000175284837861525	-1.67052613313736	3	0.185958325616825	-2.0643596305723	-2.09051351028601	-0.761105916978769	0.907887131532283	shell	4.912e-05	99.57	1.16	77.78	NA	NA	NA	NA	NA	NA	NA
+325.1	325	2406	4	NL	NL	0	0	0.0476586311997783	1	0.0476586311997783	0.0111011843428282	210	0.105116044046803	0.522807511315286	0.0111011843428279	2.93433314020823	1	cloud	0.0348614	67.50	38.48	25.00	NA	NA	NA	NA	NA	NA	NA
+326.1	326	1191	4	NL	N	0	0	0.103414497621047	1	0.103414497621047	-0.00902743955867408	226	0.156697899858677	0.505818819723207	-0.00902743955867367	3.00693874638057	1	cloud	0.0841616	10.00	20.00	50.00	2	0	1	NA	NA	NA	NA
+3.3	3	3897	22	CNL	CNL	0	0	0.0168334616371568	0.990476190476191	0.0168334616371568	-0.623203210682305	278	0.10165001018495	-0.569653219283603	-0.539206392728616	-0.0441012836953449	0.77153307214445	shell	0.00882483	90.68	16.66	80.77	25	0	1	NA	NA	NA	NA
+33.1	33	2883	59	NL	N	0	0	0.00109471005691884	0.945061367621274	0.00109471005691884	-2.49083182261078	55	0.0517546642120922	-5.08710191039357	-5.44943030288036	-24.5898995318789	0.999999999997355	core	0.00155446	95.44	18.70	0.00	17	1	2	AT1G59620.1	100	Leaf	–
+3.4	3	4113	26	CNL	CNL	0	1	0.0164925470833567	0.996923076923077	0.0164925470833567	-0.750047345253882	319	0.0931123715219916	-0.837063706544217	-0.794842461714982	-2.44355462174935	0.986201082616648	shell	0.00904798	92.73	8.48	43.33	41	17	2	NA	NA	NA	NA
+34.1	34	2298	55	TNL	TN	0	0	0.00464523388805373	0.867340067340067	0.00464523388805373	-1.35774469368233	80	0.0871274957476315	-3.11769019817468	-3.46632464953373	1.16552598757639	0.345418321951904	core	0.00133745	27.60	16.77	91.53	1	0	1	AT1G72890.2	100	Leaf+Root	+
+35.1	35	2433	61	RNL	RN	0	0	0.00212964273120728	0.904371584699454	0.00212964273120728	-1.45261002373963	43	0.0576799156074468	-2.76618550250309	-2.91162962768001	-9.49061610750786	0.999978139528324	core	0.000168487	96.69	17.95	0.00	NA	NA	NA	AT5G04720.1	100	Leaf+Root	–
+36.1	36	3276	59	TNL	TNL	0	0	0.0046349520341338	0.919929865575687	0.0046349520341338	-2.64760769207812	276	0.0903092043770461	-6.04033743397387	-6.74272458302816	0.444653130042289	0.505082009590021	core	0.0013647	87.37	22.09	0.00	10	0	1	NA	NA	NA	NA
+3.7	3	2643	5	CNL	CNL	0	0	0.0301929625425653	1	0.0301929625425653	-0.62129306984169	181	0.188669786318819	-0.236268023837815	-0.621293069841691	2.03325694793565	1	cloud	0.0114056	91.80	3.83	55.56	1	0	1	NA	NA	NA	NA
+37.1	37	3984	63	TNL	TNL	0	0	0.00351688371509592	0.927291346646185	0.00351688371509592	-2.11811357727335	167	0.0540215189487364	-5.20109869900562	-5.92140753636989	0.809570916025392	0.415179803553185	core	0.000912163	1.48	0.86	0.00	17	0	1	NA	NA	NA	NA
+3.8	3	2826	4	CNL	CNL	0	0	0.0350908233073838	1	0.0350908233073838	-0.0112036470037154	182	0.0951621192443227	0.503174744042108	-0.0112036470037149	2.78662404963274	1	cloud	0.024448	95.25	1.71	25.00	NA	NA	NA	NA	NA	NA	NA
+38.1	38	1137	57	TNL	TN	0	0	0.00578072269504015	0.910401002506266	0.00578072269504015	0.147035904515718	29	0.111251505693965	0.604527852786056	0.691332870313728	-3.01562856885734	0.976662654013151	core	0.000314991	3.16	2.04	91.80	NA	NA	NA	AT1G72950.1	100	Root	–
+3.9	3	2826	5	CNL	CNL	0	0	0.0262561924982307	0.9	0.0262561924982307	0.674869526709836	142	0.202495098772243	0.948653768305411	0.674869526709836	5.16541883184445	0.123768713787045	cloud	0.00976543	75.20	42.08	55.56	NA	NA	NA	NA	NA	NA	NA
+39.1	39	5784	60	TNL	TNL	0	0	0.0109589281946691	0.983050847457627	0.0109589281946691	-0.561946989919168	351	0.0869035284920366	-1.89871983420988	-2.33062930770284	0.483081922513997	0.497925563174758	core	0.00764421	93.22	20.25	0.00	0	13	3	AT1G69550.1	100	Leaf	–
+40.1	40	3321	62	TNL	TN	0	0	0.0381699968359928	0.977789529349551	0.0381699968359928	1.92481740908392	386	0.162403254101495	1.74049945432081	1.11614053062933	5.38121497668289	0.0106105473715252	core	0.00215531	0.06	0.25	0.00	8	0	1	NA	NA	NA	NA
+4.10	4	4809	5	TNL	TNL	0	0	0.0257018091079226	0.9	0.0257018091079226	0.26053831079452	249	0.252679069473124	0.571222029793725	0.26053831079452	6.14501663537303	0.0768297059613653	cloud	0.012509	97.20	1.30	44.44	NA	NA	NA	NA	NA	NA	NA
+4.11	4	4323	4	TNL	TNL	0	0	0.0418305189297556	1	0.0418305189297556	-0.351215071944695	343	0.109499651551555	0.213425191951133	-0.351215071944695	3.39569885297293	1	cloud	0.0220968	95.50	3.00	37.50	2	0	1	NA	NA	NA	NA
+41.1	41	7461	55	TNL	TNLX	55	50	0.0155267548378391	0.957575757575758	0.0155267548378391	0.171260303504998	506	0.111128913758663	-0.232208354711837	-0.477329763839674	18.8658956488276	3.54881401344463e-08	shell	0.00600284	82.71	21.56	84.75	NA	NA	NA	AT4G12020.2	100	Leaf+Root	–
+4.13	4	8235	6	TNL	TNL	0	0	0.00997368953653107	1	0.00997368953653107	-0.855701706380868	216	0.137402367271933	-0.590840367280408	-0.893478203910263	1.63146733729353	1	cloud	0.00961411	97.33	1.86	60.00	1	0	1	NA	NA	NA	NA
+41.3	41	5709	5	NL	NLX	5	0	0.009318619723244	1	0.009318619723244	-1.17190434823424	131	0.207217814523806	-0.739898372297206	-1.17190434823424	1.60608634735444	1	cloud	0.00387514	90.00	0.00	11.11	NA	NA	NA	NA	NA	NA	NA
+4.14	4	4572	10	TNL	TNL	0	0	0.0386701662292213	1	0.0386701662292214	0.298898417653627	472	0.159293576163846	0.519223127938689	0.383434402665939	1.25830986768736	1	shell	0.0142376	97.50	1.18	57.14	14	0	1	NA	NA	NA	NA
+4.19	4	4161	7	TNL	TNL	0	0	0.0371018871379362	1	0.0371018871379362	-0.482432685954912	412	0.143573840663998	-0.294385588802008	-0.520652024014083	1.94091588009237	1	cloud	0.0140231	83.00	36.62	63.64	2	0	1	NA	NA	NA	NA
+4.20	4	4224	8	TNL	TNL	0	0	0.0321124188311688	0.964285714285714	0.0321124188311688	-0.257294388230961	369	0.16159628623412	-0.254122843457113	-0.489665732142504	4.18815442639248	0.183494196101587	shell	0.0105675	96.25	1.58	58.33	7	0	1	NA	NA	NA	NA
+42.1	42	3741	13	TNL	TNL	0	2	0.000637427261324615	0.756410256410256	0.000637427261324615	-0.700354953673916	9	0.16927608820802	-1.10876315060327	-1.27588469309753	0.36806706078402	0.66329403836458	shell	0.000104696	83.23	25.81	70.59	NA	NA	NA	AT4G19510.4	100	Leaf	–
+42.2	42	3885	43	TNL	TNL	0	0	0.0421332580801019	0.977851605758583	0.0421332580801019	3.1820161597391	381	0.213482695932329	2.6369039691855	1.6291166852381	9.36981716485075	0.000363981492206844	shell	0.00192682	93.65	16.19	87.23	10	0	1	NA	NA	NA	NA
+42.3	42	4050	6	TNL	TNL	0	0	0.00763786008230453	1	0.00763786008230453	1.01478025231353	61	0.232401744044949	1.43099291614307	1.31022698842892	0.541886334189877	1	cloud	0.00238433	80.17	14.44	50.00	NA	NA	NA	NA	NA	NA	NA
+4.24	4	4203	7	TNL	TNL	0	0	0.0227728493253119	1	0.0227728493253119	-1.37420028299953	306	0.25360798924311	-1.18880215042479	-1.43194028357566	1.42977395230111	1	cloud	0.00892282	96.57	1.99	63.64	NA	NA	NA	NA	NA	NA	NA
+4.29	4	4182	12	TNL	TNL	0	0	0.0200679680593597	1	0.0200679680593597	-1.10441462336134	331	0.105084938798064	-1.00405315212002	-1.02556631950366	-0.115898351963451	1	shell	0.007096	96.83	0.94	75.00	5	0	1	NA	NA	NA	NA
+43.1	43	4116	9	NL	NLX	9	9	0.000674873123852716	0.916666666666667	0.000674873123852716	0.350240737921113	7	0.176932514361968	0.554246433416379	0.43554630776097	-1.34571908773148	0.940945345992925	shell	0.000139533	97.78	6.30	61.54	NA	NA	NA	AT5G45050.1	100	Leaf+Root	–
+43.2	43	4596	36	NL	NLX	35	34	0.00178830452981889	0.971428571428571	0.00178830452981889	-2.39413136813361	96	0.0519678345843965	-4.58484508144021	-4.82825599722964	-12.6137033885029	0.999999465482744	shell	0.000489217	92.94	24.12	90.00	4	0	1	NA	NA	NA	NA
+43.3	43	4140	12	NL	NLX	12	9	0.00404406382667252	0.818181818181818	0.00404406382667252	0.565141005746174	45	0.172519992323682	0.844098856773834	0.727746326959147	5.19812284315783	0.0287253641157532	shell	0.000725667	93.67	21.63	56.25	NA	NA	NA	NA	NA	NA	NA
+4.37	4	3975	5	TNL	TNL	0	0	0.0344654088050314	0.9	0.0344654088050315	-0.0155727207198913	286	0.176946915113694	0.318646294423731	-0.0155727207198913	6.34465575738882	0.0696609858934578	cloud	0.02125	95.60	3.78	44.44	NA	NA	NA	AT4G16860.1	100	Leaf	–
+4.39	4	4494	6	TNL	TNL	0	0	0.0292538199080255	1	0.0292538199080255	0.228248091576434	290	0.161353847419753	0.437189724654531	0.178584825345539	2.12766338047527	1	cloud	0.0179887	94.67	4.55	40.00	6	0	1	NA	NA	NA	NA
+44.1	44	3276	59	TNL	TNL	0	0	0.0109668888160998	0.987726475745178	0.0109668888160998	-0.256649609717682	180	0.0947889066480545	-1.02522386502983	-1.3002802053039	-3.98292748145327	0.9914913174249	core	0.0022086	23.31	11.03	0.00	17	1	2	NA	NA	NA	NA
+45.3	45	525	28	TNL	T	0	0	0.0391232048374906	0.756613756613757	0.0391232048374906	-1.10926883963196	112	0.121020730439411	-1.98617220416741	-2.10557893788635	10.1281697342365	0.000217949319058669	shell	0.00595749	0.00	0.00	28.12	NA	NA	NA	NA	NA	NA	NA
+4.6	4	4248	7	TNL	TNL	0	0	0.0357142857142857	0.952380952380952	0.0357142857142857	0.0111032079186718	371	0.155862628524729	0.174553507667117	-0.0515430767269113	4.98114937350306	0.127578281870167	shell	0.0127439	83.29	36.32	54.55	5	0	1	NA	NA	NA	NA
+46.1	46	2733	58	TNL	TNL	0	0	0.00493486767121571	0.863883847549909	0.00493486767121571	-1.37619461173874	103	0.0637687517182326	0.206966896835317	1.12232006563423	1.68112316874845	0.240396551163496	core	0.000881761	62.67	24.97	90.32	1	0	1	AT5G18360.1	20	Leaf	–
+4.7	4	6336	10	TNL	TNL	0	0	0.0192550505050505	0.888888888888889	0.0192550505050505	0.197934932492077	332	0.158437743318207	0.348766103316341	0.19773425470283	11.8539837760114	0.000206449078441773	shell	0.0323918	96.70	2.91	50.00	16	0	1	NA	NA	NA	NA
+47.1	47	1311	61	TNL	TN	0	51	0.00226332045366445	0.79672131147541	0.00226332045366445	-2.56330571396579	57	0.0618424392289475	-5.98022442000272	-6.63397115810557	-1.94296772785684	0.935199281286969	core	0.000440613	32.97	19.92	92.31	1	0	1	AT1G17610.1	100	Leaf	–
+48.1	48	2223	59	TNL	TNL	0	22	0.00446635027827928	0.963179427235535	0.00446635027827928	-1.13844448319116	69	0.0680228956424982	-1.39655839696654	-1.24196848899364	-4.62671001228579	0.995690182731503	core	0.00106027	10.32	5.79	92.06	4	2	2	AT5G45210.4	20	Root	–
+49.2	49	4029	38	CNL	CNLX	37	36	0.00876116152206602	0.95448079658606	0.00876116152206602	-0.356636028329302	164	0.102983328680139	-1.59646395054968	-1.98806806789571	2.23642477410238	0.172627826777264	shell	0.00146134	68.66	18.68	85.71	13	0	1	NA	NA	NA	NA
+49.3	49	2844	19	CNL	CNX	19	18	0.00194931773879142	0.976608187134503	0.00194931773879142	-0.752327853347913	24	0.0943690517974142	-1.00814764731527	-1.05639889806802	-6.5188316948989	0.9997704004756	shell	0.000247657	59.37	21.85	82.61	NA	NA	NA	NA	NA	NA	NA
+50.1	50	4005	60	TNL	TNL	0	0	0.00364600746242338	0.993785310734463	0.00364600746242338	-1.03510865205918	97	0.0684654097520619	-2.23346305346252	-2.46517186702241	-31.2370928493228	0.999999999999996	core	0.000635504	0.00	0.00	1.56	1	2	2	NA	NA	NA	NA
+5.1	5	3438	24	TNL	TNL	0	1	0.00594906880474829	0.992753623188406	0.00594906880474829	-1.11029093020846	106	0.0842757756991969	-0.799147992763967	-0.582111506006296	-5.50570329979963	0.999415594952806	shell	0.00120273	89.17	19.30	64.29	4	0	1	NA	NA	NA	NA
+51.1	51	822	62	TNL	T	0	0	0.00369659843463917	0.869910100475939	0.00369659843463917	-1.98000234237251	36	0.0383831342141105	-2.91142328146609	-2.78561405278328	-15.4577764267348	0.999999963437116	core	0.000466678	0.00	0.00	89.39	NA	NA	NA	NA	NA	NA	NA
+5.2	5	4395	37	TNL	TNL	0	0	0.0222577526331793	0.990990990990991	0.0222577526331793	-0.706062686500728	502	0.0915835023311153	-0.588655127952046	-0.44599515352454	0.843056970147299	0.476050475166608	shell	0.011955	85.70	17.10	39.02	96	1	2	AT5G41740.2	100	Leaf+Root	+
+52.1	52	1410	58	TNL	T	0	0	0.00487915803203288	0.94313369630974	0.00487915803203288	-2.64068944248264	128	0.0575475254977753	-5.62338938702942	-6.13468377031006	-5.70926692921041	0.998717820821255	core	0.0011894	12.10	5.43	1.61	2	0	1	AT5G45000.1	20	Leaf+Root	–
+5.3	5	3645	5	TNL	TNL	0	0	0.0343484224965706	1	0.0343484224965707	-0.622803833417446	284	0.116810162930527	-0.237364347130651	-0.622803833417447	2.49944426475199	1	cloud	0.0180914	76.40	42.76	33.33	1	0	1	NA	NA	NA	NA
+53.1	53	2751	58	NL	NL	0	0	0.034196001541979	0.980641258318209	0.034196001541979	0.336699588280531	398	0.115467083136366	0.595338809313171	0.570087776137301	2.79602421772113	0.102821328473275	core	0.00479383	0.19	0.66	77.42	22	20	2	AT5G38350.1	20	Root	–
+5.4	5	3432	14	TNL	TNL	0	0	0.0433252644791106	0.978021978021978	0.0433252644791106	-0.140350202162303	488	0.131141894329846	-0.448350602330104	-0.655038805903489	4.05186972190552	0.110237040688135	shell	0.0110482	82.79	17.48	38.89	29	0	1	NA	NA	NA	NA
+54.1	54	4185	60	NL	N	1	0	0.0136812263329486	0.972881355932203	0.0136812263329486	-0.224351746291804	285	0.0968375132081862	-1.16544521826062	-1.52424027239622	1.35910023516872	0.295408669257032	core	0.00123926	51.90	22.77	90.62	7	0	1	AT4G19050.1	20	Leaf+Root	–
+55.1	55	2403	53	RNL	RN	0	0	0.00245701581296239	0.960087082728592	0.00245701581296239	-2.20870550665429	73	0.0534129309863164	-4.18422832531636	-4.39487720294298	-14.9358867626161	0.999999934921292	core	0.000422592	80.40	16.01	1.75	2	0	1	AT1G33560.1	100	Root	–
+56.1	56	2556	58	CNL	CN	0	0	0.00451779711001101	0.954022988505747	0.00451779711001101	-0.212182104285433	57	0.0946242047232054	-1.68951533865228	-2.21160612308293	-2.83204818116528	0.970145082964177	core	0.000257912	96.55	18.41	0.00	NA	NA	NA	AT3G50950.1	1000	Leaf	–
+5.7	5	4035	22	TNL	TNL	0	0	0.012593272072826	0.96969696969697	0.012593272072826	-2.28412984258405	418	0.141212171256174	-3.43342654779083	-3.46227100560542	2.99009979447178	0.12690783636412	shell	0.00397595	78.64	12.64	3.85	12	0	1	NA	NA	NA	NA
+57.1	57	4491	60	TNL	TNL	16	2	0.0249215317011927	0.948022598870056	0.0249215317011927	1.84053089195003	344	0.160242139719896	1.2345883875723	0.466915738186412	22.265417478906	1.26855673374175e-09	core	0.00699052	39.37	16.03	85.94	16	0	1	AT4G19500.1	100	Leaf	–
+5.8	5	3534	5	TNL	TNL	0	0	0.0560271646859083	1	0.0560271646859083	-0.729028349072807	456	0.200009137218179	-0.334489184242981	-0.729028349072808	2.96803396838005	1	cloud	0.024991	66.80	16.86	55.56	1	0	1	NA	NA	NA	NA
+58.1	58	639	61	RNL	R	0	0	0.00471706987523196	0.819125683060109	0.00471706987523196	0.246859417480771	13	0.1133748703438	0.047406771445162	-0.0942662049680033	-0.558885487273094	0.768136828206979	core	0.000177807	52.10	14.27	92.31	NA	NA	NA	NA	NA	NA	NA
+59.1	59	2571	61	RNL	RN	0	0	0.00391716773682074	0.944808743169399	0.00391716773682074	0.237417003191293	44	0.110496531709433	-0.244395346541293	-0.510434741956687	-1.7100131413081	0.905771706272568	core	0.00028816	96.70	17.95	0.00	NA	NA	NA	AT4G33300.1	1000	Leaf+Root	–
+60.1	60	3276	58	TNL	TNL	0	0	0.00170869998456205	0.882637628554144	0.00170869998456205	-2.10810014520732	67	0.0611589968093219	-4.69831816331541	-5.163834602388	-4.09288568672083	0.992805439737332	core	0.00120335	0.00	0.00	0.00	22	1	2	NA	NA	NA	NA
+6.1	6	2772	5	CNL	CN	0	0	0.0256132756132756	0.7	0.0256132756132756	0.261855950162937	143	0.192612599985152	0.571040193188964	0.261855950162937	9.00711554389994	0.00617086264346538	cloud	0.00832671	79.80	44.61	0.00	NA	NA	NA	NA	NA	NA	NA
+61.1	61	2748	56	CNL	CN	0	0	0.00442116108054973	0.96038961038961	0.00442116108054973	-0.852371263732624	74	0.0775024303995764	-2.28954225286557	-2.64439831878868	-4.07920766680243	0.992247943980025	core	0.00085356	87.84	24.98	0.00	1	0	1	AT1G53350.1	20	Leaf	–
+6.13	6	2742	12	CNL	CN	0	0	0.0258658798046107	1	0.0258658798046107	-0.398368995584646	234	0.117078283067332	-0.316711964510557	-0.408939446886587	-0.351032178974331	1	shell	0.00746619	91.42	28.79	31.25	1	6	2	NA	NA	NA	NA
+6.16	6	2805	14	CNL	CN	0	0	0.0239329298152828	0.978021978021978	0.0239329298152827	-0.0107672709922554	214	0.135592541901135	0.0705601912440585	-0.0362169978632546	2.10594169056706	0.340358801682844	shell	0.0054462	98.64	1.50	61.11	3	4	2	NA	NA	NA	NA
+6.18	6	2736	17	CNL	CN	0	0	0.0202904626762986	0.882352941176471	0.0202904626762986	1.41633426800459	141	0.189053457025491	1.30487587514514	0.959732519649167	6.34040192652589	0.00972506974199081	shell	0.00183939	99.47	1.70	47.62	NA	NA	NA	NA	NA	NA	NA
+62.1	62	777	59	TNL	T	0	0	0.0100763700997482	0.883109292811222	0.0100763700997482	-1.92486530097421	82	0.0501294521881808	-1.72780915372476	-1.20168322654054	-1.19683088015796	0.851136748594071	core	0.00112253	0.00	0.00	90.48	NA	NA	NA	NA	NA	NA	NA
+6.3	6	3084	8	CNL	CN	0	0	0.0147651473040578	0.928571428571429	0.0147651473040578	-0.888123642892836	141	0.156030578922886	-0.715237843695089	-0.883961888780548	4.36971109749742	0.0991268928427779	shell	0.00430954	99.88	0.35	16.67	0	1	3	NA	NA	NA	NA
+63.1	63	3381	57	TNL	TNL	0	0	0.00294806818880979	0.907268170426065	0.00294806818880979	-2.56179063544288	166	0.0525983412977655	-5.93927695307141	-6.62972549092685	-2.75244591918844	0.967966316755657	core	0.00089364	37.68	17.19	0.00	3	0	1	AT2G16870.1	20	Leaf+Root	–
+6.4	6	2733	4	CNL	CN	0	0	0.00146359312111233	0.666666666666667	0.00146359312111233	2.15628677350037	6	0.333333333333333	2.0726226229033	2.15628677350037	3.52636052461616	0.238095238095238	cloud	0.0004404	98.25	1.71	25.00	NA	NA	NA	NA	NA	NA	NA
+64.1	64	3498	57	TNL	TNL	0	0	0.00382889757269102	0.988095238095238	0.00382889757269102	-2.21635472841929	165	0.0563447717273388	-4.75179156533534	-5.20461464561268	-31.944007266056	0.999999999999996	core	0.00240305	10.42	7.41	85.25	28	5	2	AT5G38340.1	20	Root	–
+65.1	65	2691	58	CNL	CNL	0	0	0.0141407029278883	0.985480943738657	0.0141407029278883	0.127886227804802	170	0.107202188149546	-0.459758106580694	-0.761572784340644	-3.13298526069334	0.978779040614559	core	0.00162047	21.91	8.05	0.00	3	11	2	NA	NA	NA	NA
+6.6	6	2772	21	CNL	CN	0	0	0.0254380540094826	0.990476190476191	0.0254380540094826	-0.76097447787618	311	0.108470897672806	-1.0962508213887	-1.15749706399843	0.129538069889019	0.739330526560332	shell	0.00568128	99.05	2.58	24.00	8	3	2	NA	NA	NA	NA
+66.1	66	2835	58	CNL	CNL	0	0	0.00191816279737232	0.97459165154265	0.00191816279737232	-2.34338071819878	78	0.0492978438967232	-4.28322575932542	-4.45453303718165	-23.4137645453702	0.999999999990348	core	0.000292248	90.59	25.88	87.10	NA	NA	NA	AT1G12280.1	100	Leaf	–
+6.7	6	2736	6	CNL	CN	0	0	0.0300194931773879	0.933333333333333	0.0300194931773879	-0.280255355560276	196	0.132296529421516	0.0156993095307642	-0.239588880634762	4.509591651347	0.163629449866167	cloud	0.0105206	99.50	0.55	30.00	0	1	3	NA	NA	NA	NA
+67.1	67	1407	60	TNL	TN	0	58	0.00569509193339196	0.944067796610169	0.00569509193339196	-2.54324189905489	136	0.0825182864773628	-5.68836763523891	-6.29873398052917	-6.6247154138699	0.999507921880161	core	0.000962513	0.90	0.88	92.19	3	0	1	AT5G40090.1	20	Root	–
+68.1	68	3282	58	CNL	CNL	0	0	0.00122374586785314	0.816696914700545	0.00122374586785314	-2.4993888090161	68	0.0776471557530538	-5.52098987375892	-6.04880106367077	-3.31490153180949	0.984116455987763	core	0.000483389	66.91	25.60	88.71	1	0	1	AT1G12290.1	20	Root	+
+69.1	69	3513	58	TNL	TNL	0	0	0.0169170287734315	0.967332123411978	0.0169170287734315	-0.147825996633536	287	0.0986707445996166	-2.0228921775173	-2.76859997059555	1.10568259895142	0.351325260263665	core	0.00185805	4.86	2.00	22.58	19	0	1	NA	NA	NA	NA
+70.1	70	3777	58	TNL	TNL	0	0	0.0049042337797421	0.984875983061101	0.0049042337797421	-1.69810268941368	165	0.0597528551657723	-3.51798314323058	-3.82894436796942	-11.4316499543463	0.999997175249273	core	0.000861327	72.05	19.45	91.94	9	1	2	NA	NA	NA	NA
+71.1	71	2988	57	TNL	TNL	0	0	0.0025775617088236	0.879699248120301	0.0025775617088236	-2.48493058785137	121	0.0947801795819053	-5.84454765431368	-6.53338242973846	-2.61210126557169	0.963631604025105	core	0.00157123	16.60	15.54	90.16	5	0	1	NA	NA	NA	NA
+7.13	7	2694	4	CNL	CNL	0	0	0.0228903736698837	1	0.0228903736698837	-0.767747003785537	122	0.395361422302021	-0.144559152453618	-0.767747003785536	2.30043235681227	1	cloud	0.0102296	78.50	13.67	0.00	NA	NA	NA	NA	NA	NA	NA
+7.17	7	2625	9	CNL	CNL	0	0	0.00112169312169312	0.888888888888889	0.00112169312169312	-1.2806672015039	11	0.128589667237111	-1.30166901340439	-1.45486985568228	-1.20619292299788	0.930854911722839	shell	0.000343267	79.44	14.12	61.54	NA	NA	NA	NA	NA	NA	NA
+7.18	7	2643	11	CNL	CNL	0	0	0.00734702301104117	0.963636363636364	0.00734702301104117	-0.947625593279128	71	0.115420539369814	-0.498002105757654	-0.453493026662477	0.609175602432516	0.6614744928847	shell	0.00154184	68.73	22.66	66.67	NA	NA	NA	NA	NA	NA	NA
+7.2	7	2841	6	CNL	CNL	0	0	0.0182799483749853	1	0.0182799483749853	-0.613995922979389	131	0.177902633577046	-0.335417988203658	-0.617346817729087	1.13322903360821	1	cloud	0.0108366	87.83	14.85	40.00	2	0	1	NA	NA	NA	NA
+72.1	72	2541	57	NL	N	0	0	0.00734964132093319	0.982456140350877	0.00734964132093319	-1.72704922376504	168	0.0567604912907532	-3.86494459083648	-4.28990494443962	-11.8076812824104	0.999998144517213	core	0.0012145	0.70	1.86	72.13	4	0	1	NA	NA	NA	NA
+7.22	7	2547	5	CNL	CNL	0	0	0.00486847271299568	1	0.00486847271299568	-1.0384460659007	30	0.308040401390611	-0.617756436966174	-1.0384460659007	-0.0595120822179852	1	cloud	0.00169514	68.20	38.82	55.56	NA	NA	NA	NA	NA	NA	NA
+7.3	7	2670	6	CNL	CNL	0	0	0.0308863920099875	0.933333333333333	0.0308863920099875	0.151612852741004	184	0.159943250444459	0.39100635979782	0.140411915726605	4.51719762901271	0.163038043151755	cloud	0.0105188	90.17	6.94	50.00	3	2	2	NA	NA	NA	NA
+73.1	73	3909	59	TNL	TNL	0	0	0.0174869574461309	0.993571011104617	0.0174869574461309	-0.0811125534862932	325	0.101352508311988	-0.192347996005822	-0.255677185739141	-3.28428804635962	0.983545889347867	core	0.00464914	94.02	18.49	3.17	41	42	2	AT2G14080.1	100	Leaf	–
+7.4	7	2631	7	CNL	CNL	0	0	0.00890481620242167	0.714285714285714	0.00890481620242168	-1.17960849219726	72	0.18738185998449	-0.909283330085493	-1.11737690731287	5.99788593006384	0.0275680149113099	shell	0.00253155	73.57	7.44	63.64	NA	NA	NA	NA	NA	NA	NA
+74.1	74	2592	56	TNL	TNL	0	0	0.00822160092993426	0.981818181818182	0.00822160092993426	-0.912775365073244	132	0.0763807641905812	-1.14071884262878	-1.03549032832043	-5.11458200556711	0.997493337519358	core	0.0015162	0.00	0.00	88.33	8	0	1	NA	NA	NA	NA
+7.5	7	2700	8	CNL	CNL	0	0	0.0355820105820106	1	0.0355820105820106	-0.0197407645851035	250	0.144501182821231	0.290572335601358	0.155305228863836	1.11282701431282	1	cloud	0.0109793	85.12	10.78	41.67	6	1	2	NA	NA	NA	NA
+75.1	75	3360	59	NL	NL	0	55	0.0105239904260945	0.928112215078901	0.0105239904260945	-1.1199260095028	240	0.0921100353571091	-3.54659497363384	-4.25883940896062	7.48572910508087	0.00147338017872072	core	0.000769843	89.15	24.30	90.48	1	0	1	AT3G14470.1	100	Root	+
+7.6	7	2685	8	CNL	CNL	0	0	0.0255254056930035	1	0.0255254056930035	-0.510940108438768	196	0.134144484185999	-0.326540214739351	-0.496988372642561	0.726698893085289	1	shell	0.00683685	89.75	12.16	0.00	NA	NA	NA	AT1G62630.1	100	Leaf	–
+76.1	76	1149	52	NL	N	0	0	0.0100900907996592	0.895173453996983	0.0100900907996592	-0.718243835340984	66	0.0840779070989974	-0.502876742645572	-0.290812496258635	-0.699084993803234	0.771493952907743	core	0.000722149	82.06	23.91	87.50	NA	NA	NA	NA	NA	NA	NA
+7.7	7	2697	6	CNL	CNL	0	0	0.0188110245952293	1	0.0188110245952293	-0.0641003649765108	117	0.136377990076492	0.207107870774719	-0.0432045672026938	1.10729213523854	1	cloud	0.00593244	89.00	7.87	50.00	NA	NA	NA	NA	NA	NA	NA
+77.1	77	3138	7	TNL	TNL	0	0	0.000273149412728763	0.285714285714286	0.000273149412728763	-1.35841482102387	3	0.349927106111883	-1.19621657285086	-1.4272509737362	1.51408064229802	0.559037971035819	cloud	8.7e-05	84.29	37.25	0.00	NA	NA	NA	AT5G58120.1	100	Leaf	–
+77.2	77	3159	22	TNL	TNL	0	0	0.00590904294607998	0.883116883116883	0.00590904294607998	-1.80899752184063	123	0.0854645385861526	-1.64808834227753	-1.37124432719798	2.80061367720507	0.133179891984026	shell	0.00125015	93.41	21.25	0.00	3	0	1	NA	NA	NA	NA
+77.3	77	3333	29	TNL	TNL	0	0	0.0118430562268049	0.96551724137931	0.0118430562268049	-0.0732044466937821	158	0.119292713309628	0.0121079556303094	-0.0153270897000473	1.86269604840277	0.249748905929513	shell	0.002446	92.28	17.37	0.00	11	0	1	NA	NA	NA	NA
+7.8	7	2910	13	CNL	CNL	0	0	0.0182571151643317	0.961538461538462	0.0182571151643317	-1.00421707903154	211	0.143882010883063	-1.34759371948045	-1.48485976719003	1.9573764851141	0.369606753395298	shell	0.00520157	82.15	9.80	11.76	4	1	2	NA	NA	NA	NA
+78.1	78	3882	57	TNL	TNL	0	56	0.00273804036107786	0.929197994987469	0.00273804036107786	-2.38813743728192	151	0.0543275836500183	-5.45635742170239	-6.06802746458783	-5.98749173966405	0.999020527160701	core	0.000682694	0.00	0.00	91.80	9	0	1	NA	NA	NA	NA
+7.9	7	2715	5	CNL	CNL	0	0	0.0206998158379374	0.9	0.0206998158379374	-1.20067393114656	139	0.323162552758528	-0.766227437356292	-1.20067393114656	4.64093573771622	0.159170285863525	cloud	0.00822171	69.00	21.67	44.44	NA	NA	NA	NA	NA	NA	NA
+79.1	79	3927	57	TNL	TNL	0	0	0.0021287621906817	0.992481203007519	0.00212876219068169	-2.19083563828298	103	0.0510384197984529	-4.53484486726398	-4.90509926854612	-37.4205548928057	1	core	0.000682108	94.16	16.99	86.89	9	2	2	AT1G63750.3	100	Leaf	–
+80.1	80	3756	56	TNL	TNL	0	54	0.00211280998022212	0.930519480519481	0.00211280998022212	-1.80626580556605	76	0.0632159967316659	-3.45776894674583	-3.6540415984174	-3.16752918309563	0.979867494476065	core	0.000201523	92.95	18.38	91.67	NA	NA	NA	AT5G45250.1	100	Leaf+Root	–
+81.1	81	3093	56	TNL	TNL	0	53	0.00439156704918102	0.980519480519481	0.00439156704918102	-1.6269682177731	116	0.0523260609833155	-2.7085990205017	-2.74546726897292	-13.3378870916791	0.999999628837882	core	0.00037256	9.70	6.32	90.00	1	0	1	AT5G40100.1	20	Root	–
+8.2	8	2583	14	CNL	CNL	0	0	0.0434625382360574	0.923076923076923	0.0434625382360574	0.340284078638796	332	0.16138739675881	0.972974532890527	0.98640468946241	7.68129908167199	0.00471679224332607	shell	0.00709592	60.57	19.63	0.00	1	0	1	NA	NA	NA	NA
+82.1	82	3660	55	TNL	TNL	0	23	0.0041257750547368	0.98047138047138	0.0041257750547368	-1.93705178671861	152	0.0488958797264484	-3.61682906775595	-3.80565447263838	-12.096937804154	0.999998644351083	core	0.000855374	3.51	1.36	44.07	8	1	2	AT2G17060.1	20	Root	–
+8.3	8	2568	13	CNL	CNL	0	0	0.0232846073967569	0.987179487179487	0.0232846073967569	-0.788659248117402	224	0.127802218799638	-1.27308488909579	-1.47483327651629	0.749107077755882	0.705360823907965	shell	0.00472926	58.92	2.36	64.71	2	0	1	NA	NA	NA	NA
+83.1	83	2673	60	CNL	CNL	0	0	0.00993065198966015	0.908474576271186	0.00993065198966015	1.63672302346756	84	0.154306184010543	0.636331779949657	-0.198148019702262	4.54912993524978	0.0214389066549931	core	0.000424812	61.48	12.44	0.00	NA	NA	NA	AT5G63020.1	20	Leaf	–
+8.4	8	2613	41	CNL	CNL	0	1	0.0113046400268825	0.980487804878049	0.0113046400268825	-1.70595156325562	234	0.0589818804373803	-0.66854862154982	0.0398006720196191	-1.41417590954262	0.887128784067588	shell	0.00182375	49.61	13.95	80.00	4	0	1	AT5G43730.1	20	Root	–
+84.1	84	3837	58	TNL	TNL	0	56	0.00331269971230864	0.975801572897762	0.00331269971230864	-2.42853055425248	187	0.0494168191850122	-5.25651493934071	-5.7760995238863	-12.1932024778109	0.999998704160514	core	0.00109103	0.00	0.00	90.32	12	0	1	NA	NA	NA	NA
+85.1	85	3225	56	TNL	TNL	0	47	0.00147951273532669	0.969480519480519	0.00147951273532669	-2.35894076833735	69	0.0461186804737453	-4.90687329372456	-5.29114292695917	-23.0735521601754	0.999999999986828	core	0.00023367	76.16	22.65	91.67	NA	NA	NA	AT1G17600.1	20	Leaf	–
+8.6	8	2631	16	CNL	CNL	0	0	0.0254212593437223	0.966666666666667	0.0254212593437223	0.078662182569947	218	0.14702631470528	0.889326882421456	0.998412924240706	4.30729397705247	0.0593969082367234	shell	0.00455503	48.44	10.26	70.00	5	0	1	NA	NA	NA	NA
+86.1	86	1125	60	TNL	TN	0	0	0.0179721280602637	0.910734463276836	0.0179721280602637	0.377614993638562	85	0.117561535485947	0.752523492113764	0.762159320335623	4.28701625406152	0.0275547118646901	core	0.000799658	80.97	17.56	92.19	NA	NA	NA	AT1G72940.1	100	Leaf	–
+87.1	87	1233	58	TNL	T	0	0	0.00742438359511498	0.986085904416213	0.00742438359511498	-1.96389875093085	97	0.0691221483357879	-3.95284058871546	-4.24616598955543	-21.4999364735141	0.999999999927886	core	0.00102198	0.00	0.00	85.48	1	0	1	NA	NA	NA	NA
+88.1	88	3813	54	TNL	TNL	0	23	0.00919195301373451	0.958770090845563	0.00919195301373451	-1.8467683534656	328	0.0676582035440315	-4.58925318893322	-5.22061529428967	-0.233709884308885	0.671766769841179	core	0.00136197	1.35	1.05	77.59	7	0	1	NA	NA	NA	NA
+89.1	89	3561	57	TNL	TNL	0	0	0.0067365127224126	0.949248120300752	0.0067365127224126	-0.429699997745726	126	0.0925539724217335	-1.50032249356382	-1.83975481581991	0.0170601195313731	0.608519742296635	core	0.000837919	94.96	19.78	1.64	3	0	1	AT5G44510.1	100	Root	–
+90.1	90	3648	55	TNL	TNL	0	0	0.0121658839860594	0.991919191919192	0.0121658839860594	-1.0129818148415	283	0.0746348758044441	-2.2316770148383	-2.48714085614184	-6.4757644630514	0.999517446848421	core	0.00166728	82.55	20.67	88.14	13	5	2	NA	NA	NA	NA
+9.1	9	2556	27	NL	N	0	0	0.0184182015167931	0.928774928774929	0.0184182015167931	1.63199733905719	128	0.179179093692675	1.41773654986816	0.959170798154777	5.92172239301537	0.00935930281772861	shell	0.00123945	0.22	0.85	64.52	NA	NA	NA	NA	NA	NA	NA
+91.1	91	4041	58	TNL	TNL	0	39	0.0769044097756016	0.963702359346643	0.0769044097756016	3.64315561765704	714	0.21689204709744	3.09699680113675	1.8817648029668	36.7368005696771	5.96626624714924e-19	core	0.00409596	36.09	27.69	66.13	15	0	1	AT5G17880.1	100	Leaf	–
+92.1	92	3852	56	TNL	TNL	0	0	0.0486444889482273	0.944155844155844	0.0486444889482273	1.78902630394032	575	0.161777435212818	2.02174067409275	1.60788486623452	25.3230658039872	7.76989513278857e-11	core	0.00460651	19.38	17.07	23.33	12	0	1	NA	NA	NA	NA
+9.3	9	2550	4	NL	N	0	0	0.000261437908496732	0.666666666666667	0.000261437908496732	1.63299316185545	1	3.66666666666667	1.27656947700845	1.63299316185545	0.540024778458254	0.818181818181818	cloud	7.84e-05	0.00	0.00	50.00	NA	NA	NA	NA	NA	NA	NA
+93.1	93	1137	24	NL	N	0	0	0.000920933552572878	0.659420289855073	0.000920933552572878	-0.631641274492056	5	0.103957729966693	-0.568127483848335	-0.503242878463528	-1.82772910969926	0.95194547049475	shell	0.000107711	0.12	0.34	0.00	NA	NA	NA	AT1G52660.1	20	Root	–
+9.4	9	2571	29	CNL	CN	0	0	0.00533230634224478	0.972906403940887	0.00533230634224478	-2.25090908495788	129	0.084109131756037	-4.01272907551333	-4.17273780526238	-4.47178737366568	0.996599829110224	shell	0.000953545	44.14	8.81	87.88	1	0	1	NA	NA	NA	NA
+94.1	94	4155	55	NL	NLX	55	54	0.00376650581223385	0.958249158249158	0.00376650581223385	-0.891589656946924	96	0.0784879797980071	-0.0560372871876986	0.439270750359761	-1.75265531205191	0.909767896731982	core	0.000451178	92.47	19.39	91.53	1	0	1	AT5G45260.1	100	Leaf+Root	–
+9.5	9	2658	29	NL	N	0	0	0.00714452512537669	0.985221674876847	0.00714452512537669	-1.94785747601209	150	0.0696747815725993	-3.29324925200055	-3.38563574164455	-4.68118950470085	0.997572508061229	shell	0.00219744	0.17	0.93	87.88	12	0	1	NA	NA	NA	NA
+95.1	95	1407	58	TNL	TX	43	0	0.0177760407194001	0.813672111312765	0.0177760407194001	2.8713197492681	63	0.196960543856884	2.18687553949023	1.18003584030576	14.8437009391513	1.71492445050751e-06	core	0.00106723	72.10	14.06	0.00	1	0	1	AT1G65390.1	100	Leaf	–
+96.1	96	3741	54	TNL	TNL	0	48	0.0210162904831367	0.974842767295597	0.0210162904831367	-0.0664029916741996	365	0.103939183845347	-0.268981153547936	-0.373441462875917	3.49525734029933	0.0574432259239285	core	0.00160679	94.76	13.47	81.03	12	1	2	AT4G12010.1	100	Root	–
+97.1	97	2571	56	CNL	CNL	0	0	0.0101804846262256	0.993506493506494	0.0101804846262256	-1.59033427440342	217	0.0614559410255394	-3.68389447447399	-4.12952019042787	-15.9801193691568	0.999999981810192	core	0.00145212	4.55	10.88	0.00	9	1	2	NA	NA	NA	NA
+98.1	98	1911	58	TNL	T	0	0	0.00226947310172615	0.945553539019964	0.00226947310172615	-1.1515606513661	31	0.0732013715847529	-2.76228146685608	-3.06982925615268	-7.35621185507751	0.999796981208991	core	0.0086855	1.86	2.14	0.00	36	1	2	NA	NA	NA	NA
+99.1	99	3975	21	TNL	TNL	0	0	0.00642587601078167	0.976190476190476	0.00642587601078167	-0.0481958308002808	93	0.123747886657048	-0.246417970663576	-0.38584292394839	-0.751720512220556	0.845775446620393	shell	0.00100297	12.48	6.24	76.00	1	0	1	NA	NA	NA	NA
+99.2	99	4041	34	TNL	TNL	0	0	0.00460917308814597	0.980392156862745	0.00460917308814597	0.634238384156908	65	0.137948982790797	0.597883137038703	0.393024390245753	-3.33879635333922	0.986510818800033	shell	0.000996092	11.59	5.65	86.84	1	0	1	NA	NA	NA	NA
