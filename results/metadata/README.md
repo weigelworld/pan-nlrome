@@ -1,5 +1,36 @@
 # Explanation of metadata columns
 
+##File 'orthogroup_based_metadata.tsv'
+- idnew: Reinspected orthogroup identifier
+- nuc.diversity.within
+- hap.diversity.within
+- Pi
+- Tajima.D
+- n.segregating.sites
+- Rozas.R_2
+- Fu.Li.F
+- Fu.Li.D
+- Fu.F_S
+- Strobeck.S
+- alnlength
+- size
+- class: major NLR class in orthogroup
+- subclass: major NLR subclass in orthogroup
+- cls.per
+- ids
+- pairs: number of genes that are paired
+- branchlength
+- edpSel
+- pdpSel
+- pSelCls
+- exp.avg
+- exp.dev
+- ogtype: orthogroup part of core, shell, or cloud 
+- araport11: Araport11 gene member(s) in orthogroup
+- expression.strength
+- tissue.bias
+- pathogen.induction
+
 ## File 'accession_metadata.tsv':
 - Identifier: numeric accession identifier
 - 1001_ecotype: numeric accession identifier from the 1001G project
@@ -59,7 +90,7 @@
 - TEs_2kb_Upstream: one or more TE(s) predicted in 2kb region upstream of gene
 - Outlier: binary; 1=Outlier 0=no-Outlier
 
-## File 'orthogroup_metadata.tsv':
+## File 'og_other_metadata_discuss.tsv':
 - idnew: Reinspected orthogroup identifier
 - idold: Original orthogroup identifier
 - status: orthogroup or singleton
