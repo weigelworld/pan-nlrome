@@ -72,7 +72,6 @@
 - CorBound_Flag: from webapollo, geneboundaries were corrected without direct evidence from Araport11 proteins or transcripts
 - CorTrans_Flag: from webapollo, intron/exonboundaries were corrected without direct evidence from Araport11 proteins or transcripts
 - Misassembly_Flag: from webapollo, gene on putatively misassembled contig
-- Delete_Flag: from webapollo, suggests untrustworthy gene annotations
 - Mod_Flag: from webapollo, used if gene model was extensively changed (mostly without evidence from gene predictors or Araport11 transcript/protein mappings) in order to rescue the doma$
 - Note_Flag: from webapollo, note present in webapollo
 - Accession_Name
