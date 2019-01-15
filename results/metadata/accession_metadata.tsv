@@ -5,8 +5,7 @@ Identifier	1001_ecotype	Accession	Stock_Numbers	Origin	latitude	longitude	Relict
 9610	9610	Lesno-4	CS77034	RUS	53.04	51.96	0	0	BP	MPI	MPI/MPGC_Cologne	NEBNext_E7350	1	No	asia	GS
 10015	10015	Sha	CS22690	AFG	37.29	71.3	0	0	BP	MPI	MPI/MPGC_Cologne	NEBNext_E7350	1	No	asia	GS
 5993	5993	DraIV 6-22	CS76823	CZE	49.41	16.28	0	0	BP	MPI	MPI/MPGC_Cologne	NEBNext_E7350	1	No	central_europe	GS
-9669	9669	Mitterberg-2-185	CS77086	ITA	46.37	11.28	0	0	BP	MPI	MPI/MPGC_Cologne	NEBNext_E7350	1	No	central_europe	
-GS
+9669	9669	Mitterberg-2-185	CS77086	ITA	46.37	11.28	0	0	BP	MPI	MPI/MPGC_Cologne	NEBNext_E7350	1	No	central_europe	GS
 9784	9784	Erg2-6	CS76845	GER	48.5	8.8	0	0	BP	MPI	MPI/MPGC_Cologne	NEBNext_E7350	1	No	central_europe	GS
 9792	9792	Lu4-2	CS77058	GER	48.54	9.09	0	0	BP	MPI	MPI/MPGC_Cologne	NEBNext_E7350	1	No	central_europe	#N/A
 1925	1925	MNF-Che-2	CS76185	USA	43.53	-86.18	0	0	BP	MPI	MPI/MPGC_Cologne	NEBNext_E7350	2	No	germany	#N/A
